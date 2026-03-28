@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import siteData from '../data/site-data.json';
+
+const species = siteData.species;
+const categories = siteData.categories;
+
+// Sort by supplier count (most sourced first) for homepage
+const featured = [...species].sort((a, b) => b.supplier_count - a.supplier_count).slice(0, 12);
+---
+
+<Base title="GetLiveBugs.com — Buy Live Insects, Worms, Bees & More" description="National buyer's guide for live insects and invertebrates. Compare prices from 26+ trusted suppliers across 200+ species. Care guides, supplier reviews, and direct buy links.">
+  <div class="container" style="padding-top: 32px;">
+    
+    <div style="margin-bottom: 32px;">
+      <h1 style="font-size: 36px; margin-bottom: 8px;">Find where to buy<br>live insects & creatures</h1>
+      <p class="description" style="font-size: 17px; max-width: 600px;">
+        Compare {siteData.meta.total_suppliers}+ trusted suppliers across {siteData.meta.total_species} species. 
+        Care guides, real pricing, and direct buy links.
+      </p>
+    </div>
+
+    <div class="category-pills">
+      {categories.map(cat => (
+        <a href={`/${cat.slug}/`} class="cat-pill">
+          {cat.name} ({cat.count})
+        </a>
+      ))}
+    </div>
+
+    <p class="section-title">Popular species</p>
+    
+    <div class="species-grid">
+      {featured.map(sp => (
+        <div class="species-card">
+          <a href={`/${sp.category_slug}/${sp.slug}/`}>
+            {sp.photo_url ? (
+              <img src={sp.photo_url} alt={sp.common_name} class="species-card-img" loading="lazy" />
+            ) : (
+              <div class="species-card-img" style="display:flex;align-items:center;justify-content:center;color:var(--text-light);font-size:13px;">Photo coming soon</div>
+            )}
+            <div class="species-card-body">
+              <h3>{sp.common_name}</h3>
+              <div class="species-card-sci">{sp.scientific_name}</div>
+              <div class="species-card-meta">
+                <span class="price-tag">
+                  {sp.best_price ? `From $${sp.best_price}` : sp.price_range ? `$${sp.price_range}` : 'See prices'}
+                </span>
+                {sp.supplier_count > 0 && (
+                  <span class="seller-count">{sp.supplier_count} seller{sp.supplier_count !== 1 ? 's' : ''}</span>
+                )}
+              </div>
+            </div>
+          </a>
+        </div>
+      ))}
+    </div>
+
+    <div style="text-align: center; margin-bottom: 48px;">
+      {categories.map(cat => (
+        <a href={`/${cat.slug}/`} style="display:inline-block;margin:4px;">
+          <span class="cat-pill">Browse all {cat.name} →</span>
+        </a>
+      ))}
+    </div>
+
+  </div>
+</Base>

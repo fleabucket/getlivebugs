@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import siteData from '../../data/site-data.json';
+const categorySlug = 'scorpion';
+const species = siteData.species.filter(s => s.category_slug === categorySlug);
+const inStockSpecies = species.filter(s => s.in_stock_count > 0);
+---
+<Base title={`Buy Scorpions — ${species.length} Species Compared | GetLiveBugs`} description={`Compare scorpion species from verified breeders. Emperor scorpion and more. Care guides, prices, and availability.`}>
+  <div class="container" style="padding-top: 16px;">
+    <div class="breadcrumbs"><a href="/">Home</a> / Scorpions</div>
+    <h1>Scorpion species</h1>
+    <p class="description" style="max-width: 640px;">Browse scorpion species available from verified US breeders and suppliers.</p>
+    <div class="species-grid">
+      {species.map(sp => (
+        <div class="species-card"><a href={`/${sp.category_slug}/${sp.slug}/`}>
+          {sp.photo_url ? <img src={sp.photo_url} alt={sp.common_name} class="species-card-img" loading="lazy" /> : <div class="species-card-img" style="display:flex;align-items:center;justify-content:center;color:var(--text-light);font-size:13px;">Photo coming soon</div>}
+          <div class="species-card-body"><h3>{sp.common_name}</h3><div class="species-card-sci">{sp.scientific_name}</div>
+          <div class="species-card-meta"><span class="price-tag">{sp.best_price ? `From $${sp.best_price}` : sp.price_range ? `$${sp.price_range}` : 'See prices'}</span>
+          {sp.supplier_count > 0 && <span class="seller-count">{sp.in_stock_count > 0 ? `${sp.in_stock_count} in stock` : 'Check availability'}</span>}</div></div>
+        </a></div>
+      ))}
+    </div>
+  </div>
+</Base>

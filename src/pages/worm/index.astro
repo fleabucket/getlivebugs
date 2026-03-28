@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import siteData from '../../data/site-data.json';
+const categorySlug = 'worm';
+const species = siteData.species.filter(s => s.category_slug === categorySlug);
+---
+<Base title={`Buy Worms — Composting Worms & More | GetLiveBugs`} description={`Compare composting worm species from verified suppliers. Red wigglers, European nightcrawlers, and more.`}>
+  <div class="container" style="padding-top: 16px;">
+    <div class="breadcrumbs"><a href="/">Home</a> / Worms</div>
+    <h1>Worm species</h1>
+    <p class="description" style="max-width: 640px;">Browse worm species for composting, fishing, and feeding.</p>
+    <div class="species-grid">
+      {species.map(sp => (
+        <div class="species-card"><a href={`/${sp.category_slug}/${sp.slug}/`}>
+          {sp.photo_url ? <img src={sp.photo_url} alt={sp.common_name} class="species-card-img" loading="lazy" /> : <div class="species-card-img" style="display:flex;align-items:center;justify-content:center;color:var(--text-light);font-size:13px;">Photo coming soon</div>}
+          <div class="species-card-body"><h3>{sp.common_name}</h3><div class="species-card-sci">{sp.scientific_name}</div>
+          <div class="species-card-meta"><span class="price-tag">{sp.best_price ? `From $${sp.best_price}` : sp.price_range ? `$${sp.price_range}` : 'See prices'}</span></div></div>
+        </a></div>
+      ))}
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,78 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'Find where to buy live insects, worms, bees, tarantulas, and more. Compare prices from 26+ trusted suppliers.' } = Astro.props;
+---
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={Astro.url.href} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <style is:global>
+    @import '../styles/global.css';
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">get<span>live</span>bugs</a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="/mantis/">Mantis</a></li>
+          <li><a href="/tarantula/">Tarantula</a></li>
+          <li><a href="/scorpion/">Scorpion</a></li>
+          <li><a href="/worm/">Worm</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <a href="/" class="logo" style="margin-bottom: 12px; display: inline-block;">get<span>live</span>bugs</a>
+          <p class="footer-about">The national buyer's guide for live insects, worms, bees, and invertebrates. Compare prices from trusted suppliers and find the perfect species for your needs.</p>
+        </div>
+        <div>
+          <h4>Categories</h4>
+          <ul>
+            <li><a href="/mantis/">Praying Mantis</a></li>
+            <li><a href="/tarantula/">Tarantulas</a></li>
+            <li><a href="/scorpion/">Scorpions</a></li>
+            <li><a href="/worm/">Worms</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Resources</h4>
+          <ul>
+            <li><a href="#">Care Guides</a></li>
+            <li><a href="#">Supplier Directory</a></li>
+            <li><a href="#">About Us</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Shop</h4>
+          <ul>
+            <li><a href="https://www.amazon.com/s?k=praying+mantis+terrarium&tag=getlivebugs-20" target="_blank" rel="noopener">Terrariums</a></li>
+            <li><a href="https://www.amazon.com/s?k=feeder+insects+live&tag=getlivebugs-20" target="_blank" rel="noopener">Feeder Insects</a></li>
+            <li><a href="https://www.amazon.com/s?k=tarantula+enclosure&tag=getlivebugs-20" target="_blank" rel="noopener">Enclosures</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        &copy; 2026 GetLiveBugs.com. Affiliate disclosure: we earn commissions from qualifying purchases.
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
