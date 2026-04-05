@@ -1,263 +1,47 @@
 {
   "shopify": [
-    {
-      "name": "PanTerra Pets",
-      "slug": "panterra-pets",
-      "base_url": "https://www.panterrapets.com",
-      "category": "Exotic Pets",
-      "specialties": ["mantis", "tarantula", "isopod", "millipede"]
-    },
-    {
-      "name": "USMANTIS",
-      "slug": "usmantis",
-      "base_url": "https://usmantis.com",
-      "category": "Exotic Pets",
-      "specialties": ["mantis"]
-    },
-    {
-      "name": "The Defiant Forest",
-      "slug": "the-defiant-forest",
-      "base_url": "https://www.thedefiantforest.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod", "tarantula", "millipede", "scorpion"]
-    },
-    {
-      "name": "Exotics Unlimited",
-      "slug": "exotics-unlimited",
-      "base_url": "https://exoticsunlimitedusa.com",
-      "category": "Exotic Pets",
-      "specialties": ["tarantula", "scorpion", "centipede", "millipede"]
-    },
-    {
-      "name": "Ty Dye Exotics",
-      "slug": "ty-dye-exotics",
-      "base_url": "https://tydyeexotic.com",
-      "category": "Exotic Pets",
-      "specialties": ["tarantula", "isopod", "scorpion"]
-    },
-    {
-      "name": "Crown Bees",
-      "slug": "crown-bees",
-      "base_url": "https://crownbees.com",
-      "category": "Beekeeping",
-      "specialties": ["mason bee", "leafcutter bee"]
-    },
-    {
-      "name": "Nature's Good Guys",
-      "slug": "natures-good-guys",
-      "base_url": "https://www.naturesgoodguys.com",
-      "category": "Beneficial Insects",
-      "specialties": ["ladybug", "lacewing", "nematode", "predatory mite"]
-    },
-    {
-      "name": "Insect Lore",
-      "slug": "insect-lore",
-      "base_url": "https://www.insectlore.com",
-      "category": "Educational Kits",
-      "specialties": ["butterfly kit", "ladybug kit", "mantis kit"]
-    },
-    {
-      "name": "Northwest Beneficials",
-      "slug": "northwest-beneficials",
-      "base_url": "https://nwbeneficials.com",
-      "category": "Beneficial Insects",
-      "specialties": ["ladybug", "lacewing", "predatory mite"]
-    },
-    {
-      "name": "The Squirm Firm",
-      "slug": "the-squirm-firm",
-      "base_url": "https://thesquirmfirm.com",
-      "category": "Worms",
-      "specialties": ["red wiggler", "european nightcrawler"]
-    },
-    {
-      "name": "Meme's Worms",
-      "slug": "memes-worms",
-      "base_url": "https://memesworms.com",
-      "category": "Worms",
-      "specialties": ["red wiggler", "european nightcrawler", "composting"]
-    },
-    {
-      "name": "Rainbow Mealworms",
-      "slug": "rainbow-mealworms",
-      "base_url": "https://www.rainbowmealworms.net",
-      "category": "Feeder Insects",
-      "specialties": ["mealworm", "superworm", "cricket", "hornworm"]
-    },
-    {
-      "name": "DubiaRoaches.com",
-      "slug": "dubiaroaches",
-      "base_url": "https://dubiaroaches.com",
-      "category": "Feeder Insects",
-      "specialties": ["dubia roach", "isopod", "cricket"]
-    },
-    {
-      "name": "Top Hat Cricket Farm",
-      "slug": "top-hat-cricket-farm",
-      "base_url": "https://tophatcricketfarm.com",
-      "category": "Feeder Insects",
-      "specialties": ["cricket"]
-    },
-    {
-      "name": "Symton Black Soldier Fly",
-      "slug": "symton-bsf",
-      "base_url": "https://symtonbsf.com",
-      "category": "Feeder Insects",
-      "specialties": ["black soldier fly larvae"]
-    },
-    {
-      "name": "Flow Hive",
-      "slug": "flow-hive",
-      "base_url": "https://www.honeyflow.com",
-      "category": "Beekeeping",
-      "specialties": ["beehive", "beekeeping equipment"]
-    },
-    {
-      "name": "Bee Built",
-      "slug": "bee-built",
-      "base_url": "https://www.beebuilt.com",
-      "category": "Beekeeping",
-      "specialties": ["beehive", "beekeeping equipment"]
-    },
-    {
-      "name": "Clearwater Butterfly",
-      "slug": "clearwater-butterfly",
-      "base_url": "https://clearwaterbutterfly.com",
-      "category": "Butterflies",
-      "specialties": ["butterfly", "caterpillar", "butterfly release"]
-    },
-    {
-      "name": "Shady Oak Butterfly Farm",
-      "slug": "shady-oak-butterfly-farm",
-      "base_url": "https://shadyoakbutterflyfarm.com",
-      "category": "Butterflies",
-      "specialties": ["butterfly", "caterpillar", "milkweed"]
-    },
-    {
-      "name": "Lappe's Bee Supply",
-      "slug": "lappes-bee-supply",
-      "base_url": "https://www.lappesbeesupply.com",
-      "category": "Beekeeping",
-      "specialties": ["honey bee", "queen bee", "beekeeping equipment"]
-    },
-    {
-      "name": "Fear Not Tarantulas",
-      "slug": "fear-not-tarantulas",
-      "base_url": "https://fearnottarantulas.com",
-      "category": "Exotic Pets",
-      "specialties": ["tarantula"]
-    },
-    {
-      "name": "Exotics Source",
-      "slug": "exotics-source",
-      "base_url": "https://exoticssource.com",
-      "category": "Exotic Pets",
-      "specialties": ["jumping spider", "tarantula", "scorpion"]
-    },
-    {
-      "name": "Spider Shoppe",
-      "slug": "spider-shoppe",
-      "base_url": "https://spidershoppe.com",
-      "category": "Exotic Pets",
-      "specialties": ["tarantula"]
-    },
-    {
-      "name": "Isopod Shop",
-      "slug": "isopod-shop",
-      "base_url": "https://isopodshop.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod", "millipede"]
-    },
-    {
-      "name": "Tropical Isopods",
-      "slug": "tropical-isopods",
-      "base_url": "https://tropicalisopods.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod", "springtail"]
-    },
-    {
-      "name": "Holy-Poly Isopods",
-      "slug": "holy-poly-isopods",
-      "base_url": "https://holypolyisopods.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod"]
-    },
-    {
-      "name": "Isopod Depot",
-      "slug": "isopod-depot",
-      "base_url": "https://isopoddepot.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod", "springtail"]
-    },
-    {
-      "name": "Smug Bug",
-      "slug": "smug-bug",
-      "base_url": "https://smug-bug.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod"]
-    },
-    {
-      "name": "US Invertebrate LLC",
-      "slug": "us-invertebrate",
-      "base_url": "https://usinvertebratellc.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod", "millipede"]
-    },
-    {
-      "name": "The Spider Room",
-      "slug": "the-spider-room",
-      "base_url": "https://thespiderroom.com",
-      "category": "Exotic Pets",
-      "specialties": ["tarantula", "jumping spider", "scorpion"]
-    },
-    {
-      "name": "Insect Sales",
-      "slug": "insect-sales",
-      "base_url": "https://insectsales.com",
-      "category": "Exotic Pets",
-      "specialties": ["jumping spider", "mantis", "ant", "worm", "millipede", "feeder"]
-    },
-    {
-      "name": "Spoodville",
-      "slug": "spoodville",
-      "base_url": "https://spoodville.com",
-      "category": "Exotic Pets",
-      "specialties": ["jumping spider"]
-    },
-    {
-      "name": "I Heart Bugs",
-      "slug": "i-heart-bugs",
-      "base_url": "https://iheartbugs.com",
-      "category": "Exotic Pets",
-      "specialties": ["isopod", "springtail"]
-    },
-    {
-      "name": "Worm Nerd",
-      "slug": "worm-nerd",
-      "base_url": "https://wormnerd.com",
-      "category": "Worms",
-      "specialties": ["red wiggler", "worm castings", "composting"]
-    },
-    {
-      "name": "Best Bee Brothers",
-      "slug": "best-bee-brothers",
-      "base_url": "https://bestbeebrothers.com",
-      "category": "Pest Control",
-      "specialties": ["carpenter bee trap", "wasp trap"]
-    },
-    {
-      "name": "Praying Mantis Shop",
-      "slug": "praying-mantis-shop",
-      "base_url": "https://prayingmantisshop.com",
-      "category": "Exotic Pets",
-      "specialties": ["mantis"]
-    },
-    {
-      "name": "MantisMart",
-      "slug": "mantismart",
-      "base_url": "https://www.mantismart.com",
-      "category": "Exotic Pets",
-      "specialties": ["mantis"]
-    }
+    {"name": "PanTerra Pets", "slug": "panterra-pets", "base_url": "https://www.panterrapets.com", "category": "Exotic Pets", "specialties": ["mantis", "tarantula", "isopod", "millipede"]},
+    {"name": "USMANTIS", "slug": "usmantis", "base_url": "https://usmantis.com", "category": "Exotic Pets", "specialties": ["mantis"]},
+    {"name": "The Defiant Forest", "slug": "the-defiant-forest", "base_url": "https://www.thedefiantforest.com", "category": "Exotic Pets", "specialties": ["isopod", "tarantula", "millipede", "scorpion"]},
+    {"name": "Exotics Unlimited", "slug": "exotics-unlimited", "base_url": "https://exoticsunlimitedusa.com", "category": "Exotic Pets", "specialties": ["tarantula", "scorpion", "centipede", "millipede"]},
+    {"name": "Ty Dye Exotics", "slug": "ty-dye-exotics", "base_url": "https://tydyeexotic.com", "category": "Exotic Pets", "specialties": ["tarantula", "isopod", "scorpion", "assassin bug"]},
+    {"name": "Crown Bees", "slug": "crown-bees", "base_url": "https://crownbees.com", "category": "Beekeeping", "specialties": ["mason bee", "leafcutter bee"]},
+    {"name": "Nature's Good Guys", "slug": "natures-good-guys", "base_url": "https://www.naturesgoodguys.com", "category": "Beneficial Insects", "specialties": ["ladybug", "lacewing", "nematode", "predatory mite"]},
+    {"name": "Insect Lore", "slug": "insect-lore", "base_url": "https://www.insectlore.com", "category": "Educational Kits", "specialties": ["butterfly kit", "ladybug kit", "mantis kit"]},
+    {"name": "Northwest Beneficials", "slug": "northwest-beneficials", "base_url": "https://nwbeneficials.com", "category": "Beneficial Insects", "specialties": ["ladybug", "lacewing", "predatory mite"]},
+    {"name": "The Squirm Firm", "slug": "the-squirm-firm", "base_url": "https://thesquirmfirm.com", "category": "Worms", "specialties": ["red wiggler", "european nightcrawler"]},
+    {"name": "Meme's Worms", "slug": "memes-worms", "base_url": "https://memesworms.com", "category": "Worms", "specialties": ["red wiggler", "european nightcrawler", "composting"]},
+    {"name": "Rainbow Mealworms", "slug": "rainbow-mealworms", "base_url": "https://www.rainbowmealworms.net", "category": "Feeder Insects", "specialties": ["mealworm", "superworm", "cricket", "hornworm"]},
+    {"name": "DubiaRoaches.com", "slug": "dubiaroaches", "base_url": "https://dubiaroaches.com", "category": "Feeder Insects", "specialties": ["dubia roach", "isopod", "cricket"]},
+    {"name": "Symton Black Soldier Fly", "slug": "symton-bsf", "base_url": "https://symtonbsf.com", "category": "Feeder Insects", "specialties": ["black soldier fly larvae"]},
+    {"name": "Flow Hive", "slug": "flow-hive", "base_url": "https://www.honeyflow.com", "category": "Beekeeping", "specialties": ["beehive", "beekeeping equipment"]},
+    {"name": "Bee Built", "slug": "bee-built", "base_url": "https://www.beebuilt.com", "category": "Beekeeping", "specialties": ["beehive", "beekeeping equipment"]},
+    {"name": "Fear Not Tarantulas", "slug": "fear-not-tarantulas", "base_url": "https://fearnottarantulas.com", "category": "Exotic Pets", "specialties": ["tarantula"]},
+    {"name": "Exotics Source", "slug": "exotics-source", "base_url": "https://exoticssource.com", "category": "Exotic Pets", "specialties": ["jumping spider", "tarantula", "scorpion"]},
+    {"name": "Spider Shoppe", "slug": "spider-shoppe", "base_url": "https://spidershoppe.com", "category": "Exotic Pets", "specialties": ["tarantula", "scorpion", "mantis"]},
+    {"name": "Tropical Isopods", "slug": "tropical-isopods", "base_url": "https://tropicalisopods.com", "category": "Exotic Pets", "specialties": ["isopod", "springtail"]},
+    {"name": "Holy-Poly Isopods", "slug": "holy-poly-isopods", "base_url": "https://holypolyisopods.com", "category": "Exotic Pets", "specialties": ["isopod"]},
+    {"name": "Isopod Depot", "slug": "isopod-depot", "base_url": "https://isopoddepot.com", "category": "Exotic Pets", "specialties": ["isopod", "springtail"]},
+    {"name": "US Invertebrate LLC", "slug": "us-invertebrate", "base_url": "https://usinvertebratellc.com", "category": "Exotic Pets", "specialties": ["isopod", "millipede"]},
+    {"name": "Insect Sales", "slug": "insect-sales", "base_url": "https://insectsales.com", "category": "Exotic Pets", "specialties": ["jumping spider", "mantis", "ant", "worm", "millipede", "feeder"]},
+    {"name": "I Heart Bugs", "slug": "i-heart-bugs", "base_url": "https://iheartbugs.com", "category": "Exotic Pets", "specialties": ["isopod", "springtail"]},
+    {"name": "Best Bee Brothers", "slug": "best-bee-brothers", "base_url": "https://bestbeebrothers.com", "category": "Pest Control", "specialties": ["carpenter bee trap", "wasp trap"]},
+    {"name": "Praying Mantis Shop", "slug": "praying-mantis-shop", "base_url": "https://prayingmantisshop.com", "category": "Exotic Pets", "specialties": ["mantis"]},
+    {"name": "Micro Wilderness", "slug": "micro-wilderness", "base_url": "https://www.microwilderness.com", "category": "Exotic Pets", "specialties": ["tarantula", "scorpion", "centipede"]},
+    {"name": "FangzTV", "slug": "fangztv", "base_url": "https://www.fangztv.com", "category": "Exotic Pets", "specialties": ["tarantula"]},
+    {"name": "Buddha Bugs", "slug": "buddha-bugs", "base_url": "https://buddha-bugs.com", "category": "Exotic Pets", "specialties": ["tarantula", "isopod"]},
+    {"name": "Gallegos Zoological", "slug": "gallegos-zoological", "base_url": "https://gallegoszoologicalsupply.com", "category": "Exotic Pets", "specialties": ["centipede", "millipede"]},
+    {"name": "American Reptile Distributors", "slug": "american-reptile-distributors", "base_url": "https://americanreptiles.com", "category": "Exotic Pets", "specialties": ["centipede", "millipede", "scorpion", "tarantula", "jumping spider"]},
+    {"name": "Big Apple Herp", "slug": "big-apple-herp", "base_url": "https://www.bigappleherp.com", "category": "Exotic Pets", "specialties": ["tarantula", "scorpion"]},
+    {"name": "David's Beetles", "slug": "davids-beetles", "base_url": "https://davidsbeetles.com", "category": "Exotic Pets", "specialties": ["stag beetle", "rhinoceros beetle", "beetle"]},
+    {"name": "JamJam Exotic", "slug": "jamjam-exotic", "base_url": "https://jamjamexotic.com", "category": "Exotic Pets", "specialties": ["goliath beetle", "hercules beetle", "beetle"]},
+    {"name": "James' Beetle Farm", "slug": "james-beetle-farm", "base_url": "https://jamesbeetlefarm.com", "category": "Exotic Pets", "specialties": ["stag beetle", "beetle"]},
+    {"name": "Coast2Coast Beetles", "slug": "coast2coast-beetles", "base_url": "https://coast2coastbeetles.com", "category": "Exotic Pets", "specialties": ["stag beetle", "rhinoceros beetle"]},
+    {"name": "The Bio Dude", "slug": "the-bio-dude", "base_url": "https://thebiodude.com", "category": "Bioactive Supplies", "specialties": ["substrate", "cleanup crew", "isopod", "springtail"]},
+    {"name": "Heart Leaf Tropicals", "slug": "heart-leaf-tropicals", "base_url": "https://heartleaftropicals.com", "category": "Exotic Pets", "specialties": ["mantis", "tropical plants"]},
+    {"name": "Jamie's Tarantulas", "slug": "jamies-tarantulas", "base_url": "https://jamiestarantulas.com", "category": "Exotic Pets", "specialties": ["tarantula", "scorpion"]},
+    {"name": "NEHERP", "slug": "neherp", "base_url": "https://neherp.com", "category": "Bioactive Supplies", "specialties": ["vivarium", "cleanup crew", "springtail", "isopod"]},
+    {"name": "Rubber Ducky Isopods", "slug": "rubber-ducky-isopods", "base_url": "https://rubberduckyisopods.com", "category": "Exotic Pets", "specialties": ["isopod"]},
+    {"name": "The Bug Company", "slug": "the-bug-company", "base_url": "https://thebugcompany.com", "category": "Feeder Insects", "specialties": ["cricket", "mealworm", "feeder"]}
   ]
 }
