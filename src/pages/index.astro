@@ -9,7 +9,7 @@ const categories = siteData.categories;
 const featured = [...species].sort((a, b) => b.supplier_count - a.supplier_count).slice(0, 12);
 ---
 
-<Base title="GetLiveBugs.com — Buy Live Insects, Worms, Bees & More" description="National buyer's guide for live insects and invertebrates. Compare prices from 26+ trusted suppliers across 200+ species. Care guides, supplier reviews, and direct buy links.">
+<Base title="GetLiveBugs.com — Buy Live Insects, Worms, Bees & More" description={`National buyer's guide for live insects and invertebrates. Compare prices from ${siteData.meta.total_suppliers}+ trusted suppliers across ${siteData.meta.total_species} species. Care guides, real pricing, and direct buy links.`}>
   <div class="container" style="padding-top: 32px;">
     
     <div style="margin-bottom: 32px;">
