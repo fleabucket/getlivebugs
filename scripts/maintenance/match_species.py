@@ -61,7 +61,7 @@ def build_match_keys(species):
     for suffix in suffixes:
         if common_norm.endswith(' ' + suffix):
             trimmed = common_norm[: -(len(suffix) + 1)].strip()
-            if len(trimmed) > 2:
+            if len(trimmed) > 6:
                 keys.append(trimmed)
             break
 
@@ -138,7 +138,8 @@ def is_live_animal(product):
                      'gift card', 'bundle', 'combo pack', 'starter kit',
                      'plant', 'pothos', 'bamboo', 'monstera', 'fittonia',
                      'succulent', 'dracaena', 'fern', 'net cage', 'popup cage',
-                     'plug', 'foam', 'trap', 'spray']
+                     'plug', 'foam', 'branch', 'wood', 'driftwood', 'manzanita',
+                     'print 5x7', 'creation', 'creations', 'trap', 'spray']
 
     for word in exclude_words:
         if word in name:

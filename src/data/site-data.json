@@ -64,72 +64,23 @@
       },
       "suppliers": [
         {
-          "breeder": "The Defiant Forest",
-          "product_name": "Vivarium Naturals Brand - Aged Oak Bark Pieces - 2 Pack Small Pieces for Isopods",
-          "price": 9.69,
-          "available": true,
-          "url": "https://www.thedefiantforest.com/products/vivarium-naturals-aged-oak-bark-pieces-3-pack-small-pieces"
+          "breeder": "Exotics Unlimited",
+          "product_name": "Theopompa sesrvillei (Asian Bark Mantis)",
+          "price": 49.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/theopompa-sesrvillei-asian-bark-mantis-for-sale"
         },
         {
           "breeder": "USMANTIS",
-          "product_name": "Horticulture Grade Fine Orchid Bark-4qt",
-          "price": 10.99,
-          "available": true,
-          "url": "https://usmantis.com/products/horticulture-grade-fine-orchid-bark-4qt"
-        },
-        {
-          "breeder": "Exotics Source",
-          "product_name": "Florida Bark Scorpions for Sale | Centruroides gracilis",
-          "price": 25.0,
-          "available": true,
-          "url": "https://exoticssource.com/products/florida-bark-scorpions"
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Palm Leaf Bases/Palm Bark - 6 pieces",
-          "price": 5.0,
+          "product_name": "Metallyticus splendidus. Iridescent bark mantis",
+          "price": 150.0,
           "available": false,
-          "url": "https://iheartbugs.com/products/palm-leaf-bases-palm-bark-8-pieces"
-        },
-        {
-          "breeder": "The Bio Dude",
-          "product_name": "Sycamore Bark 6 qt",
-          "price": 14.95,
-          "available": false,
-          "url": "https://thebiodude.com/products/sycamore-bark-6-qt"
-        },
-        {
-          "breeder": "Gallegos Zoological",
-          "product_name": "Centruroides sculpturatus (Arizona Bark Scorpion)",
-          "price": 15.99,
-          "available": false,
-          "url": "https://gallegoszoologicalsupply.com/products/centruroides-sculpturatus-arizona-bark-scorpion"
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "Centruroides hentzi (Florida Striped Bark Scorpion) FEMALES",
-          "price": 18.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/centruroides-hentzi-florida-striped-bark-scorpion-1"
-        },
-        {
-          "breeder": "Big Apple Herp",
-          "product_name": "Arizona Bark Scorpions",
-          "price": 32.95,
-          "available": false,
-          "url": "https://www.bigappleherp.com/products/arizona-bark-scorpions"
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Centruroides vittatus (Striped Bark Scorpion)",
-          "price": 35.0,
-          "available": false,
-          "url": "https://exoticsunlimitedusa.com/products/centruroides-vittatus-striped-bark-scorpion-1"
+          "url": "https://usmantis.com/products/metallyticus-splendidus"
         }
       ],
-      "supplier_count": 9,
-      "in_stock_count": 3,
-      "best_price": 9.69,
+      "supplier_count": 2,
+      "in_stock_count": 0,
+      "best_price": null,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+bark+mantis&tag=getlivebugs-20",
         "creature_label": "Live Bark Mantis",
@@ -995,27 +946,6 @@
       },
       "suppliers": [
         {
-          "breeder": "The Bio Dude",
-          "product_name": "Sandblasted Ghostwood Manzanita Branch",
-          "price": 4.95,
-          "available": true,
-          "url": "https://thebiodude.com/products/sandblasted-ghostwood-branch"
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Print 5X7 of Typhochlaena seladonia  by Gray Ghost Creations!   ONLY SHIPPED WITH TARANTULA ORDERS!",
-          "price": 9.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/5x7-print-of-typhochlaena-seladonia-by-gray-ghost-creations"
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Gray Ghost Creations tarantula pin",
-          "price": 9.0,
-          "available": true,
-          "url": "https://buddha-bugs.com/products/grayghostcreations-tarantula-pins"
-        },
-        {
           "breeder": "PanTerra Pets",
           "product_name": "Ghost Mantis (P. paradoxa)",
           "price": 18.99,
@@ -1030,74 +960,11 @@
           "url": "https://usmantis.com/products/phyllocrania-paradoxa-ghost-mantis"
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Amazonius burgessi (Ghost Tree Tarantula)",
-          "price": 35.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/amazonius-burgessi-ghost-tree-tarantula"
-        },
-        {
           "breeder": "Heart Leaf Tropicals",
           "product_name": "Ghost Mantis  (Phyllocrania paradoxa) - i3/i4",
           "price": 35.0,
           "available": true,
           "url": "https://heartleaftropicals.com/products/ghost-mantis"
-        },
-        {
-          "breeder": "American Reptile Distributors",
-          "product_name": "Green Ghost Florida Red Bellied Cooter Turtle Babies (Pseudemys nelsonii)",
-          "price": 69.99,
-          "available": true,
-          "url": "https://americanreptiles.com/products/green-gost-penninsula-cooter-turtle-babies-pseudemys-peninsularis"
-        },
-        {
-          "breeder": "Rubber Ducky Isopods",
-          "product_name": "\"Silver Ghosts\" Quick Breeding Designer Isopods (Cubaris sp) 6 Count",
-          "price": 119.49,
-          "available": true,
-          "url": "https://rubberduckyisopods.com/products/silver-ghosts-quick-breeding-designer-isopods-cubaris-sp-6-count"
-        },
-        {
-          "breeder": "Big Apple Herp",
-          "product_name": "Pastel Enchi Orange Ghost Ball Pythons",
-          "price": 1.0,
-          "available": false,
-          "url": "https://www.bigappleherp.com/products/pastel-enchi-orange-ghost-ball-pythons"
-        },
-        {
-          "breeder": "Holy-Poly Isopods",
-          "product_name": "Silver Ghost Isopods (Cubaris sp.)",
-          "price": 6.0,
-          "available": false,
-          "url": "https://holypolyisopods.com/products/silver-ghost-isopods-cubaris-sp"
-        },
-        {
-          "breeder": "The Defiant Forest",
-          "product_name": "Ghost Oak Millipede, Narceus gordanus",
-          "price": 17.5,
-          "available": false,
-          "url": "https://www.thedefiantforest.com/products/ghost-oak-millipede-narceus-gordanus"
-        },
-        {
-          "breeder": "James' Beetle Farm",
-          "product_name": "Taiwan Ghost Stag Beetle (Odontolabis siva parryi)",
-          "price": 19.99,
-          "available": false,
-          "url": "https://jamesbeetlefarm.com/products/odontolatis-siva-parryi"
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Ghost Isopods (Porcellio scaber)",
-          "price": 20.0,
-          "available": false,
-          "url": "https://iheartbugs.com/products/porcellio-scaber-purple-ghost"
-        },
-        {
-          "breeder": "Isopod Depot",
-          "product_name": "Nesodillo Arcangelii Sp Silver Ghost Isopods",
-          "price": 25.0,
-          "available": false,
-          "url": "https://isopoddepot.com/products/cubaris-sp-silver-ghost-5-count"
         },
         {
           "breeder": "US Invertebrate LLC",
@@ -1107,37 +974,16 @@
           "url": "https://usinvertebratellc.com/products/ghost-mantis-phyllocrania-paradoxa"
         },
         {
-          "breeder": "Tropical Isopods",
-          "product_name": "Nesodillo Arcangelii Sp. \"Silver Ghost\"",
-          "price": 30.0,
+          "breeder": "Exotics Unlimited",
+          "product_name": "Phyllocrania paradoxa (Ghost Mantis)",
+          "price": 60.0,
           "available": false,
-          "url": "https://tropicalisopods.com/products/nesodillo-arcangelii-sp-silver-ghost-isopod-for-sale"
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "Poecilotheria vittata (Ghost Ornamental)",
-          "price": 38.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/poecilotheria-vittata-ghost-ornamental-0-75-wa-state-sales-only"
-        },
-        {
-          "breeder": "JamJam Exotic",
-          "product_name": "Cubaris sp. “Silver Ghost”",
-          "price": 39.99,
-          "available": false,
-          "url": "https://jamjamexotic.com/products/cubaris-sp-silver-ghost"
-        },
-        {
-          "breeder": "Exotics Source",
-          "product_name": "Regal Jumping Spider \"Ghost\"",
-          "price": 95.0,
-          "available": false,
-          "url": "https://exoticssource.com/products/regal-jumping-spider-ghost"
+          "url": "https://exoticsunlimitedusa.com/products/phyllocrania-paradoxa-ghost-mantis-for-sale"
         }
       ],
-      "supplier_count": 20,
-      "in_stock_count": 9,
-      "best_price": 4.95,
+      "supplier_count": 5,
+      "in_stock_count": 3,
+      "best_price": 18.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+ghost+mantis&tag=getlivebugs-20",
         "creature_label": "Live Ghost Mantis",
@@ -1663,20 +1509,6 @@
       },
       "suppliers": [
         {
-          "breeder": "USMANTIS",
-          "product_name": "Horticulture Grade Fine Orchid Bark-4qt",
-          "price": 10.99,
-          "available": true,
-          "url": "https://usmantis.com/products/horticulture-grade-fine-orchid-bark-4qt"
-        },
-        {
-          "breeder": "Heart Leaf Tropicals",
-          "product_name": "3” Potted Golden Jewel Orchid \n\n(Anoectochilus chapaensis)",
-          "price": 36.0,
-          "available": true,
-          "url": "https://heartleaftropicals.com/products/3-potted-golden-jewel-orchid-anoectochilus-chapaensis"
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Orchid Mantis (Hymenopus coronatus)",
           "price": 69.0,
@@ -1684,11 +1516,11 @@
           "url": "https://usinvertebratellc.com/products/orchid-mantis-hymenopus-coronatus"
         },
         {
-          "breeder": "DubiaRoaches.com",
-          "product_name": "Magnaturals 16\" Yellow Orchid",
-          "price": 24.99,
-          "available": false,
-          "url": "https://dubiaroaches.com/products/16-yellow-orchid-magnatural"
+          "breeder": "Heart Leaf Tropicals",
+          "product_name": "Orchid Mantis  (Hymenopus coronatus) - i2/i3 (Indonesian variant)",
+          "price": 120.0,
+          "available": true,
+          "url": "https://heartleaftropicals.com/products/orchid-mantis"
         },
         {
           "breeder": "PanTerra Pets",
@@ -1705,9 +1537,9 @@
           "url": "https://exoticsunlimitedusa.com/products/hymenopus-coronatus-orchid"
         }
       ],
-      "supplier_count": 6,
-      "in_stock_count": 3,
-      "best_price": 10.99,
+      "supplier_count": 4,
+      "in_stock_count": 2,
+      "best_price": 69.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+orchid+mantis&tag=getlivebugs-20",
         "creature_label": "Live Orchid Mantis",
@@ -3784,7 +3616,7 @@
       "photo_is_base_species": false,
       "price_range": "1-3",
       "best_price": 10.0,
-      "supplier_count": 12,
+      "supplier_count": 11,
       "in_stock_count": 8,
       "suppliers": [
         {
@@ -3863,13 +3695,6 @@
           "price": 13.0,
           "available": false,
           "url": "https://isopoddepot.com/products/porcellio-laevis-dairy-cow"
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Porcellio aff. laevis 'dairy cow' (swift woodlouse) 12ct",
-          "price": 15.0,
-          "available": false,
-          "url": "https://buddha-bugs.com/products/porcellio-laevis-dairy-cow-isopod-for-sale"
         }
       ],
       "amazon": {
@@ -4088,8 +3913,8 @@
       "photo_is_base_species": false,
       "price_range": "3-8",
       "best_price": 18.0,
-      "supplier_count": 19,
-      "in_stock_count": 7,
+      "supplier_count": 12,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "US Invertebrate LLC",
@@ -4113,13 +3938,6 @@
           "url": "https://tropicalisopods.com/products/armadillidium-maculatum-yellow-zebra-copy"
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "Aphonopelma seemani (Costa Rican Zebra Knee)",
-          "price": 26.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/aphonopelma-seemani-blue-costa-rican-zebra-knee-1-2-male-2-female"
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "Zebra Isopod, Armadillidium maculatum",
           "price": 27.5,
@@ -4132,13 +3950,6 @@
           "price": 34.49,
           "available": true,
           "url": "https://rubberduckyisopods.com/products/zebra-isopod"
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Aphonopelma seemanni (Costa Rican Zebra, Stripe Knee Tarantula) about 2 1/4\"+",
-          "price": 75.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/aphonopelma-seemanni-tarantula-for-sale"
         },
         {
           "breeder": "Holy-Poly Isopods",
@@ -4169,13 +3980,6 @@
           "url": "https://buddha-bugs.com/products/armadillidium-maculatum-zebra-isopod-for-sale"
         },
         {
-          "breeder": "PanTerra Pets",
-          "product_name": "Zebra Mantis (O. zebrata)",
-          "price": 23.99,
-          "available": false,
-          "url": "https://www.panterrapets.com/products/zebra-mantis-o-zebrata"
-        },
-        {
           "breeder": "The Bio Dude",
           "product_name": "Armadillidium maculatum \"Zebra\" Isopods FREE SHIPPING",
           "price": 26.95,
@@ -4190,39 +3994,11 @@
           "url": "https://exoticsunlimitedusa.com/products/zebra-isopods-armadillidium-maculatum"
         },
         {
-          "breeder": "James' Beetle Farm",
-          "product_name": "Zebra Sawtooth Stag Beetle (Prosopocoilus zebra)",
-          "price": 29.99,
-          "available": false,
-          "url": "https://jamesbeetlefarm.com/products/prosopocoilus-zebra"
-        },
-        {
           "breeder": "USMANTIS",
           "product_name": "Zebra Isopods (Armadillidium maculatum)",
           "price": 35.0,
           "available": false,
           "url": "https://usmantis.com/products/zebra-isopods-armadillidium-maculatum"
-        },
-        {
-          "breeder": "FangzTV",
-          "product_name": "Thrixopelma lagunas Peru Blue Zebra .25''",
-          "price": 50.0,
-          "available": false,
-          "url": "https://www.fangztv.com/products/thrixopelma-lagunas-peru-blue-zebra-25"
-        },
-        {
-          "breeder": "Exotics Source",
-          "product_name": "Regal Jumping Spider \"Zebra\"",
-          "price": 95.0,
-          "available": false,
-          "url": "https://exoticssource.com/products/regal-jumping-spider-zebra"
-        },
-        {
-          "breeder": "Micro Wilderness",
-          "product_name": "Cyriopagopus albostriatus - Thai Tiger Zebra Leg Tarantula - Female",
-          "price": 199.99,
-          "available": false,
-          "url": "https://www.microwilderness.com/products/cyriopagopus-albostriatus-thai-tiger-zebra-leg-female-5"
         }
       ],
       "amazon": {
@@ -4287,7 +4063,7 @@
       "photo_is_base_species": true,
       "price_range": "5-15",
       "best_price": 15.0,
-      "supplier_count": 10,
+      "supplier_count": 9,
       "in_stock_count": 5,
       "suppliers": [
         {
@@ -4345,13 +4121,6 @@
           "price": 25.0,
           "available": false,
           "url": "https://iheartbugs.com/products/magic-potion-roly-poly-isopods-armadillidium-vulgare"
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Armadillidium vulgare 'magic potion' USA line (common pill woodlouse)",
-          "price": 25.0,
-          "available": false,
-          "url": "https://buddha-bugs.com/products/armadillidium-vulgare-magic-potion-usa-line-for-sale"
         },
         {
           "breeder": "Isopod Depot",
@@ -4423,8 +4192,8 @@
       "photo_is_base_species": false,
       "price_range": "5-12",
       "best_price": 19.99,
-      "supplier_count": 13,
-      "in_stock_count": 4,
+      "supplier_count": 9,
+      "in_stock_count": 1,
       "suppliers": [
         {
           "breeder": "JamJam Exotic",
@@ -4432,27 +4201,6 @@
           "price": 19.99,
           "available": true,
           "url": "https://jamjamexotic.com/products/armadillidium-klugii"
-        },
-        {
-          "breeder": "DubiaRoaches.com",
-          "product_name": "3D Printed Realistic Clown Ball Python - large",
-          "price": 54.99,
-          "available": true,
-          "url": "https://dubiaroaches.com/products/3d-printed-realistic-clown-ball-python-large"
-        },
-        {
-          "breeder": "American Reptile Distributors",
-          "product_name": "Mitch Clown Red Eared Slider Turtle #2525 (Trachemys elegans)",
-          "price": 59.99,
-          "available": true,
-          "url": "https://americanreptiles.com/products/mitch-clown-red-eared-slider-turtle-2525-trachemys-elegans"
-        },
-        {
-          "breeder": "Big Apple Herp",
-          "product_name": "Clown Ball Pythons for Sale – Multiple Morphs Available",
-          "price": 159.0,
-          "available": true,
-          "url": "https://www.bigappleherp.com/products/clown-ball-pythons-for-sale"
         },
         {
           "breeder": "Holy-Poly Isopods",
@@ -4509,13 +4257,6 @@
           "price": 44.49,
           "available": false,
           "url": "https://rubberduckyisopods.com/products/dubrovnik-isopods-armadillidum-klugii-10-count"
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "Python regius (Ball Python) Super Mojave Pos Desert Ghost Het Clown UNSEXED",
-          "price": 248.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/python-regius-ball-python-super-mojave-pos-desert-ghost-het-clown-unsexed"
         }
       ],
       "amazon": {
@@ -5771,8 +5512,8 @@
       "photo_is_base_species": false,
       "price_range": "10-20",
       "best_price": 5.0,
-      "supplier_count": 7,
-      "in_stock_count": 3,
+      "supplier_count": 4,
+      "in_stock_count": 2,
       "suppliers": [
         {
           "breeder": "Spider Shoppe",
@@ -5789,20 +5530,6 @@
           "url": "https://insectsales.com/products/two-big-ivory-millipedes-chicobolus-spinigerus-educational-fun-free-habitat"
         },
         {
-          "breeder": "Buddha Bugs",
-          "product_name": "Poecilotheria subfusca 'lowland' (lowland ivory ornamental tarantula) 0.75\" TX SALES ONLY",
-          "price": 100.0,
-          "available": true,
-          "url": "https://buddha-bugs.com/products/poecilotheria-subfusca-lowland-lowland-ivory-ornamental-tarantula-for-sale"
-        },
-        {
-          "breeder": "Big Apple Herp",
-          "product_name": "Enchi Ivory Ball Python",
-          "price": 1.0,
-          "available": false,
-          "url": "https://www.bigappleherp.com/products/enchi-ivory-ball-python"
-        },
-        {
           "breeder": "Tropical Isopods",
           "product_name": "Chicobolus spinigerus - “Mixed Locality” - Ivory Millipede",
           "price": 9.99,
@@ -5815,13 +5542,6 @@
           "price": 17.49,
           "available": false,
           "url": "https://www.thedefiantforest.com/products/salmon-ivory-millipede-chicobolus-spinigerus"
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Poecilotheria subfusca HIGHLAND (Highland Ivory Ornamental Tarantula) (NC SHIPPING ONLY)",
-          "price": 150.0,
-          "available": false,
-          "url": "https://exoticsunlimitedusa.com/products/poecilotheria-subfusca-highland-ivory-ornamental-tarantula-for-sale-1"
         }
       ],
       "amazon": {
@@ -6424,7 +6144,7 @@
       "photo_is_base_species": false,
       "price_range": "5-12",
       "best_price": 6.0,
-      "supplier_count": 4,
+      "supplier_count": 2,
       "in_stock_count": 1,
       "suppliers": [
         {
@@ -6435,25 +6155,11 @@
           "url": "https://usinvertebratellc.com/products/therea-petiveriana-domino"
         },
         {
-          "breeder": "Buddha Bugs",
-          "product_name": "Therea bernhardti (Indian domino cockroach)",
-          "price": 30.0,
-          "available": false,
-          "url": "https://buddha-bugs.com/products/therea-bernhardti-indian-domino-roach-for-sale"
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "White Spotted Domino Roach Nymphs, Therea petiveriana",
           "price": 40.0,
           "available": false,
           "url": "https://www.thedefiantforest.com/products/white-spotted-domino-roach-nymphs-therea-petiveriana"
-        },
-        {
-          "breeder": "Exotics Source",
-          "product_name": "Regal Jumping Spider \"Domino\"",
-          "price": 75.0,
-          "available": false,
-          "url": "https://exoticssource.com/products/regal-jumping-spider-domino"
         }
       ],
       "amazon": {
@@ -6810,17 +6516,9 @@
       "photo_is_base_species": false,
       "price_range": "8-20 per cocoon",
       "best_price": null,
-      "supplier_count": 1,
+      "supplier_count": 0,
       "in_stock_count": 0,
-      "suppliers": [
-        {
-          "breeder": "Exotics Source",
-          "product_name": "Regal Jumping Spider \"Lunaria\"",
-          "price": 95.0,
-          "available": false,
-          "url": "https://exoticssource.com/products/regal-jumping-spider-lunaria"
-        }
-      ],
+      "suppliers": [],
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+Luna+Moth+cocoon&tag=getlivebugs-20",
         "creature_label": "Luna Moth Cocoon",
