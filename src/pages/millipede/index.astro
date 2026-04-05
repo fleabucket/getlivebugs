@@ -2,23 +2,23 @@
 import Base from '../../layouts/Base.astro';
 import siteData from '../../data/site-data.json';
 
-const categorySlug = 'mantis';
-const categoryName = 'Praying Mantis';
+const categorySlug = 'millipede';
+const categoryName = 'Millipede';
 const species = siteData.species.filter(s => s.category_slug === categorySlug);
 const inStockSpecies = species.filter(s => s.in_stock_count > 0);
 ---
 
-<Base title={`Buy Praying Mantis — ${species.length} Species Compared | GetLiveBugs`} description={`Compare ${species.length} praying mantis species from verified breeders. Orchid mantis, ghost mantis, and more. Care guides, prices, and availability.`}>
+<Base title={`Buy Millipedes — ${species.length} Species Compared | GetLiveBugs`} description={`Compare ${species.length} millipede species from verified breeders. Orchid mantis, millipede species, and more. Care guides, prices, and availability.`}>
   <div class="container" style="padding-top: 16px;">
 
     <div class="breadcrumbs">
-      <a href="/">Home</a> / Praying Mantis
+      <a href="/">Home</a> / Millipede
     </div>
 
-    <h1>Praying mantis species</h1>
+    <h1>Millipede species</h1>
     <p class="description" style="max-width: 640px;">
-      Browse {species.length} mantis species available from verified US breeders. 
-      From the stunning orchid mantis to the beginner-friendly giant Asian mantis, 
+      Browse {species.length} millipede species available from verified US breeders. 
+      From the stunning millipede species to the beginner-friendly millipede species, 
       find the perfect species for your experience level and budget.
     </p>
 

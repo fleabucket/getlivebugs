@@ -2,23 +2,23 @@
 import Base from '../../layouts/Base.astro';
 import siteData from '../../data/site-data.json';
 
-const categorySlug = 'mantis';
-const categoryName = 'Praying Mantis';
+const categorySlug = 'isopod';
+const categoryName = 'Isopod';
 const species = siteData.species.filter(s => s.category_slug === categorySlug);
 const inStockSpecies = species.filter(s => s.in_stock_count > 0);
 ---
 
-<Base title={`Buy Praying Mantis — ${species.length} Species Compared | GetLiveBugs`} description={`Compare ${species.length} praying mantis species from verified breeders. Orchid mantis, ghost mantis, and more. Care guides, prices, and availability.`}>
+<Base title={`Buy Isopods — ${species.length} Species Compared | GetLiveBugs`} description={`Compare ${species.length} isopods from verified breeders. Orchid mantis, isopods, and more. Care guides, prices, and availability.`}>
   <div class="container" style="padding-top: 16px;">
 
     <div class="breadcrumbs">
-      <a href="/">Home</a> / Praying Mantis
+      <a href="/">Home</a> / Isopod
     </div>
 
-    <h1>Praying mantis species</h1>
+    <h1>Isopods</h1>
     <p class="description" style="max-width: 640px;">
-      Browse {species.length} mantis species available from verified US breeders. 
-      From the stunning orchid mantis to the beginner-friendly giant Asian mantis, 
+      Browse {species.length} isopod species available from verified US breeders. 
+      From the stunning isopods to the beginner-friendly isopods, 
       find the perfect species for your experience level and budget.
     </p>
 

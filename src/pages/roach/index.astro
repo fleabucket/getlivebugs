@@ -2,23 +2,23 @@
 import Base from '../../layouts/Base.astro';
 import siteData from '../../data/site-data.json';
 
-const categorySlug = 'mantis';
-const categoryName = 'Praying Mantis';
+const categorySlug = 'roach';
+const categoryName = 'Roach';
 const species = siteData.species.filter(s => s.category_slug === categorySlug);
 const inStockSpecies = species.filter(s => s.in_stock_count > 0);
 ---
 
-<Base title={`Buy Praying Mantis — ${species.length} Species Compared | GetLiveBugs`} description={`Compare ${species.length} praying mantis species from verified breeders. Orchid mantis, ghost mantis, and more. Care guides, prices, and availability.`}>
+<Base title={`Buy Roachs — ${species.length} Species Compared | GetLiveBugs`} description={`Compare ${species.length} pet roach species from verified breeders. Orchid mantis, pet roach species, and more. Care guides, prices, and availability.`}>
   <div class="container" style="padding-top: 16px;">
 
     <div class="breadcrumbs">
-      <a href="/">Home</a> / Praying Mantis
+      <a href="/">Home</a> / Roach
     </div>
 
-    <h1>Praying mantis species</h1>
+    <h1>Pet roach species</h1>
     <p class="description" style="max-width: 640px;">
-      Browse {species.length} mantis species available from verified US breeders. 
-      From the stunning orchid mantis to the beginner-friendly giant Asian mantis, 
+      Browse {species.length} roach species available from verified US breeders. 
+      From the stunning pet roach species to the beginner-friendly pet roach species, 
       find the perfect species for your experience level and budget.
     </p>
 
