@@ -9922,3 +9922,8 @@ timestamp,supplier,product_id,product_name,change_type,old_value,new_value,flag
 2026-04-05T04:40:23.265170+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:magic-potion-japanese-line-isopods-armadillidium-vulgare,"""Magic Potion"" Isopods ""Japanese Line"" (Armadillidium vulgare) 10-50 Count",new_product,,$59.49,
 2026-04-05T04:40:23.265170+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:rubber-ducky-isopods,"""Rubber Ducky OG "" SOUGHT AFTER Designer Isopods (Cubaris sp)  6 Count",new_product,,$149.49,
 2026-04-05T04:40:23.265170+00:00,The Bug Company,,,supplier_error,,"error, data preserved",WARNING
+2026-04-05T04:40:23.265170+00:00,Northwest Beneficials,,,supplier_error,,"error, data preserved",WARNING
+2026-04-05T04:40:23.265170+00:00,The Squirm Firm,,,supplier_error,,"error, data preserved",WARNING
+2026-04-05T04:40:23.265170+00:00,Rainbow Mealworms,,,supplier_error,,"error, data preserved",WARNING
+2026-04-05T04:40:23.265170+00:00,Jamie's Tarantulas,,,supplier_error,,"error, data preserved",WARNING
+2026-04-05T04:40:23.265170+00:00,The Bug Company,,,supplier_error,,"error, data preserved",WARNING
