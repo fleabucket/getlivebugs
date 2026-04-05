@@ -37,13 +37,7 @@ const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bes
           {allPrices.length > 0 ? `$${Math.min(...allPrices)} – $${Math.max(...allPrices)}` : sp.price_range ? `$${sp.price_range}` : 'See suppliers'}
         </span>
       </div>
-      {bestSupplier && (
-        <div class="price-row">
-          <span class="price-row-label">Best price</span>
-          <span class="price-row-val best">${bestPrice} at {bestSupplier.breeder}</span>
-        </div>
-      )}
-      <div class="price-row">
+<div class="price-row">
         <span class="price-row-label">Verified sellers</span>
         <span class="price-row-val">{suppliers.length} breeder{suppliers.length !== 1 ? 's' : ''}</span>
       </div>
@@ -62,12 +56,9 @@ const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bes
               <span class="supplier-name">{s.breeder}</span>
               <span class="supplier-price">{s.price && parseFloat(s.price) > 0 ? `$${parseFloat(s.price).toFixed(0)}` : '—'}</span>
             </div>
-            <div class="supplier-detail">{s.product_name} · Ships nationwide</div>
+            <div class="supplier-detail">{s.product_name}{s.quantity ? ` · ${s.quantity} count` : ""} · Ships nationwide</div>
             <div class="badges">
-              {s.available && bestPrice && parseFloat(s.price) === bestPrice && (
-                <span class="badge badge-best">Best price</span>
-              )}
-              {s.available ? (
+{s.available ? (
                 <span class="badge badge-green">In stock</span>
               ) : (
                 <span class="badge badge-red">Sold out</span>
