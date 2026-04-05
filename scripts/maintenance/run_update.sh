@@ -18,3 +18,7 @@ echo ""
 python3 update_inventory.py
 echo ""
 echo "Done! Check output files in scripts/maintenance/"
+
+echo "Step 3/3: Matching species to products..."
+echo ""
+python3 match_species.py
