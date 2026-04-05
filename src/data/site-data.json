@@ -5191,68 +5191,66 @@
     {
       "name": "Mantis",
       "slug": "mantis",
-      "species": [
-        "bark-mantis",
-        "blue-flash-mantis",
-        "brunner-s-stick-mantis",
-        "carolina-mantis",
-        "cat-eye-mantis",
-        "chinese-mantis",
-        "dead-leaf-mantis",
-        "devils-flower-mantis",
-        "egyptian-pygmy-mantis",
-        "european-mantis",
-        "ghost-mantis",
-        "giant-african-mantis",
-        "giant-asian-mantis",
-        "giant-shield-mantis",
-        "golden-giant-asian-mantis",
-        "hooded-mantis",
-        "orchid-mantis",
-        "spiny-flower-mantis"
-      ],
       "count": 18
-    },
-    {
-      "name": "Scorpion",
-      "slug": "scorpion",
-      "species": [
-        "emperor-scorpion"
-      ],
-      "count": 1
     },
     {
       "name": "Tarantula",
       "slug": "tarantula",
-      "species": [
-        "antilles-pinktoe-tarantula",
-        "brazilian-black-tarantula",
-        "chilean-rose-tarantula",
-        "cobalt-blue-tarantula",
-        "costa-rican-zebra-tarantula",
-        "curly-hair-tarantula",
-        "goliath-birdeater",
-        "greenbottle-blue-tarantula",
-        "mexican-red-knee-tarantula",
-        "mexican-red-rump-tarantula",
-        "orange-baboon-tarantula",
-        "pink-toe-tarantula"
-      ],
-      "count": 12
+      "count": 16
+    },
+    {
+      "name": "Isopod",
+      "slug": "isopod",
+      "count": 6
+    },
+    {
+      "name": "Jumping Spider",
+      "slug": "jumping-spider",
+      "count": 5
+    },
+    {
+      "name": "Scorpion",
+      "slug": "scorpion",
+      "count": 4
+    },
+    {
+      "name": "Millipede",
+      "slug": "millipede",
+      "count": 3
+    },
+    {
+      "name": "Centipede",
+      "slug": "centipede",
+      "count": 2
+    },
+    {
+      "name": "Beetle",
+      "slug": "beetle",
+      "count": 2
+    },
+    {
+      "name": "Roach",
+      "slug": "roach",
+      "count": 2
     },
     {
       "name": "Worm",
       "slug": "worm",
-      "species": [
-        "red-wiggler-worm"
-      ],
+      "count": 3
+    },
+    {
+      "name": "Stick Insect",
+      "slug": "stick-insect",
+      "count": 2
+    },
+    {
+      "name": "Moth",
+      "slug": "moth",
       "count": 1
     }
   ],
   "meta": {
-    "total_species": 32,
-    "total_suppliers": 7,
-    "generated_date": "2026-03-27",
-    "affiliate_tag": "getlivebugs-20"
+    "total_species": 64,
+    "total_suppliers": 7
   }
 }
