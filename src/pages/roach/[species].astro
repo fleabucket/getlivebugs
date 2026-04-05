@@ -1,0 +1,185 @@
+---
+import Base from '../../layouts/Base.astro';
+import siteData from '../../data/site-data.json';
+
+export function getStaticPaths() {
+  return siteData.species.filter(sp => sp.category_slug === 'roach').map(sp => ({
+    params: { species: sp.slug },
+    props: { species: sp },
+  }));
+}
+
+const { species: sp } = Astro.props;
+const content = sp.content;
+const care = content.care_guide || {};
+const categorySpecies = siteData.species.filter(s => s.category === sp.category && s.slug !== sp.slug);
+---
+
+<Base title={content.seo_title || `${sp.common_name} Care Guide & Where to Buy`} description={content.seo_description || `Complete ${sp.common_name} care guide with temperature, humidity, and diet info. Compare prices from trusted sellers.`}>
+  <div class="container" style="padding-top: 16px;">
+    
+    <div class="breadcrumbs">
+      <a href="/">Home</a> / <a href={`/${sp.category_slug}/`}>{sp.category}</a> / {sp.common_name}
+    </div>
+
+    {sp.photo_url && (
+      <img src={sp.photo_url} alt={sp.common_name} class="hero-img" />
+    )}
+
+    <h1>{sp.common_name}</h1>
+    <div class="sci-name">{sp.scientific_name}</div>
+
+    <div class="stats-row">
+      <div class="stat-chip">
+        <div class="stat-val">{sp.best_price ? `$${sp.best_price}` : sp.price_range ? `$${sp.price_range}` : '—'}</div>
+        <div class="stat-label">Price</div>
+      </div>
+      <div class="stat-chip">
+        <div class="stat-val">{care.lifespan || '—'}</div>
+        <div class="stat-label">Lifespan</div>
+      </div>
+      <div class="stat-chip">
+        <div class="stat-val">{care.difficulty || '—'}</div>
+        <div class="stat-label">Difficulty</div>
+      </div>
+    </div>
+
+    {(sp.supplier_count > 0 || sp.amazon?.creature_url) && (
+      <a href={`/${sp.category_slug}/${sp.slug}/for-sale/`} class="cta-bar">
+        <div>
+          <div class="cta-bar-text">Check availability & prices</div>
+          <div class="cta-bar-sub">
+            {sp.in_stock_count > 0 
+              ? `In stock at ${sp.in_stock_count} verified breeder${sp.in_stock_count !== 1 ? 's' : ''}`
+              : 'View suppliers & Amazon options'}
+          </div>
+        </div>
+        <div class="cta-bar-arrow">›</div>
+      </a>
+    )}
+
+    <div class="section">
+      <h2>About this species</h2>
+      {content.description?.split('\n\n').map((para: string) => (
+        <p class="description">{para}</p>
+      ))}
+    </div>
+
+    <div class="section">
+      <h2>Care requirements</h2>
+      <div class="care-grid">
+        {care.temperature_f && (
+          <div class="care-item">
+            <div class="care-item-label">Temperature</div>
+            <div class="care-item-val">{care.temperature_f}°F</div>
+          </div>
+        )}
+        {care.humidity_percent && (
+          <div class="care-item">
+            <div class="care-item-label">Humidity</div>
+            <div class="care-item-val">{care.humidity_percent}%</div>
+          </div>
+        )}
+        {care.enclosure_type && (
+          <div class="care-item">
+            <div class="care-item-label">Enclosure</div>
+            <div class="care-item-val">{care.enclosure_type}</div>
+          </div>
+        )}
+        {care.enclosure_size && (
+          <div class="care-item">
+            <div class="care-item-label">Size</div>
+            <div class="care-item-val">{care.enclosure_size}</div>
+          </div>
+        )}
+        {care.substrate && (
+          <div class="care-item">
+            <div class="care-item-label">Substrate</div>
+            <div class="care-item-val">{care.substrate}</div>
+          </div>
+        )}
+        {care.diet && (
+          <div class="care-item">
+            <div class="care-item-label">Diet</div>
+            <div class="care-item-val">{care.diet}</div>
+          </div>
+        )}
+        {care.water && (
+          <div class="care-item">
+            <div class="care-item-label">Water</div>
+            <div class="care-item-val">{care.water}</div>
+          </div>
+        )}
+        {care.special_notes && (
+          <div class="care-item" style="grid-column: 1 / -1;">
+            <div class="care-item-label">Important notes</div>
+            <div class="care-item-val">{care.special_notes}</div>
+          </div>
+        )}
+      </div>
+    </div>
+
+    {content.fun_facts && content.fun_facts.length > 0 && (
+      <div class="section">
+        <h2>Did you know?</h2>
+        {content.fun_facts.map((fact: string) => (
+          <div class="fact-item">
+            <span class="fact-bullet"></span>{fact}
+          </div>
+        ))}
+      </div>
+    )}
+
+    {content.faqs && content.faqs.length > 0 && (
+      <div class="section">
+        <h2>Common questions</h2>
+        {content.faqs.map((faq: any) => (
+          <div class="faq-item">
+            <div class="faq-q">{faq.q}</div>
+            <div class="faq-a">{faq.a}</div>
+          </div>
+        ))}
+      </div>
+    )}
+
+    {content.related_species && content.related_species.length > 0 && (
+      <div class="section">
+        <h2>Related species</h2>
+        <div class="related-pills">
+          {content.related_species.map((rel: string) => {
+            const relSpecies = siteData.species.find(s => s.common_name === rel);
+            return relSpecies ? (
+              <a href={`/${relSpecies.category_slug}/${relSpecies.slug}/`} class="related-pill">{rel}</a>
+            ) : (
+              <span class="related-pill">{rel}</span>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    {categorySpecies.length > 0 && (
+      <div class="section">
+        <h2>More {sp.category.toLowerCase()} species</h2>
+        <div class="species-grid">
+          {categorySpecies.slice(0, 4).map(other => (
+            <div class="species-card">
+              <a href={`/${other.category_slug}/${other.slug}/`}>
+                {other.photo_url ? (
+                  <img src={other.photo_url} alt={other.common_name} class="species-card-img" loading="lazy" />
+                ) : (
+                  <div class="species-card-img" style="display:flex;align-items:center;justify-content:center;color:var(--text-light);font-size:13px;">Photo coming soon</div>
+                )}
+                <div class="species-card-body">
+                  <h3>{other.common_name}</h3>
+                  <div class="species-card-sci">{other.scientific_name}</div>
+                </div>
+              </a>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+  </div>
+</Base>

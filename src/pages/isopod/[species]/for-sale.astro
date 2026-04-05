@@ -1,0 +1,130 @@
+---
+import Base from '../../../layouts/Base.astro';
+import siteData from '../../../data/site-data.json';
+
+export function getStaticPaths() {
+  return siteData.species.filter(sp => sp.category_slug === 'isopod').map(sp => ({
+    params: { species: sp.slug },
+    props: { species: sp },
+  }));
+}
+
+const { species: sp } = Astro.props;
+const content = sp.content;
+const suppliers = sp.suppliers || [];
+const amazon = sp.amazon || {};
+const inStock = suppliers.filter(s => s.available);
+const soldOut = suppliers.filter(s => !s.available);
+const allPrices = suppliers.filter(s => s.price && parseFloat(s.price) > 0).map(s => parseFloat(s.price));
+const bestPrice = allPrices.length > 0 ? Math.min(...allPrices) : null;
+const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bestPrice) : null;
+---
+
+<Base title={`${sp.common_name} for Sale — Buy from ${sp.supplier_count}+ Verified Sellers`} description={`Buy live ${sp.common_name} from verified breeders. ${sp.in_stock_count > 0 ? `In stock at ${sp.in_stock_count} sellers from $${sp.best_price}.` : 'Compare prices and availability.'} Live arrival guaranteed.`}>
+  <div class="container" style="padding-top: 16px;">
+
+    <div class="breadcrumbs">
+      <a href="/">Home</a> / <a href={`/${sp.category_slug}/`}>{sp.category}</a> / <a href={`/${sp.category_slug}/${sp.slug}/`}>{sp.common_name}</a> / For sale
+    </div>
+
+    <h1>{sp.common_name} for sale</h1>
+    <div class="sci-name">{sp.scientific_name} — live availability from verified breeders</div>
+
+    <div class="price-summary">
+      <div class="price-row">
+        <span class="price-row-label">Price range</span>
+        <span class="price-row-val">
+          {allPrices.length > 0 ? `$${Math.min(...allPrices)} – $${Math.max(...allPrices)}` : sp.price_range ? `$${sp.price_range}` : 'See suppliers'}
+        </span>
+      </div>
+      {bestSupplier && (
+        <div class="price-row">
+          <span class="price-row-label">Best price</span>
+          <span class="price-row-val best">${bestPrice} at {bestSupplier.breeder}</span>
+        </div>
+      )}
+      <div class="price-row">
+        <span class="price-row-label">Verified sellers</span>
+        <span class="price-row-val">{suppliers.length} breeder{suppliers.length !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="price-row">
+        <span class="price-row-label">Currently in stock</span>
+        <span class="price-row-val">{inStock.length} of {suppliers.length}</span>
+      </div>
+    </div>
+
+    {suppliers.length > 0 && (
+      <div class="section">
+        <h2>Breeders ({suppliers.length})</h2>
+        {suppliers.map((s, i) => (
+          <a href={s.url} target="_blank" rel="noopener" class="supplier-card" style="display:block;text-decoration:none;color:inherit;">
+            <div class="supplier-top">
+              <span class="supplier-name">{s.breeder}</span>
+              <span class="supplier-price">{s.price && parseFloat(s.price) > 0 ? `$${parseFloat(s.price).toFixed(0)}` : '—'}</span>
+            </div>
+            <div class="supplier-detail">{s.product_name} · Ships nationwide</div>
+            <div class="badges">
+              {s.available && bestPrice && parseFloat(s.price) === bestPrice && (
+                <span class="badge badge-best">Best price</span>
+              )}
+              {s.available ? (
+                <span class="badge badge-green">In stock</span>
+              ) : (
+                <span class="badge badge-red">Sold out</span>
+              )}
+            </div>
+          </a>
+        ))}
+      </div>
+    )}
+
+    <div class="section">
+      <h2>Shop on Amazon</h2>
+      {amazon.creature_url && (
+        <a href={amazon.creature_url} target="_blank" rel="noopener" class="amazon-card">
+          <div>
+            <div class="amazon-label">{amazon.creature_label || `Live ${sp.common_name}`}</div>
+            <div class="amazon-sub">Check availability on Amazon</div>
+          </div>
+          <div class="amazon-arrow">›</div>
+        </a>
+      )}
+      {amazon.habitat_url && (
+        <a href={amazon.habitat_url} target="_blank" rel="noopener" class="amazon-card">
+          <div>
+            <div class="amazon-label">{amazon.habitat_label || 'Enclosure'}</div>
+            <div class="amazon-sub">Terrariums and enclosures</div>
+          </div>
+          <div class="amazon-arrow">›</div>
+        </a>
+      )}
+      {amazon.supplies_url && (
+        <a href={amazon.supplies_url} target="_blank" rel="noopener" class="amazon-card">
+          <div>
+            <div class="amazon-label">{amazon.supplies_label || 'Supplies'}</div>
+            <div class="amazon-sub">Food, substrate, and accessories</div>
+          </div>
+          <div class="amazon-arrow">›</div>
+        </a>
+      )}
+    </div>
+
+    <div class="info-note">
+      <strong>Live arrival guarantee:</strong> Most breeders include a live arrival guarantee (LAG) with overnight or 2-day shipping. Check individual seller shipping policies before ordering. Live insects are temperature-sensitive — avoid ordering during extreme heat or cold.
+    </div>
+
+    {content.buying_tips && (
+      <div class="section">
+        <h2>Buying tips</h2>
+        <p class="description">{content.buying_tips}</p>
+      </div>
+    )}
+
+    <div style="text-align: center; margin: 32px 0;">
+      <a href={`/${sp.category_slug}/${sp.slug}/`} class="cat-pill" style="display:inline-block;">
+        ← Back to {sp.common_name} care guide
+      </a>
+    </div>
+
+  </div>
+</Base>
