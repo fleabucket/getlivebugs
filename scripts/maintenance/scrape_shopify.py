@@ -1,8 +1,8 @@
 """
 GetLiveBugs.com - Automated Inventory Scraper
 Supports Shopify (/products.json) and WooCommerce (Store API).
+Captures variant details for per-unit pricing and size/sex data.
 Outputs scraped_inventory.json for the updater to diff.
-Runtime: ~3-5 minutes for all suppliers (3s delay between requests).
 """
 
 import json
@@ -36,6 +36,16 @@ def load_suppliers(config_path="suppliers.json"):
     return suppliers
 
 
+def parse_variant_label(variant):
+    """Build a human-readable label from Shopify variant options."""
+    parts = []
+    for i in range(1, 4):
+        opt = variant.get(f'option{i}')
+        if opt and opt.lower() not in ('default title', 'default', 'title'):
+            parts.append(opt)
+    return ' / '.join(parts) if parts else None
+
+
 def scrape_shopify(supplier):
     """Scrape a Shopify store via /products.json API."""
     base_url = supplier['base_url'].rstrip('/')
@@ -54,23 +64,28 @@ def scrape_shopify(supplier):
                 break
 
             for product in products:
-                price = None
-                if product.get('variants'):
-                    prices = []
-                    for v in product['variants']:
-                        try:
-                            p = float(v.get('price', 0))
-                            if p > 0:
-                                prices.append(p)
-                        except (ValueError, TypeError):
-                            continue
-                    if prices:
-                        price = min(prices)
+                variants_raw = product.get('variants', [])
 
-                available = any(
-                    v.get('available', False)
-                    for v in product.get('variants', [])
-                )
+                # Build variant details
+                variants = []
+                prices = []
+                for v in variants_raw:
+                    try:
+                        p = float(v.get('price', 0))
+                    except (ValueError, TypeError):
+                        p = 0
+                    if p > 0:
+                        prices.append(p)
+
+                    label = parse_variant_label(v)
+                    variants.append({
+                        'label': label,
+                        'price': p if p > 0 else None,
+                        'available': v.get('available', False),
+                    })
+
+                price = min(prices) if prices else None
+                available = any(v.get('available', False) for v in variants_raw)
 
                 image_url = ''
                 if product.get('images'):
@@ -91,7 +106,8 @@ def scrape_shopify(supplier):
                     'tags': product.get('tags', [])[:10],
                     'image_url': image_url,
                     'url': f"{base_url}/products/{product.get('handle', '')}",
-                    'variant_count': len(product.get('variants', [])),
+                    'variant_count': len(variants_raw),
+                    'variants': variants,
                 })
 
             if len(products) < 250:
@@ -134,7 +150,6 @@ def scrape_woocommerce(supplier):
                 break
 
             for product in data:
-                # Parse price — Store API returns price in minor units (cents) as string
                 price = None
                 prices_data = product.get('prices', {})
                 price_str = prices_data.get('price', '0')
@@ -157,7 +172,6 @@ def scrape_woocommerce(supplier):
                 permalink = product.get('permalink', '')
                 product_id = f"{supplier['slug']}:{slug}"
 
-                # Get product categories
                 categories = product.get('categories', [])
                 cat_names = [c.get('name', '') for c in categories]
 
@@ -175,6 +189,7 @@ def scrape_woocommerce(supplier):
                     'image_url': image_url,
                     'url': permalink or f"{base_url}/product/{slug}/",
                     'variant_count': len(product.get('variations', [])),
+                    'variants': [],
                 })
 
             if len(data) < 100:
@@ -184,7 +199,6 @@ def scrape_woocommerce(supplier):
 
         except HTTPError as e:
             if e.code == 404:
-                # Store API not available, try legacy REST API
                 return scrape_woocommerce_legacy(supplier)
             elif e.code == 429:
                 print(f"  429 rate limited, waiting 30s...")
@@ -204,12 +218,11 @@ def scrape_woocommerce(supplier):
 
 
 def scrape_woocommerce_legacy(supplier):
-    """Fallback: try the older WC REST API v3 (public/consumer-key-free endpoints)."""
+    """Fallback: try the older WC REST API v3."""
     base_url = supplier['base_url'].rstrip('/')
     all_products = []
     page = 1
 
-    # Try the v3 products endpoint (some stores leave it open without auth)
     while page <= MAX_PAGES:
         url = f"{base_url}/wp-json/wc/v3/products?per_page=100&page={page}"
         try:
@@ -258,6 +271,7 @@ def scrape_woocommerce_legacy(supplier):
                     'image_url': image_url,
                     'url': permalink or f"{base_url}/product/{slug}/",
                     'variant_count': len(product.get('variations', [])),
+                    'variants': [],
                 })
 
             if len(data) < 100:
@@ -319,7 +333,7 @@ def main():
     for i, supplier in enumerate(suppliers):
         name = supplier['name']
         platform = supplier.get('platform', 'shopify')
-        tag = f"[WC]" if platform == 'woocommerce' else ""
+        tag = "[WC]" if platform == 'woocommerce' else ""
         print(f"[{i+1}/{len(suppliers)}] {name} {tag}...", end=" ", flush=True)
 
         products = scrape_supplier(supplier)

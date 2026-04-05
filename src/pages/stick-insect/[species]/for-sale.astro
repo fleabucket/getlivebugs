@@ -37,7 +37,7 @@ const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bes
           {allPrices.length > 0 ? `$${Math.min(...allPrices)} – $${Math.max(...allPrices)}` : sp.price_range ? `$${sp.price_range}` : 'See suppliers'}
         </span>
       </div>
-<div class="price-row">
+      <div class="price-row">
         <span class="price-row-label">Verified sellers</span>
         <span class="price-row-val">{suppliers.length} breeder{suppliers.length !== 1 ? 's' : ''}</span>
       </div>
@@ -50,22 +50,57 @@ const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bes
     {suppliers.length > 0 && (
       <div class="section">
         <h2>Breeders ({suppliers.length})</h2>
-        {suppliers.map((s, i) => (
-          <a href={s.url} target="_blank" rel="noopener" class="supplier-card" style="display:block;text-decoration:none;color:inherit;">
-            <div class="supplier-top">
-              <span class="supplier-name">{s.breeder}</span>
-              <span class="supplier-price">{s.price && parseFloat(s.price) > 0 ? `$${parseFloat(s.price).toFixed(0)}` : '—'}</span>
-            </div>
-            <div class="supplier-detail">{s.product_name}{s.quantity ? ` · ${s.quantity} count` : ""} · Ships nationwide</div>
-            <div class="badges">
-{s.available ? (
-                <span class="badge badge-green">In stock</span>
-              ) : (
-                <span class="badge badge-red">Sold out</span>
-              )}
-            </div>
-          </a>
-        ))}
+        {suppliers.map((s, i) => {
+          const price = s.price && parseFloat(s.price) > 0 ? parseFloat(s.price) : null;
+          const perUnit = s.per_unit_price ? parseFloat(s.per_unit_price) : null;
+          const qty = s.quantity ? parseInt(s.quantity) : null;
+
+          // Build attribute line: Life stage · Size · Sex
+          const attrParts = [];
+          if (s.life_stage) attrParts.push(s.life_stage);
+          if (s.size) attrParts.push(s.size);
+          if (s.sex) attrParts.push(s.sex);
+          const attrLine = attrParts.join(' · ');
+
+          return (
+            <a href={s.url} target="_blank" rel="noopener" class="supplier-card" style="display:block;text-decoration:none;color:inherit;">
+              <div class="supplier-top">
+                <span class="supplier-name">{s.breeder}</span>
+                <span class="supplier-price">
+                  {price ? (
+                    qty && qty > 1
+                      ? <>{`$${price.toFixed(0)}`}<span class="per-unit"> ({qty}ct · ${perUnit?.toFixed(2)}/ea)</span></>
+                      : `$${price.toFixed(0)}`
+                  ) : '—'}
+                </span>
+              </div>
+              <div class="supplier-detail">
+                {attrLine ? (
+                  <span class="supplier-attrs">{attrLine}</span>
+                ) : (
+                  <span>{s.product_name}</span>
+                )}
+                <span> · Ships nationwide</span>
+              </div>
+              <div class="badges">
+                {s.available ? (
+                  <span class="badge badge-green">In stock</span>
+                ) : (
+                  <span class="badge badge-red">Sold out</span>
+                )}
+                {s.temperament && (
+                  <span class={`badge ${s.temperament === 'Docile' ? 'badge-blue' : s.temperament === 'Defensive' ? 'badge-orange' : 'badge-gray'}`}>{s.temperament}</span>
+                )}
+                {s.world && (
+                  <span class="badge badge-gray">{s.world}</span>
+                )}
+                {s.habitat && (
+                  <span class="badge badge-gray">{s.habitat}</span>
+                )}
+              </div>
+            </a>
+          );
+        })}
       </div>
     )}
 
@@ -119,3 +154,27 @@ const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bes
 
   </div>
 </Base>
+
+<style>
+  .per-unit {
+    font-size: 13px;
+    color: var(--text-light, #666);
+    font-weight: 400;
+  }
+  .supplier-attrs {
+    font-weight: 500;
+    color: var(--text, #333);
+  }
+  .badge-blue {
+    background: #e8f4f8;
+    color: #1a6d8a;
+  }
+  .badge-orange {
+    background: #fef3e2;
+    color: #b45309;
+  }
+  .badge-gray {
+    background: #f0f0f0;
+    color: #555;
+  }
+</style>
