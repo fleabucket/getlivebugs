@@ -15,6 +15,32 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INVENTORY_FILE = os.path.join(SCRIPT_DIR, 'current_inventory.json')
 SITE_DATA_FILE = os.path.join(SCRIPT_DIR, '..', '..', 'src', 'data', 'site-data.json')
 
+# Compound word aliases — maps alternative spellings to canonical forms
+ALIASES = {
+    'bird eater': 'birdeater',
+    'birdeater': 'bird eater',
+    'pink toe': 'pinktoe',
+    'pinktoe': 'pink toe',
+    'green bottle blue': 'gbb',
+    'curly hair': 'curlyhair',
+    'red knee': 'redknee',
+    'red rump': 'redrump',
+}
+
+# Trimmed keys that are too generic to ever use as standalone match terms.
+# These are common adjectives/nouns that appear in supply product names.
+BLOCKED_TRIMMED_KEYS = {
+    'ghost', 'bark', 'orchid', 'dead leaf', 'chinese', 'asian', 'african',
+    'european', 'indian', 'vietnamese', 'brazilian', 'mexican', 'chilean',
+    'colombian', 'costa rican', 'peruvian', 'ecuadorian', 'venezuelan',
+    'giant', 'common', 'desert', 'jungle', 'forest', 'tropical', 'flat',
+    'spiny', 'horned', 'stripe', 'striped', 'spotted', 'banded',
+    'brown', 'green', 'blue', 'orange', 'red', 'black', 'white', 'gold',
+    'pink', 'yellow', 'purple', 'ivory', 'smoky', 'tiger', 'zebra',
+    'king', 'queen', 'emperor', 'warrior', 'titan',
+    'powder', 'powder blue', 'powder orange',
+}
+
 
 def normalize(text):
     """Lowercase, strip punctuation, collapse whitespace."""
@@ -25,36 +51,49 @@ def normalize(text):
 
 
 def build_match_keys(species):
-    """Build a list of search strings for a species."""
+    """Build a list of search keys for a species.
+
+    Returns list of (key, require_word_boundary) tuples.
+    - Full common name + scientific name: substring match (reliable)
+    - Trimmed common name: word-boundary match only (prevents false positives)
+    """
     keys = []
 
     common = species.get('common_name', '')
     scientific = species.get('scientific_name', '')
 
-    # Full common name: "Rubber Ducky Isopod"
+    # Full common name: "Rubber Ducky Isopod" — substring match
     if common:
-        keys.append(normalize(common))
+        keys.append((normalize(common), False))
 
     # Common name without category suffix: "Rubber Ducky"
+    # Only used if long enough and not in the blocked list
     suffixes = ['isopod', 'tarantula', 'scorpion', 'mantis', 'millipede',
                 'centipede', 'beetle', 'roach', 'cockroach', 'spider',
-                'moth', 'worm', 'insect']
+                'moth', 'worm', 'insect', 'stick insect']
     common_norm = normalize(common)
     for suffix in suffixes:
         if common_norm.endswith(' ' + suffix):
             trimmed = common_norm[: -(len(suffix) + 1)].strip()
-            if len(trimmed) > 2:
-                keys.append(trimmed)
+            if len(trimmed) >= 8 and trimmed not in BLOCKED_TRIMMED_KEYS:
+                keys.append((trimmed, True))
             break
 
     # Scientific name: "Cubaris sp. Rubber Ducky" or "Phidippus regius"
     if scientific:
         sci_norm = normalize(scientific)
-        keys.append(sci_norm)
-        # Also try just the genus + species (first two words)
+        keys.append((sci_norm, False))
+        # Genus + species epithet — but skip if epithet is just "sp"
         parts = sci_norm.split()
-        if len(parts) >= 2:
-            keys.append(parts[0] + ' ' + parts[1])
+        if len(parts) >= 2 and parts[1] != 'sp':
+            keys.append((parts[0] + ' ' + parts[1], False))
+
+    # Add alias variants for common name
+    common_lower = common.lower()
+    for alias_from, alias_to in ALIASES.items():
+        if alias_from in common_lower:
+            variant = common_lower.replace(alias_from, alias_to)
+            keys.append((normalize(variant), False))
 
     return keys
 
@@ -63,15 +102,19 @@ def product_matches_species(product_name, match_keys):
     """Check if a product name matches any of the species' keys."""
     prod_norm = normalize(product_name)
 
-    for key in match_keys:
+    for key, word_boundary in match_keys:
         if len(key) < 3:
             continue
-        # Check if the key appears as a substring in the product name
-        if key in prod_norm:
-            return True
-        # Check if the product name appears in the key
-        if prod_norm in key:
-            return True
+
+        if word_boundary:
+            # Word-boundary match: key must appear as whole words
+            pattern = r'(?:^|\s)' + re.escape(key) + r'(?:\s|$)'
+            if re.search(pattern, prod_norm):
+                return True
+        else:
+            # Substring match for full names and scientific names
+            if key in prod_norm:
+                return True
 
     return False
 
@@ -79,21 +122,43 @@ def product_matches_species(product_name, match_keys):
 def is_live_animal(product):
     """Filter out supplies, enclosures, and non-animal products."""
     name = product.get('product_name', '').lower()
-    product_type = product.get('product_type', '').lower()
-    tags = [t.lower() for t in product.get('tags', [])]
 
-    # Exclude common non-animal products
-    exclude_words = ['enclosure', 'terrarium', 'substrate', 'cage', 'habitat',
-                     'book', 'poster', 'shirt', 't-shirt', 'tee', 'hoodie',
-                     'sticker', 'pin', 'mug', 'print', 'decal', 'kit',
-                     'supplement', 'vitamin', 'food', 'feeder', 'bedding',
-                     'thermometer', 'hygrometer', 'heat mat', 'heat pad',
-                     'water dish', 'hide', 'cork', 'moss', 'leaf litter',
-                     'tongs', 'spray bottle', 'misting', 'light', 'lamp',
-                     'gift card', 'bundle', 'combo pack', 'starter kit',
-                     'plant', 'pothos', 'bamboo', 'monstera', 'fittonia',
-                     'succulent', 'dracaena', 'fern', 'net cage', 'popup cage',
-                     'plug', 'foam', 'trap', 'spray']
+    exclude_words = [
+        # Enclosures & housing
+        'enclosure', 'terrarium', 'vivarium', 'cage', 'habitat', 'aquarium',
+        'tank', 'net cage', 'popup cage', 'acrylic case', 'formicarium',
+        # Substrates & bedding
+        'substrate', 'bedding', 'soil', 'coco fiber', 'coconut fiber',
+        'peat moss', 'sphagnum',
+        # Decor & hardscape
+        'branch', 'manzanita', 'ghostwood', 'driftwood', 'cholla',
+        'cork', 'bark', 'vine', 'moss', 'leaf litter', 'seed pod',
+        'hide', 'cave', 'log', 'hollow', 'coconut half',
+        'decoration', 'decor', 'ornament', 'background',
+        # Plants
+        'plant', 'pothos', 'bamboo', 'monstera', 'fittonia',
+        'succulent', 'dracaena', 'fern', 'bromeliad', 'tillandsia',
+        'philodendron', 'ivy', 'terrarium plant',
+        # Food & supplements
+        'supplement', 'vitamin', 'calcium', 'food', 'diet', 'treat',
+        'feeder', 'gut load', 'nectar', 'jelly', 'protein',
+        # Equipment & tools
+        'thermometer', 'hygrometer', 'heat mat', 'heat pad', 'heat lamp',
+        'water dish', 'spray bottle', 'misting', 'mister',
+        'tongs', 'tweezers', 'forceps', 'light', 'lamp', 'led',
+        'plug', 'foam', 'trap', 'spray', 'screen', 'mesh', 'lid',
+        # Merch & non-animal
+        'book', 'poster', 'shirt', 't-shirt', 'tee', 'hoodie', 'hat', 'cap',
+        'sticker', 'enamel pin', 'lapel pin', 'keychain',
+        'mug', 'print', 'decal', 'magnet', 'patch', 'art print',
+        'plush', 'stuffed', 'toy', 'figurine', 'figure', 'model', 'replica',
+        'crewneck', 'sweatshirt', 'apparel',
+        # Bundles & gift cards
+        'gift card', 'gift certificate', 'e-gift',
+        'bundle', 'combo pack', 'starter kit', 'care kit',
+        # Containers & shipping
+        'shipping', 'container', 'deli cup',
+    ]
 
     for word in exclude_words:
         if word in name:
