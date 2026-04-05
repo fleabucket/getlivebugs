@@ -16,24 +16,6 @@ INVENTORY_FILE = os.path.join(SCRIPT_DIR, 'current_inventory.json')
 SITE_DATA_FILE = os.path.join(SCRIPT_DIR, '..', '..', 'src', 'data', 'site-data.json')
 
 
-
-ALIASES = {
-    "Antilles Pinktoe Tarantula": ["antilles pink toe", "caribena versicolor"],
-    "Pink Toe Tarantula": ["pink toe tarantula", "avicularia avicularia"],
-    "Salmon Pink Birdeater": ["salmon pink bird eater", "lasiodora parahybana"],
-    "Bold Jumping Spider": ["phidippus audax", "bold jumping"],
-    "Tan Jumping Spider": ["platycryptus undatus"],
-    "Brilliant Jumping Spider": ["phidippus clarus"],
-    "Canopy Jumping Spider": ["phidippus otiosus"],
-    "Spiny Flower Mantis": ["spiny flower", "pseudocreobotra"],
-    "Hooded Mantis": ["rhombodera fusca"],
-    "Egyptian Pygmy Mantis": ["miomantis paykullii"],
-    "Madagascar Hissing Cockroach": ["hissing cockroach", "gromphadorhina portentosa"],
-    "Goliath Birdeater": ["goliath bird eater", "theraphosa blondi"],
-    "Luna Moth": ["actias luna", "luna moth cocoon"],
-    "Brunner's Stick Mantis": ["brunneria borealis"],
-}
-
 def normalize(text):
     """Lowercase, strip punctuation, collapse whitespace."""
     text = text.lower()
@@ -61,7 +43,7 @@ def build_match_keys(species):
     for suffix in suffixes:
         if common_norm.endswith(' ' + suffix):
             trimmed = common_norm[: -(len(suffix) + 1)].strip()
-            if len(trimmed) > 6:
+            if len(trimmed) > 2:
                 keys.append(trimmed)
             break
 
@@ -71,20 +53,10 @@ def build_match_keys(species):
         keys.append(sci_norm)
         # Also try just the genus + species (first two words)
         parts = sci_norm.split()
-        if len(parts) == 2:
+        if len(parts) >= 2:
             keys.append(parts[0] + ' ' + parts[1])
 
-    # Handle compound words
-    for key in list(keys):
-        if "birdeater" in key: keys.append(key.replace("birdeater", "bird eater"))
-        if "bird eater" in key: keys.append(key.replace("bird eater", "birdeater"))
-        if "pinktoe" in key: keys.append(key.replace("pinktoe", "pink toe"))
-        if "pink toe" in key: keys.append(key.replace("pink toe", "pinktoe"))
-    # Add manual aliases
-    common = species.get("common_name", "")
-    if common in ALIASES:
-        keys.extend(ALIASES[common])
-    return list(set(keys))
+    return keys
 
 
 def product_matches_species(product_name, match_keys):
@@ -104,23 +76,6 @@ def product_matches_species(product_name, match_keys):
     return False
 
 
-
-
-import re as _re
-def extract_quantity(product_name):
-    name = product_name.lower()
-    patterns = [
-        r'(\d+)\s*(?:ct|count|pack|pc|pcs)',
-        r'(\d+)\s*x\s',
-        r'pack\s*of\s*(\d+)',
-        r'(\d+)\s*(?:live|adults?)',
-    ]
-    for pat in patterns:
-        m = _re.search(pat, name)
-        if m:
-            return int(m.group(1))
-    return None
-
 def is_live_animal(product):
     """Filter out supplies, enclosures, and non-animal products."""
     name = product.get('product_name', '').lower()
@@ -130,7 +85,7 @@ def is_live_animal(product):
     # Exclude common non-animal products
     exclude_words = ['enclosure', 'terrarium', 'substrate', 'cage', 'habitat',
                      'book', 'poster', 'shirt', 't-shirt', 'tee', 'hoodie',
-                     'sticker', 'enamel pin', 'lapel pin', 'mug', 'art print', 'decal', 'kit',
+                     'sticker', 'pin', 'mug', 'print', 'decal', 'kit',
                      'supplement', 'vitamin', 'food', 'feeder', 'bedding',
                      'thermometer', 'hygrometer', 'heat mat', 'heat pad',
                      'water dish', 'hide', 'cork', 'moss', 'leaf litter',
@@ -138,8 +93,7 @@ def is_live_animal(product):
                      'gift card', 'bundle', 'combo pack', 'starter kit',
                      'plant', 'pothos', 'bamboo', 'monstera', 'fittonia',
                      'succulent', 'dracaena', 'fern', 'net cage', 'popup cage',
-                     'plug', 'foam', 'branch', 'wood', 'driftwood', 'manzanita',
-                     'print 5x7', 'creation', 'creations', 'trap', 'spray']
+                     'plug', 'foam', 'trap', 'spray']
 
     for word in exclude_words:
         if word in name:
@@ -240,6 +194,14 @@ def main():
         else:
             print(f"  ✗ {species['common_name']}: no matches")
 
+    # Update meta counts
+    all_supplier_names = set()
+    for species in site_data.get('species', []):
+        for s in species.get('suppliers', []):
+            all_supplier_names.add(s['breeder'])
+    site_data['meta']['total_suppliers'] = len(all_supplier_names)
+    site_data['meta']['total_species'] = len(site_data['species'])
+
     # Save updated site-data.json
     print()
     with open(SITE_DATA_FILE, 'w', encoding='utf-8') as f:
@@ -250,6 +212,7 @@ def main():
     print("=" * 50)
     print(f"  Species with suppliers: {total_matched}/{len(site_data['species'])}")
     print(f"  Total supplier matches: {total_suppliers}")
+    print(f"  Unique suppliers on site: {len(all_supplier_names)}")
     no_match = len(site_data['species']) - total_matched
     if no_match:
         print(f"  No matches: {no_match}")
