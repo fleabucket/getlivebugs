@@ -3480,7 +3480,7 @@
       "photo_is_base_species": true,
       "price_range": "5-15",
       "best_price": 50.0,
-      "supplier_count": 10,
+      "supplier_count": 8,
       "in_stock_count": 2,
       "suppliers": [
         {
@@ -3505,13 +3505,6 @@
           "url": "https://holypolyisopods.com/products/rubber-ducky-isopods-cubaris-sp"
         },
         {
-          "breeder": "Buddha Bugs",
-          "product_name": "Cubaris sp. 'rubber ducky' black velvet choker",
-          "price": 20.0,
-          "available": false,
-          "url": "https://buddha-bugs.com/products/cubaris-sp-rubber-ducky-black-velvet-choker"
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "Rubber Ducky Isopod, Cubaris sp.",
           "price": 30.0,
@@ -3524,13 +3517,6 @@
           "price": 37.0,
           "available": false,
           "url": "https://dubiaroaches.com/products/rubber-ducky-cubaris-sp-5ct-auction"
-        },
-        {
-          "breeder": "Rubber Ducky Isopods",
-          "product_name": "(Limited Edition) Rubber Ducky Isopod Handmade Plushie",
-          "price": 49.49,
-          "available": false,
-          "url": "https://rubberduckyisopods.com/products/limited-edition-rubber-ducky-isopod-handmade-plushie"
         },
         {
           "breeder": "Exotics Unlimited",
