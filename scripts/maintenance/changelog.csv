@@ -14425,3 +14425,4 @@ timestamp,supplier,product_id,product_name,change_type,old_value,new_value,flag
 2026-04-05T15:47:53.064095+00:00,Dubi Deli,dubi-deli:dubia-roaches-mix-medium,Dubia Roaches:  Mix (Medium),new_product,,$8.5,
 2026-04-05T15:47:53.064095+00:00,Dubi Deli,dubi-deli:dubia-roaches-mix-small,Dubia Roaches:  Mix (Small),new_product,,$5.5,
 2026-04-05T15:47:53.064095+00:00,Dubi Deli,dubi-deli:dubia-roaches-small-1-4-xxs,"Dubia Roaches:  Small 1/4"" (XXS)",new_product,,$4.5,
+2026-04-05T15:58:42.364636+00:00,Grow Organic,grow-organic:organic-chandler-strawberry-plants,Organic Chandler Strawberry Plants,sold_out,True,False,
