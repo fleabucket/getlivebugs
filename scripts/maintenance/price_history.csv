@@ -1,0 +1,9 @@
+timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
+2026-04-05T15:47:53.064095+00:00,Exotics Unlimited,exotics-unlimited:ceratogyrus-darlingi-rear-horned-baboon-0-75-1,Ceratogyrus darlingi (Rear Horned Baboon Tarantula),29.0,45.0,55.2
+2026-04-05T15:47:53.064095+00:00,Exotics Source,exotics-source:regal-jumping-spider-nutmeg,"Regal Jumping Spider ""Nutmeg""",75.0,65.0,13.3
+2026-04-05T15:47:53.064095+00:00,Exotics Source,exotics-source:regal-jumping-spider-nugget,"Regal Jumping Spider ""Nugget""",75.0,65.0,13.3
+2026-04-05T15:47:53.064095+00:00,Exotics Source,exotics-source:regal-jumping-spider-chocolate,"Regal Jumping Spider ""Chocolate""",75.0,65.0,13.3
+2026-04-05T15:47:53.064095+00:00,Exotics Source,exotics-source:regal-jumping-spider-pretzel,"Regal Jumping Spider ""Pretzel""",75.0,65.0,13.3
+2026-04-05T15:47:53.064095+00:00,Exotics Source,exotics-source:regal-jumping-spider-egg,"Regal Jumping Spider ""Egg""",75.0,65.0,13.3
+2026-04-05T15:47:53.064095+00:00,Exotics Source,exotics-source:regal-jumping-spider-almond,"Regal Jumping Spider ""Almond""",75.0,65.0,13.3
+2026-04-05T15:47:53.064095+00:00,Tropical Isopods,tropical-isopods:porcellio-sp-werneri-isopod-for-sale,Porcellio werneri,50.0,40.0,20.0
