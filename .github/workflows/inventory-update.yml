@@ -39,12 +39,13 @@ jobs:
         run: |
           git config user.name "GetLiveBugs Bot"
           git config user.email "bot@getlivebugs.com"
-          git add scripts/maintenance/current_inventory.json
-          git add scripts/maintenance/price_history.csv
-          git add scripts/maintenance/changelog.csv
-          git add scripts/maintenance/new_products.csv
-          git add src/data/site-data.json
+          git add scripts/maintenance/current_inventory.json || true
+          git add scripts/maintenance/price_history.csv || true
+          git add scripts/maintenance/changelog.csv || true
+          git add scripts/maintenance/new_products.csv || true
+          git add src/data/site-data.json || true
           git diff --staged --quiet || git commit -m "Inventory update $(date +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
 
       - name: Summary
