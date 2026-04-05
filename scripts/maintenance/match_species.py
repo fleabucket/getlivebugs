@@ -104,6 +104,23 @@ def product_matches_species(product_name, match_keys):
     return False
 
 
+
+
+import re as _re
+def extract_quantity(product_name):
+    name = product_name.lower()
+    patterns = [
+        r'(\d+)\s*(?:ct|count|pack|pc|pcs)',
+        r'(\d+)\s*x\s',
+        r'pack\s*of\s*(\d+)',
+        r'(\d+)\s*(?:live|adults?)',
+    ]
+    for pat in patterns:
+        m = _re.search(pat, name)
+        if m:
+            return int(m.group(1))
+    return None
+
 def is_live_animal(product):
     """Filter out supplies, enclosures, and non-animal products."""
     name = product.get('product_name', '').lower()
