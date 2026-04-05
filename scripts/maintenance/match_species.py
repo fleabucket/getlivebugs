@@ -71,7 +71,7 @@ def build_match_keys(species):
         keys.append(sci_norm)
         # Also try just the genus + species (first two words)
         parts = sci_norm.split()
-        if len(parts) >= 2:
+        if len(parts) == 2:
             keys.append(parts[0] + ' ' + parts[1])
 
     # Handle compound words
