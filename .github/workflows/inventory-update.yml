@@ -1,0 +1,57 @@
+name: Update Inventory
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Shopify scraper
+        working-directory: scripts/maintenance
+        run: python scrape_shopify.py
+
+      - name: Run inventory updater
+        working-directory: scripts/maintenance
+        run: python update_inventory.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GetLiveBugs Bot"
+          git config user.email "bot@getlivebugs.com"
+          git add scripts/maintenance/current_inventory.json
+          git add scripts/maintenance/price_history.csv
+          git add scripts/maintenance/changelog.csv
+          git add scripts/maintenance/new_products.csv
+          git diff --staged --quiet || git commit -m "Inventory update $(date +%Y-%m-%d)"
+          git push
+
+      - name: Summary
+        if: always()
+        working-directory: scripts/maintenance
+        run: |
+          echo "## Inventory Update Results" >> $GITHUB_STEP_SUMMARY
+          if [ -f current_inventory.json ]; then
+            python -c "
+          import json
+          d = json.load(open('current_inventory.json'))
+          print('| Supplier | Products | In Stock | Avg Price |')
+          print('|----------|----------|----------|-----------|')
+          for slug, s in sorted(d.get('suppliers', {}).items()):
+              name = s.get('name', slug)
+              count = s.get('product_count', 0)
+              stock = s.get('in_stock_count', 0)
+              avg = s.get('avg_price', 0)
+              print(f'| {name} | {count} | {stock} | \${avg:.2f} |')
+          " >> $GITHUB_STEP_SUMMARY
+          fi
