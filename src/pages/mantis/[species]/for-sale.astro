@@ -18,6 +18,8 @@ const soldOut = suppliers.filter(s => !s.available);
 const allPrices = suppliers.filter(s => s.price && parseFloat(s.price) > 0).map(s => parseFloat(s.price));
 const bestPrice = allPrices.length > 0 ? Math.min(...allPrices) : null;
 const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bestPrice) : null;
+const lastUpdated = siteData.meta.last_updated || null;
+const nextUpdate = siteData.meta.next_update || null;
 ---
 
 <Base title={`${sp.common_name} for Sale — Buy from ${sp.supplier_count}+ Verified Sellers`} description={`Buy live ${sp.common_name} from verified breeders. ${sp.in_stock_count > 0 ? `In stock at ${sp.in_stock_count} sellers from $${sp.best_price}.` : 'Compare prices and availability.'} Live arrival guaranteed.`}>
@@ -45,6 +47,18 @@ const bestSupplier = bestPrice ? suppliers.find(s => parseFloat(s.price) === bes
         <span class="price-row-label">Currently in stock</span>
         <span class="price-row-val">{inStock.length} of {suppliers.length}</span>
       </div>
+      {lastUpdated && (
+        <div class="price-row">
+          <span class="price-row-label">Prices checked</span>
+          <span class="price-row-val">{lastUpdated}</span>
+        </div>
+      )}
+      {nextUpdate && (
+        <div class="price-row">
+          <span class="price-row-label">Next update</span>
+          <span class="price-row-val">{nextUpdate}</span>
+        </div>
+      )}
     </div>
 
     {suppliers.length > 0 && (

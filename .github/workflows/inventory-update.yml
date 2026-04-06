@@ -2,7 +2,7 @@ name: Update Inventory
 
 on:
   schedule:
-    - cron: '0 6 * * 0'
+    - cron: '0 6 * * 0,3'  # Sunday and Wednesday at 6am UTC
   workflow_dispatch:
 
 permissions:

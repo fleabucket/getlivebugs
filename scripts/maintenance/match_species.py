@@ -11,10 +11,16 @@ Run after update_inventory.py:
 import json
 import os
 import re
+from datetime import datetime, timezone, timedelta
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INVENTORY_FILE = os.path.join(SCRIPT_DIR, 'current_inventory.json')
 SITE_DATA_FILE = os.path.join(SCRIPT_DIR, '..', '..', 'src', 'data', 'site-data.json')
+
+# Cron runs Sunday and Wednesday at 6am UTC
+UPDATE_DAYS = [0, 2]  # Monday=0 ... Sunday=6 -> Wed=2, Sun=6
+# Actually: Python weekday: Mon=0, Tue=1, Wed=2, Thu=3, Fri=4, Sat=5, Sun=6
+CRON_WEEKDAYS = [2, 6]  # Wednesday and Sunday
 
 # ─── MATCHING CONFIG ─────────────────────────────────────────────
 
@@ -40,6 +46,31 @@ BLOCKED_TRIMMED_KEYS = {
     'king', 'queen', 'emperor', 'warrior', 'titan',
     'powder', 'powder blue', 'powder orange',
 }
+
+# ─── TIMESTAMP HELPERS ───────────────────────────────────────────
+
+def calculate_next_update(from_dt=None):
+    """Calculate the next scheduled update (next Wednesday or Sunday at 6am UTC)."""
+    if from_dt is None:
+        from_dt = datetime.now(timezone.utc)
+
+    for days_ahead in range(1, 8):
+        candidate = from_dt + timedelta(days=days_ahead)
+        if candidate.weekday() in CRON_WEEKDAYS:
+            next_run = candidate.replace(hour=6, minute=0, second=0, microsecond=0)
+            return next_run.strftime('%B %d, %Y')
+
+    return None
+
+
+def format_date(iso_string):
+    """Convert ISO timestamp to human-readable date."""
+    try:
+        dt = datetime.fromisoformat(iso_string.replace('Z', '+00:00'))
+        return dt.strftime('%B %d, %Y')
+    except (ValueError, AttributeError):
+        return None
+
 
 # ─── ATTRIBUTE EXTRACTION ────────────────────────────────────────
 
@@ -511,12 +542,22 @@ def main():
     site_data['meta']['total_suppliers'] = len(all_supplier_names)
     site_data['meta']['total_species'] = len(site_data['species'])
 
+    # Timestamps
+    scraped_at = inventory.get('scraped_at', '')
+    last_updated = format_date(scraped_at) or datetime.now(timezone.utc).strftime('%B %d, %Y')
+    next_update = calculate_next_update()
+    site_data['meta']['last_updated'] = last_updated
+    site_data['meta']['next_update'] = next_update
+    site_data['meta']['last_updated_iso'] = scraped_at or datetime.now(timezone.utc).isoformat()
+
     # Save
     print()
     with open(SITE_DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(site_data, f, indent=2, ensure_ascii=False)
 
     print(f"Updated {SITE_DATA_FILE}")
+    print(f"  Prices checked: {last_updated}")
+    print(f"  Next update: {next_update}")
     print()
     print("=" * 50)
     print(f"  Species with suppliers: {total_matched}/{len(site_data['species'])}")
