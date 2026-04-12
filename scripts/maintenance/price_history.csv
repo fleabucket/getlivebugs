@@ -48,3 +48,51 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-04-08T07:25:47.431626+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:polyphemus-moth-eggs,Polyphemus Moth Eggs,45.0,30.0,33.3
 2026-04-08T07:25:47.431626+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:malachite-butterfly-caterpillars-or-chrysalis,Malachite Butterfly Caterpillars or Chrysalis,65.0,85.0,30.8
 2026-04-08T07:25:47.431626+00:00,Riverbottom Butterflies,riverbottom-butterflies:butterfly-party-house-for-birthdays-or-special-events-copy,Butterfly Party House Shipped To You (Anywhere in the US),550.0,595.0,8.2
+2026-04-12T07:19:14.695954+00:00,The Defiant Forest,the-defiant-forest:mediterranean-ladybird-velvet-spider,"Eastern Mediterranean Ladybird Velvet Spider, Eresus walckenaeri",39.0,42.0,7.7
+2026-04-12T07:19:14.695954+00:00,The Defiant Forest,the-defiant-forest:desert-hairy-scorpion-hadrurus-arizonensis,"Desert Hairy Scorpion, Hadrurus arizonensis",18.0,24.0,33.3
+2026-04-12T07:19:14.695954+00:00,The Defiant Forest,the-defiant-forest:borneo-purple-earth-tiger-tarantula,"Borneo Purple Earth Tiger Tarantula, Cyriopagopus sp.",30.0,32.0,6.7
+2026-04-12T07:19:14.695954+00:00,Exotics Unlimited,exotics-unlimited:brachypelma-auratum-mexican-flame-knee-tarantula-1-5-2-copy,Brachypelma auratum (Mexican Flame Knee Tarantula),45.0,85.0,88.9
+2026-04-12T07:19:14.695954+00:00,Nature's Good Guys,natures-good-guys:safer-home-fruit-fly-trap,Safer Home Fruit Fly Trap,5.0,7.99,59.8
+2026-04-12T07:19:14.695954+00:00,Insect Lore,insect-lore:cup-of-caterpillars-special-offer,Cup Of Caterpillars - Special Offer!,8.99,9.99,11.1
+2026-04-12T07:19:14.695954+00:00,Insect Lore,insect-lore:tube-of-ladybug-larvae-special-offer,Tube of Ladybug Larvae - Special Offer!,9.99,11.99,20.0
+2026-04-12T07:19:14.695954+00:00,Meme's Worms,memes-worms:20000-red-wiggler-composting-worms-for-sale,20LBS Pure Red Wiggler Composting Worms For Sale - FREE SHIPPING  (Approx. 20000 Worms),919.99,1190.99,29.5
+2026-04-12T07:19:14.695954+00:00,Meme's Worms,memes-worms:10000-red-wiggler-composting-worms-for-sale,10LBS Pure Red Wiggler Composting Worms For Sale - FREE SHIPPING (Approx. 10000 Worms),459.99,599.99,30.4
+2026-04-12T07:19:14.695954+00:00,Meme's Worms,memes-worms:5000-red-wiggler-composting-worms-for-sale,5LBS Pure Red Wiggler Composting Worms For Sale - FREE SHIPPING (Approx. 5000 Worms),279.99,299.99,7.1
+2026-04-12T07:19:14.695954+00:00,Meme's Worms,memes-worms:european-nightcrawlers-100-pure,Bulk Pure European Nightcrawlers For Sale - Composting Worms - FREE SHIPPING,159.99,239.99,50.0
+2026-04-12T07:19:14.695954+00:00,Meme's Worms,memes-worms:bulk-composting-worm-mix-red-wigglers-and-european-nightcrawlers,Bulk Composting Worm Mix - Pure Red Wigglers and European Nightcrawlers - FREE SHIPPING,199.99,299.99,50.0
+2026-04-12T07:19:14.695954+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-13,80w Heat Panel Reptile Habitat Auction,20.0,120.0,500.0
+2026-04-12T07:19:14.695954+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-8,X-Small Dubia Roaches 500ct Auction,1.0,33.0,3200.0
+2026-04-12T07:19:14.695954+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-11,Large Hornworm 12ct (Case Of 6) Auction,1.0,35.0,3400.0
+2026-04-12T07:19:14.695954+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-9,4x2x2 V3 (120 Gallon) Auction,40.0,275.0,587.5
+2026-04-12T07:19:14.695954+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-2,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,1.0,7.0,600.0
+2026-04-12T07:19:14.695954+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-18,Large Discoid 250ct Auction,1.0,16.0,1500.0
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-sunkiss,"Regal Jumping Spider ""Sunkiss""",75.0,95.0,26.7
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-ignisa,"Regal Jumping Spider ""Ignisa""",75.0,95.0,26.7
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-firecracker-for-sale,"Regal Jumping Spider ""Firecracker""",75.0,65.0,13.3
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-cinnamon-1,"Regal Jumping Spider ""Cinnamon""",75.0,65.0,13.3
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-cerelia,Regal Jumping Spider “Cerelia”,75.0,95.0,26.7
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-charm,Regal Jumping Spider “Charm”,75.0,95.0,26.7
+2026-04-12T07:19:14.695954+00:00,Exotics Source,exotics-source:regal-jumping-spider-plum,"Regal Jumping Spider ""Plum""",95.0,75.0,21.1
+2026-04-12T07:19:14.695954+00:00,Spider Shoppe,spider-shoppe:diplura-sanguinea-blood-red-curtain-web-0-75,Diplura sanguinea (Blood Red Curtain Web),58.0,68.0,17.2
+2026-04-12T07:19:14.695954+00:00,Tropical Isopods,tropical-isopods:armadillidium-granulatum-magic-potion,Armadillidium Granulatum “Magic Potion”,40.0,50.0,25.0
+2026-04-12T07:19:14.695954+00:00,Tropical Isopods,tropical-isopods:porcellio-bolivari-bolivari-isopod-for-sale,"Porcellio Bolivari ""Bolivari""",30.0,50.0,66.7
+2026-04-12T07:19:14.695954+00:00,Best Bee Brothers,best-bee-brothers:combo-2-2-carpenter-bee-ultimate-pro-traps-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #2 - 2 Ultimate Pro Carpenter Bee Traps with Bee Vault and 1 Bee-Licious Bee Bait,68.99,61.99,10.1
+2026-04-12T07:19:14.695954+00:00,Buddha Bugs,buddha-bugs:phoneutria-depilata-depilated-wandering-spider-for-sale,"Phoneutria depilata (depilated wandering spider) 0.33""",75.0,50.0,33.3
+2026-04-12T07:19:14.695954+00:00,American Reptile Distributors,american-reptile-distributors:spiny-hill-turtle-cb-2024-11-heosemys-spinosa,Spiny Hill Turtle CB 2024 #11 (Heosemys spinosa),599.99,399.99,33.3
+2026-04-12T07:19:14.695954+00:00,American Reptile Distributors,american-reptile-distributors:spiny-hill-turtle-cb-2024-10-heosemys-spinosa,Spiny Hill Turtle CB 2024 #10 (Heosemys spinosa),599.99,399.99,33.3
+2026-04-12T07:19:14.695954+00:00,American Reptile Distributors,american-reptile-distributors:spiny-hill-turtle-cb-2024-9-heosemys-spinosa,Spiny Hill Turtle CB 2024 #9 (Heosemys spinosa),599.99,399.99,33.3
+2026-04-12T07:19:14.695954+00:00,American Reptile Distributors,american-reptile-distributors:pink-bellied-snapping-turtle-adult-pair-1-elseya-novaguineae,Pink Bellied Snapping Turtle Adult Pair #1 (Elseya novaguineae),149.99,99.99,33.3
+2026-04-12T07:19:14.695954+00:00,Big Apple Herp,big-apple-herp:clown-ball-pythons-for-sale,Clown Ball Pythons for Sale – Multiple Morphs Available,159.0,169.0,6.3
+2026-04-12T07:19:14.695954+00:00,Big Apple Herp,big-apple-herp:blue-whites-blue-eyed-tree-frogs,Whites BLUE EYED Tree Frogs,54.95,42.95,21.8
+2026-04-12T07:19:14.695954+00:00,Big Apple Herp,big-apple-herp:amber-corn-snakes,Amber Corn Snakes,79.0,74.95,5.1
+2026-04-12T07:19:14.695954+00:00,Coast2Coast Beetles,coast2coast-beetles:xylotrupes-pachycera-adult-pair,Xylotrupes pachycera minor pair,60.0,100.0,66.7
+2026-04-12T07:19:14.695954+00:00,Imperial Reptiles,imperial-reptiles:t-albino-chocolate-water-monitor-for-sale,T+ Albino “Chocolate” Water Monitor,3500.0,1999.99,42.9
+2026-04-12T07:19:14.695954+00:00,Grow Organic,grow-organic:peaceful-valley-low-profile-habitat-blend-mix-lb,Peaceful Valley Low Profile Habitat Blend Mix (lb),7.49,25.99,247.0
+2026-04-12T07:19:14.695954+00:00,Tar Heel Ants,tar-heel-ants:camponotus-chromaiodes-4-8-workersmini-hearth-bundle,Camponotus chromaiodes (6-8workers)w/ Mini Hearth Formicarium,95.0,100.99,6.3
+2026-04-12T07:19:14.695954+00:00,Tar Heel Ants,tar-heel-ants:camponotus-chromaiodes-3-5-workers-queenants-only,"Camponotus chromaiodes (6-8 workers, queen)(Ants Only)",50.0,60.0,20.0
+2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:luna-moth-eggs,Luna Moth Eggs,30.0,15.0,50.0
+2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:atala-butterfly-caterpillars-or-chrysalis,Atala Butterfly Caterpillars or Chrysalis,45.0,40.0,11.1
+2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:gulf-fritillary-caterpillar-or-chrysalis-preorder,Gulf Fritillary Caterpillar or Chrysalis,55.0,42.5,22.7
+2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:pipevine-swallowtail-caterpillars-or-chrysalis,Pipevine Swallowtail Caterpillars or Chrysalis,85.0,42.5,50.0
+2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:tiger-swallowtail-caterpillars-or-chrysalis,Tiger Swallowtail Caterpillars or Chrysalis,70.0,50.0,28.6
+2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,65.0,45.0,30.8
