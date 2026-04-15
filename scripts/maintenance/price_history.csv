@@ -96,3 +96,54 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:pipevine-swallowtail-caterpillars-or-chrysalis,Pipevine Swallowtail Caterpillars or Chrysalis,85.0,42.5,50.0
 2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:tiger-swallowtail-caterpillars-or-chrysalis,Tiger Swallowtail Caterpillars or Chrysalis,70.0,50.0,28.6
 2026-04-12T07:19:14.695954+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,65.0,45.0,30.8
+2026-04-15T07:52:29.051074+00:00,USMANTIS,usmantis:fruit-flies-wingless,Fruit Flies Wingless Melanogaster culture,12.5,15.0,20.0
+2026-04-15T07:52:29.051074+00:00,The Defiant Forest,the-defiant-forest:african-tailless-whipscorpion-damon-variegatus,"Giant African Whip Spider, Damon variegatus",30.0,28.0,6.7
+2026-04-15T07:52:29.051074+00:00,Nature's Good Guys,natures-good-guys:protection-sleeves-sunlit-blossom-1,Protection Sleeves - Sunlit Blossom UPF 50+,22.0,26.99,22.7
+2026-04-15T07:52:29.051074+00:00,Nature's Good Guys,natures-good-guys:protection-sleeves-forest-green,Protection Sleeves - Forest Green UPF 50+,22.0,26.99,22.7
+2026-04-15T07:52:29.051074+00:00,Nature's Good Guys,natures-good-guys:protection-sleeves-golden-sunflower-upf-50,Protection Sleeves - Golden Sunflower - UPF 50+,24.0,26.99,12.5
+2026-04-15T07:52:29.051074+00:00,Nature's Good Guys,natures-good-guys:protection-sleeves-monarch-upf-50,Protection Sleeves - Monarch - UPF 50+,22.0,26.99,22.7
+2026-04-15T07:52:29.051074+00:00,Nature's Good Guys,natures-good-guys:protection-sleeves-fungi-upf-50,Protection Sleeves - Fungi - UPF 50+,22.0,26.99,22.7
+2026-04-15T07:52:29.051074+00:00,Nature's Good Guys,natures-good-guys:protection-sleeves-veggie-upf-50,Protection Sleeves - Veggie - UPF 50+,22.0,26.99,22.7
+2026-04-15T07:52:29.051074+00:00,Meme's Worms,memes-worms:european-nightcrawlers-100-pure,Bulk Pure European Nightcrawlers For Sale - Composting Worms - FREE SHIPPING,239.99,199.99,16.7
+2026-04-15T07:52:29.051074+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-16,Medium Hornworm 24ct (Case Of 12) Auction,1.0,41.0,4000.0
+2026-04-15T07:52:29.051074+00:00,DubiaRoaches.com,dubiaroaches:medium-discoid-roaches-500ct-auction-11,Medium Discoid Roaches 500ct Auction,1.0,21.0,2000.0
+2026-04-15T07:52:29.051074+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-3,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,1.0,3.0,200.0
+2026-04-15T07:52:29.051074+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-7,48x24x12 (60 Gallon) V2 Auction,1.0,155.0,15400.0
+2026-04-15T07:52:29.051074+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-500ct-auction-4,Medium Mealworm 500ct Auction,1.0,11.0,1000.0
+2026-04-15T07:52:29.051074+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-10,220w Heat Panel Reptile Habitat Auction,20.0,155.0,675.0
+2026-04-15T07:52:29.051074+00:00,Flow Hive,flow-hive:flow-ideal-super,Flow Ideal Super,45.0,60.0,33.3
+2026-04-15T07:52:29.051074+00:00,Fear Not Tarantulas,fear-not-tarantulas:phidippus-regius-jumping-spider-for-sale,"Phidippus regius (Regal Jumping Spider) Probable MALE about 1/2"" - 1"" CAPTIVE BORN AND RAISED",45.0,35.0,22.2
+2026-04-15T07:52:29.051074+00:00,Fear Not Tarantulas,fear-not-tarantulas:fear-not-walk-in-the-park-journey-pack,"A Walk In The Park Journey Pack!  2 SPIDERLINGS WITH HABITATS. Perfect for any keeper, even first time tarantula keepers!  SEE DESCRIPTION! *ONE PER SHIPMENT*",85.0,125.0,47.1
+2026-04-15T07:52:29.051074+00:00,Fear Not Tarantulas,fear-not-tarantulas:ornithoctoninae-sp-silver-tarantula,"Ornithoctoninae sp. Vietnam Silver Tarantula about 1 1/4"" - 1 1/2"" *** IN-STORE ONLY DUE TO PREMOLT AS OF 4/13 ***",65.0,79.0,21.5
+2026-04-15T07:52:29.051074+00:00,Fear Not Tarantulas,fear-not-tarantulas:shipping-nearest-fedex-facility,Shipping to the nearest FedEx facility USE ONLY IF YOU HAVE AN ORDER PLACED AND FORGOT TO PAY SHIPPING!!!! You will have shipping options at checkout.,35.0,29.0,17.1
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-poppy,Regal Jumping Spider “Poppy”,75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-sterling,Regal Jumping Spider “Sterling”,75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-sable,Regal Jumping Spider “Sable”,75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-vixen,Regal Jumping Spider “Vixen”,75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-bumble,"Regal Jumping Spider ""Bumble""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-manzana,"Regal Jumping Spider ""Manzana""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-snowball,"Regal Jumping Spider ""Snowball""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-jasmine,"Regal Jumping Spider ""Jasmine""",75.0,65.0,13.3
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-grape,"Regal Jumping Spider ""Grape""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-plum,"Regal Jumping Spider ""Plum""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-coconut-1,"Regal Jumping Spider ""Coconut""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-angel,"Regal Jumping Spider ""Angel""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-pepper,"Regal Jumping Spider ""Pepper""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Exotics Source,exotics-source:regal-jumping-spider-cupid,"Regal Jumping Spider ""Cupid""",75.0,95.0,26.7
+2026-04-15T07:52:29.051074+00:00,Praying Mantis Shop,praying-mantis-shop:silkworms-extra-small,Silkworms - Small,12.5,11.5,8.0
+2026-04-15T07:52:29.051074+00:00,Buddha Bugs,buddha-bugs:aphonopelma-hentzi-texas-brown-tarantula-for-sale,"Aphonopelma hentzi (Texas brown tarantula) 0.33""",15.0,25.0,66.7
+2026-04-15T07:52:29.051074+00:00,Big Apple Herp,big-apple-herp:banana-ball-pythons-for-sale,Banana Ball Pythons for Sale – Multiple Morphs Available,229.95,219.95,4.3
+2026-04-15T07:52:29.051074+00:00,Big Apple Herp,big-apple-herp:ambilobe-panther-chameleons,Ambilobe Panther Chameleons,389.95,409.95,5.1
+2026-04-15T07:52:29.051074+00:00,Big Apple Herp,big-apple-herp:schneider-s-dwarf-caimans,Dwarf Caimans,349.95,389.95,11.4
+2026-04-15T07:52:29.051074+00:00,Big Apple Herp,big-apple-herp:smooth-front-caiman,Smooth Front Dwarf Caimans,369.0,339.95,7.9
+2026-04-15T07:52:29.051074+00:00,Big Apple Herp,big-apple-herp:salamanders-for-sale,Salamanders (Various Species),29.95,27.95,6.7
+2026-04-15T07:52:29.051074+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:rubber-ducky-isopods,"""Rubber Ducky OG "" SOUGHT AFTER Designer Isopods (Cubaris sp)  6 Count",149.49,119.49,20.1
+2026-04-15T07:52:29.051074+00:00,Tar Heel Ants,tar-heel-ants:formica-subsericea-queen-and-colony-2nd-year,Formica subsericea Queen and Colony (4-6 workers),55.0,60.0,9.1
+2026-04-15T07:52:29.051074+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-bundle-40-workersfallen-fortress-bundle,"Pogonomyrmex occidentalis Bundle (40+ workers, Queen)(Fallen Fortress Bundle)",169.99,159.99,5.9
+2026-04-15T07:52:29.051074+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:luna-moth-eggs,Luna Moth Eggs,15.0,60.0,300.0
+2026-04-15T07:52:29.051074+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:atala-butterfly-caterpillars-or-chrysalis,Atala Butterfly Caterpillars or Chrysalis,40.0,45.0,12.5
+2026-04-15T07:52:29.051074+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:gulf-fritillary-caterpillar-or-chrysalis-preorder,Gulf Fritillary Caterpillar or Chrysalis,42.5,55.0,29.4
+2026-04-15T07:52:29.051074+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:pipevine-swallowtail-caterpillars-or-chrysalis,Pipevine Swallowtail Caterpillars or Chrysalis,42.5,85.0,100.0
+2026-04-15T07:52:29.051074+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:tiger-swallowtail-caterpillars-or-chrysalis,Tiger Swallowtail Caterpillars or Chrysalis,50.0,70.0,40.0
+2026-04-15T07:52:29.051074+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,45.0,65.0,44.4
+2026-04-15T07:52:29.051074+00:00,Terrarium Tribe,terrarium-tribe:activated-charcoal,Activated Charcoal for Terrariums (Fine Grade),8.95,6.95,22.3
