@@ -469,14 +469,6 @@
       },
       "suppliers": [
         {
-          "breeder": "Heart Leaf Tropicals",
-          "product_name": "Cat Eye Mantis - Heterochaeta Orientalis i2/i3",
-          "price": 85.0,
-          "available": true,
-          "url": "https://heartleaftropicals.com/products/cat-eye-mantis-heterochaeta-orientalis-i2-i3",
-          "life_stage": "Instar 2"
-        },
-        {
           "breeder": "USMANTIS",
           "product_name": "Heterochaeta orientalis Giant African Stick mantis / cat-eye mantis / 'Chaeta",
           "price": 35.0,
@@ -514,11 +506,19 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Heart Leaf Tropicals",
+          "product_name": "Cat Eye Mantis - Heterochaeta Orientalis i2/i3",
+          "price": 85.0,
+          "available": false,
+          "url": "https://heartleaftropicals.com/products/cat-eye-mantis-heterochaeta-orientalis-i2-i3",
+          "life_stage": "Instar 2"
         }
       ],
       "supplier_count": 2,
-      "in_stock_count": 1,
-      "best_price": 85.0,
+      "in_stock_count": 0,
+      "best_price": null,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+cat+eye+mantis&tag=getlivebugs-20",
         "creature_label": "Live Cat Eye Mantis",
@@ -1979,14 +1979,6 @@
           "url": "https://usinvertebratellc.com/products/orchid-mantis-hymenopus-coronatus"
         },
         {
-          "breeder": "Heart Leaf Tropicals",
-          "product_name": "Orchid Mantis  (Hymenopus coronatus) - i2/i3 (Indonesian variant)",
-          "price": 120.0,
-          "available": true,
-          "url": "https://heartleaftropicals.com/products/orchid-mantis",
-          "life_stage": "Instar 2"
-        },
-        {
           "breeder": "PanTerra Pets",
           "product_name": "Orchid Mantis (H. coronatus)",
           "price": 45.99,
@@ -2046,10 +2038,18 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Heart Leaf Tropicals",
+          "product_name": "Orchid Mantis  (Hymenopus coronatus) - i2/i3 (Indonesian variant)",
+          "price": 120.0,
+          "available": false,
+          "url": "https://heartleaftropicals.com/products/orchid-mantis",
+          "life_stage": "Instar 2"
         }
       ],
       "supplier_count": 5,
-      "in_stock_count": 2,
+      "in_stock_count": 1,
       "best_price": 69.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+orchid+mantis&tag=getlivebugs-20",
@@ -2955,7 +2955,7 @@
             {
               "label": "24\" x 18\" x18\"/24\"",
               "price": 244.95,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -2982,7 +2982,7 @@
             {
               "label": "24\" x 18\" x18\"/24\"",
               "price": 244.95,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -3070,7 +3070,7 @@
               "available": false
             },
             {
-              "label": "1.5-2\" Premolt",
+              "label": "1.5-2\" Premolt Local Pickup ONLY",
               "price": 150.0,
               "available": false
             },
@@ -3782,7 +3782,7 @@
             {
               "label": "2-2.5\"",
               "price": 175.0,
-              "available": false
+              "available": true
             },
             {
               "label": "2.5\" MALE",
@@ -4296,27 +4296,6 @@
           ]
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) nearly 1/2\"-3/4\"",
-          "price": 45.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-pet",
-          "size": "1/2–3/4\"",
-          "world": "New World",
-          "variants": [
-            {
-              "label": "Spiderling Alone",
-              "price": 45.0,
-              "available": false
-            },
-            {
-              "label": "🛖🛖 MAKE IT A PACKAGE!!",
-              "price": 65.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Brachypelma hamorii - Unsexed - Mexican Redknee Tarantula",
           "price": 59.99,
@@ -4357,6 +4336,27 @@
           "available": false,
           "url": "https://buddha-bugs.com/products/brachypelma-hamorii-mexican-red-knee-tarantula-0-75",
           "size": "0.33\""
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) nearly 1/2\"-3/4\"",
+          "price": 45.0,
+          "available": false,
+          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-pet",
+          "size": "1/2–3/4\"",
+          "world": "New World",
+          "variants": [
+            {
+              "label": "Spiderling Alone",
+              "price": 45.0,
+              "available": false
+            },
+            {
+              "label": "🛖🛖 MAKE IT A PACKAGE!!",
+              "price": 65.0,
+              "available": false
+            }
+          ]
         },
         {
           "breeder": "Exotics Unlimited",
@@ -4464,8 +4464,8 @@
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 4,
-      "best_price": 45.0,
+      "in_stock_count": 3,
+      "best_price": 49.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+knee+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Mexican Red Knee Tarantula",
@@ -4541,13 +4541,6 @@
         ]
       },
       "suppliers": [
-        {
-          "breeder": "FangzTV",
-          "product_name": "Tlilitocatl vagans Mexican Red-rump Tarantula  1''",
-          "price": 15.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/tliltocatl-vagans-mexican-red-rump-tarantula-75"
-        },
         {
           "breeder": "Micro Wilderness",
           "product_name": "Tliltocatl vagans - Unsexed - Mexican Red Rump Tarantula",
@@ -4628,6 +4621,13 @@
           "habitat": "Terrestrial"
         },
         {
+          "breeder": "FangzTV",
+          "product_name": "Tlilitocatl vagans Mexican Red-rump Tarantula  1''",
+          "price": 15.0,
+          "available": false,
+          "url": "https://www.fangztv.com/products/tliltocatl-vagans-mexican-red-rump-tarantula-75"
+        },
+        {
           "breeder": "Spider Shoppe",
           "product_name": "Tliltocatl vagans (Mexican Red Rump)",
           "price": 48.0,
@@ -4661,8 +4661,8 @@
         }
       ],
       "supplier_count": 7,
-      "in_stock_count": 6,
-      "best_price": 15.0,
+      "in_stock_count": 5,
+      "best_price": 17.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+rump+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Mexican Red Rump Tarantula",
@@ -5781,12 +5781,12 @@
             {
               "label": "20 Giant Gray Isopods",
               "price": 10.0,
-              "available": true
+              "available": false
             },
             {
               "label": "50 Giant Gray Isopods",
               "price": 20.0,
-              "available": true
+              "available": false
             },
             {
               "label": "100 Giant Gray Isopods",
@@ -5955,7 +5955,7 @@
       "price_range": "1-2",
       "best_price": 8.5,
       "supplier_count": 15,
-      "in_stock_count": 9,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6093,35 +6093,6 @@
           ]
         },
         {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": true,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": true
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "USMANTIS",
           "product_name": "Porcellionides Pruinosus \"Powder Orange\" Isopods",
           "price": 23.99,
@@ -6230,6 +6201,35 @@
             {
               "label": "100 Count",
               "price": 74.99,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": false,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": false
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
               "available": false
             }
           ]
@@ -6544,8 +6544,8 @@
       "photo_is_base_species": false,
       "price_range": "20-50",
       "best_price": 23.95,
-      "supplier_count": 11,
-      "in_stock_count": 6,
+      "supplier_count": 10,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6674,17 +6674,6 @@
               "available": true
             }
           ]
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Phidippus regius (Regal Jumping Spider)  about 1/4\"",
-          "price": 45.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/phidippus-regius-regal-jumping-spider-juveniles",
-          "size": "1/4\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Arboreal"
         },
         {
           "breeder": "Heart Leaf Tropicals",
@@ -7396,7 +7385,7 @@
               "available": false
             },
             {
-              "label": "1.5-2\"",
+              "label": "1.5-2\" Premolt - Local Pickup ONLY",
               "price": 88.0,
               "available": false
             },
@@ -8082,7 +8071,7 @@
       "price_range": "20-50",
       "best_price": 27.0,
       "supplier_count": 8,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "USMANTIS",
@@ -8114,30 +8103,6 @@
             {
               "label": "Sub Adult Female",
               "price": 60.0,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "James' Beetle Farm",
-          "product_name": "African Giant Millepede (Archispirostreptus gigas)",
-          "price": 29.99,
-          "available": true,
-          "url": "https://jamesbeetlefarm.com/products/african-giant-millepede",
-          "variants": [
-            {
-              "label": "1 Millipede",
-              "price": 49.99,
-              "available": true
-            },
-            {
-              "label": "3 Millipedes",
-              "price": 139.99,
-              "available": true
-            },
-            {
-              "label": "1 Millepede - Baby size (captive born)",
-              "price": 29.99,
               "available": false
             }
           ]
@@ -8219,6 +8184,30 @@
           "url": "https://www.thedefiantforest.com/products/african-tailless-whipscorpion-damon-variegatus"
         },
         {
+          "breeder": "James' Beetle Farm",
+          "product_name": "African Giant Millepede (Archispirostreptus gigas)",
+          "price": 29.99,
+          "available": false,
+          "url": "https://jamesbeetlefarm.com/products/african-giant-millepede",
+          "variants": [
+            {
+              "label": "1 Millipede",
+              "price": 49.99,
+              "available": false
+            },
+            {
+              "label": "3 Millipedes",
+              "price": 139.99,
+              "available": false
+            },
+            {
+              "label": "1 Millepede - Baby size (captive born)",
+              "price": 29.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Frognose Exotics",
           "product_name": "Giant African Millipede (Archispirostreptus gigas)",
           "price": 70.0,
@@ -8293,7 +8282,7 @@
       "price_range": "10-25",
       "best_price": 4.0,
       "supplier_count": 8,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "Spider Shoppe",
@@ -8364,20 +8353,6 @@
           ]
         },
         {
-          "breeder": "The World of Isopods",
-          "product_name": "Cubaris sp. \"Bumblebee\"",
-          "price": 100.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/venezillo-sp-castle-black-copy",
-          "variants": [
-            {
-              "label": "$100",
-              "price": 100.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Tropical Isopods",
           "product_name": "Anadenobolus monilicornis - Bumble Bee Millipede \"Miami\"",
           "price": 4.0,
@@ -8406,6 +8381,20 @@
             {
               "label": "5",
               "price": 25.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "The World of Isopods",
+          "product_name": "Cubaris sp. \"Bumblebee\"",
+          "price": 100.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/venezillo-sp-castle-black-copy",
+          "variants": [
+            {
+              "label": "$100",
+              "price": 100.0,
               "available": false
             }
           ]
@@ -8663,7 +8652,7 @@
       "price_range": "30-50",
       "best_price": 30.0,
       "supplier_count": 5,
-      "in_stock_count": 2,
+      "in_stock_count": 1,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -8672,21 +8661,6 @@
           "available": true,
           "url": "https://www.fangztv.com/products/scolopendra-subspinipes-vietnamese-centipede-adult",
           "life_stage": "Adult"
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "Scolopendra subspinipes 'Kauai'",
-          "price": 48.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/scolopendra-subspinipes-kauai",
-          "size": "4\"",
-          "variants": [
-            {
-              "label": "4\"",
-              "price": 48.0,
-              "available": true
-            }
-          ]
         },
         {
           "breeder": "American Reptile Distributors",
@@ -8717,6 +8691,21 @@
             {
               "label": "Baby",
               "price": 30.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "Scolopendra subspinipes 'Kauai'",
+          "price": 48.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/scolopendra-subspinipes-kauai",
+          "size": "4\"",
+          "variants": [
+            {
+              "label": "4\"",
+              "price": 48.0,
               "available": false
             }
           ]
@@ -8972,7 +8961,7 @@
             },
             {
               "label": "5",
-              "price": 60.0,
+              "price": 65.0,
               "available": true
             }
           ]
@@ -9129,10 +9118,24 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "20-50",
-      "best_price": 29.99,
-      "supplier_count": 6,
-      "in_stock_count": 3,
+      "best_price": 20.0,
+      "supplier_count": 7,
+      "in_stock_count": 4,
       "suppliers": [
+        {
+          "breeder": "Coast2Coast Beetles",
+          "product_name": "Dynastes Tityus (Eastern Hercules Beetle)",
+          "price": 20.0,
+          "available": true,
+          "url": "https://coast2coastbeetles.com/products/dynastes-tityus-eastern-hercules-beetle",
+          "variants": [
+            {
+              "label": "L1/L2",
+              "price": 20.0,
+              "available": true
+            }
+          ]
+        },
         {
           "breeder": "James' Beetle Farm",
           "product_name": "Eastern Hercules (Dynastes tityus)",
@@ -9678,25 +9681,26 @@
           "price": 29.99,
           "available": true,
           "url": "https://memesworms.com/products/fishing-bait-european-nightcrawlers",
+          "size": "87–100\"",
           "variants": [
             {
-              "label": "1/3 lb - Approx. 100 Worms",
+              "label": "1/4 lb - Approx. 87-100 Worms",
               "price": 29.99,
               "available": true
             },
             {
-              "label": "3/4 lb - Approx. 250 Worms",
-              "price": 35.99,
+              "label": "1/2 lb - Approx. 175-250 Worms",
+              "price": 39.99,
               "available": true
             },
             {
-              "label": "1.5 lb - Approx. 500 Worms",
-              "price": 49.99,
+              "label": "1 lb - Approx. 350- 500 Worms",
+              "price": 54.99,
               "available": true
             },
             {
-              "label": "2.9 lbs - Approx. 1000 Worms",
-              "price": 85.99,
+              "label": "2 lbs - Approx. 700-1000 Worms",
+              "price": 99.99,
               "available": true
             }
           ]
@@ -10168,9 +10172,9 @@
   ],
   "meta": {
     "total_species": 58,
-    "total_suppliers": 40,
-    "last_updated": "April 19, 2026",
-    "next_update": "April 22, 2026",
-    "last_updated_iso": "2026-04-19T07:30:07.626781+00:00"
+    "total_suppliers": 41,
+    "last_updated": "April 22, 2026",
+    "next_update": "April 26, 2026",
+    "last_updated_iso": "2026-04-22T07:59:43.700923+00:00"
   }
 }
