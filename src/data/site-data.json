@@ -1493,13 +1493,13 @@
       "suppliers": [
         {
           "breeder": "USMANTIS",
-          "product_name": "Rhombodera extensicollis - Giant Asian Shield Mantis",
+          "product_name": "Hierodula membranacea Giant Asian Mantis",
           "price": 32.0,
           "available": true,
-          "url": "https://usmantis.com/products/rhombodera-extensicollis-giant-asian-shield-mantis",
+          "url": "https://usmantis.com/products/hierodula-membranacea",
           "variants": [
             {
-              "label": "L2/3",
+              "label": "L2/L3",
               "price": 32.0,
               "available": true
             },
@@ -1509,8 +1509,33 @@
               "available": true
             },
             {
-              "label": "L5",
+              "label": "Subadult Female",
+              "price": 65.0,
+              "available": true
+            },
+            {
+              "label": "Adult Female",
+              "price": 85.0,
+              "available": false
+            },
+            {
+              "label": "Sub-adult Male",
+              "price": 55.0,
+              "available": true
+            },
+            {
+              "label": "One Pair Sub-adult",
+              "price": 125.0,
+              "available": false
+            },
+            {
+              "label": "L5/6",
               "price": 40.0,
+              "available": true
+            },
+            {
+              "label": "Ooth Fertile",
+              "price": 160.0,
               "available": false
             }
           ]
@@ -3024,6 +3049,22 @@
           ]
         },
         {
+          "breeder": "Micro Wilderness",
+          "product_name": "Grammostola rosea Red Form- unsexed - Chilean Rose Tarantula *Rare",
+          "price": 49.99,
+          "available": true,
+          "url": "https://www.microwilderness.com/products/grammostola-rosea-rcf",
+          "size": "1/2\"",
+          "sex": "Unsexed",
+          "variants": [
+            {
+              "label": "1/2”",
+              "price": 49.99,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Spider Shoppe",
           "product_name": "Grammostola rosea 'RCF' (Chilean Red-Rose Hair) FREE ON ORDERS $200+",
           "price": 58.0,
@@ -3078,16 +3119,6 @@
               "label": "1.5-2\" Premolt Local Pickup ONLY",
               "price": 150.0,
               "available": false
-            },
-            {
-              "label": "2\" MALE",
-              "price": 175.0,
-              "available": true
-            },
-            {
-              "label": "4-5\" FEMALE",
-              "price": 450.0,
-              "available": false
             }
           ]
         },
@@ -3108,8 +3139,8 @@
           "size": "2\""
         }
       ],
-      "supplier_count": 9,
-      "in_stock_count": 9,
+      "supplier_count": 10,
+      "in_stock_count": 10,
       "best_price": 48.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=chilean+rose+tarantula+tarantula&tag=getlivebugs-20",
@@ -3331,6 +3362,17 @@
       },
       "suppliers": [
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Aphonopelma seemanni (Costa Rican Stripe Knee Tarantula) 0.5-0.75” CRAWLER EVENT",
+          "price": 25.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/aphonopelma-seemanni-costa-rican-stripe-knee-tarantula-0-5-0-75-crawler-event",
+          "size": "0.5–0.75\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "Spider Shoppe",
           "product_name": "Aphonopelma seemani (Costa Rican Zebra Knee)",
           "price": 26.0,
@@ -3341,29 +3383,6 @@
             {
               "label": "0.5\"",
               "price": 26.0,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Aphonopelma seemanni (Costa Rican Zebra, Stripe Knee Tarantula)",
-          "price": 29.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/aphonopelma-seemanni-costa-rican-zebra-stripe-knee-tarantula-0-5",
-          "size": "0.50\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.50\"",
-              "price": 29.0,
-              "available": false
-            },
-            {
-              "label": "0.75\"",
-              "price": 45.0,
               "available": true
             }
           ]
@@ -3409,7 +3428,7 @@
       ],
       "supplier_count": 5,
       "in_stock_count": 4,
-      "best_price": 26.0,
+      "best_price": 25.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=costa+rican+zebra+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Costa Rican Zebra Tarantula",
@@ -3640,16 +3659,6 @@
             {
               "label": "3-3.5\"",
               "price": 75.0,
-              "available": false
-            },
-            {
-              "label": "FEMALE 2.5\"",
-              "price": 299.0,
-              "available": false
-            },
-            {
-              "label": "Mature Male and Adult Female Pair",
-              "price": 299.0,
               "available": false
             }
           ]
@@ -4011,8 +4020,8 @@
               "available": true
             },
             {
-              "label": "2 Count - .50\" $90.00 / $45.00 ea.",
-              "price": 90.0,
+              "label": ".75\" $54.00 ea.",
+              "price": 54.0,
               "available": true
             },
             {
@@ -4050,14 +4059,6 @@
           ]
         },
         {
-          "breeder": "Buddha Bugs",
-          "product_name": "Chromatopelma cyaneopubescens (green bottle blue tarantula) 0.75\"",
-          "price": 55.0,
-          "available": true,
-          "url": "https://buddha-bugs.com/products/chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-for-sale",
-          "size": "0.75\""
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Chromatopelma cyaneopubescens (Green Bottle Blue Tarantula)",
           "price": 60.0,
@@ -4090,7 +4091,7 @@
             {
               "label": "Spiderling alone",
               "price": 65.0,
-              "available": true
+              "available": false
             },
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖🛖",
@@ -4162,33 +4163,8 @@
               "available": false
             },
             {
-              "label": "3\" FEMALE",
-              "price": 185.0,
-              "available": false
-            },
-            {
               "label": "3.5\"",
               "price": 59.0,
-              "available": false
-            },
-            {
-              "label": "3.5-4\" MALE",
-              "price": 99.0,
-              "available": false
-            },
-            {
-              "label": "4-5\" MATURE FEMALE",
-              "price": 299.0,
-              "available": false
-            },
-            {
-              "label": "2-2.5\" FEMALE",
-              "price": 199.0,
-              "available": false
-            },
-            {
-              "label": "3\" MALE",
-              "price": 99.0,
               "available": false
             }
           ]
@@ -4200,6 +4176,14 @@
           "available": false,
           "url": "https://tcinsects.com/product/chromatopelma-cyaneopubescens-green-bottle-blue-3-4-1/",
           "size": "3/4–1\""
+        },
+        {
+          "breeder": "Buddha Bugs",
+          "product_name": "Chromatopelma cyaneopubescens (green bottle blue tarantula) 0.75\"",
+          "price": 55.0,
+          "available": false,
+          "url": "https://buddha-bugs.com/products/chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-for-sale",
+          "size": "0.75\""
         },
         {
           "breeder": "Gallegos Zoological",
@@ -4218,7 +4202,7 @@
         }
       ],
       "supplier_count": 11,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "best_price": 48.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=greenbottle+blue+tarantula+tarantula&tag=getlivebugs-20",
@@ -4321,8 +4305,29 @@
           ]
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) nearly 1/2\"-3/4\"",
+          "price": 45.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-pet",
+          "size": "1/2–3/4\"",
+          "world": "New World",
+          "variants": [
+            {
+              "label": "Spiderling Alone",
+              "price": 45.0,
+              "available": true
+            },
+            {
+              "label": "🛖🛖 MAKE IT A PACKAGE!!",
+              "price": 65.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Micro Wilderness",
-          "product_name": "Brachypelma hamorii - Unsexed - Mexican Redknee Tarantula",
+          "product_name": "Brachypelma hamorii - Unsexed - Mexican Red knee Tarantula",
           "price": 59.99,
           "available": true,
           "url": "https://www.microwilderness.com/products/brachypelma-hamorii",
@@ -4361,27 +4366,6 @@
           "available": false,
           "url": "https://buddha-bugs.com/products/brachypelma-hamorii-mexican-red-knee-tarantula-0-75",
           "size": "0.33\""
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) nearly 1/2\"-3/4\"",
-          "price": 45.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-pet",
-          "size": "1/2–3/4\"",
-          "world": "New World",
-          "variants": [
-            {
-              "label": "Spiderling Alone",
-              "price": 45.0,
-              "available": false
-            },
-            {
-              "label": "🛖🛖 MAKE IT A PACKAGE!!",
-              "price": 65.0,
-              "available": false
-            }
-          ]
         },
         {
           "breeder": "Exotics Unlimited",
@@ -4489,8 +4473,8 @@
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 3,
-      "best_price": 49.0,
+      "in_stock_count": 4,
+      "best_price": 45.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+knee+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Mexican Red Knee Tarantula",
@@ -4619,11 +4603,6 @@
             {
               "label": "1-1.5\"",
               "price": 45.0,
-              "available": false
-            },
-            {
-              "label": "2.5-3\" FEMALE",
-              "price": 99.0,
               "available": false
             }
           ]
@@ -4764,6 +4743,25 @@
       },
       "suppliers": [
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Pterinochilus murinus DCF 'Kigoma' (Gold & Orange Baboon Tarantula) 0.75\" Crawler EVENT",
+          "price": 19.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/pterinochilus-murinus-dcf-kigoma-gold-orange-baboon-tarantula-0-75-crawler-event",
+          "size": "0.75\"",
+          "temperament": "Skittish",
+          "world": "Old World",
+          "habitat": "Terrestrial"
+        },
+        {
+          "breeder": "FangzTV",
+          "product_name": "Pterinochilus murinus Baboon Kigoma .5\"",
+          "price": 22.0,
+          "available": true,
+          "url": "https://www.fangztv.com/products/pterinochilus-murinus-baboon-kigoma-5",
+          "size": "5\""
+        },
+        {
           "breeder": "The Defiant Forest",
           "product_name": "Orange Starburst Baboon Tarantula, Pterinochilus murinus",
           "price": 28.0,
@@ -4781,47 +4779,6 @@
               "available": true
             }
           ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Pterinochilus murinus 'Usambara' (Orange Baboon Tarantula)",
-          "price": 29.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/pterinochilus-murinus-orange-baboon-tarantula-for-sale-spiderling",
-          "size": "0.5–0.75\"",
-          "temperament": "Skittish",
-          "world": "Old World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.5-0.75\"",
-              "price": 29.0,
-              "available": true
-            },
-            {
-              "label": "1-1.5\"",
-              "price": 39.0,
-              "available": false
-            },
-            {
-              "label": "FEMALE 3.5-4\"",
-              "price": 199.0,
-              "available": false
-            },
-            {
-              "label": "FEMALE 2-2.5\"",
-              "price": 199.0,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "FangzTV",
-          "product_name": "Pterinochilus murinus Baboon DCF Dark Color Form 1.25\"",
-          "price": 30.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/pterinochilus-murinus-baboon-dcf-dark-color-form-1-25",
-          "size": "1.25\""
         },
         {
           "breeder": "Buddha Bugs",
@@ -4886,7 +4843,7 @@
       ],
       "supplier_count": 7,
       "in_stock_count": 7,
-      "best_price": 28.0,
+      "best_price": 19.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=orange+baboon+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Orange Baboon Tarantula",
@@ -6939,7 +6896,7 @@
       "photo_is_base_species": false,
       "price_range": "25-60",
       "best_price": 10.0,
-      "supplier_count": 6,
+      "supplier_count": 7,
       "in_stock_count": 1,
       "suppliers": [
         {
@@ -6968,6 +6925,27 @@
             {
               "label": "Make It A Package! 🛖🛖🛖",
               "price": 25.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Micro Wilderness",
+          "product_name": "Lasiodora parahybana - unsexed- Brazilian Salmon Pink Tarantula",
+          "price": 19.99,
+          "available": false,
+          "url": "https://www.microwilderness.com/products/lasiodora-parahybana",
+          "size": "1.5–2\"",
+          "sex": "Unsexed",
+          "variants": [
+            {
+              "label": "1.5”-2”",
+              "price": 69.99,
+              "available": false
+            },
+            {
+              "label": "1/4”",
+              "price": 19.99,
               "available": false
             }
           ]
@@ -7191,18 +7169,8 @@
               "available": false
             },
             {
-              "label": "3.5-4\" FEMALE",
-              "price": 450.0,
-              "available": false
-            },
-            {
               "label": "3\"",
               "price": 200.0,
-              "available": false
-            },
-            {
-              "label": "4\" MALE",
-              "price": 250.0,
               "available": false
             },
             {
@@ -7324,7 +7292,7 @@
       "price_range": "60-150",
       "best_price": 45.0,
       "supplier_count": 7,
-      "in_stock_count": 5,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -7385,22 +7353,6 @@
           "price": 150.0,
           "available": true,
           "url": "https://exoticssource.com/products/mexican-fireleg-tarantula"
-        },
-        {
-          "breeder": "Micro Wilderness",
-          "product_name": "Brachypelma bohemei (Mexican Fireleg Tarantula) - Male - RARE - Pure Blood",
-          "price": 174.99,
-          "available": true,
-          "url": "https://www.microwilderness.com/products/brachypelma-bohemei-pre-order",
-          "size": "5\"",
-          "sex": "Male",
-          "variants": [
-            {
-              "label": "5”",
-              "price": 174.99,
-              "available": true
-            }
-          ]
         },
         {
           "breeder": "Exotics Unlimited",
@@ -7469,6 +7421,22 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Micro Wilderness",
+          "product_name": "Brachypelma boehmei - Unsexed - Mexican Fireleg Tarantula",
+          "price": 99.99,
+          "available": false,
+          "url": "https://www.microwilderness.com/products/brachypelma-boehmei",
+          "size": "1.5–2\"",
+          "sex": "Unsexed",
+          "variants": [
+            {
+              "label": "1.5”- 2”",
+              "price": 99.99,
+              "available": false
+            }
+          ]
         }
       ],
       "amazon": {
@@ -7533,7 +7501,7 @@
       "photo_is_base_species": false,
       "price_range": "60-150",
       "best_price": 42.0,
-      "supplier_count": 8,
+      "supplier_count": 9,
       "in_stock_count": 5,
       "suppliers": [
         {
@@ -7650,6 +7618,22 @@
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
               "price": 80.0,
               "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Micro Wilderness",
+          "product_name": "Monocentropus balfouri - Unsexed - Socotra Island Blue Baboon Tarantula",
+          "price": 44.99,
+          "available": false,
+          "url": "https://www.microwilderness.com/products/monocentropus-balfouri",
+          "size": "5\"",
+          "sex": "Unsexed",
+          "variants": [
+            {
+              "label": ".5\"",
+              "price": 44.99,
+              "available": false
             }
           ]
         },
@@ -9151,8 +9135,8 @@
       "photo_is_base_species": false,
       "price_range": "20-50",
       "best_price": 20.0,
-      "supplier_count": 7,
-      "in_stock_count": 5,
+      "supplier_count": 6,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "Coast2Coast Beetles",
@@ -9164,25 +9148,6 @@
             {
               "label": "L1/L2",
               "price": 20.0,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "David's Beetles",
-          "product_name": "LARVAE: Eastern Hercules beetle (Dynastes tityus)",
-          "price": 29.99,
-          "available": true,
-          "url": "https://davidsbeetles.com/products/larvae-dynastes-tityus",
-          "variants": [
-            {
-              "label": "L1/L2",
-              "price": 29.99,
-              "available": false
-            },
-            {
-              "label": "L3",
-              "price": 35.0,
               "available": true
             }
           ]
@@ -10069,20 +10034,20 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "8-20 per cocoon",
-      "best_price": 60.0,
+      "best_price": 35.0,
       "supplier_count": 1,
       "in_stock_count": 1,
       "suppliers": [
         {
           "breeder": "JMZ Butterfly Farm",
           "product_name": "Luna Moth Eggs",
-          "price": 60.0,
+          "price": 35.0,
           "available": true,
           "url": "https://jmzbutterflyfarm.com/products/luna-moth-eggs",
           "variants": [
             {
               "label": "12",
-              "price": 60.0,
+              "price": 35.0,
               "available": true
             }
           ]
@@ -10205,8 +10170,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 41,
-    "last_updated": "April 26, 2026",
-    "next_update": "April 29, 2026",
-    "last_updated_iso": "2026-04-26T07:49:57.163822+00:00"
+    "last_updated": "April 29, 2026",
+    "next_update": "May 03, 2026",
+    "last_updated_iso": "2026-04-29T08:29:16.232002+00:00"
   }
 }
