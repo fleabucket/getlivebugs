@@ -691,3 +691,67 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-05-10T08:10:45.117279+00:00,AntGear,antgear:ant-vacuum,Rechargeable AntVac for Maintaining Captive Ants,39.99,32.99,17.5
 2026-05-10T08:10:45.117279+00:00,Buckeye Myrmecology,buckeye-myrmecology:prenolepis-imparis,Prenolepis Imparis,40.0,48.0,20.0
 2026-05-10T08:10:45.117279+00:00,Buckeye Myrmecology,buckeye-myrmecology:lasius-brevicornis,Lasius brevicornis,26.0,30.0,15.4
+2026-05-13T08:47:52.092779+00:00,PanTerra Pets,panterra-pets:deli-cups-vented-lids,32oz Deli Cups & Vented Lids,3.99,4.99,25.1
+2026-05-13T08:47:52.092779+00:00,The Defiant Forest,the-defiant-forest:painted-begonia-fuchsia,"Painted Begonia, Fuchsia",9.5,12.5,31.6
+2026-05-13T08:47:52.092779+00:00,The Defiant Forest,the-defiant-forest:brazilian-red-white-tarantula-nhandu-chromatus,"Brazilian Red & White Tarantula, Vitalis chromatus - Terrestrial Species",29.0,36.0,24.1
+2026-05-13T08:47:52.092779+00:00,Exotics Unlimited,exotics-unlimited:hapalopus-sp-guerilla-speckle-patch-tarantula-0-75,Hapalopus guerreroi (Speckle Patch Guerilla Tarantula) (Ex. vangoghi & sp. Guerilla),42.0,35.0,16.7
+2026-05-13T08:47:52.092779+00:00,Ty Dye Exotics,ty-dye-exotics:isopod-crunchies-freeze-dried-krill-high-protein-food-0-5oz,Isopod Crunchies Freeze Dried Krill – High-Protein Food 0.5oz,5.95,6.95,16.8
+2026-05-13T08:47:52.092779+00:00,Ty Dye Exotics,ty-dye-exotics:isopod-crunchies-dried-baltic-herring-5-count-protein-treat,Isopod Crunchies Dried Baltic Herring – 5 Count Protein Treat,5.95,6.95,16.8
+2026-05-13T08:47:52.092779+00:00,Ty Dye Exotics,ty-dye-exotics:isopod-crunchies-dried-peas-4oz-natural-isopod-food,Isopod Crunchies Dried Peas – 4oz | Natural Isopod Food,3.95,4.95,25.3
+2026-05-13T08:47:52.092779+00:00,Meme's Worms,memes-worms:5000-red-wiggler-composting-worms-for-sale,5LBS Pure Red Wiggler Composting Worms For Sale - FREE SHIPPING (Approx. 5000 Worms),299.99,324.99,8.3
+2026-05-13T08:47:52.092779+00:00,Meme's Worms,memes-worms:bulk-eisenia-andrei-red-wiggler-composting-worms,Bulk Pure Red Wiggler Composting Worms - FREE SHIPPING,299.99,324.99,8.3
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-22,Large Discoid 250ct Auction,1.0,31.0,3000.0
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-500ct-auction-6,Medium Mealworm 500ct Auction,1.0,10.0,900.0
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-17,Large Hornworm 12ct (Case Of 6) Auction,1.0,25.0,2400.0
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-12,XL Dubia Roaches 250ct Auction,1.0,21.0,2000.0
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-17,80w Heat Panel Reptile Habitat Auction,20.0,135.0,575.0
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-1,Large Mealworm 500ct Auction,1.0,17.0,1600.0
+2026-05-13T08:47:52.092779+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-12,48x24x12 (60 Gallon) V2 Auction,217.0,175.0,19.4
+2026-05-13T08:47:52.092779+00:00,Bee Built,bee-built:composite-roof-panels-for-flow-hive,Composite Roof Panels for Flow Hive™,19.6,79.0,303.1
+2026-05-13T08:47:52.092779+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-juruensis-purple-peru-tarantula,"Avicularia juruensis (Purple Peru Tarantula) about 3/4""-1""",45.0,55.0,22.2
+2026-05-13T08:47:52.092779+00:00,Tropical Isopods,tropical-isopods:cubaris-sp-rubber-ducky-isopod-for-sale,"Cubaris Sp. ""Rubber Ducky""",50.0,40.0,20.0
+2026-05-13T08:47:52.092779+00:00,Tropical Isopods,tropical-isopods:blaberus-cf-peruvianus-12-count-mixed-size-for-sale,"Blaberus CF. Peruvianus ""Peruvian Cave Roach"" - 12 Count Mixed Size",30.0,20.0,33.3
+2026-05-13T08:47:52.092779+00:00,Big Apple Herp,big-apple-herp:brown-elephant-trunk-snake,Brown Elephant Trunk Snake,99.95,89.95,10.0
+2026-05-13T08:47:52.092779+00:00,Big Apple Herp,big-apple-herp:elongated-tortoises-1,Elongated Tortoises,189.0,219.95,16.4
+2026-05-13T08:47:52.092779+00:00,Big Apple Herp,big-apple-herp:green-keeled-lizards,Green Keeled Lizards,104.95,79.95,23.8
+2026-05-13T08:47:52.092779+00:00,Big Apple Herp,big-apple-herp:brazilian-rainbow-boas-1,Brazilian Rainbow Boas,299.95,359.95,20.0
+2026-05-13T08:47:52.092779+00:00,Big Apple Herp,big-apple-herp:peach-throat-monitors,Peach Throat Monitors,359.95,459.95,27.8
+2026-05-13T08:47:52.092779+00:00,David's Beetles,davids-beetles:adults-rainbow-stag-beetle-phalacrognathus-muelleri,ADULTS:  Rainbow stag beetle  (Phalacrognathus muelleri),50.0,75.0,50.0
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:ocellated-skink-chalcides-occelatus-bioactive-vivarium-kit,Ocellated Skink (Chalcides Occelatus) Bioactive vivarium kit,239.95,249.95,4.2
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:central-banded-gecko-coleonyx-mitratus-bioactive-vivarium-kit,Central American Banded Gecko (Coleonyx Mitratus) Bioactive Vivarium Kit,339.95,349.95,2.9
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:dried-baltic-herring-5-count,Isopod Crunchies Dried Baltic Herring – 5 Count Protein Treat,5.95,6.95,16.8
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:freeze-dried-krill-0-5oz-bag,Isopod Crunchies Freeze Dried Krill – High-Protein Food 0.5oz,5.95,6.95,16.8
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:isopod-crunchies-dried-peas-4oz-bag,Isopod Crunchies Dried Peas – 4oz | Natural Isopod Food,3.95,4.95,25.3
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:colored-river-pebbles-5-lb-box,Colored River Pebbles - 5 LB box,7.95,9.95,25.2
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:kenyan-sand-boa-snake-bioactive-kit,Kenyan Sand Boa (Gongylophis colubrinus) Bioactive Vivarium Kit,129.95,134.95,3.8
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:death-feigning-beetle-asbolus-sp-bioactive-vivarium-kit,Death Feigning Beetle (Asbolus sp.) Bioactive Vivarium Kit,134.95,139.95,3.7
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:fire-skink-bioactive-kit,Fire Skink (Lepidothyris fernandi) Bioactive Vivarium Kit,194.95,199.95,2.6
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:carrot-tail-viper-gecko-teratolepis-fasciata-bioactive-vivarium-kit,Carrot-tail Viper Gecko (Hemidactylus imbricatus) Bioactive Vivarium Kit,199.95,204.95,2.5
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:blue-tongue-skink-lizard-bioactive-kit,Blue Tongue Skink (Tiliqua spp.) Bioactive Habitat Terrarium Kit,239.95,249.95,4.2
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:leopard-gecko-complete-terrarium-kit,Leopard Gecko (Eublepharis macularius) Bioactive Vivarium Kit,124.95,129.95,4.0
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:copy-of-case-texas-oklahoma-mexico-flagstone-slate-rock,Small Texas Flagstone Case (7-8 lbs),11.95,16.95,41.8
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:vivarium-rock-waterfall-kit-medium,Vivarium Rock Waterfall Kit Medium,79.95,89.95,12.5
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:vivarium-rock-waterfall-kit-small,Vivarium Rock Waterfall Kit Small,49.95,54.95,10.0
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:vivarium-waterfall-kit-large,Vivarium Rock Waterfall Kit Large,134.95,154.95,14.8
+2026-05-13T08:47:52.092779+00:00,The Bio Dude,the-bio-dude:texas-slate-rock-bulk-case-free-shipping,CASE LARGE  Texas - Oklahoma - Mexico Flagstone/Slate Rock,29.95,39.95,33.4
+2026-05-13T08:47:52.092779+00:00,Frognose Exotics,frognose-exotics:scolopendra-toraja-normal,Scolopendra Toraja - normal,150.0,99.99,33.3
+2026-05-13T08:47:52.092779+00:00,Frognose Exotics,frognose-exotics:scolopendra-piceoflava-black-angel,Scolopendra piceoflava - Black Angel,250.0,199.99,20.0
+2026-05-13T08:47:52.092779+00:00,Frognose Exotics,frognose-exotics:scolopendra-subspinipes-piceoflava,Scolopendra piceoflava - normal,150.0,99.99,33.3
+2026-05-13T08:47:52.092779+00:00,Grow Organic,grow-organic:anderson-band-2-88-x-5-5,"2.88 X 5.5"" Anderson Band",92.99,130.99,40.9
+2026-05-13T08:47:52.092779+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:luna-moth-eggs,Luna Moth Eggs,35.0,24.0,31.4
+2026-05-13T08:47:52.092779+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:12-io-moth-eggs,12 Io Moth Eggs,30.0,35.0,16.7
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:yuukianura-aphoruroides-asian-orange-springtails,Yuukianura Aphoruroides | Asian Orange Springtails,14.99,10.99,26.7
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:orchesella-villosa-woolly-mammoth-springtails,Orchesella villosa | Woolly Mammoth Springtails,12.99,14.99,15.4
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:onychuninae-little-soil-springtails,Onychiuninae Sp. | Little Soil Springtails,18.0,7.99,55.6
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:pseudosinella-rolfsi-rutabaga-runner-springtails,Pseudosinella rolfsi “Rutabaga Runner” | Runner Springtails,15.0,7.99,46.7
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:entomobrya-confusa-varicolored,Entomobrya assuta var. nov. | Varicolored,18.0,7.99,55.6
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:buy-albino-springtails-for-sale,Ceratophysella Sp. | Yellow Albino,25.0,10.99,56.0
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:buy-arid-springtails-for-sale-wood-runner-springtails-entomobrya-sp-for-sale,8oz | Entomobrya Sp | Wood Runner Springtails | Euro-Clay Culture,29.99,14.99,50.0
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:cubaris-iriomotensis-miyako,Cubaris Iriomotensis &#8216;Japanese Red Edge Miyako&#8217;,45.0,32.99,26.7
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:neanura-growae-florida-orange-for-sale,Yuukianura aphoruroides | Florida Orange Springtails,22.99,12.99,43.5
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:tomocerus-vulgaris-springtails-giant-silver,Tomocerus Vulgaris | Giant Silver Springtails,29.99,14.99,50.0
+2026-05-13T08:47:52.092779+00:00,TC Insects,tc-insects:globluar-cave-springtails,Arrhopalites caecus | Globular Cave Springtails,6.0,7.99,33.2
+2026-05-13T08:47:52.092779+00:00,AntGear,antgear:test-tube-dock-for-moving-colonies,Test Tube Dock for Moving Colonies,19.99,23.99,20.0
+2026-05-13T08:47:52.092779+00:00,AntGear,antgear:sand-dropseed-for-harvester-ants,Sand Dropseed for Seed Eating Ants,7.99,3.99,50.1
+2026-05-13T08:47:52.092779+00:00,AntGear,antgear:bluegrass-seeds-for-harvester-ants,Bluegrass Seeds for Harvester Ants,5.99,4.99,16.7
+2026-05-13T08:47:52.092779+00:00,AntGear,antgear:pogonomyrmex-rugosus,Rough Harvester Ant (Pogonomyrmex rugosus),49.99,64.99,30.0
