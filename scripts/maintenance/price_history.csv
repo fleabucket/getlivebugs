@@ -755,3 +755,83 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-05-13T08:47:52.092779+00:00,AntGear,antgear:sand-dropseed-for-harvester-ants,Sand Dropseed for Seed Eating Ants,7.99,3.99,50.1
 2026-05-13T08:47:52.092779+00:00,AntGear,antgear:bluegrass-seeds-for-harvester-ants,Bluegrass Seeds for Harvester Ants,5.99,4.99,16.7
 2026-05-13T08:47:52.092779+00:00,AntGear,antgear:pogonomyrmex-rugosus,Rough Harvester Ant (Pogonomyrmex rugosus),49.99,64.99,30.0
+2026-05-17T08:24:31.801315+00:00,Exotics Unlimited,exotics-unlimited:chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-female,Chromatopelma cyaneopubescens (Green Bottle Blue Tarantula) FEMALE,185.0,199.0,7.6
+2026-05-17T08:24:31.801315+00:00,Exotics Unlimited,exotics-unlimited:grammostola-pulchripes-chaco-golden-knee-tarantula-female,Grammostola pulchripes (Chaco Golden Knee Tarantula) FEMALE,450.0,299.0,33.6
+2026-05-17T08:24:31.801315+00:00,Exotics Unlimited,exotics-unlimited:brachypelma-auratum-mexican-flame-knee-tarantula-female,Brachypelma auratum (Mexican Flame Knee Tarantula) FEMALE,275.0,399.0,45.1
+2026-05-17T08:24:31.801315+00:00,Exotics Unlimited,exotics-unlimited:chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-male-2-2-5,Chromatopelma cyaneopubescens (Green Bottle Blue Tarantula),49.0,59.0,20.4
+2026-05-17T08:24:31.801315+00:00,Exotics Unlimited,exotics-unlimited:hogna-maderiana-madeiran-wolf-spider-3-8-1-8,Hogna maderiana (Orange-Leg Wolf Spider),44.0,55.0,25.0
+2026-05-17T08:24:31.801315+00:00,Ty Dye Exotics,ty-dye-exotics:phormictopus-sp-dominican-purple-dominican-purple-birdeater-tarantula-stunning-caribbean-species-live-arrival-guarantee-1,Phormingochilus arboricola – Borneo Black Tarantula | Rare Arboreal Species | Live Arrival Guarantee,64.99,49.99,23.1
+2026-05-17T08:24:31.801315+00:00,Ty Dye Exotics,ty-dye-exotics:phoneutria-depilata-panama-wandering-spider-medically-significant-venom-live-arrival-guarantee,Phoneutria depilata – Panama Wandering Spider | Medically Significant Venom | Live Arrival Guarantee,124.99,99.99,20.0
+2026-05-17T08:24:31.801315+00:00,Ty Dye Exotics,ty-dye-exotics:harpactira-pulchripes-golden-blue-leg-baboon-tarantula-for-sale-live-arrival-guarantee,Harpactira pulchripes - Golden Blue Leg Baboon Tarantula for Sale | Live Arrival Guarantee,64.99,54.99,15.4
+2026-05-17T08:24:31.801315+00:00,Nature's Good Guys,natures-good-guys:pic-mosquito-repellent-coils,PIC Mosquito Repellent Coils - 10 Pack,7.99,4.99,37.5
+2026-05-17T08:24:31.801315+00:00,Meme's Worms,memes-worms:5000-red-wiggler-composting-worms-for-sale,5LBS Pure Red Wiggler Composting Worms For Sale - FREE SHIPPING (Approx. 5000 Worms),324.99,299.99,7.7
+2026-05-17T08:24:31.801315+00:00,Meme's Worms,memes-worms:bulk-eisenia-andrei-red-wiggler-composting-worms,Bulk Pure Red Wiggler Composting Worms - FREE SHIPPING,324.99,299.99,7.7
+2026-05-17T08:24:31.801315+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction-12,Large Superworm 250ct Auction,1.0,12.5,1150.0
+2026-05-17T08:24:31.801315+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-27,Dubia Roaches Medium 500ct Auction,1.0,42.0,4100.0
+2026-05-17T08:24:31.801315+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-18,Large Hornworm 12ct (Case Of 6) Auction,1.0,11.0,1000.0
+2026-05-17T08:24:31.801315+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-14,48x24x12 (60 Gallon) V2 Auction,1.0,145.0,14400.0
+2026-05-17T08:24:31.801315+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-18,80w Heat Panel Reptile Habitat Auction,20.0,118.0,490.0
+2026-05-17T08:24:31.801315+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-24,Large Discoid 250ct Auction,1.0,38.0,3700.0
+2026-05-17T08:24:31.801315+00:00,Bee Built,bee-built:bee-snug-all-season-roof,Bee Snug All Season Roof for Langstroth Hives,150.0,149.0,0.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-valencia,Regal Jumping Spider “Valencia”,75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-bonfire,Regal Jumping Spider “Bonfire”,75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-clementine,"Regal Jumping Spider ""Clementine""",95.0,75.0,21.1
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-phantom,"Regal Jumping Spider ""Phantom""",95.0,75.0,21.1
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-sloane,"Regal Jumping Spider ""Sloane""",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-ambrimyst,"Regal Jumping Spider ""Ambrimyst""",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-ghost,"Regal Jumping Spider ""Ghost""",95.0,125.0,31.6
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-juniper,"Regal Jumping Spider ""Juniper""",95.0,75.0,21.1
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-kisses,"Regal Jumping Spider ""Kisses""",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-crystal,"Regal Jumping Spider ""Crystal”",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-melody,"Regal Jumping Spider ""Melody""",95.0,75.0,21.1
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-bluey-1,"Regal Jumping Spider ""Bluey""",95.0,125.0,31.6
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-macaron,"Regal Jumping Spider ""Macaron""",95.0,75.0,21.1
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-sunset,"Regal Jumping Spider ""Sunset""",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-sapphire,"Regal Jumping Spider ""Sapphire"" (Rare)",125.0,200.0,60.0
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-spooky,"Regal Jumping Spider ""Spooky""",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Exotics Source,exotics-source:regal-jumping-spider-goldie,"Regal Jumping Spider ""Goldie""",75.0,95.0,26.7
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:ybyrapora-diversipes-amazon-sapphire-0-5,Ybyrapora diversipes (Amazon Sapphire),88.0,58.0,34.1
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:avicularia-sp-pucallpa-mardi-gras-pink-toe-0-75,Avicularia sp 'Pucallpa' (Mardi Gras Pink Toe),48.0,38.0,20.8
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:orphnaecus-sp-negros-negros-island-earth-tiger-0-25,Orphnaecus sp 'Negros' (Negros Island Earth Tiger),38.0,44.0,15.8
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:grammostola-iheringi-entre-rios-6-female,Grammostola iheringi (Entre Rios),98.0,298.0,204.1
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:avicularia-variegata-grizzled-pink-toe-0-5,Avicularia variegata (Grizzled Pink Toe),98.0,86.0,12.2
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:neostenotarsus-sp-suriname-suriname-dwarf-0-5,Neostenotarsus sp 'Suriname' (Suriname Dwarf),50.0,88.0,76.0
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:cyrtopholis-sp-peravia-0-5-0-75,Cyrtopholis sp 'Peravia',58.0,72.0,24.1
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:avicularia-geroldi-brazilian-blue-green-pink-toe-0-75,Avicularia geroldi (Brazilian Blue-Green Pink Toe),94.0,74.0,21.3
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:psalmopoeus-pulcher-panama-blonde-0-5,Psalmopoeus pulcher (Panama Blonde),44.0,28.0,36.4
+2026-05-17T08:24:31.801315+00:00,Spider Shoppe,spider-shoppe:selenocosmiinae-sp-romblon-pink-2-5-mm,Selenocosmiinae sp 'Romblon Pink',48.0,58.0,20.8
+2026-05-17T08:24:31.801315+00:00,Holy-Poly Isopods,holy-poly-isopods:magnolia-leaf-litter,Leaf Litter,7.0,8.0,14.3
+2026-05-17T08:24:31.801315+00:00,Best Bee Brothers,best-bee-brothers:wasp-deterrent-hive,Wasp Deterrent Hives,7.99,9.99,25.0
+2026-05-17T08:24:31.801315+00:00,Big Apple Herp,big-apple-herp:cinnamon-ball-pythons-for-sale,Cinnamon Ball Pythons for Sale – Multiple Morphs Available,379.0,239.95,36.7
+2026-05-17T08:24:31.801315+00:00,Big Apple Herp,big-apple-herp:gold-dust-day-geckos,Gold Dust Day Geckos,69.95,74.95,7.1
+2026-05-17T08:24:31.801315+00:00,Big Apple Herp,big-apple-herp:scarlet-kingsnakes,Scarlet Kingsnakes,229.95,189.95,17.4
+2026-05-17T08:24:31.801315+00:00,The Bio Dude,the-bio-dude:creek-rock-case-32lbs-per-case,Creek Rock Case (25lbs per case),29.95,39.95,33.4
+2026-05-17T08:24:31.801315+00:00,The Bio Dude,the-bio-dude:panther-chameleon-bioactive-kit,Panther Chameleon (Furcifer pardalis) Bioactive Vivarium Kit,250.95,255.95,2.0
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:emerald-tree-boa-juvenile,'25 CBB Northern Emerald Tree Boa - Male,1250.0,1499.99,20.0
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:high-color-hypo-woma-python-young-adult-female-for-sale,Woma Python (High Contrast) Adult Female #1,1199.99,1100.0,8.3
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:dark-woma-python-adult-female-for-sale,Woma Python Adult,1200.0,749.99,37.5
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:orange-dream-het-clown-for-sale,Orange Dream het. Clown Adult Female,499.99,199.99,60.0
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:piebald-young-adult-for-sale,Piebald Ball Python Adult Female,449.99,499.99,11.1
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:banana-lemonblast-ball-python-adult-for-sale,Banana Lemonblast Ball Python Adult,279.99,189.99,32.1
+2026-05-17T08:24:31.801315+00:00,Imperial Reptiles,imperial-reptiles:champagne-ball-python-adult-for-sale,Champagne Ball Python Adult,124.99,149.99,20.0
+2026-05-17T08:24:31.801315+00:00,Frognose Exotics,frognose-exotics:celebes-purple-giant-centipede,Celebes Purple Giant Centipede,200.0,150.0,25.0
+2026-05-17T08:24:31.801315+00:00,Frognose Exotics,frognose-exotics:giant-african-millipede-archispirostreptus-gigas,Giant African Millipede (Archispirostreptus gigas),70.0,50.0,28.6
+2026-05-17T08:24:31.801315+00:00,Frognose Exotics,frognose-exotics:phrynichus-orientalis,Phrynichus orientalis Tailless Whip Scorpion,40.0,25.0,37.5
+2026-05-17T08:24:31.801315+00:00,Grow Organic,grow-organic:flavor-supreme-plumcot-tree,Flavor Supreme Pluot Tree,64.99,48.99,24.6
+2026-05-17T08:24:31.801315+00:00,Grow Organic,grow-organic:royal-blenheim-apricot-tree,Royal Blenheim Apricot Tree,64.99,58.99,9.2
+2026-05-17T08:24:31.801315+00:00,Grow Organic,grow-organic:santa-rosa-plum-tree,Santa Rosa Plum Tree,64.99,58.99,9.2
+2026-05-17T08:24:31.801315+00:00,Grow Organic,grow-organic:anna-apple-tree,Anna Apple Tree,64.99,58.99,9.2
+2026-05-17T08:24:31.801315+00:00,Grow Organic,grow-organic:bing-cherry-tree,Bing Cherry Tree,64.99,55.99,13.8
+2026-05-17T08:24:31.801315+00:00,Grow Organic,grow-organic:golden-dorsett-apple-tree,Golden Dorsett Apple Tree,64.99,55.99,13.8
+2026-05-17T08:24:31.801315+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-rosey-maple-moth-pupae,(Single) Rosy Maple Moth Pupae,17.0,19.0,11.8
+2026-05-17T08:24:31.801315+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:luna-moth-eggs,Luna Moth Eggs,24.0,45.0,87.5
+2026-05-17T08:24:31.801315+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:atala-butterfly-caterpillars-or-chrysalis,Atala Butterfly Caterpillars or Chrysalis,45.0,65.0,44.4
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:hypogastruridae-sp-tiny-blue,Hypogastruridae sp | Tiny Blue Springtails,9.99,8.99,10.0
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:lepidocyrtus-sp-pearlescent-springtails,Lepidocyrtus sp. | Pearlescent Springtails,9.99,7.99,20.0
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:lepidocyrtus-sp-micro-gold-springtails,Lepidocyrtus sp. | Micro Gold Springtails,9.99,8.99,10.0
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:pogonognathellus-dubius-giant-silver-bullet-springtails,Pogonognathellus dubius | Giant Silver Bullet Springtails,13.5,14.99,11.0
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:pseudosinella-bylas-ant-springtails-copy,Pseudosinella violenta | Bylas Ant Springtails,15.0,7.99,46.7
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:springtail-all-star-collector-pack,"Springtail All Star Collector Pack | Orange, Purple, Yellow Springtails",68.0,59.99,11.8
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:temperate-white-and-tropical-pink-springtail-charcoal-mixed-culture-copy,8oz | Temperate White and Tropical Pink Springtail | Charcoal Culture,17.99,16.99,5.6
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:buy-springtail-charcoal-for-sale,Culture Charcoal© All Natural Hardwood,3.99,2.99,25.1
+2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:euroclay,EuroClay© &#8211; Calcium Bearing Springtail Clay,18.0,5.99,66.7
