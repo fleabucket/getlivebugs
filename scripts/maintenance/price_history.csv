@@ -835,3 +835,66 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:temperate-white-and-tropical-pink-springtail-charcoal-mixed-culture-copy,8oz | Temperate White and Tropical Pink Springtail | Charcoal Culture,17.99,16.99,5.6
 2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:buy-springtail-charcoal-for-sale,Culture Charcoal© All Natural Hardwood,3.99,2.99,25.1
 2026-05-17T08:24:31.801315+00:00,TC Insects,tc-insects:euroclay,EuroClay© &#8211; Calcium Bearing Springtail Clay,18.0,5.99,66.7
+2026-05-20T09:39:10.430178+00:00,The Defiant Forest,the-defiant-forest:red-spotted-white-tree-millipede-anadenobolus-arboreus-gundlachi-var-yellow-leg-antennae,"RED Spotted White Tree Millipede, Anadenobolus arboreus gundlachi -  Yellow Leg with Yellow Antennae Captive Bred",30.0,35.0,16.7
+2026-05-20T09:39:10.430178+00:00,The Defiant Forest,the-defiant-forest:red-tree-millipede-anadenobolus-arboreus,"Red Tree Millipede, Anadenobolus arboreus Captive Bred",45.0,35.0,22.2
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:small-superworm-1-000ct-auction-14,"Small Superworm 1,000ct Auction",1.0,14.5,1350.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-25,Large Discoid 250ct Auction,1.0,38.0,3700.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-500ct-auction-8,Medium Mealworm 500ct Auction,10.0,13.0,30.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-20,Large Hornworm 12ct (Case Of 6) Auction,25.0,30.0,20.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-15,48x24x12 (60 Gallon) V2 Auction,126.0,175.0,38.9
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-14,220w Heat Panel Reptile Habitat Auction,102.0,101.0,1.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-9,X-Small Dubia Roaches 500ct Auction,20.0,30.0,50.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:small-discoid-roaches-500ct-auction-4,Small Discoid Roaches 500ct Auction,35.0,38.0,8.6
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-13,XL Dubia Roaches 250ct Auction,21.0,52.5,150.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-18,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,5.0,7.5,50.0
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:36x18x18-v3-50-gallon-auction-13,36x18x18 V3 (50 Gallon) Auction,30.0,158.0,426.7
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-25,Large Hornworm 6ct (Case Of 12) Auction,11.0,25.0,127.3
+2026-05-20T09:39:10.430178+00:00,DubiaRoaches.com,dubiaroaches:frozen-rodents,Frozen Rodents FREE SHIPPING,27.0,29.8,10.4
+2026-05-20T09:39:10.430178+00:00,Fear Not Tarantulas,fear-not-tarantulas:homoeomma-chilense-chilean-flame-tarantula-small,"Homoeomma chilense  (Chilean Flame Tarantula)  about 1/4"" INCLUDES HABITAT!",135.0,69.0,48.9
+2026-05-20T09:39:10.430178+00:00,Fear Not Tarantulas,fear-not-tarantulas:cyriopagopus-hati-hati-tarantula-for-sale,"Phormingochilus hati hati (Sulawesi Violet Tarantula) ex Cyriopagopus about 3/4"" - 1""",42.0,19.0,54.8
+2026-05-20T09:39:10.430178+00:00,Fear Not Tarantulas,fear-not-tarantulas:pterinopelma-sazimai-iridescent-blue-tarantula-for-sale,"Lasiocyano sazimai  (Iridescent Blue Tarantula) about 1/2"" - 3/4""",42.0,19.0,54.8
+2026-05-20T09:39:10.430178+00:00,Fear Not Tarantulas,fear-not-tarantulas:tliltocatl-albopilosus-curlyhair-tarantula,"Tliltocatl albopilosus (Curly Hair Tarantula) About 1 1/4"" - 1 1/2""+",42.0,45.0,7.1
+2026-05-20T09:39:10.430178+00:00,Exotics Source,exotics-source:regal-jumping-spider-mint,Regal Jumping Spider “Mint”,250.0,125.0,50.0
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:pseudhapalopus-sp-gitan-3-female,Spinosatibiapalpus sp 'Gitan',124.0,28.0,77.4
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:pamphobeteus-sp-cascada-cascada-birdeater-2,Pamphobeteus sp 'Cascada' (Cascada Birdeater),88.0,78.0,11.4
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:amazonius-sp-caqueta-colombia-0-75-3-5-female,Amazonius sp 'Caqueta' (Colombia),78.0,198.0,153.8
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:psednocnemis-brachyramosa-malaysian-blue-femur-tarantula-1-1-5,Psednocnemis brachyramosa (Malaysian Blue Femur Tarantula),124.0,88.0,29.0
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:nhandu-carapoensis-brazilian-red-black-0-25,Nhandu carapoensis (Brazilian Red & Black),36.0,44.0,22.2
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:ischnothele-caudata-0-5,Ischnothele caudata (Curtain Web),48.0,44.0,8.3
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:androctonus-bicolor-black-fat-tail-scorpion-0-5,Androctonus bicolor (Black Fat-Tail Scorpion),38.0,58.0,52.6
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:xenesthis-sp-white-3-4-female,Xenesthis sp 'White',324.0,248.0,23.5
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:scorpio-maurus-israeli-golden-1-1-5,Scorpio Maurus (Israeli Golden),28.0,38.0,35.7
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:androctonus-australis-yellow-fat-tail-2-3,Androctonus australis (Yellow Fat Tail),18.0,48.0,166.7
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:holconia-murrayensis-australian-banded-huntsman-2,Holconia murrayensis (Australian Banded Huntsman),124.0,36.0,71.0
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:xenesthis-sp-megascopula-1-5,Xenesthis sp 'Megascopula',208.0,198.0,4.8
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:citharacanthus-cyaneus-cuban-orange-and-violet,Citharacanthus cyaneus (Orange Violet Dwarf),68.0,298.0,338.2
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:lyrognathus-giannisposatoi-sumatran-stout-leg-1,Lyrognathus giannisposatoi (Sumatran Stout Leg),58.0,248.0,327.6
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:sericopelma-sp-santa-catalina-2-5,Sericopelma sp 'Santa Catalina',198.0,88.0,55.6
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:cyriocosmus-elegans-trinidad-dwarf-2-female,Cyriocosmus elegans (Trinidad Dwarf),42.0,24.0,42.9
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:pelinobius-muticus-king-baboon-2-4-female,Pelinobius muticus (King Baboon),78.0,42.0,46.2
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:pamphobeteus-sp-tigris-ecuadorian-black-birdeater-1-5,Pamphobeteus sp 'Tigris' (Ecuadorian Black Birdeater),78.0,94.0,20.5
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:euthycaelus-sp-santander-0-5,Euthycaelus sp 'Santander',32.0,124.0,287.5
+2026-05-20T09:39:10.430178+00:00,Spider Shoppe,spider-shoppe:chaerilus-cimrmani-thailand-black-scorpion-0-25,Chaerilus cimrmani (Thailand Black Scorpion),32.0,36.0,12.5
+2026-05-20T09:39:10.430178+00:00,Micro Wilderness,micro-wilderness:tliltocatl-albopilosum-nicaraguan-male-nicaraguan-curly-hair,Tliltocatl albopilosum 'Nicaraguan' - Male - Nicaraguan Curly Hair Tarantula,39.99,49.99,25.0
+2026-05-20T09:39:10.430178+00:00,Micro Wilderness,micro-wilderness:pamphobeteus-sp-mascara-unsexed-mascara-birdeater-purple-bloom,Pamphobeteus sp. Mascara - Mascara Birdeater Unsexed,79.99,99.99,25.0
+2026-05-20T09:39:10.430178+00:00,Micro Wilderness,micro-wilderness:grammostola-pulchra,Grammostola pulchra - Unsexed - Brazilian Black,199.99,149.99,25.0
+2026-05-20T09:39:10.430178+00:00,Micro Wilderness,micro-wilderness:tliltocatl-albopilosum-nicaraguan-female-nicaraguan-curly-hair,Tliltocatl albopilosus  Nicaraguan pure blood - Female - Nicaraguan Curly Hair Tarantula,174.99,110.0,37.1
+2026-05-20T09:39:10.430178+00:00,American Reptile Distributors,american-reptile-distributors:leopard-tortoise-adult-female-2651-pardalis-babcocki,HI White Leopard Tortoise Adult Female #2651 (Pardalis babcocki),1099.99,999.99,9.1
+2026-05-20T09:39:10.430178+00:00,American Reptile Distributors,american-reptile-distributors:albino-chinese-softshell-turtle-adult-male-2-pelodiscus-sinensis,Albino Chinese Softshell Turtle Adult Male #2 (Pelodiscus sinensis),399.99,299.99,25.0
+2026-05-20T09:39:10.430178+00:00,American Reptile Distributors,american-reptile-distributors:speckled-dune-gecko-stenodactylus-stenodactylus,Speckled Dune Gecko Adults (Stenodactylus stenodactylus),34.99,29.99,14.3
+2026-05-20T09:39:10.430178+00:00,Big Apple Herp,big-apple-herp:hypo-citrus-dragons,Hypo Citrus Bearded Dragons,99.95,89.95,10.0
+2026-05-20T09:39:10.430178+00:00,David's Beetles,davids-beetles:adults-rainbow-stag-beetle-phalacrognathus-muelleri,ADULTS:  Rainbow stag beetle  (Phalacrognathus muelleri),75.0,80.0,6.7
+2026-05-20T09:39:10.430178+00:00,Coast2Coast Beetles,coast2coast-beetles:propomacrus-bimucronatus-turkey-long-arm-beetle,Propomacrus bimucronatus (Turkey Long Arm Beetle),15.0,10.0,33.3
+2026-05-20T09:39:10.430178+00:00,Coast2Coast Beetles,coast2coast-beetles:untitled-sep9_17-15,Breeding/Rearing Asian White Rot Log,28.99,25.99,10.3
+2026-05-20T09:39:10.430178+00:00,Imperial Reptiles,imperial-reptiles:pastel-anaconda-western-hognose-baby,Pastel Western Hognose,299.99,169.99,43.3
+2026-05-20T09:39:10.430178+00:00,Imperial Reptiles,imperial-reptiles:superconda-western-hognose-baby,SuperConda Western Hognose,249.99,189.99,24.0
+2026-05-20T09:39:10.430178+00:00,Imperial Reptiles,imperial-reptiles:toffee-conda-t-albino-western-hognose-baby,Toffee Conda (T+ Albino) Western Hognose,499.99,239.99,52.0
+2026-05-20T09:39:10.430178+00:00,Imperial Reptiles,imperial-reptiles:anaconda-western-hognose-baby-for-sale,Anaconda Western Hognose,189.99,149.99,21.1
+2026-05-20T09:39:10.430178+00:00,Pangea Reptile,pangea-reptile:juvenile-og-noir-crested-gecko-cr-1120,Female OG Noir Crested Gecko Cr-1120,999.99,599.99,40.0
+2026-05-20T09:39:10.430178+00:00,Pangea Reptile,pangea-reptile:juvenile-extreme-harlequin-crested-gecko-cr-1129,Female Tricolor Extreme Harlequin Crested Gecko Cr-1129,699.99,499.99,28.6
+2026-05-20T09:39:10.430178+00:00,Pangea Reptile,pangea-reptile:female-xxx-crested-gecko-cr-1331,Female XXX Crested Gecko Cr-1331,899.99,499.99,44.4
+2026-05-20T09:39:10.430178+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-queen-chrysalis,Single Queen Chrysalis,14.99,18.0,20.1
+2026-05-20T09:39:10.430178+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:mourning-cloak-caterpillers-or-chrysalis,Mourning Cloak Caterpillers or Chrysalis,75.0,37.5,50.0
+2026-05-20T09:39:10.430178+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:pipevine-swallowtail-caterpillars-or-chrysalis,Pipevine Swallowtail Caterpillars or Chrysalis,75.0,37.5,50.0
+2026-05-20T09:39:10.430178+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:giant-swallowtail-caterpillars-or-chrysalis,Giant Swallowtail Caterpillars or Chrysalis,65.0,45.0,30.8
+2026-05-20T09:39:10.430178+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,75.0,37.5,50.0
