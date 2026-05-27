@@ -245,7 +245,7 @@
         {
           "breeder": "Praying Mantis Shop",
           "product_name": "Praying Mantis Living Juvenile - Carolina",
-          "price": 19.5,
+          "price": 24.5,
           "available": true,
           "url": "https://prayingmantisshop.com/products/praying-mantis-juvenile-carolina",
           "life_stage": "Juvenile"
@@ -2271,13 +2271,6 @@
           ]
         },
         {
-          "breeder": "Exotics Source",
-          "product_name": "Emperor Scorpion (Pandinus imperator)",
-          "price": 75.0,
-          "available": true,
-          "url": "https://exoticssource.com/products/emperor-scorpion-pandinus-imperator"
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Pandinus imperator- Emperor Scorpion- unsexed",
           "price": 99.99,
@@ -2347,11 +2340,18 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Exotics Source",
+          "product_name": "Emperor Scorpion (Pandinus imperator)",
+          "price": 75.0,
+          "available": false,
+          "url": "https://exoticssource.com/products/emperor-scorpion-pandinus-imperator"
         }
       ],
       "supplier_count": 6,
-      "in_stock_count": 4,
-      "best_price": 75.0,
+      "in_stock_count": 3,
+      "best_price": 89.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+emperor+scorpion&tag=getlivebugs-20",
         "creature_label": "Live Emperor Scorpion",
@@ -2969,7 +2969,7 @@
             {
               "label": "Spiderling alone",
               "price": 39.0,
-              "available": true
+              "available": false
             },
             {
               "label": "🛖🛖 MAKE IT A PACKAGE!",
@@ -4080,11 +4080,11 @@
         },
         {
           "breeder": "Buddha Bugs",
-          "product_name": "Chromatopelma cyaneopubescens (green bottle blue tarantula) 1\"",
+          "product_name": "Chromatopelma cyaneopubescens (green bottle blue tarantula) 0.75\"-1\"",
           "price": 65.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-for-sale",
-          "size": "1\""
+          "size": "0.75–1\""
         },
         {
           "breeder": "American Reptile Distributors",
@@ -5134,17 +5134,17 @@
             {
               "label": "2100 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 65.24,
-              "available": false
+              "available": true
             },
             {
               "label": "2100 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 67.24,
-              "available": false
+              "available": true
             },
             {
               "label": "2100 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 68.74,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -6846,7 +6846,7 @@
       "price_range": "25-60",
       "best_price": 10.0,
       "supplier_count": 8,
-      "in_stock_count": 4,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -6854,6 +6854,29 @@
           "price": 10.0,
           "available": true,
           "url": "https://www.fangztv.com/products/lasiodora-parahybana-brazilian-salmon-pink-tarantula-1"
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Lasiodora parahybana - (Brazilian Salmon Pink Birdeater Tarantula) about 1/4\" - 1/2\"",
+          "price": 15.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/lasiodora-parahybana-brazilian-salmon-pink-birdeater-tarantula",
+          "size": "1/4–1/2\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "Spiderling Alone",
+              "price": 15.0,
+              "available": true
+            },
+            {
+              "label": "Make It A Package! 🛖🛖🛖",
+              "price": 25.0,
+              "available": true
+            }
+          ]
         },
         {
           "breeder": "The Defiant Forest",
@@ -6912,29 +6935,6 @@
           "available": true,
           "url": "https://buddha-bugs.com/products/lasiodora-parahybana-salmon-pink-bird-eater-tarantula-for-sale",
           "size": "1.25\""
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Lasiodora parahybana - (Brazilian Salmon Pink Birdeater Tarantula) about 1/3\" - 1/2\" COMING SOON! SIGN UP FOR AN EMAIL ALERT.",
-          "price": 15.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/lasiodora-parahybana-brazilian-salmon-pink-birdeater-tarantula",
-          "size": "1/3–1/2\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "Spiderling Alone",
-              "price": 15.0,
-              "available": false
-            },
-            {
-              "label": "Make It A Package! 🛖🛖🛖",
-              "price": 25.0,
-              "available": false
-            }
-          ]
         },
         {
           "breeder": "Micro Wilderness",
@@ -9131,7 +9131,7 @@
       "price_range": "20-50",
       "best_price": 20.0,
       "supplier_count": 7,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "Coast2Coast Beetles",
@@ -9143,25 +9143,6 @@
             {
               "label": "L1/L2",
               "price": 20.0,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "David's Beetles",
-          "product_name": "LARVAE: Eastern Hercules beetle (Dynastes tityus)",
-          "price": 29.99,
-          "available": true,
-          "url": "https://davidsbeetles.com/products/larvae-dynastes-tityus",
-          "variants": [
-            {
-              "label": "L1/L2",
-              "price": 29.99,
-              "available": false
-            },
-            {
-              "label": "L3",
-              "price": 30.0,
               "available": true
             }
           ]
@@ -9254,6 +9235,25 @@
             {
               "label": "L3",
               "price": 40.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "David's Beetles",
+          "product_name": "LARVAE: Eastern Hercules beetle (Dynastes tityus)",
+          "price": 29.99,
+          "available": false,
+          "url": "https://davidsbeetles.com/products/larvae-dynastes-tityus",
+          "variants": [
+            {
+              "label": "L1/L2",
+              "price": 29.99,
+              "available": false
+            },
+            {
+              "label": "L3",
+              "price": 30.0,
               "available": false
             }
           ]
@@ -9354,12 +9354,12 @@
             {
               "label": "Medium Juvenile",
               "price": 9.99,
-              "available": true
+              "available": false
             },
             {
               "label": "Small Baby",
               "price": 7.99,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -10171,8 +10171,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 41,
-    "last_updated": "May 24, 2026",
-    "next_update": "May 27, 2026",
-    "last_updated_iso": "2026-05-24T08:38:11.287989+00:00"
+    "last_updated": "May 27, 2026",
+    "next_update": "May 31, 2026",
+    "last_updated_iso": "2026-05-27T10:02:58.805431+00:00"
   }
 }
