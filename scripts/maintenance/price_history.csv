@@ -1489,3 +1489,73 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-05-31T08:49:51.135579+00:00,Pangea Reptile,pangea-reptile:female-tricolor-crested-gecko-cr-1487,Female Extreme Harlequin Crested Gecko Cr-1487,999.99,499.99,50.0
 2026-05-31T08:49:51.135579+00:00,Buckeye Myrmecology,buckeye-myrmecology:camponotus-subbarbatus-for-sale,Camponotus subbarbatus,56.0,60.0,7.1
 2026-05-31T08:49:51.135579+00:00,Wish Upon A Butterfly,wish-upon-a-butterfly:red-admiral-butterflies-for-butterfly-release,Red Admiral Butterflies for Butterfly Release,95.0,8.0,91.6
+2026-06-03T11:04:12.489732+00:00,Ty Dye Exotics,ty-dye-exotics:phidippus-audax-bold-jumping-spider-charismatic-pet-spider-live-arrival-guarantee,Phidippus audax – Bold Jumping Spider | Charismatic Pet Spider | Live Arrival Guarantee,29.99,16.49,45.0
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:zoo-med-super-deluxe-10-stainless-steel-feeding-tongs-auction-30,Zoo Med Super Deluxe 10″ Stainless Steel Feeding Tongs Auction,6.0,4.0,33.3
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-30,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,9.0,7.0,22.2
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-34,Large Discoid 250ct Auction,13.0,25.0,92.3
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-18,48x24x12 (60 Gallon) V2 Auction,146.69,151.0,2.9
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-19,XL Dubia Roaches 250ct Auction,47.0,52.0,10.6
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-18,220w Heat Panel Reptile Habitat Auction,200.0,130.0,35.0
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-29,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,4.0,10.0,150.0
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-500ct-auction-11,Medium Mealworm 500ct Auction,4.0,7.0,75.0
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:small-superworm-1-000ct-auction-18,"Small Superworm 1,000ct Auction",18.0,10.0,44.4
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-25,80w Heat Panel Reptile Habitat Auction,67.0,85.13,27.1
+2026-06-03T11:04:12.489732+00:00,DubiaRoaches.com,dubiaroaches:36x18x18-v3-50-gallon-auction-19,36x18x18 V3 (50 Gallon) Auction,115.0,162.0,40.9
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:birupes-simoroxigorum-tarantula,"Birupes simoroxigorum tarantula (Borean Neon-Blue Leg Tarantula)  *Very Rare about 1/2"" - 3/4""",49.0,75.0,53.1
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-metallica-metallic-pinktoe-tarantula-for-sale,"Avicularia metallica (Metallic Pink Toe) about 3/4""-1""",32.0,45.0,40.6
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:heterothele-gabonensis-tarantula-for-sale,"Heterothele gabonensis (Gabon Blue Dwarf Baboon Tarantula) about 1/3"" - 1/2""+",19.0,34.0,78.9
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:orphnaecus-sp-rizal-blue-tarantula,"Orphnaecus sp Rizal Blue  about 1/4"" - 1/2""",29.0,55.0,89.7
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:omothymus-violaceopes-singapore-blue-tarantula-for-sale,"Omothymus violaceopes (Singapore Blue Tarantula) about 1""",24.0,49.0,104.2
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:homoeomma-chilense-chilean-flame-tarantula-small,"Homoeomma chilense  (Chilean Flame Tarantula)  about 1/4""",69.0,135.0,95.7
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:phidippus-regius-regal-jumping-spider-juveniles,"Phidippus regius (Regal Jumping Spider) not quite 1/4"" Captive born.",15.0,35.0,133.3
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormictopus-bayahibe-neon-pink-birdeater-tarantula,"Phormictopus sp. ""Bayahibe"" (Neon Pink Birdeater Tarantula) about 1""",49.0,69.0,40.8
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:harpactira-dictator-tarantula-dictator-baboon,"Harpactira dictator (Dictator Baboon Tarantula) about 3/4"" - 1""+",39.0,75.0,92.3
+2026-06-03T11:04:12.489732+00:00,Fear Not Tarantulas,fear-not-tarantulas:tapinauchenius-sanctivincenti-tarantula-for-sale,"Tapinauchenius sanctivincenti (St. Vincent's Tree Spider) about 3/4"" - 1""",19.0,45.0,136.8
+2026-06-03T11:04:12.489732+00:00,Exotics Source,exotics-source:custom-order,Custom Order,1065.0,250.0,76.5
+2026-06-03T11:04:12.489732+00:00,Spider Shoppe,spider-shoppe:avicularia-geroldi-brazilian-blue-green-pink-toe-0-75,Avicularia geroldi (Brazilian Blue-Green Pink Toe),74.0,94.0,27.0
+2026-06-03T11:04:12.489732+00:00,Praying Mantis Shop,praying-mantis-shop:praying-mantis-eggs-ootheca-chinese,Praying Mantis Egg Case,7.5,9.5,26.7
+2026-06-03T11:04:12.489732+00:00,FangzTV,fangztv:lasiodora-parahybana-brazilian-salmon-pink-tarantula-1,Lasiodora parahybana Brazilian Salmon Pink Tarantula .5'',10.0,15.0,50.0
+2026-06-03T11:04:12.489732+00:00,FangzTV,fangztv:tliltocatl-albopilosum-honduran-curlyhair-tarantula-75,Tliltocatl albopilosus Honduran curlyhair tarantula 1'',15.0,18.0,20.0
+2026-06-03T11:04:12.489732+00:00,FangzTV,fangztv:brachypelma-hamorii-2-mexican-red-knee-tarantula,Brachypelma Hamorii  Mexican Red knee Tarantula 1.25'',60.0,50.0,16.7
+2026-06-03T11:04:12.489732+00:00,Big Apple Herp,big-apple-herp:ouachita-map-turtles,Ouachita Map Turtles,34.95,29.95,14.3
+2026-06-03T11:04:12.489732+00:00,Big Apple Herp,big-apple-herp:crested-toads,Crested Toads,42.95,54.95,27.9
+2026-06-03T11:04:12.489732+00:00,Big Apple Herp,big-apple-herp:small-webbed-bell-toads,Small Webbed Bell Toads,89.95,79.95,11.1
+2026-06-03T11:04:12.489732+00:00,Big Apple Herp,big-apple-herp:java-wart-snakes,Java Wart & Elephant Trunk Snakes,109.95,99.94,9.1
+2026-06-03T11:04:12.489732+00:00,Big Apple Herp,big-apple-herp:salamanders-for-sale,Salamanders (Various Species),26.95,29.95,11.1
+2026-06-03T11:04:12.489732+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:polyphemus-moth-eggs,Polyphemus Moth Eggs,25.0,35.0,40.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-nicklesi-orange-isopods-for-sale,Porcellio nicklesi “Orange&#8221;,64.99,12.99,80.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-werneri-silver-back-isopods,Porcellio Werneri ‘Silver Back’,69.99,14.99,78.6
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellionides-pruinosus-lemon-berry-crumble,Porcellionides Pruinosus “Lemon Berry Crumble”,39.99,6.99,82.5
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-dilatatus-rust-isopods-for-sale,Porcellio Dilatatus “Rust”,19.99,17.99,10.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-silvestri-isopods,Porcellio silvestri,34.99,6.99,80.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-sp-morocco-isopods,Porcellio sp. &#8216;Morocco&#8217;,39.99,5.99,85.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-scaber-orins-calico-isopods,Porcellio scaber &#8216;Orin&#8217;s Calico&#8217;,19.99,5.99,70.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-ornatus-high-yellow-isopods,Porcellio ornatus &#8216;High Yellow&#8217;,59.99,8.99,85.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-magnificus-isopods-for-sale,Porcellio magnificus,54.99,12.99,76.4
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-haasi-bright-isopods,Porcellio haasi &#8220;Bright&#8221;,79.99,12.99,83.8
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-haasi-giant-isopods,Porcellio haasi &#8216;Giant,39.99,12.99,67.5
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-duboscqui-troglophila-isopods,Porcellio duboscqui troglophila,49.99,6.99,86.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-flavomarginatus-isopods-for-sale,Porcellio flavomarginatus,49.99,9.99,80.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-expansus-autumnal-equinox-for-sale,Porcellio expansus &#8220;Autumnal Equinox&#8221;,180.0,44.99,75.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-expansus-for-sale,Porcellio expansus,75.0,16.99,77.3
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-nicklesi-rubivan-for-sale,Porcellio nicklesi &#8216;Rubivan&#8217;,45.0,9.99,77.8
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:cubaris-sp-rubber-ducky-for-sale,Cubaris Sp. &#8220;Rubber Ducky&#8221;,26.0,21.99,15.4
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-bolivari-yellow-ghost,Porcellio Bolivari &#8216;Yellow Ghost&#8217;,250.0,59.99,76.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-sp-spiky-canare,Porcellio Sp. &#8220;Spiky Canare&#8221;,75.0,7.99,89.3
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-bolivari,Porcellio Sp. Bolivari,70.0,14.99,78.6
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-haasi-high-yellow,Porcellio Haasi &#8216;High yellow&#8217;,30.0,9.99,66.7
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-werneri-greek-shield,Porcellio Werneri &#8216;Greek Shield&#8217;,65.0,12.99,80.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:cubaris-sp-black-evil,Cubaris Sp. &#8216;Black evil&#8217;,174.99,149.99,14.3
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:buy-porcellio-ornatus-witchs-brew-for-sale,Porcellio Ornatus &#8211; &#8220;Witch&#8217;s Brew&#8221;,42.0,8.99,78.6
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-sp-hoffmanseggii-isopods-copy,Porcellio Hoffmanseggii. &#8211; &#8216;Titan Isopod&#8217;,25.0,12.99,48.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-scaber-lemonade,Porcellio scaber &#8216;Lemonade&#8217;,20.0,5.99,70.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-scaber-koi,Porcellio scaber &#8216;Koi&#8217;,17.5,14.99,14.3
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-scaber-red-calico-copy,Porcellio scaber &#8216;Red calico&#8217;,12.5,9.99,20.1
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:ceratophysella-isabellae-lilac-springtails-for-sale,Ceratophysella isabellae | Lilac Springtails,9.99,10.99,10.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-expansus-orange-for-sale,Porcellio expansus &#8220;Orange&#8221;,105.0,19.99,81.0
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-dilatatus-giant-canyon-isopod-for-sale,Porcellio dilatatus &#8220;Giant Canyon Isopod&#8221;,8.99,5.99,33.4
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-ornatus-yellow-dot-for-sale,Porcellio ornatus &#8216;Yellow Dot&#8217;,11.99,4.99,58.4
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:porcellio-scaber-orange-dalmation,Porcellio scaber &#8216;Orange Dalmation&#8217;,12.0,6.99,41.8
+2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:cubaris-platinum-ducky-for-sale,Cubaris Sp. &#8216;Platinum Ducky&#8217;,110.0,89.99,18.2
+2026-06-03T11:04:12.489732+00:00,AntGear,antgear:pogonomyrmex-barbatus,Red Harvester Ant (Pogonomyrmex barbatus),59.99,89.99,50.0
+2026-06-03T11:04:12.489732+00:00,AntGear,antgear:camponotus_fragilis,Fraggles Carpenter Ants (Camponotus fragilis),44.99,89.99,100.0
