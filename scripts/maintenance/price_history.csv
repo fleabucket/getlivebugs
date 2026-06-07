@@ -1559,3 +1559,93 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-06-03T11:04:12.489732+00:00,TC Insects,tc-insects:cubaris-platinum-ducky-for-sale,Cubaris Sp. &#8216;Platinum Ducky&#8217;,110.0,89.99,18.2
 2026-06-03T11:04:12.489732+00:00,AntGear,antgear:pogonomyrmex-barbatus,Red Harvester Ant (Pogonomyrmex barbatus),59.99,89.99,50.0
 2026-06-03T11:04:12.489732+00:00,AntGear,antgear:camponotus_fragilis,Fraggles Carpenter Ants (Camponotus fragilis),44.99,89.99,100.0
+2026-06-07T09:17:12.137993+00:00,PanTerra Pets,panterra-pets:orchid-mantis,Orchid Mantis (H. coronatus),45.99,49.99,8.7
+2026-06-07T09:17:12.137993+00:00,The Defiant Forest,the-defiant-forest:giant-indo-red-leg-millipede-undescribed-sp,"Giant Red Leg Tree Millipede, Balustreptus falcatus -Captive Bred Babies Available Winter 2026",89.0,79.0,11.2
+2026-06-07T09:17:12.137993+00:00,The Defiant Forest,the-defiant-forest:gooty-sapphire-ornamental-tarantula,"Gooty Sapphire Ornamental Tarantula, Poecilotheria metallica - Arboreal Species",96.0,89.0,7.3
+2026-06-07T09:17:12.137993+00:00,The Defiant Forest,the-defiant-forest:green-bottle-blue-tarantulas,"Green Bottle Blue Tarantula, Chromatopelma cyaneopubescens - Heavy Webbing Species",54.0,39.0,27.8
+2026-06-07T09:17:12.137993+00:00,Exotics Unlimited,exotics-unlimited:poecilotheria-rufilata-red-slate-ornamental-tarantula-for-sale,Poecilotheria rufilata (Red Slate Ornamental Tarantula),95.0,99.0,4.2
+2026-06-07T09:17:12.137993+00:00,Exotics Unlimited,exotics-unlimited:copy-of-poecilotheria-regalis-indian-ornamental-tarantula-for-sale-female-7,Poecilotheria regalis (Indian Ornamental Tarantula),85.0,75.0,11.8
+2026-06-07T09:17:12.137993+00:00,Exotics Unlimited,exotics-unlimited:poecilotheria-miranda-bengal-spotted-ornamental-tarantula-1-5-copy,Poecilotheria miranda (Bengal Spotted Ornamental Tarantula),165.0,150.0,9.1
+2026-06-07T09:17:12.137993+00:00,Exotics Unlimited,exotics-unlimited:poecilotheria-metallica-gooty-sapphire-tarantula-for-sale-female-5,Poecilotheria metallica (Gooty Sapphire Tarantula),150.0,135.0,10.0
+2026-06-07T09:17:12.137993+00:00,Exotics Unlimited,exotics-unlimited:grammostola-pulchra-brazilian-black-female-2-5,Grammostola pulchra (Brazilian Black Tarantula),95.0,86.0,9.5
+2026-06-07T09:17:12.137993+00:00,Exotics Unlimited,exotics-unlimited:cyriopagopus-lividus-cobalt-blue-tarantula-for-sale,Cyriopagopus lividus (Cobalt Blue Tarantula),44.0,39.0,11.4
+2026-06-07T09:17:12.137993+00:00,Ty Dye Exotics,ty-dye-exotics:birupes-simoroxigorum-borneo-neon-blue-leg-tarantula-for-sale-live-arrival-guarantee,Birupes simoroxigorum - Borneo Neon Blue Leg Tarantula for Sale | Live Arrival Guarantee,74.99,57.99,22.7
+2026-06-07T09:17:12.137993+00:00,Ty Dye Exotics,ty-dye-exotics:armadillidium-hauseni,Armadillidium hauseni,50.0,40.0,20.0
+2026-06-07T09:17:12.137993+00:00,DubiaRoaches.com,dubiaroaches:small-superworm-1-000ct-auction-19,"Small Superworm 1,000ct Auction",7.0,11.0,57.1
+2026-06-07T09:17:12.137993+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-33,Large Hornworm 6ct (Case Of 12) Auction,36.0,29.23,18.8
+2026-06-07T09:17:12.137993+00:00,DubiaRoaches.com,dubiaroaches:zoo-med-super-deluxe-10-stainless-steel-feeding-tongs-auction-32,Zoo Med Super Deluxe 10″ Stainless Steel Feeding Tongs Auction,6.0,3.0,50.0
+2026-06-07T09:17:12.137993+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-21,XL Dubia Roaches 250ct Auction,52.0,40.0,23.1
+2026-06-07T09:17:12.137993+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-26,80w Heat Panel Reptile Habitat Auction,85.13,68.11,20.0
+2026-06-07T09:17:12.137993+00:00,Fear Not Tarantulas,fear-not-tarantulas:phidippus-regius-jumping-spider-for-sale,"Phidippus regius (Regal Jumping Spider) about 1/2"" - 1"" CAPTIVE BORN AND RAISED",35.0,45.0,28.6
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-candied-yams,Regal Jumping Spider “Candied Yams”,65.0,75.0,15.4
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-harvest-fern,Regal Jumping Spider “Harvest Fern”,75.0,95.0,26.7
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-berry-biscuit,Regal Jumping Spider “Berry Biscuit”,95.0,75.0,21.1
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-lunaria,"Regal Jumping Spider ""Lunaria""",95.0,75.0,21.1
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-radiante,"Regal Jumping Spider ""Radiante""",95.0,75.0,21.1
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-whisper,"Regal Jumping Spider ""Whisper""",75.0,95.0,26.7
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-sangria,Regal Jumping Spider “Sangria”,95.0,75.0,21.1
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-jamba,"Regal Jumping Spider ""Jamba""",75.0,95.0,26.7
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-kelp,"Regal Jumping Spider ""Kelp""",75.0,95.0,26.7
+2026-06-07T09:17:12.137993+00:00,Exotics Source,exotics-source:regal-jumping-spider-lavender-for-sale,"Regal Jumping Spider ""Lavender""",75.0,95.0,26.7
+2026-06-07T09:17:12.137993+00:00,Spider Shoppe,spider-shoppe:thrixopelma-pruriens-peruvian-green-velvet-0-25,Ewok pruriens (Peruvian Green Velvet),20.0,24.0,20.0
+2026-06-07T09:17:12.137993+00:00,Tropical Isopods,tropical-isopods:armadillidium-hauseni,Armadillidium hauseni,50.0,40.0,20.0
+2026-06-07T09:17:12.137993+00:00,Buddha Bugs,buddha-bugs:hysterocrates-gigas-cameroon-red-baboon-tarantula-for-sale,"Hysterocrates gigas (Cameroon red baboon tarantula) 0.5""",30.0,20.0,33.3
+2026-06-07T09:17:12.137993+00:00,Big Apple Herp,big-apple-herp:ambilobe-panther-chameleons,Ambilobe Panther Chameleons,189.95,149.95,21.1
+2026-06-07T09:17:12.137993+00:00,Big Apple Herp,big-apple-herp:smooth-front-caiman,Smooth Front Dwarf Caimans,299.95,319.0,6.4
+2026-06-07T09:17:12.137993+00:00,Big Apple Herp,big-apple-herp:antilles-pink-toe-tarantulas,Antilles Pink Toe Tarantulas,124.95,69.95,44.0
+2026-06-07T09:17:12.137993+00:00,Big Apple Herp,big-apple-herp:amazon-milk-frogs,Amazon Milk Frogs,47.95,79.95,66.7
+2026-06-07T09:17:12.137993+00:00,Big Apple Herp,big-apple-herp:green-basilisks,Green & Brown Basilisks,44.95,37.95,15.6
+2026-06-07T09:17:12.137993+00:00,Big Apple Herp,big-apple-herp:irian-jaya-blue-tongue-skinks,Merauke Blue Tongue Skinks,149.0,199.95,34.2
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:infrared-thermometer-laser-temperature-gun,Infrared Thermometer Laser Temperature Gun,39.95,34.95,12.5
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-monsoon-nano,Exo Terra Monsoon Nano,95.95,104.99,9.4
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-heat-mat-30-40-gallons-16-watt,Exo Terra Heat Mat 30-40 gallons 16 watt,39.95,44.99,12.6
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:live-oak-leaf-litter-6-qt,Bio Dude Leaf Litter - Magnolia Leaves,17.95,9.95,44.6
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-monsoon-multi-ii,Exo Terra Monsoon Multi II,195.95,215.95,10.2
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-monsoon-solo-ii,Exo Terra Monsoon Solo II,134.99,145.95,8.1
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-dimming-pulse-proportional-thermostat-300w,Exo Terra Dimming/Pulse Proportional Thermostat 300w,82.95,84.95,2.4
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-daylight-basking-spot-lamp-25-watt,Exo Terra Daylight Basking Spot Lamp Bulb,13.95,14.99,7.5
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-combination-terrarium-lock,Exo Terra Combination Terrarium Lock,8.95,9.99,11.6
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-solar-glo-mercury-vapor-uvb-bulb-80-watt,Exo Terra Solar-Glo Mercury Vapor UVB Bulb,60.99,69.99,14.8
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-compact-top-mini,Exo Terra Compact Top,43.95,47.99,9.2
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-moss-vine-small,Exo Terra Moss Vine,12.95,15.99,23.5
+2026-06-07T09:17:12.137993+00:00,The Bio Dude,the-bio-dude:exo-terra-jungle-vine-small,Exo Terra Jungle Vine,12.95,13.99,8.0
+2026-06-07T09:17:12.137993+00:00,Imperial Reptiles,imperial-reptiles:black-night-x-tangerine-leopard-gecko-female-111424-10,Black Night x Tangerine Leopard Gecko Female,49.99,149.99,200.0
+2026-06-07T09:17:12.137993+00:00,Riverbottom Butterflies,riverbottom-butterflies:butterfly-party-house-for-birthdays-or-special-events-copy,Butterfly Party House Shipped To You (Anywhere in the US),595.0,550.0,7.6
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillo-officinalis-red-isopods,Armadillo officinalis &#8220;red&#8221;,34.99,29.99,14.3
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:spherillo-dream-isopods,Spherillo sp. &#8220;Dream&#8221;,84.99,159.99,88.2
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-white-panda-isopods,Cubaris sp. “White Panda”,34.99,49.99,42.9
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-dilatatus-sunset-isopods,Porcellio Dilatatus Sunset,12.99,16.99,30.8
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:trachelipus-balkan-giant-isopods,Trachelipus sp. &#8216;Balkan Giant&#8217;,39.99,34.99,12.5
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-scaber-orins-calico-isopods,Porcellio scaber &#8216;Orin&#8217;s Calico&#8217;,5.99,17.99,200.3
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:tapir-isopods,Cubaris sp.“Tapir”,39.99,29.99,25.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-sp-orange-freezy,Cubaris sp. &#8216;Orange Freezy&#8217;,29.99,24.99,16.7
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cute-honey-tigers-isopods-for-sale,Cubaris sp. “Cute Honey Tigers&#8221;,49.99,44.99,10.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:amber-firefly-isopods-for-sale,Cubaris sp. &#8216;Amber Firefly&#8217;,79.99,74.99,6.3
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:sandstone-isopods-for-sale,Armadillidium Scaberrimum &#8220;Sandstone&#8221;,19.99,29.99,50.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:twisted-clown-isopods-for-sale,Armadillidium klugii &#8216;Twisted Clown&#8217;,69.99,39.99,42.9
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:red-head-isopods-for-sale,Armadillidium flavoscutatum &#8216;Red Head&#8217;,29.99,24.99,16.7
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillo-tuberculatus-isopods-for-sale,Armadillo tuberculatus,44.99,34.99,22.2
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:agabiformius-lentus-isopods-for-sale,Agabiformius lentus,9.99,6.99,30.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-murina-pearls-isopods,Cubaris murina “Pearls”,49.99,39.99,20.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-expansus-autumnal-equinox-for-sale,Porcellio expansus &#8220;Autumnal Equinox&#8221;,44.99,39.99,11.1
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-nicklesi-rubivan-for-sale,Porcellio nicklesi &#8216;Rubivan&#8217;,9.99,7.99,20.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillidium-maculatum-chocolate-zebra-for-sale,Armadillidium maculatum &#8211; Chocolate Zebra,7.0,19.99,185.6
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillidium-klugii-orange-clown-isopods-2,Armadillidium klugii &#8216;Orange Clown&#8217; Isopods,175.0,34.99,80.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:oniscus-asellus-mardi-gras,Oniscus Asellus &#8216;Mardi Gras&#8217;,35.0,27.99,20.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:nesodillo-archangeli-yeti,Nesodillo Archangeli &#8216;Yeti&#8217;,30.0,27.99,6.7
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-bolivari,Porcellio Sp. Bolivari,14.99,59.99,300.2
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-haasi-high-yellow,Porcellio Haasi &#8216;High yellow&#8217;,9.99,7.99,20.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-sp-red-tiger,Cubaris Sp. &#8216;Red Tiger&#8217;,75.0,39.99,46.7
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-sp-cappuccino,Cubaris Sp. Cappuccino,199.39,89.99,54.9
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-sp-red-edge,Cubaris &#8216;Red Edge&#8217;,20.0,24.99,24.9
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillidium-corcyraeum-isopods,Armadillidium Sp. Corcyraeum,17.5,12.99,25.8
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:sinodillo-vietnam-isopods,Sinodillo Sp. &#8211; &#8216;Vietnam&#8217;,50.0,29.99,40.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-sp-hoffmanseggii-isopods-copy,Porcellio Hoffmanseggii. &#8211; &#8216;Titan Isopod&#8217;,12.99,24.99,92.4
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-scaber-lemonade,Porcellio scaber &#8216;Lemonade&#8217;,5.99,9.99,66.8
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-scaber-koi,Porcellio scaber &#8216;Koi&#8217;,14.99,19.99,33.4
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillidium-vulgare-t-albino,Armadillidium vulgare &#8220;T- Albino&#8221;,25.0,19.99,20.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:armadillidium-maculatum-yellow-zebra-for-sale,Armadillidium maculatum &#8221; Yellow Zebra&#8221;,49.99,29.99,40.0
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-dilatatus-giant-canyon-isopod-for-sale,Porcellio dilatatus &#8220;Giant Canyon Isopod&#8221;,5.99,8.99,50.1
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-ornatus-yellow-dot-for-sale,Porcellio ornatus &#8216;Yellow Dot&#8217;,4.99,11.99,140.3
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-scaber-orange-dalmation,Porcellio scaber &#8216;Orange Dalmation&#8217;,6.99,9.99,42.9
+2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-sp-pak-chong-for-sale,Cubaris Sp. &#8216;Pak Chong&#8217;,75.0,34.99,53.3
