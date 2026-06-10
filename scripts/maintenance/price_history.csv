@@ -1649,3 +1649,72 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-ornatus-yellow-dot-for-sale,Porcellio ornatus &#8216;Yellow Dot&#8217;,4.99,11.99,140.3
 2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:porcellio-scaber-orange-dalmation,Porcellio scaber &#8216;Orange Dalmation&#8217;,6.99,9.99,42.9
 2026-06-07T09:17:12.137993+00:00,TC Insects,tc-insects:cubaris-sp-pak-chong-for-sale,Cubaris Sp. &#8216;Pak Chong&#8217;,75.0,34.99,53.3
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:dubia-roaches-mixed-group,Feeder Dubia Roaches Mixed Group,24.19,26.88,11.1
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:dubia-roaches-large-3-4-1-not-adults-in-a-cup,Feeder Dubia Roaches,25.92,10.08,61.1
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:small-1-2,Feeder Mealworms,10.37,11.52,11.1
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:medium-superworms-1-0-1-5,Feeder Superworms,16.42,18.24,11.1
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:large-square-tarantula-container-24oz,"Square Invertebrate Enclosure for Invertebrates under 2.5"" (All Types) - 4.5"" x 4.5"" x 3"" Cross Ventilated with Feeder Door",10.0,8.0,20.0
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:tapinauchenius-rasti,Tapinauchenius rasti (Caribbean Diamond Tarantula),45.0,35.0,22.2
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:xenesthis-sp-white-lowland-tarantula-2-2-5-female,Xenesthis sp 'white lowland' Tarantula FEMALE,750.0,799.0,6.5
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:devicarina-guidonae-orange-blaze-dwarf-tarantula-super-rare,Devicarina guidonae (Orange Blaze Dwarf Tarantula) *Worlds First Breeding*,399.0,250.0,37.3
+2026-06-10T10:06:12.661030+00:00,Exotics Unlimited,exotics-unlimited:anqasha-sp-canto,Anqasha sp. 'Canto' Tarantula *RARE*,150.0,149.0,0.7
+2026-06-10T10:06:12.661030+00:00,Ty Dye Exotics,ty-dye-exotics:unisex-t-shirt,Heavy Metal Centipede - Unisex T-Shirt,27.49,18.29,33.5
+2026-06-10T10:06:12.661030+00:00,Ty Dye Exotics,ty-dye-exotics:embroidered-beanie,Embroidered Beanie,24.99,19.59,21.6
+2026-06-10T10:06:12.661030+00:00,Ty Dye Exotics,ty-dye-exotics:og-ty-dye-chameleon-unisex-t-shirt,OG Ty Dye Chameleon Unisex T-Shirt,25.0,18.49,26.0
+2026-06-10T10:06:12.661030+00:00,Ty Dye Exotics,ty-dye-exotics:ty-dye-logo-t-shirt,Ty Dye Logo T-Shirt,32.0,26.49,17.2
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-35,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,1.0,9.0,800.0
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction-17,Medium Superworm 500ct Auction,17.0,12.0,29.4
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-21,48x24x12 (60 Gallon) V2 Auction,151.0,146.0,3.3
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-27,80w Heat Panel Reptile Habitat Auction,85.13,128.0,50.4
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-35,Large Hornworm 6ct (Case Of 12) Auction,29.23,19.0,35.0
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:small-dubia-roaches-500ct-auction-3,Small Dubia Roaches 500ct Auction,23.0,27.0,17.4
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-26,Large Hornworm 12ct (Case Of 6) Auction,20.0,17.0,15.0
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:xs-discoid-roaches-500ct-auction-3,XS Discoid Roaches 500ct Auction,20.0,27.0,35.0
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-2,Large Mealworm 500ct Auction,17.0,11.0,35.3
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:36x18x18-v3-50-gallon-auction-21,36x18x18 V3 (50 Gallon) Auction,162.0,180.0,11.1
+2026-06-10T10:06:12.661030+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-30,Dubia Roaches Medium 500ct Auction,43.0,36.0,16.3
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-sterling,Regal Jumping Spider “Sterling”,95.0,75.0,21.1
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-gooseberry,Regal Jumping Spider “Gooseberry”,75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-raspberry,"Regal Jumping Spider ""Raspberry""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-candy-corn,"Regal Jumping Spider ""Candy Corn""",95.0,75.0,21.1
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-marzipan,"Regal Jumping Spider ""Marzipan""",95.0,75.0,21.1
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-celaena,"Regal Jumping Spider ""Celaena""",95.0,75.0,21.1
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-moody,"Regal Jumping Spider ""Moody""",95.0,75.0,21.1
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-manzana,"Regal Jumping Spider ""Manzana""",95.0,75.0,21.1
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-firecracker-for-sale,"Regal Jumping Spider ""Firecracker""",65.0,95.0,46.2
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-sprinkle,"Regal Jumping Spider ""Sprinkle""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-nugget,"Regal Jumping Spider ""Nugget""",65.0,75.0,15.4
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-chocolate,"Regal Jumping Spider ""Chocolate""",65.0,75.0,15.4
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-pretzel,"Regal Jumping Spider ""Pretzel""",65.0,75.0,15.4
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-dragon-fruit,"Regal Jumping Spider ""Dragon Fruit""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-baguette,"Regal Jumping Spider ""Baguette""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-candy,"Regal Jumping Spider ""Candy""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-teddy,"Regal Jumping Spider ""Teddy""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Exotics Source,exotics-source:regal-jumping-spider-paradise,"Regal Jumping Spider ""Paradise""",75.0,95.0,26.7
+2026-06-10T10:06:12.661030+00:00,Spider Shoppe,spider-shoppe:rhacodactylus-auriculatus-gargoyle-gecko-red-super-stripe,Rhacodactylus auriculatus (Gargoyle Gecko) Red Stripe,138.0,128.0,7.2
+2026-06-10T10:06:12.661030+00:00,Spider Shoppe,spider-shoppe:rhacodactylus-auriculatus-gargoyle-gecko-red-stripe,Rhacodactylus auriculatus (Gargoyle Gecko) Red Super Stripe,148.0,138.0,6.8
+2026-06-10T10:06:12.661030+00:00,Spider Shoppe,spider-shoppe:rhacodactylus-auriculatus-gargoyl-gecko-red-super-stripe,Rhacodactylus auriculatus (Gargoyle Gecko) Red Super Stripe,178.0,148.0,16.9
+2026-06-10T10:06:12.661030+00:00,Spider Shoppe,spider-shoppe:chahoua-gecko-mniarogekko-chahoua-pine-island-proven-pair,Chahoua gecko (Mniarogekko chahoua) Pine Island Proven Pair,698.0,548.0,21.5
+2026-06-10T10:06:12.661030+00:00,Spider Shoppe,spider-shoppe:spinosatibiapalpus-paula-atlantico-stripe-knee-3-male-female,Spinosatibiapalpus paula (Atlantico Stripe Knee),198.0,168.0,15.2
+2026-06-10T10:06:12.661030+00:00,Buddha Bugs,buddha-bugs:cyriopagopus-albostriatus-purple-zebra-thai-zebra-earth-tiger-tarantula-for-sale,"Melopoeus albostriatus 'purple zebra', formerly Cyriopagopus sp. 'purple zebra' (Thai zebra earth tiger tarantula) 0.5""",65.0,75.0,15.4
+2026-06-10T10:06:12.661030+00:00,Buddha Bugs,buddha-bugs:avicularia-purpurea-purple-pink-toe-tarantula-for-sale,"Avicularia purpurea (purple pink-toed tarantula) 0.66""",75.0,65.0,13.3
+2026-06-10T10:06:12.661030+00:00,Gallegos Zoological,gallegos-zoological:varanus-salvator-asian-water-monitor,Varanus salvator (Asian Water Monitor),299.0,399.0,33.4
+2026-06-10T10:06:12.661030+00:00,American Reptile Distributors,american-reptile-distributors:frog-eyed-gecko-adults-teratoscincus-scincus,Frog Eyed Gecko Adults (Teratoscincus scincus),79.99,59.99,25.0
+2026-06-10T10:06:12.661030+00:00,Big Apple Herp,big-apple-herp:true-dwarf-caimans-for-sale,Dwarf Caimans,389.95,429.0,10.0
+2026-06-10T10:06:12.661030+00:00,Big Apple Herp,big-apple-herp:brazilian-rainbow-boas-1,Brazilian Rainbow Boas,359.95,329.0,8.6
+2026-06-10T10:06:12.661030+00:00,David's Beetles,davids-beetles:shipping-upgrade,Shipping upgrade,29.99,16.0,46.6
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:redichip-premium-medium-sized-coconut-chips-ready-to-use,RediChip Premium Medium Sized Coconut Chips; Ready to Use,14.95,19.95,33.4
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:babichip-premium-small-sized-coconut-chips-ready-to-use,BabiChip Premium Small Sized Coconut Chips; Ready to Use,16.95,21.95,29.5
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:reptichip-coarse-coconut-chip-mix-ready-to-use,ReptiChip Coarse Coconut Chip Mix; Ready to Use,14.95,19.95,33.4
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:microchip-fine-coconut-chip-mix-ready-to-use,MicroChip Fine Coconut Chip Mix; Ready to Use,16.95,21.95,29.5
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:skunk-lined-gecko-captive-bred,Skunk Gecko / White Lined Gecko - Captive Bred,74.95,49.95,33.4
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:central-american-banded-gecko-baby,Central American Banded Gecko - Baby,79.95,49.95,37.5
+2026-06-10T10:06:12.661030+00:00,The Bio Dude,the-bio-dude:zoo-med-basking-spot-lamp-50-w-2-pack,Zoo Med Basking Spot Bulb 2 BULB VALUE PACK!,17.95,19.95,11.1
+2026-06-10T10:06:12.661030+00:00,Heart Leaf Tropicals,heart-leaf-tropicals:deroplatys-gorochovi,Deroplatys gorochovi - i3/i4,20.0,45.0,125.0
+2026-06-10T10:06:12.661030+00:00,Imperial Reptiles,imperial-reptiles:banana-lemonblast-ball-python,Banana Lemonblast Ball Python,199.99,189.99,5.0
+2026-06-10T10:06:12.661030+00:00,Imperial Reptiles,imperial-reptiles:banana-pinstripe-ball-python-baby,Banana Pinstripe Ball Python,189.99,149.99,21.1
+2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-fronteras-strawberry-plants,Organic Fronteras Strawberry Plants,39.99,44.99,12.5
+2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-chandler-strawberry-plants,Organic Chandler Strawberry Plants,39.99,44.99,12.5
+2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-albion-strawberry-plants,Organic Albion Strawberry Plants,39.99,44.99,12.5
+2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-seascape-strawberry-plants,Organic Seascape Strawberry Plants,39.99,44.99,12.5
+2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-san-andreas-strawberry-plants,Organic San Andreas Strawberry Plants,39.99,44.99,12.5
