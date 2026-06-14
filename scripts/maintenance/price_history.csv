@@ -1718,3 +1718,61 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-albion-strawberry-plants,Organic Albion Strawberry Plants,39.99,44.99,12.5
 2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-seascape-strawberry-plants,Organic Seascape Strawberry Plants,39.99,44.99,12.5
 2026-06-10T10:06:12.661030+00:00,Grow Organic,grow-organic:organic-san-andreas-strawberry-plants,Organic San Andreas Strawberry Plants,39.99,44.99,12.5
+2026-06-14T09:38:33.453443+00:00,The Defiant Forest,the-defiant-forest:giant-indo-red-leg-millipede-undescribed-sp,"Giant Red Leg Tree Millipede, Balustreptus falcatus -Captive Bred Babies Available Winter 2026",79.0,85.0,7.6
+2026-06-14T09:38:33.453443+00:00,Exotics Unlimited,exotics-unlimited:brachypelma-hamorii-mexican-red-knee-tarantula-male-female,Brachypelma hamorii (Mexican Red Knee Tarantula) MALE,150.0,135.0,10.0
+2026-06-14T09:38:33.453443+00:00,Exotics Unlimited,exotics-unlimited:brachypelma-hamorii-mexican-red-knee-tarantula-female,Brachypelma hamorii (Mexican Red Knee Tarantula) FEMALE,199.0,249.0,25.1
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:scolopendra-sp-malaysian-jewel-centipede,Scolopendra sp. 'Malaysian Jewel' – Malaysian Jewel Centipede | Tri-Color Giant Centipede | Live Arrival Guarantee,249.99,224.99,10.0
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:acanthophrynus-coronatus-baja-whipscorpion,"Acanthophrynus coronatus – Baja Whipscorpion | Massive 14–16"" Whipspan | Live Arrival Guarantee",199.99,175.0,12.5
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:xenesthis-sp-light-light-beauty-birdeater-tarantula-pastel-colombian-giant-live-arrival-guarantee,Xenesthis sp Light – Light Beauty Birdeater Tarantula | Pastel Colombian Giant | Live Arrival Guarantee,379.0,329.0,13.2
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:caribena-versicolor-antilles-pinktoe-tarantula-stunning-color-transformation-live-arrival-guarantee,Caribena versicolor – Antilles Pinktoe Tarantula | Stunning Color Transformation | Live Arrival Guarantee,64.99,54.99,15.4
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:scolopendra-cf-viridicornis-brown-nordeste-do-brazil-amazon-tricolor-centipede-incredibly-rare-giant-south-american-species-live-arrival-guarantee,Scolopendra cf. viridicornis ‘Brown – Nordeste do Brazil’ – Amazon Tricolor Centipede | Incredibly Rare Giant South American Species | Live Arrival Guarantee,1349.0,1179.0,12.6
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:scolopendra-galapagoensis-dark-dcf-darwin-s-goliath-centipede-rare-dark-color-form-giant-live-arrival-guarantee,Scolopendra galapagoensis ‘Tricolor Robusta Dark’ – Darwin’s Goliath Centipede | Rare Dark Color Form Giant | Live Arrival Guarantee,1349.0,1179.0,12.6
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:scolopendra-sp-white-legs-white-leg-centipede-striking-south-american-giant-live-arrival-guarantee,Scolopendra sp. White Legs – White Leg Centipede | Striking South American Giant | Live Arrival Guarantee,1925.0,1179.0,38.8
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:pamphobeteus-sp-arana-pollito-chicken-spider-massive-new-world-birdeater-live-arrival-guarantee,Pamphobeteus sp. 'Araña Pollito' – Chicken Spider | Massive New World Birdeater | Live Arrival Guarantee,735.0,499.0,32.1
+2026-06-14T09:38:33.453443+00:00,Ty Dye Exotics,ty-dye-exotics:xenesthis-sp-white-colombian-lesser-white-tarantula-black-pink-giant-live-arrival-guarantee,Xenesthis sp White – Colombian Lesser White Tarantula | Black & Pink Giant | Live Arrival Guarantee,399.0,359.0,10.0
+2026-06-14T09:38:33.453443+00:00,DubiaRoaches.com,dubiaroaches:18x18x24-33-gallon-arboreal-reptile-enclosure-v3-auction,18x18x24 (33 Gallon) Arboreal Reptile Enclosure V3 Auction,1.0,150.0,14900.0
+2026-06-14T09:38:33.453443+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-37,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,9.0,2.0,77.8
+2026-06-14T09:38:33.453443+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-11,X-Small Dubia Roaches 500ct Auction,20.0,21.0,5.0
+2026-06-14T09:38:33.453443+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-27,Large Hornworm 12ct (Case Of 6) Auction,17.0,40.0,135.3
+2026-06-14T09:38:33.453443+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-28,80w Heat Panel Reptile Habitat Auction,128.0,52.0,59.4
+2026-06-14T09:38:33.453443+00:00,Bee Built,bee-built:mason-bee-revolution,Mason Bee Revolution,14.21,25.0,75.9
+2026-06-14T09:38:33.453443+00:00,Fear Not Tarantulas,fear-not-tarantulas:tliltocatl-albopilosus-curlyhair-tarantula,"Tliltocatl albopilosus (Curly Hair Tarantula) About 1/3"" - 1/2""",45.0,29.0,35.6
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-ivy,Regal Jumping Spider “Ivy”,75.0,95.0,26.7
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-punkin,"Regal Jumping Spider ""Punkin""",75.0,95.0,26.7
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-violet,"Regal Jumping Spider ""Violet""",75.0,95.0,26.7
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-champagne-for-sale,"Regal Jumping Spider ""Champagne""",75.0,95.0,26.7
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-cello,"Regal Jumping Spider ""Cello""",95.0,75.0,21.1
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-frostberry,"Regal Jumping Spider ""Frostberry""",75.0,95.0,26.7
+2026-06-14T09:38:33.453443+00:00,Exotics Source,exotics-source:regal-jumping-spider-cookie,"Regal Jumping Spider ""Cookie""",75.0,95.0,26.7
+2026-06-14T09:38:33.453443+00:00,Spider Shoppe,spider-shoppe:exo-terra-reptile-cave,Exo Terra Reptile Cave,8.49,10.0,17.8
+2026-06-14T09:38:33.453443+00:00,US Invertebrate LLC,us-invertebrate:psytalla-horrida-king,Psytalla horrida king,18.0,15.0,16.7
+2026-06-14T09:38:33.453443+00:00,Buddha Bugs,buddha-bugs:chilobrachys-fimbriatus-indian-violet-tarantula-for-sale,"Chilobrachys fimbriatus (Indian violet tarantula) 0.75""",35.0,20.0,42.9
+2026-06-14T09:38:33.453443+00:00,Gallegos Zoological,gallegos-zoological:varanus-salvator-asian-water-monitor,Varanus salvator (Asian Water Monitor),399.0,349.0,12.5
+2026-06-14T09:38:33.453443+00:00,David's Beetles,davids-beetles:adults-japanese-rhino-beetle-trypoxylus-dichotoma,ADULTS: Japanese Rhino Beetle (Trypoxylus dichotoma),79.99,69.99,12.5
+2026-06-14T09:38:33.453443+00:00,David's Beetles,davids-beetles:shipping-upgrade,Shipping upgrade,16.0,19.99,24.9
+2026-06-14T09:38:33.453443+00:00,David's Beetles,davids-beetles:blue-death-feigning-beetle,Blue death feigning beetle,12.0,14.99,24.9
+2026-06-14T09:38:33.453443+00:00,The Bio Dude,the-bio-dude:cuban-false-chameleon,Cuban False Chameleon - CB,124.95,99.95,20.0
+2026-06-14T09:38:33.453443+00:00,The Bio Dude,the-bio-dude:xenesthis-sp-light-light-beauty-birdeater-tarantula-pastel-colombian-giant-live-arrival-guarantee,Xenesthis sp Light – Light Beauty Birdeater Tarantula | Pastel Colombian Giant | TDE,379.0,329.0,13.2
+2026-06-14T09:38:33.453443+00:00,The Bio Dude,the-bio-dude:dendrobates-tinctorius-azureus,Dendrobates tinctorius ‘Azureus’ froglet,44.95,54.95,22.2
+2026-06-14T09:38:33.453443+00:00,Imperial Reptiles,imperial-reptiles:nu-ami-leachianus-gecko-112524-04,High Color Nuu Ana Leachianus Gecko Baby,499.99,399.99,20.0
+2026-06-14T09:38:33.453443+00:00,Imperial Reptiles,imperial-reptiles:super-banana-ball-python-baby,Super Banana Ball Python,199.99,189.99,5.0
+2026-06-14T09:38:33.453443+00:00,Imperial Reptiles,imperial-reptiles:porcellio-saber-lottery-mix-isopods-10-ct,"Porcellio scaber ""Lottery Mix"" Isopods (10 ct.)",24.99,14.99,40.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:multi-grafted-disease-resistant-pear-standard-no-1-size,"Disease Resistant Pears, 4 on 1 Multi Grafted Fruit Tree",89.99,44.99,50.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:flavor-supreme-plumcot-tree,Flavor Supreme Pluot Tree,48.99,39.99,18.4
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:dapple-dandy-plumcot-tree,Dapple Dandy Pluot Tree,64.99,39.99,38.5
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:royal-blenheim-apricot-tree,Royal Blenheim Apricot Tree,58.99,39.99,32.2
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:bing-cherry-tree,Bing Cherry Tree,55.99,39.99,28.6
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:golden-dorsett-apple-tree,Golden Dorsett Apple Tree,55.99,39.99,28.6
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:table-grape-vine-reliance-seedless,Reliance Seedless Table Grape Vine,29.99,20.99,30.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:n-a-olive-koroneiki-std-tree,Koroneiki Olive Tree,44.99,20.99,53.3
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:olive-arbosana-std-tr,Arbosana Olive Tree,44.99,39.99,11.1
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:goji-berry-potted,Potted Goji Berry - Phoenix Tears,39.99,20.99,47.5
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:grape-wine-shiraz-syrah-each,Shiraz (Syrah) Wine Grape Vine,29.99,20.99,30.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:grape-wine-merlot-each,Merlot Wine Grape Vine,29.99,20.99,30.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:grape-wine-chardonnay-each,Chardonnay Wine Grape Vine,29.99,20.99,30.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:manzanilla-olive-tree-potted,Manzanilla Olive Tree,44.99,20.99,53.3
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:pomegranate-parfianka,Potted Pomegranate Tree - Parfianka,39.99,20.99,47.5
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:grape-wine-pinot-noir-each,Pinot Noir Wine Grape Vine,29.99,20.99,30.0
+2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:web-master-item-black-satin-thornless-blackberry,Black Satin Thornless Blackberry,34.99,20.99,40.0
+2026-06-14T09:38:33.453443+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-badius-bundle-5-10-workers-queenfallen-fortress-bundle,"Pogonomyrmex badius Bundle (20+ workers, Queen)(Fallen Fortress Bundle)",164.99,154.99,6.1
+2026-06-14T09:38:33.453443+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:moth-discovery-kit-live-cocoons-educational-care-guide,Moth Discovery Kit – Live Cocoons & Educational Care Guide,70.0,100.0,42.9
