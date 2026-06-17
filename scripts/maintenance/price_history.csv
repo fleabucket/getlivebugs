@@ -1776,3 +1776,108 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-06-14T09:38:33.453443+00:00,Grow Organic,grow-organic:web-master-item-black-satin-thornless-blackberry,Black Satin Thornless Blackberry,34.99,20.99,40.0
 2026-06-14T09:38:33.453443+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-badius-bundle-5-10-workers-queenfallen-fortress-bundle,"Pogonomyrmex badius Bundle (20+ workers, Queen)(Fallen Fortress Bundle)",164.99,154.99,6.1
 2026-06-14T09:38:33.453443+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:moth-discovery-kit-live-cocoons-educational-care-guide,Moth Discovery Kit – Live Cocoons & Educational Care Guide,70.0,100.0,42.9
+2026-06-17T11:02:00.925633+00:00,USMANTIS,usmantis:phyllocrania-paradoxa-ghost-mantis,P paradoxa Ghost mantis All colors SALE,24.5,26.5,8.2
+2026-06-17T11:02:00.925633+00:00,The Defiant Forest,the-defiant-forest:giant-indo-red-leg-millipede-undescribed-sp,"Giant Red Leg Tree Millipede, Balustreptus falcatus -Captive Bred Babies Available Winter 2026",85.0,79.0,7.1
+2026-06-17T11:02:00.925633+00:00,The Defiant Forest,the-defiant-forest:chaco-golden-knee-tarantulas,"Chaco Golden Knee Tarantula, Grammostola pulchripes - Beginner Terrestrial Species",39.0,29.0,25.6
+2026-06-17T11:02:00.925633+00:00,The Defiant Forest,the-defiant-forest:zebra-isopod-armadillidium-maculatum,"Zebra Isopod, Armadillidium maculatum",27.5,24.0,12.7
+2026-06-17T11:02:00.925633+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-brand-dried-hardwood-black-oak-leaves,Dried & Aged Hardwood Leaves,10.89,9.89,9.2
+2026-06-17T11:02:00.925633+00:00,Ty Dye Exotics,ty-dye-exotics:biovive-soil-revitalizer-50-grams,BioVive Soil Revitalizer 50 grams,9.95,11.95,20.1
+2026-06-17T11:02:00.925633+00:00,Ty Dye Exotics,ty-dye-exotics:bioshot,BioShot,5.95,6.95,16.8
+2026-06-17T11:02:00.925633+00:00,Ty Dye Exotics,ty-dye-exotics:the-bio-dude-compressed-sphagnum-moss-brick-150-grams,The Bio Dude Compressed Sphagnum Moss Brick 150 Grams,14.95,20.95,40.1
+2026-06-17T11:02:00.925633+00:00,Ty Dye Exotics,ty-dye-exotics:theraphosa-stirmi-burgundy-goliath-birdeater-massive-new-world-species-live-arrival-guarantee,Theraphosa stirmi – Burgundy Goliath Birdeater | Massive New World Species | Live Arrival Guarantee,127.99,89.99,29.7
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction-24,Large Superworm 250ct Auction,8.0,31.0,287.5
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-40,Large Hornworm 6ct (Case Of 12) Auction,5.0,20.0,300.0
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-28,XL Dubia Roaches 250ct Auction,13.0,34.0,161.5
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-27,XL Dubia Roaches 250ct Auction,13.0,44.0,238.5
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-22,220w Heat Panel Reptile Habitat Auction,72.0,110.0,52.8
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-29,80w Heat Panel Reptile Habitat Auction,52.0,55.0,5.8
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-25,48x24x12 (60 Gallon) V2 Auction,190.0,150.0,21.1
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-24,48x24x12 (60 Gallon) V2 Auction,190.0,180.0,5.3
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-6,Large Mealworm 500ct Auction,11.0,8.0,27.3
+2026-06-17T11:02:00.925633+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-5,Large Mealworm 500ct Auction,11.0,7.0,36.4
+2026-06-17T11:02:00.925633+00:00,US Invertebrate LLC,us-invertebrate:iso-pods,Iso-PODS,5.0,6.0,20.0
+2026-06-17T11:02:00.925633+00:00,Buddha Bugs,buddha-bugs:scolopendra-galapagoensis-orange-darwins-goliath-centipede-for-sale,"Scolopendra galapagoensis 'orange' (Darwin's goliath centipede) 2.5""",285.0,265.0,7.0
+2026-06-17T11:02:00.925633+00:00,Buddha Bugs,buddha-bugs:stromatopelma-calceatum-feather-leg-baboon-tarantula-for-sale,"Stromatopelma calceatum (feather leg baboon tarantula) 0.5""",25.0,15.0,40.0
+2026-06-17T11:02:00.925633+00:00,Buddha Bugs,buddha-bugs:davus-sp-panama-lava-spider-for-sale,"Davus sp. 'Panama' (Panama pink tarantula / lava spider) 0.33""",125.0,150.0,20.0
+2026-06-17T11:02:00.925633+00:00,American Reptile Distributors,american-reptile-distributors:blizzard-snow-chinese-bullfrogs-hoplobatrachus-rugulosus,Blizzard Snow Chinese Bullfrogs (Hoplobatrachus rugulosus),89.99,59.99,33.3
+2026-06-17T11:02:00.925633+00:00,American Reptile Distributors,american-reptile-distributors:guadalupe-spiny-softshell-turtle-baby-apalone-spinifera-guadalupensis,Guadalupe Spiny Softshell Turtle Baby (Apalone spinifera guadalupensis),29.99,49.99,66.7
+2026-06-17T11:02:00.925633+00:00,Big Apple Herp,big-apple-herp:hypo-zero-bearded-dragon,Hypo Zero Bearded Dragons,299.95,329.95,10.0
+2026-06-17T11:02:00.925633+00:00,Big Apple Herp,big-apple-herp:super-red-bearded-dragon-stock-bdf1,Super Red Bearded Dragons,124.95,164.95,32.0
+2026-06-17T11:02:00.925633+00:00,Big Apple Herp,big-apple-herp:super-red-translucent-leather-bearded-dragons,Red Translucent Bearded Dragons,269.95,239.95,11.1
+2026-06-17T11:02:00.925633+00:00,Big Apple Herp,big-apple-herp:albino-iguanas,Albino Iguanas,239.95,299.95,25.0
+2026-06-17T11:02:00.925633+00:00,Coast2Coast Beetles,coast2coast-beetles:propomacrus-bimucronatus-turkey-long-arm-beetle,Propomacrus bimucronatus (Turkey Long Arm Beetle),10.0,19.99,99.9
+2026-06-17T11:02:00.925633+00:00,Coast2Coast Beetles,coast2coast-beetles:clay-pupation-mix-goliathus-etc,"Clay Pupation Mix (goliathus, chalcosoma, mtu, lucanus, etc)",6.5,10.0,53.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-compressed-sphagnum-moss-brick-150-grams,The Bio Dude Compressed Sphagnum Moss Brick 150 Grams,14.95,20.95,40.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:forest-floor-nut-pod-decor-pack,FOREST FLOOR NUT POD DECOR PACK,8.95,9.95,11.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:live-oak-leaf-litter-6-qt,Bio Dude Leaf Litter - Magnolia Leaves,9.95,15.95,60.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:bio-dude-x-kages-solar-ceramic-heat-bracket-1,Bio Dude X Kages Solar Ceramic Heat Bracket,19.95,24.95,25.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:bio-dude-solar-grow-led-36-copy,"Bio Dude Solar Lamp Fixture 12""",32.95,34.95,6.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:bio-dude-solar-grow-led-36,"Bio Dude Solar Grow LED 36""",49.95,54.95,10.0
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:marbled-newt-triturus-marmoratus-bio-active-kit,Marbled Newt (Triturus marmoratus) Bioactive Vivarium Kit,149.95,159.95,6.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-firma-bioactive-kit-55-gallon-1,Terra Firma Bioactive Kit 55 gallon,149.95,159.95,6.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-sahara-bioactive-kit-18-x-18-x-18-24,Terra Sahara Bioactive Kit 18 x 18 x 18/24,79.95,82.95,3.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-sahara-bioactive-kit-55-gallon,Terra Sahara Bioactive Kit 55 gallon,149.95,159.95,6.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-sahara-bioactive-kit-20-long,Terra Sahara Bioactive Kit 20 long,79.95,82.95,3.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-isopoda-arthropod-and-crustacean-substrate-6-quarts,Terra Isopoda Bioactive Isopod Substrate 6 quarts,19.95,24.95,25.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:tiger-salamander-ambystoma-tigrinum-bioactive-kit,Tiger Salamander (Ambystoma tigrinum) Bioactive Vivarium Kit,149.95,144.95,3.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:red-eyed-tree-frog-complete-care-kit,Red-eyed Tree Frog (Agalychnis callidryas) Bioactive Vivarium Kit,169.95,164.95,2.9
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:tomato-frog-habitat-care-kit,Tomato Frog (Dyscophus species) Bioactive Vivarium Kit,136.95,149.95,9.5
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:corn-snake-bioactive-kit,Corn Snake (Pantherophis guttatus) Bioactive Vivarium Kit,119.95,144.95,20.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:white-tree-frog-vivarium-care-kit,White's Tree Frog (Litoria caerulea) Bioactive Vivarium Kit,194.95,189.95,2.6
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:dart-frog-complete-terrarium-kit,Poison Dart Frog Bioactive Vivarium Kit,134.95,164.95,22.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-aranea-bioactive-kit-55-gallon,Terra Aranea Bioactive Kit 55 gallon,139.95,144.95,3.6
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-fauna-bioactive-kit-20-gallon,Terra Fauna Bioactive Kit  20 gallon high,83.95,84.95,1.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:desert-rain-frog-breviceps-macrops-bioactive-habitat-terrarium-kit,Desert Rain Frog (Breviceps macrops) Bioactive Vivarium Kit,129.95,149.95,15.4
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-fauna-bioactive-substrate-18-qt-bag,Terra Fauna Bioactive Substrate 18 qt bag,34.95,39.95,14.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-flora-bioactive-substrate-18-qt-bag,Terra Flora Bioactive Substrate 18 qt bag,34.95,39.95,14.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-aranea-substrate-for-tarantulas-18-quarts,Terra Aranea Substrate for Tarantulas 18 qt bag,34.95,39.95,14.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-firma-18-qt-bag,Terra Firma Bioactive Substrate 18 qt bag,34.95,39.95,14.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terra-sahara-bioactive-substrate-18-quarts,Terra Sahara Bioactive Substrate 18 qt bag,34.95,39.95,14.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-rock-hideaway-small,The Bio Dude - Rock Hideaway Small,7.95,10.95,37.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-rock-hideaway-medium,The Bio Dude - Rock Hideaway Medium,14.95,17.95,20.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-dino-decor-triceratops,The Bio Dude - Dino Decor Triceratops,9.95,14.95,50.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-dino-decor-t-rex,The Bio Dude - Dino Decor T-Rex,9.95,14.95,50.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-dino-decor-sabertooth-tiger,The Bio Dude - Dino Decor Sabertooth Tiger,9.95,14.95,50.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-dino-decor-dilophosaurus,The Bio Dude - Dino Decor Dilophosaurus,12.95,16.95,30.9
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-terra-bowl,The Bio Dude Terra Bowl,9.95,12.95,30.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-rock-water-bowl-medium,The Bio Dude Rock Water Bowl - Medium,9.95,11.95,20.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-rock-water-bowl-small,The Bio Dude Rock Water Bowl - Small,6.95,8.95,28.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:bee-pollen-1-lb,Pollen Power - Premium Bee Pollen Supplement,12.95,14.95,15.4
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:aaa-new-zealand-spag-moss-6qts,The Bio Dude AAA Grade Sphagnum Moss -Chilean-  6 quarts,11.95,13.95,16.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-solar-grow-t5-ho-single-replacement-bulb-27,"The Bio Dude Solar Grow T5 HO Single Replacement Bulb 22""",12.95,14.95,15.4
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-solar-grow-t5-ho-single-replacement-bulb-12,"The Bio Dude Solar Grow T5 HO Single Replacement Bulb 12""",9.95,11.95,20.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:the-bio-dude-solar-grow-t5-ho-single-replacement-bulb-36,"The Bio Dude Solar Grow T5 HO Single Replacement Bulb 34""",14.95,16.95,13.4
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:22-biodude-led,"Bio Dude Glow & Grow 22"" LED",79.95,94.95,18.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:vivarium-waterfall-kit-large-1,Vivarium Waterfall Kit Large,69.95,104.95,50.0
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:vivarium-rock-waterfall-kit-medium,Vivarium Rock Waterfall Kit Medium,89.95,109.95,22.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:vivarium-waterfall-kit-large,Vivarium Rock Waterfall Kit Large,154.95,209.95,35.5
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:vivarium-waterfall-kit-small,Vivarium Waterfall Kit Small,21.95,29.95,36.4
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terrarium-background-kit-grand,Terrarium Background Kit Grand,259.95,289.95,11.5
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terrarium-background-kit-large,Terrarium Background Kit Large,154.95,179.95,16.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:terrarium-background-kit-medium,Terrarium Background Kit Medium,84.95,99.95,17.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:vivarium-waterfall-kit,Vivarium Waterfall Kit Medium,42.95,59.95,39.6
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:background-blend-6-quarts,Background Blend 6 quarts,9.95,13.95,40.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:hydrogrow-v2-drainage-layer-6-quarts,HydroGrow V2 Drainage Layer 6 QUARTS,13.95,16.49,18.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:bio-dude-lizard-ledge-green-w-2-magnets,Bio Dude Lizard Ledge GREEN w/ 2 magnets 0.5 oz cup,17.95,19.95,11.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:exo-terra-swamp-glo-basking-spot-75-watt,Exo Terra Swamp Glo Basking Spot Bulb,20.99,23.99,14.3
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:biovive-soil-revitalizer,BioVive Soil Revitalizer 50 grams,9.95,11.95,20.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:exo-terra-solar-glo-mercury-vapor-uvb-bulb-80-watt,Exo Terra Solar-Glo Mercury Vapor UVB Bulb,69.99,71.99,2.9
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:flower-power-5-oz,Flower Power 20 grams,8.95,9.95,11.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:24-x-24-screen-cage-base-terra-firma-bioactive-kit,"24"" x 24"" (screen cage base) Terra Firma Bioactive Kit",269.95,279.95,3.7
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:18-x-18-screen-cage-base-terra-firma-bioactive-kit,"18"" x 18"" (screen cage base) Terra Firma Bioactive Kit",224.95,234.95,4.4
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:16-x-16-screen-cage-base-terra-firma-chameleon-bioactive-kit,"16"" x 16"" (screen cage base) Terra Firma Bioactive Kit",179.95,189.95,5.6
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:bio-shot-per-6-qt-bag,BioShot,5.95,6.95,16.8
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:vivarium-electronics-digital-thermometer-hygrometer,Bio Dude Digital Thermometer / Hygrometer,15.95,19.95,25.1
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:led-props,Glow & Grow LED Prop - set of 2,12.95,15.95,23.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:hydrogrow,HydroGrow V1 Drainage Layer 6 QUARTS,13.95,16.49,18.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:led-adapter,Glow & Grow LED Adapter,9.95,12.95,30.2
+2026-06-17T11:02:00.925633+00:00,The Bio Dude,the-bio-dude:southern-palm-bark-2-qt,Southern Palm Leaves 6 qt,12.95,15.95,23.2
+2026-06-17T11:02:00.925633+00:00,Imperial Reptiles,imperial-reptiles:whites-tree-frog-juvenile,White's Tree Frog  Baby (Blue Phase),74.99,39.99,46.7
+2026-06-17T11:02:00.925633+00:00,Imperial Reptiles,imperial-reptiles:snowflakes-whites-tree-frog-juvi-for-sale,Snowflakes White's Tree Frog Baby,74.99,24.99,66.7
+2026-06-17T11:02:00.925633+00:00,Imperial Reptiles,imperial-reptiles:high-color-hypo-woma-python-young-adult-female-for-sale,Woma Python (High Contrast) Adult Female #1,1100.0,999.99,9.1
+2026-06-17T11:02:00.925633+00:00,Imperial Reptiles,imperial-reptiles:dark-woma-python-adult-female-for-sale,Woma Python Adult,749.99,549.99,26.7
+2026-06-17T11:02:00.925633+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-colony-80-workerslabyrinth-bundle,"Pogonomyrmex occidentalis Colony (100+ workers, Queen)(Labyrinth Bundle)",249.99,299.99,20.0
+2026-06-17T11:02:00.925633+00:00,Tar Heel Ants,tar-heel-ants:formica-subsericea-11-16-workersfallen-fortress-bundle,Formica subsericea (5-10 workers)(Fallen Fortress Bundle),156.99,131.99,15.9
+2026-06-17T11:02:00.925633+00:00,Tar Heel Ants,tar-heel-ants:camponotus-chromaiodes-3-5-workers-queenants-only,"Camponotus chromaiodes (8-12 workers, queen)(Ants Only)",55.0,60.0,9.1
+2026-06-17T11:02:00.925633+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-badius-5-10-workersants-colony,Pogonomyrmex badius (15-20 workers)(Colony And Queen ONLY),80.0,85.0,6.2
+2026-06-17T11:02:00.925633+00:00,Wish Upon A Butterfly,wish-upon-a-butterfly:monarch-butterflies-for-releases,Monarch Butterflies for Butterfly Releases,95.0,9.0,90.5
