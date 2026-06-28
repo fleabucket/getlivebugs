@@ -2048,3 +2048,87 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-06-24T09:35:05.121849+00:00,AntGear,antgear:veromessor-pergandei,Black Harvester Ant (Veromessor pergandei),29.99,48.99,63.4
 2026-06-24T09:35:05.121849+00:00,AntGear,antgear:harvester-ant-seed-sampler,Mix &#038; Match Sampler for Seed Harvesting Ants,14.99,9.99,33.4
 2026-06-24T09:35:05.121849+00:00,AntGear,antgear:plugs-4-pack,Plugs &#8211; 4-pack,0.99,2.99,202.0
+2026-06-28T08:56:12.162952+00:00,USMANTIS,usmantis:copy-of-chinese-mantis-ooth-egg-case-live,3 pack Chinese Mantis ooth egg Case live,45.0,40.0,11.1
+2026-06-28T08:56:12.162952+00:00,The Defiant Forest,the-defiant-forest:giant-african-olive-millipede-telodeinopus-aoutii,"Giant Olive Speckled Leg Millipede, Telodeinopus aoutii | Captive Bred",25.0,20.0,20.0
+2026-06-28T08:56:12.162952+00:00,Exotics Unlimited,exotics-unlimited:star-pods,Star Pods,3.99,2.99,25.1
+2026-06-28T08:56:12.162952+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-12,Large Mealworm 500ct Auction,12.0,10.0,16.7
+2026-06-28T08:56:12.162952+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-31,Large Hornworm 12ct (Case Of 6) Auction,10.0,13.0,30.0
+2026-06-28T08:56:12.162952+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-31,48x24x12 (60 Gallon) V2 Auction,118.0,106.0,10.2
+2026-06-28T08:56:12.162952+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-51,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,1.0,5.0,400.0
+2026-06-28T08:56:12.162952+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction-30,Large Superworm 250ct Auction,31.0,8.0,74.2
+2026-06-28T08:56:12.162952+00:00,DubiaRoaches.com,dubiaroaches:jumping-spiders,Jumping Spiders,49.99,59.99,20.0
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-willow,Regal Jumping Spider “Willow”,75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-inferno,Regal Jumping Spider “Inferno”,75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:audax-bryantae-jumping-spider-foster,Audax Bryantae Jumping Spider “Foster”,95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-prancer,Regal Jumping Spider “Prancer”,95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-duskwillow,Regal Jumping Spider “Duskwillow”,75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-coven,"Regal Jumping Spider ""Coven""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-glowpetal,"Regal Jumping Spider ""Glowpetal""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-bumble,"Regal Jumping Spider ""Bumble""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-vanilla,"Regal Jumping Spider ""Vanilla""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-fruity-pebbles,Regal Jumping Spider “Fruity Pebbles”,95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-wonder,"Regal Jumping Spider ""Wonder""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-stardust,"Regal Jumping Spider ""Stardust""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-maple,"Regal Jumping Spider ""Maple""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-juniper,"Regal Jumping Spider ""Juniper""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-wildberry,"Regal Jumping Spider ""Wildberry""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-azalea,Regal Jumping Spider “Azalea”,95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-cheetah,"Regal Jumping Spider ""Cheetah""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-sunflower-for-sale,"Regal Jumping Spider ""Sunflower""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-puff,"Regal Jumping Spider ""Puff""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-pomegranate,"Regal Jumping Spider ""Pomegranate""",75.0,95.0,26.7
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-bubblegum,"Regal Jumping Spider ""Bubblegum""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-seafoam,"Regal Jumping Spider ""Seafoam""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-cupid,"Regal Jumping Spider ""Cupid""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Exotics Source,exotics-source:regal-jumping-spider-dancer,"Regal Jumping Spider ""Dancer""",95.0,75.0,21.1
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:zilla-mushroom-feeding-ledge,Zilla Mushroom Feeding Ledge,22.98,24.98,8.7
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:flukers-repta-bowl,Fluker's Repta-Bowl,6.98,7.98,14.3
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:komodo-small-reptile-feeder,Komodo Small Reptile Feeder,8.0,5.98,25.2
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:lees-mealworm-dish,Lee's Mealworm Dish,9.98,8.98,10.0
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:zoo-med-bio-active,Zoo Med Bio Active,15.98,17.98,12.5
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:zoo-med-feeder-platform,Zoo Med Feeder Platform,21.98,23.98,9.1
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:zilla-den-herp-hotel,Zilla Den Herp Hotel,15.98,18.98,18.8
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:exo-terra-ultrasonic-fogger,Exo Terra Ultrasonic Fogger,49.98,79.98,60.0
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:komodo-spray-bottle,Komodo Spray Bottle,3.98,4.98,25.1
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:aphonopelma-anax-texas-tan-2,Aphonopelma anax (Texas Tan),48.0,78.0,62.5
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:plant-dripper,Plant Dripper,58.98,78.98,33.9
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:zilla-waterfall,Zoo Med LED Waterfall,40.98,44.98,9.8
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:exo-terra-repti-flo-200-water-pump,Exo Terra Repti-Flo 200 Water Pump,24.0,21.98,8.4
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:pangea-rock-bowl,Pangea Rock Bowl,8.98,10.98,22.3
+2026-06-28T08:56:12.162952+00:00,Spider Shoppe,spider-shoppe:pangea-roach-cricket-food-16-oz,Pangea Roach & Cricket Food,9.98,13.98,40.1
+2026-06-28T08:56:12.162952+00:00,Buddha Bugs,buddha-bugs:avicularia-purpurea-purple-pink-toe-tarantula-for-sale,"Avicularia purpurea (purple pink-toed tarantula) 0.66""",65.0,75.0,15.4
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-21-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #21 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-22-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #22 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-24-chelydra-serpentina-osceola-copy,Albino Florida Snapping Turtle 2026 #24 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-25-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #25 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-19-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #19 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-20-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #20 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-12-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #12 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-14-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #14 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-15-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #15 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-8-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #8 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-9-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #9 (Chelydra serpentina osceola),499.99,399.99,20.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26503-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26503 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26504-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26504 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26506-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26506 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26507-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26507 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26509-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26509 (Malaclemys terrapin macrospilota),399.99,199.99,50.0
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26511-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26511 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26512-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26512 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26516-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26516 (Malaclemys terrapin macrospilota),299.99,199.99,33.3
+2026-06-28T08:56:12.162952+00:00,Big Apple Herp,big-apple-herp:giant-monkey-tree-frog,Giant Monkey Tree Frog,89.95,119.95,33.4
+2026-06-28T08:56:12.162952+00:00,Big Apple Herp,big-apple-herp:albino-black-rat-snakes,Albino Black Rat Snakes,189.0,84.95,55.1
+2026-06-28T08:56:12.162952+00:00,Big Apple Herp,big-apple-herp:lavendar-white-sided-black-rat-snakes,Lavendar White Sided Black Rat Snakes,149.0,119.95,19.5
+2026-06-28T08:56:12.162952+00:00,Big Apple Herp,big-apple-herp:brazilian-rainbow-boas-1,Brazilian Rainbow Boas,309.95,329.0,6.1
+2026-06-28T08:56:12.162952+00:00,David's Beetles,davids-beetles:larvae-dorcus-titanus-dorcus-titanus-yasuokai,LARVAE: Dorcus titanus (Dorcus titanus yasuokai),35.0,39.99,14.3
+2026-06-28T08:56:12.162952+00:00,Imperial Reptiles,imperial-reptiles:yellow-amazon-tree-boa-for-sale-1,Yellow Amazon Tree Boa,129.99,199.99,53.9
+2026-06-28T08:56:12.162952+00:00,Frognose Exotics,frognose-exotics:buton-island-giant-centipede,Buton Island Black Centipede,250.0,220.0,12.0
+2026-06-28T08:56:12.162952+00:00,Frognose Exotics,frognose-exotics:black-java-giant-centipede,Scolopendra Sp Java Black Giant,220.0,200.0,9.1
+2026-06-28T08:56:12.162952+00:00,Pangea Reptile,pangea-reptile:exo-terra-12x12x18-pro-terrarium-x-small-tall,"Exo Terra 12""x12""x18"" Pro Terrarium - X-Small Tall",84.99,89.99,5.9
+2026-06-28T08:56:12.162952+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:queen-butterfly-caterpillars-or-chrysalis,Queen Butterfly Caterpillars Or Chrysalis,75.0,65.0,13.3
+2026-06-28T08:56:12.162952+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:atala-butterfly-caterpillars-or-chrysalis,Atala Butterfly Caterpillars or Chrysalis,65.0,55.0,15.4
+2026-06-28T08:56:12.162952+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,75.0,85.0,13.3
+2026-06-28T08:56:12.162952+00:00,AntGear,antgear:medium-foraging-outworld-for-ant-colonies,Medium Foraging Outworld for Ant Colonies,29.99,24.99,16.7
+2026-06-28T08:56:12.162952+00:00,Buckeye Myrmecology,buckeye-myrmecology:dorymyrmex-bureni,Dorymyrmex bureni,25.0,30.0,20.0
+2026-06-28T08:56:12.162952+00:00,Buckeye Myrmecology,buckeye-myrmecology:pogonomyrmex-badius,Pogonomyrmex Badius,50.0,54.0,8.0
+2026-06-28T08:56:12.162952+00:00,Wish Upon A Butterfly,wish-upon-a-butterfly:monarch-caterpillars,Monarch Caterpillars,50.0,3.5,93.0
