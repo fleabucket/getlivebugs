@@ -2132,3 +2132,31 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-06-28T08:56:12.162952+00:00,Buckeye Myrmecology,buckeye-myrmecology:dorymyrmex-bureni,Dorymyrmex bureni,25.0,30.0,20.0
 2026-06-28T08:56:12.162952+00:00,Buckeye Myrmecology,buckeye-myrmecology:pogonomyrmex-badius,Pogonomyrmex Badius,50.0,54.0,8.0
 2026-06-28T08:56:12.162952+00:00,Wish Upon A Butterfly,wish-upon-a-butterfly:monarch-caterpillars,Monarch Caterpillars,50.0,3.5,93.0
+2026-07-01T09:52:40.538340+00:00,The Defiant Forest,the-defiant-forest:vietnamese-giant-flame-leg-millipede-alienostreptus-bicoloripes,"Giant Vietnamese Flame Leg Millipede, Alienostreptus bicoloripes - Bright Yellow & Red Legs",99.0,95.0,4.0
+2026-07-01T09:52:40.538340+00:00,The Defiant Forest,the-defiant-forest:giant-indo-red-leg-millipede-undescribed-sp,"Giant Red Leg Tree Millipede, Balustreptus falcatus | Captive Bred",79.0,85.0,7.6
+2026-07-01T09:52:40.538340+00:00,Nature's Good Guys,natures-good-guys:botanigard-22wp,BotaniGard 22WP,105.0,99.99,4.8
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-56,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,1.0,5.0,400.0
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-36,XL Dubia Roaches 250ct Auction,45.0,50.0,11.1
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-27,220w Heat Panel Reptile Habitat Auction,101.0,141.0,39.6
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-11,24x18x36 (67 Gallon) Arboreal Auction,300.0,200.0,33.3
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-43,Large Hornworm 6ct (Case Of 12) Auction,14.0,30.0,114.3
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-12,X-Small Dubia Roaches 500ct Auction,30.0,31.0,3.3
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-55,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,17.0,5.0,70.6
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-1-000ct-auction-6,"Medium Mealworm 1,000ct Auction",7.0,12.0,71.4
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-28,Medium Hornworm 24ct (Case Of 12) Auction,76.0,10.0,86.8
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-38,Large Discoid 250ct Auction,31.0,35.0,12.9
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:48x24x12-60-gallon-v2-auction-32,48x24x12 (60 Gallon) V2 Auction,106.0,124.0,17.0
+2026-07-01T09:52:40.538340+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction-18,Medium Superworm 500ct Auction,12.0,15.0,25.0
+2026-07-01T09:52:40.538340+00:00,Exotics Source,exotics-source:regal-jumping-spider-sloane,"Regal Jumping Spider ""Sloane""",95.0,75.0,21.1
+2026-07-01T09:52:40.538340+00:00,Exotics Source,exotics-source:regal-jumping-spider-lime,"Regal Jumping Spider ""Lime""",95.0,125.0,31.6
+2026-07-01T09:52:40.538340+00:00,Spider Shoppe,spider-shoppe:heterodon-nasicus-hognose-snake-yeti-female,"Heterodon nasicus (Hognose Snake) Snow (Axanthic, Albino)",698.0,598.0,14.3
+2026-07-01T09:52:40.538340+00:00,Holy-Poly Isopods,holy-poly-isopods:cherry-blossom-isopods-cubaris-sp,Cherry Blossom Isopods (Cubaris sp.),50.0,40.0,20.0
+2026-07-01T09:52:40.538340+00:00,Holy-Poly Isopods,holy-poly-isopods:citrus-isopods-cubaris-sp,Citrus Isopods (Cubaris sp.),13.0,12.0,7.7
+2026-07-01T09:52:40.538340+00:00,Holy-Poly Isopods,holy-poly-isopods:rubber-bee-isopods-cubaris-sp,Rubber Bee Isopods (Cubaris sp.),14.0,12.0,14.3
+2026-07-01T09:52:40.538340+00:00,Coast2Coast Beetles,coast2coast-beetles:propomacrus-bimucronatus-turkey-long-arm-beetle,Propomacrus bimucronatus (Turkey Long Arm Beetle),19.99,15.0,25.0
+2026-07-01T09:52:40.538340+00:00,Grow Organic,grow-organic:grain-sorghum-milo,Grain Sorghum / Milo - Raw Seed (Lb),12.99,11.99,7.7
+2026-07-01T09:52:40.538340+00:00,Grow Organic,grow-organic:collections-cover-crop-seeds,Crotolaria Juncea Sunn Hemp - Nitro Coated (LB),2.99,8.3,177.6
+2026-07-01T09:52:40.538340+00:00,Grow Organic,grow-organic:complete-soil-analysis,"Soil Test (S-103, Agricultural Soil)",69.99,74.99,7.1
+2026-07-01T09:52:40.538340+00:00,AntGear,antgear:novomessor-cockerelli,Desert Long-Legged Ants (Novomessor cockerelli),54.99,34.99,36.4
+2026-07-01T09:52:40.538340+00:00,AntGear,antgear:entomology-featherweight-forceps,Entomology Featherweight Forceps,5.99,6.99,16.7
+2026-07-01T09:52:40.538340+00:00,Buckeye Myrmecology,buckeye-myrmecology:pogonomyrmex-badius,Pogonomyrmex Badius,54.0,64.0,18.5
