@@ -229,6 +229,20 @@
           "url": "https://jmzbutterflyfarm.com/products/carolina-sphinx-moth-pupae-1"
         },
         {
+          "breeder": "Insect Sales",
+          "product_name": "One Carolina Praying Mantis Egg ... Fresh For This Season",
+          "price": 15.95,
+          "available": true,
+          "url": "https://insectsales.com/products/copy-of-carolina-praying-mantis-adult-male-and-female-educational-fun",
+          "variants": [
+            {
+              "label": "Shipped USPS or Click Here for Options",
+              "price": 15.95,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Praying Mantis Shop",
           "product_name": "Praying Mantis Living Juvenile - Carolina",
           "price": 24.5,
@@ -266,20 +280,6 @@
             {
               "label": "10-pack",
               "price": 90.93,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "Insect Sales",
-          "product_name": "One Carolina Praying Mantis Egg ... Fresh For This Season",
-          "price": 15.95,
-          "available": false,
-          "url": "https://insectsales.com/products/copy-of-carolina-praying-mantis-adult-male-and-female-educational-fun",
-          "variants": [
-            {
-              "label": "Shipped USPS or Click Here for Options",
-              "price": 15.95,
               "available": false
             }
           ]
@@ -326,7 +326,7 @@
         }
       ],
       "supplier_count": 9,
-      "in_stock_count": 2,
+      "in_stock_count": 3,
       "best_price": 12.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+carolina+mantis&tag=getlivebugs-20",
@@ -673,14 +673,24 @@
       "suppliers": [
         {
           "breeder": "USMANTIS",
-          "product_name": "Metilia sp. Dead Leaf mantis",
-          "price": 55.0,
-          "available": false,
-          "url": "https://usmantis.com/products/metilia-sp-dead-leaf-mantis",
+          "product_name": "Deroplatys gorochovi dead leaf mantis NEW species",
+          "price": 35.0,
+          "available": true,
+          "url": "https://usmantis.com/products/deroplatys-gorochovi-dead-leaf-mantis",
           "variants": [
             {
-              "label": "L3",
-              "price": 55.0,
+              "label": "I2/3",
+              "price": 35.0,
+              "available": false
+            },
+            {
+              "label": "I4",
+              "price": 45.0,
+              "available": true
+            },
+            {
+              "label": "5/6 female",
+              "price": 50.0,
               "available": false
             }
           ]
@@ -695,8 +705,8 @@
         }
       ],
       "supplier_count": 2,
-      "in_stock_count": 0,
-      "best_price": null,
+      "in_stock_count": 1,
+      "best_price": 35.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+dead+leaf+mantis&tag=getlivebugs-20",
         "creature_label": "Live Dead Leaf Mantis",
@@ -1375,6 +1385,13 @@
       },
       "suppliers": [
         {
+          "breeder": "US Invertebrate LLC",
+          "product_name": "Giant Asian Mantis (Hierodula membranacea)",
+          "price": 30.0,
+          "available": true,
+          "url": "https://usinvertebratellc.com/products/giant-asian-mantis-hierodula-membranacea"
+        },
+        {
           "breeder": "USMANTIS",
           "product_name": "Hierodula membranacea Giant Asian Mantis",
           "price": 32.0,
@@ -1515,9 +1532,9 @@
           ]
         }
       ],
-      "supplier_count": 5,
-      "in_stock_count": 1,
-      "best_price": 32.0,
+      "supplier_count": 6,
+      "in_stock_count": 2,
+      "best_price": 30.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+giant+asian+mantis&tag=getlivebugs-20",
         "creature_label": "Live Giant Asian Mantis",
@@ -1901,6 +1918,14 @@
           "url": "https://usinvertebratellc.com/products/orchid-mantis-hymenopus-coronatus"
         },
         {
+          "breeder": "Heart Leaf Tropicals",
+          "product_name": "Orchid Mantis  (Hymenopus coronatus) - i2/i3 (Indonesian variant)",
+          "price": 120.0,
+          "available": true,
+          "url": "https://heartleaftropicals.com/products/orchid-mantis",
+          "life_stage": "Instar 2"
+        },
+        {
           "breeder": "PanTerra Pets",
           "product_name": "Orchid Mantis (H. coronatus)",
           "price": 49.99,
@@ -1938,18 +1963,10 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Heart Leaf Tropicals",
-          "product_name": "Orchid Mantis  (Hymenopus coronatus) - i2/i3 (Indonesian variant)",
-          "price": 120.0,
-          "available": false,
-          "url": "https://heartleaftropicals.com/products/orchid-mantis",
-          "life_stage": "Instar 2"
         }
       ],
       "supplier_count": 5,
-      "in_stock_count": 3,
+      "in_stock_count": 4,
       "best_price": 60.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+orchid+mantis&tag=getlivebugs-20",
@@ -2402,6 +2419,13 @@
       },
       "suppliers": [
         {
+          "breeder": "FangzTV",
+          "product_name": "Caribena versicolor Antilles pinktoe  .5'' to .75\"",
+          "price": 45.0,
+          "available": true,
+          "url": "https://www.fangztv.com/products/caribena-versicolor-antilles-pinktoe-1-5-2"
+        },
+        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Caribena versicolor (Antilles Pinktoe Tarantula) about 1/2\" - 3/4\"",
           "price": 49.0,
@@ -2411,13 +2435,6 @@
           "life_stage": "Spiderling",
           "world": "New World",
           "habitat": "Arboreal"
-        },
-        {
-          "breeder": "FangzTV",
-          "product_name": "Caribena versicolor Antilles pinktoe  .5''",
-          "price": 50.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/caribena-versicolor-antilles-pinktoe-1-5-2"
         },
         {
           "breeder": "Buddha Bugs",
@@ -2527,7 +2544,7 @@
       ],
       "supplier_count": 8,
       "in_stock_count": 4,
-      "best_price": 49.0,
+      "best_price": 45.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=antilles+pinktoe+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Antilles Pinktoe Tarantula",
@@ -2625,14 +2642,6 @@
           "price": 74.99,
           "available": true,
           "url": "https://tcinsects.com/product/grammostola-pulchra-brazilian-black-tarantula/"
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Grammostola aff. pulchra (Brazilian black tarantula) 0.66\"",
-          "price": 85.0,
-          "available": true,
-          "url": "https://buddha-bugs.com/products/grammostola-pulchra-brazilian-black-tarantula-for-sale",
-          "size": "0.66\""
         },
         {
           "breeder": "The Bio Dude",
@@ -2737,6 +2746,14 @@
           "url": "https://www.fangztv.com/products/grammostola-pulchra-brazilian-black-tarantula-75"
         },
         {
+          "breeder": "Buddha Bugs",
+          "product_name": "Grammostola aff. pulchra (Brazilian black tarantula) 0.66\"",
+          "price": 85.0,
+          "available": false,
+          "url": "https://buddha-bugs.com/products/grammostola-pulchra-brazilian-black-tarantula-for-sale",
+          "size": "0.66\""
+        },
+        {
           "breeder": "The World of Isopods",
           "product_name": "Brazilian Black Tarantula",
           "price": 150.0,
@@ -2760,7 +2777,7 @@
         }
       ],
       "supplier_count": 12,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "best_price": 69.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=brazilian+black+tarantula+tarantula&tag=getlivebugs-20",
@@ -2858,15 +2875,24 @@
           ]
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula) 0.5-0.75\" STARS SALE",
-          "price": 55.0,
+          "breeder": "The Bio Dude",
+          "product_name": "Grammostola rosea RCF - Chilean Rose Hair 'Red' Tarantula for Sale | TDE",
+          "price": 56.24,
           "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/grammostola-porteri-now-rosea-chilean-rose-hair-tarantula-0-5-0-75-stars-sale",
-          "size": "0.5–0.75\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial"
+          "url": "https://thebiodude.com/products/grammostola-rosea-rcf-chilean-rose-hair-red-tarantula-for-sale-live-arrival-guarantee",
+          "size": "3/4–1.25\"",
+          "variants": [
+            {
+              "label": "3/4-1.25\"",
+              "price": 56.24,
+              "available": true
+            },
+            {
+              "label": "2-2.5\"",
+              "price": 118.49,
+              "available": true
+            }
+          ]
         },
         {
           "breeder": "Spider Shoppe",
@@ -2920,26 +2946,6 @@
           "url": "https://theworldofisopods.com/products/chilean-rose-hair-tarantula"
         },
         {
-          "breeder": "The Bio Dude",
-          "product_name": "Grammostola rosea RCF - Chilean Rose Hair 'Red' Tarantula for Sale | TDE",
-          "price": 74.99,
-          "available": true,
-          "url": "https://thebiodude.com/products/grammostola-rosea-rcf-chilean-rose-hair-red-tarantula-for-sale-live-arrival-guarantee",
-          "size": "3/4–1.25\"",
-          "variants": [
-            {
-              "label": "3/4-1.25\"",
-              "price": 74.99,
-              "available": true
-            },
-            {
-              "label": "2-2.5\"",
-              "price": 157.99,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "FangzTV",
           "product_name": "Grammostola rosea RedForm Chilean Rose Hair 1.5-2\"",
           "price": 80.0,
@@ -2972,6 +2978,17 @@
           ]
         },
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula) 0.5-0.75\" STARS SALE",
+          "price": 55.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/grammostola-porteri-now-rosea-chilean-rose-hair-tarantula-0-5-0-75-stars-sale",
+          "size": "0.5–0.75\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "Imperial Reptiles",
           "product_name": "Chilean Rose Hair 'Red' Tarantula (Grammostola rosea 'Red')",
           "price": 89.99,
@@ -2988,7 +3005,7 @@
         }
       ],
       "supplier_count": 11,
-      "in_stock_count": 9,
+      "in_stock_count": 8,
       "best_price": 48.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=chilean+rose+tarantula+tarantula&tag=getlivebugs-20",
@@ -3077,19 +3094,19 @@
         {
           "breeder": "The Bio Dude",
           "product_name": "Melopoeus lividus – Cobalt Blue Tarantula (Cyriopagopus lividus) | Electric Blue Old World Fossorial | TDE",
-          "price": 44.99,
+          "price": 33.74,
           "available": true,
           "url": "https://thebiodude.com/products/melopoeus-lividus-cobalt-blue-tarantula-cyriopagopus-lividus-electric-blue-old-world-fossorial-live-arrival-guarantee",
           "size": "3/4–1\"",
           "variants": [
             {
               "label": "3/4-1\"",
-              "price": 44.99,
+              "price": 33.74,
               "available": true
             },
             {
               "label": "1.25-1.5\"",
-              "price": 54.99,
+              "price": 41.24,
               "available": false
             }
           ]
@@ -3228,12 +3245,22 @@
           "size": "0.5\"",
           "variants": [
             {
-              "label": "0.5\"",
+              "label": "0.5\" (cb)",
               "price": 26.0,
               "available": true
             },
             {
+              "label": "3-4\" Male (field-collected)",
+              "price": 28.0,
+              "available": true
+            },
+            {
               "label": "3-4\" Female (field-collected)",
+              "price": 58.0,
+              "available": true
+            },
+            {
+              "label": "4.5-5\" Female (field-collected)",
               "price": 58.0,
               "available": true
             }
@@ -3582,13 +3609,6 @@
       },
       "suppliers": [
         {
-          "breeder": "FangzTV",
-          "product_name": "Theraphosa apophysis 2'' Goliath Birdeater tarantula",
-          "price": 80.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/theraphosa-apophysis1-goliath-birdeater-tarantula"
-        },
-        {
           "breeder": "Buddha Bugs",
           "product_name": "Pamphobeteus sp. 'Santo Domingo goliath' (Santo Domingo goliath birdeater tarantula) 1.5\"",
           "price": 120.0,
@@ -3628,6 +3648,13 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "FangzTV",
+          "product_name": "Theraphosa apophysis 2'' Goliath Birdeater tarantula",
+          "price": 80.0,
+          "available": false,
+          "url": "https://www.fangztv.com/products/theraphosa-apophysis1-goliath-birdeater-tarantula"
         },
         {
           "breeder": "Frognose Exotics",
@@ -3689,8 +3716,8 @@
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 3,
-      "best_price": 80.0,
+      "in_stock_count": 2,
+      "best_price": 120.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=goliath+birdeater+tarantula&tag=getlivebugs-20",
         "creature_label": "Goliath Birdeater",
@@ -3799,34 +3826,15 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Chromatopelma cyaneopubescens (Green Bottle Blue)",
-          "price": 54.0,
+          "breeder": "Exotics Unlimited",
+          "product_name": "Chromatopelma cyaneopubescens (Green Bottle Blue Tarantula) (GBB) 0.5-0.75\" STARS SALE",
+          "price": 39.0,
           "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-chromatopelma-cyaneopubescens-green-bottle-blue-copy",
-          "size": "0.75\"",
-          "variants": [
-            {
-              "label": "0.75\"",
-              "price": 54.0,
-              "available": false
-            },
-            {
-              "label": "1\"",
-              "price": 58.0,
-              "available": true
-            },
-            {
-              "label": "3\" Female",
-              "price": 158.0,
-              "available": false
-            },
-            {
-              "label": "4-5\" Female",
-              "price": 248.0,
-              "available": false
-            }
-          ]
+          "url": "https://exoticsunlimitedusa.com/products/chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-gbb-0-75",
+          "size": "0.5–0.75\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial"
         },
         {
           "breeder": "The Bio Dude",
@@ -3919,6 +3927,36 @@
           "url": "https://www.fangztv.com/products/chromatopelma-cyaneopubescens-1-green-bottle-blue-gbb"
         },
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Chromatopelma cyaneopubescens (Green Bottle Blue)",
+          "price": 54.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-chromatopelma-cyaneopubescens-green-bottle-blue-copy",
+          "size": "0.75\"",
+          "variants": [
+            {
+              "label": "0.75\"",
+              "price": 54.0,
+              "available": false
+            },
+            {
+              "label": "1\"",
+              "price": 58.0,
+              "available": false
+            },
+            {
+              "label": "3\" Female",
+              "price": 158.0,
+              "available": false
+            },
+            {
+              "label": "4-5\" Female",
+              "price": 248.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Micro Wilderness",
           "product_name": "Chromatopelma cyaneopubescens - Unsexed - Green Bottle Blue Tarantula",
           "price": 74.99,
@@ -3960,7 +3998,7 @@
           ]
         }
       ],
-      "supplier_count": 11,
+      "supplier_count": 12,
       "in_stock_count": 6,
       "best_price": 39.0,
       "amazon": {
@@ -4064,33 +4102,23 @@
           ]
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Brachypelma hamorii (Mexican Red Knee Tarantula) 0.5-0.75\" STARS SALE",
-          "price": 29.0,
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) nearly 1/2\"-3/4\"",
+          "price": 45.0,
           "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/brachypelma-hamorii-smithi-mexican-red-knee-tarantula-for-sale-1",
-          "size": "0.5–0.75\"",
-          "temperament": "Docile",
+          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-pet",
+          "size": "1/2–3/4\"",
           "world": "New World",
-          "habitat": "Terrestrial"
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Brachypelma hamorii (Mexican Red Knee)",
-          "price": 36.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-brachypelma-hamorii-mexican-red-knee",
-          "size": "0.25\"",
           "variants": [
             {
-              "label": "0.25\"",
-              "price": 36.0,
+              "label": "Spiderling Alone",
+              "price": 45.0,
               "available": true
             },
             {
-              "label": "3.5\" Female",
-              "price": 148.0,
-              "available": false
+              "label": "🛖🛖 MAKE IT A PACKAGE!!",
+              "price": 65.0,
+              "available": true
             }
           ]
         },
@@ -4144,22 +4172,21 @@
           "size": "2.5–3\""
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) nearly 1/2\"-3/4\"",
-          "price": 45.0,
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Brachypelma hamorii (Mexican Red Knee)",
+          "price": 36.0,
           "available": false,
-          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-pet",
-          "size": "1/2–3/4\"",
-          "world": "New World",
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-brachypelma-hamorii-mexican-red-knee",
+          "size": "0.25\"",
           "variants": [
             {
-              "label": "Spiderling Alone",
-              "price": 45.0,
+              "label": "0.25\"",
+              "price": 36.0,
               "available": false
             },
             {
-              "label": "🛖🛖 MAKE IT A PACKAGE!!",
-              "price": 65.0,
+              "label": "3.5\" Female",
+              "price": 148.0,
               "available": false
             }
           ]
@@ -4196,9 +4223,9 @@
           ]
         }
       ],
-      "supplier_count": 10,
-      "in_stock_count": 7,
-      "best_price": 29.0,
+      "supplier_count": 9,
+      "in_stock_count": 6,
+      "best_price": 45.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+knee+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Mexican Red Knee Tarantula",
@@ -4527,21 +4554,6 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Pterinochilus murinus 'Usambara' (Orange Starburst Baboon)",
-          "price": 44.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/pterinochilus-murinus-usambara-orange-starburst-baboon-copy",
-          "size": "2–2.5\"",
-          "variants": [
-            {
-              "label": "2-2.5\"",
-              "price": 44.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Pterinochilus murinus - Unsexed - Orange Baboon Tarantula",
           "price": 44.99,
@@ -4567,10 +4579,25 @@
           "temperament": "Skittish",
           "world": "Old World",
           "habitat": "Terrestrial"
+        },
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Pterinochilus murinus 'Usambara' (Orange Starburst Baboon)",
+          "price": 44.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/pterinochilus-murinus-usambara-orange-starburst-baboon-copy",
+          "size": "2–2.5\"",
+          "variants": [
+            {
+              "label": "2-2.5\"",
+              "price": 44.0,
+              "available": false
+            }
+          ]
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "best_price": 22.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=orange+baboon+tarantula+tarantula&tag=getlivebugs-20",
@@ -5066,7 +5093,7 @@
       "price_range": "5-15",
       "best_price": 21.99,
       "supplier_count": 13,
-      "in_stock_count": 7,
+      "in_stock_count": 6,
       "suppliers": [
         {
           "breeder": "Rubber Ducky Isopods",
@@ -5156,15 +5183,6 @@
           "price": 21.99,
           "available": true,
           "url": "https://tcinsects.com/product/cubaris-sp-rubber-ducky-for-sale/"
-        },
-        {
-          "breeder": "Terrarium Tribe",
-          "product_name": "Rubber Ducky Isopods (Cubaris sp.) 6 Count",
-          "price": 149.95,
-          "available": true,
-          "url": "https://shop.terrariumtribe.com/products/rubber-ducky-isopods-cubaris-sp",
-          "quantity": 6,
-          "per_unit_price": 24.99
         },
         {
           "breeder": "Tropical Isopods",
@@ -5260,6 +5278,15 @@
           "url": "https://holypolyisopods.com/products/rubber-ducky-isopods-cubaris-sp"
         },
         {
+          "breeder": "Terrarium Tribe",
+          "product_name": "Rubber Ducky Isopods (Cubaris sp.) 6 Count",
+          "price": 149.95,
+          "available": false,
+          "url": "https://shop.terrariumtribe.com/products/rubber-ducky-isopods-cubaris-sp",
+          "quantity": 6,
+          "per_unit_price": 24.99
+        },
+        {
           "breeder": "Frognose Exotics",
           "product_name": "5x Cubaris Rubber Ducky",
           "price": 50.0,
@@ -5328,9 +5355,9 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "1-3",
-      "best_price": 8.0,
+      "best_price": 6.0,
       "supplier_count": 15,
-      "in_stock_count": 9,
+      "in_stock_count": 10,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5465,6 +5492,35 @@
           ]
         },
         {
+          "breeder": "I Heart Bugs",
+          "product_name": "Large Gray Isopods (Porcellio laevis)",
+          "price": 6.0,
+          "available": true,
+          "url": "https://iheartbugs.com/products/porcellio-laevis",
+          "variants": [
+            {
+              "label": "10 Giant Gray Isopods",
+              "price": 6.0,
+              "available": true
+            },
+            {
+              "label": "20 Giant Gray Isopods",
+              "price": 10.0,
+              "available": true
+            },
+            {
+              "label": "50 Giant Gray Isopods",
+              "price": 20.0,
+              "available": false
+            },
+            {
+              "label": "100 Giant Gray Isopods",
+              "price": 40.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Tropical Isopods",
           "product_name": "Porcellio Laevis \"Wild\"",
           "price": 8.0,
@@ -5538,35 +5594,6 @@
           "url": "https://buddha-bugs.com/products/porcellio-laevis-dairy-cow-isopod-for-sale",
           "quantity": 12,
           "per_unit_price": 1.25
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Large Gray Isopods (Porcellio laevis)",
-          "price": 6.0,
-          "available": false,
-          "url": "https://iheartbugs.com/products/porcellio-laevis",
-          "variants": [
-            {
-              "label": "10 Giant Gray Isopods",
-              "price": 6.0,
-              "available": false
-            },
-            {
-              "label": "20 Giant Gray Isopods",
-              "price": 10.0,
-              "available": false
-            },
-            {
-              "label": "50 Giant Gray Isopods",
-              "price": 20.0,
-              "available": false
-            },
-            {
-              "label": "100 Giant Gray Isopods",
-              "price": 40.0,
-              "available": false
-            }
-          ]
         },
         {
           "breeder": "Isopod Depot",
@@ -5660,7 +5687,7 @@
       "price_range": "1-2",
       "best_price": 10.0,
       "supplier_count": 13,
-      "in_stock_count": 7,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5812,6 +5839,35 @@
           ]
         },
         {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": true,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": true
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
           "price": 1.0,
@@ -5907,35 +5963,6 @@
           "price": 6.99,
           "available": false,
           "url": "https://tcinsects.com/product/porcellionides-pruinosus-lemon-berry-crumble/"
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": false,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": false
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
-            }
-          ]
         }
       ],
       "amazon": {
@@ -6229,7 +6256,7 @@
       "price_range": "20-50",
       "best_price": 23.95,
       "supplier_count": 11,
-      "in_stock_count": 7,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6336,6 +6363,32 @@
           ]
         },
         {
+          "breeder": "Insect Sales",
+          "product_name": "Adult Male Regal Jumping Spider",
+          "price": 34.0,
+          "available": true,
+          "url": "https://insectsales.com/products/adult-male-regal-jumping-spider-complete-habitat-feeder-insects",
+          "life_stage": "Adult",
+          "sex": "Male",
+          "variants": [
+            {
+              "label": "Without Habitat",
+              "price": 34.0,
+              "available": true
+            },
+            {
+              "label": "With Habitat",
+              "price": 41.95,
+              "available": false
+            },
+            {
+              "label": "With Lite Up Habitat",
+              "price": 47.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "The World of Isopods",
           "product_name": "Regal Jumping Spider",
           "price": 35.0,
@@ -6377,32 +6430,6 @@
           "available": false,
           "url": "https://tcinsects.com/product/bold-jumping-spider-phidippus-regius-male/",
           "sex": "Male"
-        },
-        {
-          "breeder": "Insect Sales",
-          "product_name": "Adult Male Regal Jumping Spider",
-          "price": 34.0,
-          "available": false,
-          "url": "https://insectsales.com/products/adult-male-regal-jumping-spider-complete-habitat-feeder-insects",
-          "life_stage": "Adult",
-          "sex": "Male",
-          "variants": [
-            {
-              "label": "Without Habitat",
-              "price": 34.0,
-              "available": false
-            },
-            {
-              "label": "With Habitat",
-              "price": 41.95,
-              "available": false
-            },
-            {
-              "label": "With Lite Up Habitat",
-              "price": 47.99,
-              "available": false
-            }
-          ]
         },
         {
           "breeder": "Exotics Source",
@@ -6581,7 +6608,7 @@
       "price_range": "25-60",
       "best_price": 8.0,
       "supplier_count": 9,
-      "in_stock_count": 6,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -6656,21 +6683,6 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Lasiodora parahybana (Salmon Pink Bird-Eater)",
-          "price": 36.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-lasiodora-parahybana-salmon-pink-bird-eater",
-          "size": "1.5\"",
-          "variants": [
-            {
-              "label": "1.5\"",
-              "price": 36.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Buddha Bugs",
           "product_name": "Lasiodora parahybana (salmon pink bird-eating tarantula) 1.25\"",
           "price": 40.0,
@@ -6695,6 +6707,21 @@
             {
               "label": "1/4”",
               "price": 19.99,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Lasiodora parahybana (Salmon Pink Bird-Eater)",
+          "price": 36.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-lasiodora-parahybana-salmon-pink-bird-eater",
+          "size": "1.5\"",
+          "variants": [
+            {
+              "label": "1.5\"",
+              "price": 36.0,
               "available": false
             }
           ]
@@ -7192,7 +7219,7 @@
             {
               "label": "4\" Female",
               "price": 198.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -7431,10 +7458,28 @@
         {
           "breeder": "Exotics Unlimited",
           "product_name": "Heterometrus silenus (Asian Forest Scorpion)",
-          "price": 46.98,
+          "price": 48.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/heterometrus-silenus-asian-forest-scorpion",
-          "habitat": "Terrestrial"
+          "size": "0.5–0.75\"",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.5-0.75",
+              "price": 48.0,
+              "available": false
+            },
+            {
+              "label": "0.75-1",
+              "price": 55.0,
+              "available": true
+            },
+            {
+              "label": "1-1.25",
+              "price": 75.0,
+              "available": true
+            }
+          ]
         }
       ],
       "amazon": {
@@ -7671,10 +7716,10 @@
           "price": 75.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/scorpiops-citadelle-l3",
-          "size": "0.5\"",
+          "size": "0.25–0.5\"",
           "variants": [
             {
-              "label": "0.5\"",
+              "label": "0.25-0.5\"",
               "price": 75.0,
               "available": true
             }
@@ -7943,18 +7988,10 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "10-25",
-      "best_price": 4.0,
+      "best_price": 15.0,
       "supplier_count": 8,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "Anadenobolus monilicornis (Jamaican Bumblebee Millipede) 1-1.5\"",
-          "price": 4.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/anadenobolus-monilicornis-jamaican-bumblebee-millipede",
-          "size": "1–1.5\""
-        },
         {
           "breeder": "The Defiant Forest",
           "product_name": "Jamaican Bumble Bee Millipedes, Anadenobolus monilicornis",
@@ -8028,6 +8065,14 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "Anadenobolus monilicornis (Jamaican Bumblebee Millipede) 1-1.5\"",
+          "price": 4.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/anadenobolus-monilicornis-jamaican-bumblebee-millipede",
+          "size": "1–1.5\""
         },
         {
           "breeder": "Tropical Isopods",
@@ -8315,7 +8360,7 @@
       "price_range": "30-50",
       "best_price": 29.99,
       "supplier_count": 6,
-      "in_stock_count": 2,
+      "in_stock_count": 1,
       "suppliers": [
         {
           "breeder": "American Reptile Distributors",
@@ -8340,7 +8385,7 @@
           "breeder": "FangzTV",
           "product_name": "Scolopendra subspinipes Vietnamese Centipede Adult",
           "price": 30.0,
-          "available": true,
+          "available": false,
           "url": "https://www.fangztv.com/products/scolopendra-subspinipes-vietnamese-centipede-adult",
           "life_stage": "Adult"
         },
@@ -8860,8 +8905,27 @@
       "price_range": "20-50",
       "best_price": 29.99,
       "supplier_count": 6,
-      "in_stock_count": 2,
+      "in_stock_count": 3,
       "suppliers": [
+        {
+          "breeder": "David's Beetles",
+          "product_name": "LARVAE: Eastern Hercules beetle (Dynastes tityus)",
+          "price": 29.99,
+          "available": true,
+          "url": "https://davidsbeetles.com/products/larvae-dynastes-tityus",
+          "variants": [
+            {
+              "label": "L1/L2",
+              "price": 29.99,
+              "available": false
+            },
+            {
+              "label": "L3",
+              "price": 30.0,
+              "available": true
+            }
+          ]
+        },
         {
           "breeder": "James' Beetle Farm",
           "product_name": "Eastern Hercules (Dynastes tityus)",
@@ -8950,25 +9014,6 @@
             {
               "label": "L3",
               "price": 40.0,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "David's Beetles",
-          "product_name": "LARVAE: Eastern Hercules beetle (Dynastes tityus)",
-          "price": 29.99,
-          "available": false,
-          "url": "https://davidsbeetles.com/products/larvae-dynastes-tityus",
-          "variants": [
-            {
-              "label": "L1/L2",
-              "price": 29.99,
-              "available": false
-            },
-            {
-              "label": "L3",
-              "price": 30.0,
               "available": false
             }
           ]
@@ -9875,8 +9920,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "July 01, 2026",
-    "next_update": "July 05, 2026",
-    "last_updated_iso": "2026-07-01T09:58:18.321931+00:00"
+    "last_updated": "July 05, 2026",
+    "next_update": "July 08, 2026",
+    "last_updated_iso": "2026-07-05T09:01:27.098348+00:00"
   }
 }
