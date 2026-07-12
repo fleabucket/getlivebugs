@@ -2368,3 +2368,60 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-07-08T08:32:52.019286+00:00,Pangea Reptile,pangea-reptile:male-red-harlequin-crested-gecko-cr-1591,Male Red Harlequin Crested Gecko Cr-1591,449.99,299.99,33.3
 2026-07-08T08:32:52.019286+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-badius-bundle-5-10-workers-queenfallen-fortress-bundle,"Pogonomyrmex badius Bundle (20+ workers, Queen)(Fallen Fortress Bundle)",154.99,174.99,12.9
 2026-07-08T08:32:52.019286+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:giant-swallowtail-caterpillars-or-chrysalis,Giant Swallowtail Caterpillars or Chrysalis,65.0,75.0,15.4
+2026-07-12T08:21:08.658159+00:00,USMANTIS,usmantis:hymenopus-coronatus-orchid-mantis,Hymenopus coronatus Orchid mantis,65.0,55.0,15.4
+2026-07-12T08:21:08.658159+00:00,USMANTIS,usmantis:phyllocrania-paradoxa-ghost-mantis,P paradoxa Ghost mantis All colors SALE,26.5,24.5,7.5
+2026-07-12T08:21:08.658159+00:00,The Defiant Forest,the-defiant-forest:giant-sunfire-millipede-undescribed-sp-indonesia,Giant Sunfire Millipede for Sale | Indonesian Diplopoda Species,80.0,85.0,6.2
+2026-07-12T08:21:08.658159+00:00,The Defiant Forest,the-defiant-forest:dominican-purple-tarantulas,"Dominican Purple Tarantula, Phormictopus sp. - Terrestrial Species",75.0,49.0,34.7
+2026-07-12T08:21:08.658159+00:00,The Defiant Forest,the-defiant-forest:brazilian-red-white-tarantula-nhandu-chromatus,"Brazilian Red & White Tarantula, Vitalis chromatus - Terrestrial Species",36.0,42.0,16.7
+2026-07-12T08:21:08.658159+00:00,Exotics Unlimited,exotics-unlimited:heterometrus-silenus-asian-forest-scorpion,Heterometrus silenus (Asian Forest Scorpion),48.0,55.0,14.6
+2026-07-12T08:21:08.658159+00:00,Nature's Good Guys,natures-good-guys:big-foot-mycorrhizae,Big Foot Mycorrhizae | 1oz,9.99,11.49,15.0
+2026-07-12T08:21:08.658159+00:00,Nature's Good Guys,natures-good-guys:18in-led-strip-light,18in LED Strip Light,84.5,74.99,11.3
+2026-07-12T08:21:08.658159+00:00,Insect Lore,insect-lore:insect-lore-bucket-hat,Insect Lore Bucket Hat,32.99,14.99,54.6
+2026-07-12T08:21:08.658159+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-43,Large Discoid 250ct Auction,1.0,44.0,4300.0
+2026-07-12T08:21:08.658159+00:00,DubiaRoaches.com,dubiaroaches:large-dubia-roaches-250ct-auction-14,Large Dubia Roaches 250ct Auction,38.0,47.0,23.7
+2026-07-12T08:21:08.658159+00:00,DubiaRoaches.com,dubiaroaches:medium-calcigrubs-500ct-auction-1,Medium CalciGrubs 500ct Auction,10.0,25.0,150.0
+2026-07-12T08:21:08.658159+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-14,24x18x36 (67 Gallon) Arboreal Auction,190.0,150.0,21.1
+2026-07-12T08:21:08.658159+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-31,220w Heat Panel Reptile Habitat Auction,150.0,120.0,20.0
+2026-07-12T08:21:08.658159+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-34,Large Hornworm 12ct (Case Of 6) Auction,17.0,31.0,82.4
+2026-07-12T08:21:08.658159+00:00,Fear Not Tarantulas,fear-not-tarantulas:heteropoda-pingtungensis-taiwan-orange-huntsman-spider,"Heteropoda pingtungensis (Taiwan Orange Huntsman Spider) about 1/4""",39.0,19.0,51.3
+2026-07-12T08:21:08.658159+00:00,Exotics Source,exotics-source:regal-jumping-spider-peachpuff,"Regal Jumping Spider ""Peach Puff”",95.0,75.0,21.1
+2026-07-12T08:21:08.658159+00:00,Exotics Source,exotics-source:untitled-oct8_16-40,Regal Jumping Spider “Indica”,95.0,75.0,21.1
+2026-07-12T08:21:08.658159+00:00,Exotics Source,exotics-source:female-regal-jumping-spider-haze,Regal Jumping Spider “Haze”,95.0,75.0,21.1
+2026-07-12T08:21:08.658159+00:00,Exotics Source,exotics-source:regal-jumping-spider-hex,"Regal Jumping Spider ""Hex""",95.0,75.0,21.1
+2026-07-12T08:21:08.658159+00:00,Exotics Source,exotics-source:regal-jumping-spider-sandy,"Regal Jumping Spider ""Sandy""",95.0,75.0,21.1
+2026-07-12T08:21:08.658159+00:00,Exotics Source,exotics-source:regal-jumping-spider-sprite,Regal Jumping Spider “Sprite”,95.0,75.0,21.1
+2026-07-12T08:21:08.658159+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-tapinauchenius-rasti-carribean-diamond,[Vancouver Pick-up] Tapinauchenius rasti (Carribean Diamond),42.0,29.0,31.0
+2026-07-12T08:21:08.658159+00:00,Spider Shoppe,spider-shoppe:komodo-hideout,Komodo Hideout,15.98,9.98,37.5
+2026-07-12T08:21:08.658159+00:00,Spider Shoppe,spider-shoppe:vivarium-electronics®-ds-6000-digital-scale,Vivarium Electronics® DS 6000 Digital Scale,42.0,36.0,14.3
+2026-07-12T08:21:08.658159+00:00,Spider Shoppe,spider-shoppe:habistat-rainmaker,HabiStat Rainmaker,168.0,158.0,6.0
+2026-07-12T08:21:08.658159+00:00,Spider Shoppe,spider-shoppe:orthriophis-taeniura-beauty-rat-snake-calico-unsexed,[Vancouver Pick-up] Orthriophis taeniura (Beauty Rat Snake) Calico UNSEXED,1498.0,998.0,33.4
+2026-07-12T08:21:08.658159+00:00,Spider Shoppe,spider-shoppe:vivarium-electronics-28w-heat-panel,Vivarium Electronics 28W Heat Panel,88.0,78.98,10.2
+2026-07-12T08:21:08.658159+00:00,FangzTV,fangztv:dolichothele-diamantinensis-brazilian-blue-dwarf-beauty-tarantula-25-5,Dolichothele diamantinensis Brazilian Blue Dwarf Beauty Tarantula  .25'',50.0,30.0,40.0
+2026-07-12T08:21:08.658159+00:00,Buddha Bugs,buddha-bugs:ornithoctoninae-sp-vietnam-silver-vietnam-silver-earth-tiger-tarantula-for-sale,"Ornithoctoninae sp. 'Vietnam silver' (Vietnam silver tarantula) 0.66""",65.0,75.0,15.4
+2026-07-12T08:21:08.658159+00:00,Gallegos Zoological,gallegos-zoological:triceratops-rib-section-5-5-003,"Triceratops rib section 5"" #5-003",179.0,399.0,122.9
+2026-07-12T08:21:08.658159+00:00,American Reptile Distributors,american-reptile-distributors:flat-shell-turtle-juvenile-female-2025-3-notochelys-platynota,Flat Shell Turtle Juvenile Female 2025 #3 (Notochelys platynota),499.99,399.99,20.0
+2026-07-12T08:21:08.658159+00:00,American Reptile Distributors,american-reptile-distributors:flat-shell-turtle-juvenile-female-2025-2-notochelys-platynota,Flat Shell Turtle Juvenile Female 2025 #2 (Notochelys platynota),499.99,399.99,20.0
+2026-07-12T08:21:08.658159+00:00,American Reptile Distributors,american-reptile-distributors:flat-shell-turtle-juvenile-female-2025-1-notochelys-platynota,Flat Shell Turtle Juvenile Female 2025 #1 (Notochelys platynota),499.99,399.99,20.0
+2026-07-12T08:21:08.658159+00:00,American Reptile Distributors,american-reptile-distributors:spiny-hill-turtle-cb-2025-2-heosemys-spinosa-1,Spiny Hill Turtle CB 2025 #3 (Heosemys spinosa),599.99,499.99,16.7
+2026-07-12T08:21:08.658159+00:00,American Reptile Distributors,american-reptile-distributors:spiny-hill-turtle-cb-2025-2-heosemys-spinosa,Spiny Hill Turtle CB 2025 #2 (Heosemys spinosa),599.99,499.99,16.7
+2026-07-12T08:21:08.658159+00:00,American Reptile Distributors,american-reptile-distributors:spiny-hill-turtle-cb-2025-1-heosemys-spinosa,Spiny Hill Turtle CB 2025 #1 (Heosemys spinosa),599.99,499.99,16.7
+2026-07-12T08:21:08.658159+00:00,Big Apple Herp,big-apple-herp:hypo-zero-bearded-dragon,Hypo Zero Bearded Dragons,299.0,249.95,16.4
+2026-07-12T08:21:08.658159+00:00,Big Apple Herp,big-apple-herp:unusual-limited-edition-corn-snakes,Unique Limited Edition Corn Snakes,104.95,99.95,4.8
+2026-07-12T08:21:08.658159+00:00,Big Apple Herp,big-apple-herp:albino-scaleless-corn-snakes,Scaleless Corn Snakes,259.0,189.95,26.7
+2026-07-12T08:21:08.658159+00:00,David's Beetles,davids-beetles:larvae-golden-stag-beetle-allotopus-moellenkampi-babai,LARVAE: Golden stag beetle  (Allotopus moellenkampi babai),125.0,39.99,68.0
+2026-07-12T08:21:08.658159+00:00,David's Beetles,davids-beetles:larvae-giraffe-stag-beetle-prosopocoilus-giraffa-keisuke,LARVAE: Giraffe stag beetle (Prosopocoilus giraffa keisuke),35.0,29.99,14.3
+2026-07-12T08:21:08.658159+00:00,Coast2Coast Beetles,coast2coast-beetles:77mm-goliathus-goliatus-adult-male,77mm Goliathus Goliatus Adult Male,225.0,200.0,11.1
+2026-07-12T08:21:08.658159+00:00,The Bio Dude,the-bio-dude:amazon-driftwood-small-6-8,Amazon Driftwood,8.95,9.95,11.2
+2026-07-12T08:21:08.658159+00:00,The Bio Dude,the-bio-dude:delta-60-aquarium-canister-filter-up-to-27-gallons,UNS Delta 90 - Aquarium Canister Filter - V2,113.99,175.99,54.4
+2026-07-12T08:21:08.658159+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:mixed-leaf-litter-magnolia-pin-oak,Mixed Leaf Litter | Magnolia & Pin Oak Blend,18.49,12.49,32.4
+2026-07-12T08:21:08.658159+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:thai-red-springtails-bright-red-designer-springtails-lobella-sp,"""Thai Red Springtails""  BRIGHT Red Designer Springtails (Lobella sp)",39.49,44.49,12.7
+2026-07-12T08:21:08.658159+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:pin-oak-organic-leaf-litter-tennessee-mountains-elevation-5-512,"Pin Oak Organic Leaf Litter (Tennessee Mountains Elevation 5,512)",18.49,12.49,32.4
+2026-07-12T08:21:08.658159+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:magnolia-organic-leaf-litter-tennessee-mountains-elevation-5-512,"Magnolia Organic Leaf Litter (Tennessee Mountains Elevation 5,512)",18.49,12.49,32.4
+2026-07-12T08:21:08.658159+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:white-springtails-folsomia-candida-or-collembola-sp,Springtails (Clean-Up Crew) | Bioactive Essential,29.49,15.49,47.5
+2026-07-12T08:21:08.658159+00:00,Grow Organic,grow-organic:collections-organic-fertilizer,Organic Sulfur 90% (Granular) 50 lbs,31.99,41.99,31.3
+2026-07-12T08:21:08.658159+00:00,Grow Organic,grow-organic:beaujolais-spinach-seeds-organic,Beaujolais Spinach Seeds (Organic),3.29,4.99,51.7
+2026-07-12T08:21:08.658159+00:00,Grow Organic,grow-organic:everglades-cherry-tomato-seeds-organic,Everglades Cherry Tomato Seeds (Organic),3.29,4.99,51.7
+2026-07-12T08:21:08.658159+00:00,Grow Organic,grow-organic:garden-huckleberry-seeds-organic,Garden Huckleberry Seeds (Organic),3.65,4.99,36.7
+2026-07-12T08:21:08.658159+00:00,Grow Organic,grow-organic:jewels-of-opar-fame-flower-seeds-organic,Organic Jewels of Opar - Fame Flower Seeds,3.65,4.99,36.7
+2026-07-12T08:21:08.658159+00:00,AntGear,antgear:veromessor-pergandei,Black Harvester Ant (Veromessor pergandei),48.99,54.99,12.2
+2026-07-12T08:21:08.658159+00:00,Buckeye Myrmecology,buckeye-myrmecology:pheidole-barbata,Pheidole barbata,65.0,50.0,23.1
