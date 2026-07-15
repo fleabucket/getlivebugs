@@ -1904,13 +1904,6 @@
           ]
         },
         {
-          "breeder": "The World of Isopods",
-          "product_name": "Orchid Mantis",
-          "price": 60.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/orchid-mantis"
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Orchid Mantis (Hymenopus coronatus)",
           "price": 69.0,
@@ -1963,10 +1956,17 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "The World of Isopods",
+          "product_name": "Orchid Mantis",
+          "price": 60.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/orchid-mantis"
         }
       ],
       "supplier_count": 5,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "best_price": 55.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+orchid+mantis&tag=getlivebugs-20",
@@ -3472,21 +3472,6 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Tliltocatl albopilosum (Nicaraguan Curly Hair)",
-          "price": 48.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-picl-up-tliltocatl-albopilosum-nicaraguan-curly-hair",
-          "size": "4\"",
-          "variants": [
-            {
-              "label": "4\"",
-              "price": 48.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Buddha Bugs",
           "product_name": "Tliltocatl albopilosus (curly hair tarantula) 0.33\"",
           "price": 25.0,
@@ -3508,10 +3493,25 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Tliltocatl albopilosum (Nicaraguan Curly Hair)",
+          "price": 48.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-picl-up-tliltocatl-albopilosum-nicaraguan-curly-hair",
+          "size": "4\"",
+          "variants": [
+            {
+              "label": "4\"",
+              "price": 48.0,
+              "available": false
+            }
+          ]
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 6,
+      "in_stock_count": 5,
       "best_price": 18.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=curly+hair+tarantula+tarantula&tag=getlivebugs-20",
@@ -3800,6 +3800,13 @@
           ]
         },
         {
+          "breeder": "FangzTV",
+          "product_name": "Chromatopelma cyaneopubescens Green Bottle Blue Gbb .75''",
+          "price": 50.0,
+          "available": true,
+          "url": "https://www.fangztv.com/products/chromatopelma-cyaneopubescens-1-green-bottle-blue-gbb"
+        },
+        {
           "breeder": "Spider Shoppe",
           "product_name": "[Vancouver Pick-up] Chromatopelma cyaneopubescens (Green Bottle Blue)",
           "price": 54.0,
@@ -3913,13 +3920,6 @@
           "size": "3/4–1\""
         },
         {
-          "breeder": "FangzTV",
-          "product_name": "Chromatopelma cyaneopubescens Green Bottle Blue Gbb .75''",
-          "price": 50.0,
-          "available": false,
-          "url": "https://www.fangztv.com/products/chromatopelma-cyaneopubescens-1-green-bottle-blue-gbb"
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Chromatopelma cyaneopubescens - Unsexed - Green Bottle Blue Tarantula",
           "price": 74.99,
@@ -3962,7 +3962,7 @@
         }
       ],
       "supplier_count": 11,
-      "in_stock_count": 6,
+      "in_stock_count": 7,
       "best_price": 39.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=greenbottle+blue+tarantula+tarantula&tag=getlivebugs-20",
@@ -4482,8 +4482,8 @@
               "available": true
             },
             {
-              "label": "2-3\"",
-              "price": 59.99,
+              "label": "Mature Male",
+              "price": 40.0,
               "available": false
             },
             {
@@ -4699,21 +4699,6 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
-          "price": 36.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
-          "size": "2–3\"",
-          "variants": [
-            {
-              "label": "2-3\"",
-              "price": 36.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about 3/4\" - 1\"",
           "price": 39.0,
@@ -4755,14 +4740,22 @@
         },
         {
           "breeder": "Exotics Unlimited",
-          "product_name": "Avicularia sp. 'Aurantiaca' (Golden Pink Toe Tarantula) 0.5-0.75\" STARS EVENT",
-          "price": 65.0,
+          "product_name": "Avicularia juruensis sp. 'Peru Purple' (Peru Purple Pink Toe Tarantula) MALE",
+          "price": 99.0,
           "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/avicularia-sp-aurantiaca-golden-pink-toe-tarantula-0-5-0-75-stars-event",
-          "size": "0.5–0.75\"",
+          "url": "https://exoticsunlimitedusa.com/products/avicularia-juruensis-sp-peru-purple-peru-purple-pink-toe-tarantula-male",
+          "size": "1.75–2\"",
+          "sex": "Male",
           "temperament": "Docile",
           "world": "New World",
-          "habitat": "Arboreal"
+          "habitat": "Arboreal",
+          "variants": [
+            {
+              "label": "1.75-2\"",
+              "price": 99.0,
+              "available": true
+            }
+          ]
         },
         {
           "breeder": "The Defiant Forest",
@@ -4798,6 +4791,21 @@
           "url": "https://tcinsects.com/product/pink-toe-tarantula-for-sale/"
         },
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
+          "price": 36.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
+          "size": "2–3\"",
+          "variants": [
+            {
+              "label": "2-3\"",
+              "price": 36.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Big Apple Herp",
           "product_name": "Peru Purple Pink Toe Tarantulas",
           "price": 44.95,
@@ -4830,7 +4838,7 @@
         }
       ],
       "supplier_count": 12,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "best_price": 15.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
@@ -5081,7 +5089,7 @@
       "price_range": "5-15",
       "best_price": 21.99,
       "supplier_count": 13,
-      "in_stock_count": 5,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "Rubber Ducky Isopods",
@@ -5115,32 +5123,6 @@
               "label": "50 CT",
               "price": 249.99,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Reptanicals",
-          "product_name": "Cubaris sp. - Rubber Ducky Isopods",
-          "price": 59.99,
-          "available": true,
-          "url": "https://reptanicalshop.com/products/rubber-ducky-isopods-cubaris-sp",
-          "quantity": 3,
-          "per_unit_price": 20.0,
-          "variants": [
-            {
-              "label": "3ct",
-              "price": 59.99,
-              "available": true
-            },
-            {
-              "label": "6ct",
-              "price": 109.99,
-              "available": false
-            },
-            {
-              "label": "10ct",
-              "price": 179.99,
-              "available": false
             }
           ]
         },
@@ -5264,6 +5246,32 @@
           "price": 18.5,
           "available": false,
           "url": "https://holypolyisopods.com/products/rubber-ducky-isopods-cubaris-sp"
+        },
+        {
+          "breeder": "Reptanicals",
+          "product_name": "Cubaris sp. - Rubber Ducky Isopods",
+          "price": 59.99,
+          "available": false,
+          "url": "https://reptanicalshop.com/products/rubber-ducky-isopods-cubaris-sp",
+          "quantity": 3,
+          "per_unit_price": 20.0,
+          "variants": [
+            {
+              "label": "3ct",
+              "price": 59.99,
+              "available": false
+            },
+            {
+              "label": "6ct",
+              "price": 109.99,
+              "available": false
+            },
+            {
+              "label": "10ct",
+              "price": 179.99,
+              "available": false
+            }
+          ]
         },
         {
           "breeder": "Terrarium Tribe",
@@ -5554,15 +5562,15 @@
         {
           "breeder": "DubiaRoaches.com",
           "product_name": "Dairy Cow Mix 250ct Auction",
-          "price": 80.0,
+          "price": 81.0,
           "available": false,
-          "url": "https://dubiaroaches.com/products/dairy-cow-mix-250ct-auction-1",
+          "url": "https://dubiaroaches.com/products/dairy-cow-mix-250ct-auction-2",
           "quantity": 250,
           "per_unit_price": 0.32,
           "variants": [
             {
               "label": "Dairy Cow Mix 500ct Auction",
-              "price": 80.0,
+              "price": 81.0,
               "available": false
             }
           ]
@@ -5675,7 +5683,7 @@
       "price_range": "1-2",
       "best_price": 10.0,
       "supplier_count": 13,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5827,35 +5835,6 @@
           ]
         },
         {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": true,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": true
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
           "price": 1.0,
@@ -5951,6 +5930,35 @@
           "price": 6.99,
           "available": false,
           "url": "https://tcinsects.com/product/porcellionides-pruinosus-lemon-berry-crumble/"
+        },
+        {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": false,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": false
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
+              "available": false
+            }
+          ]
         }
       ],
       "amazon": {
@@ -6793,8 +6801,8 @@
       "photo_is_base_species": false,
       "price_range": "30-70",
       "best_price": 25.0,
-      "supplier_count": 10,
-      "in_stock_count": 6,
+      "supplier_count": 9,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -6827,17 +6835,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Grammostola pulchripes (Chaco Golden Knee Tarantula) 0.5-0.75\" STARS EVENT",
-          "price": 32.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/grammostola-pulchripes-chaco-golden-knee-tarantula-0-33-0-05",
-          "size": "0.5–0.75\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial"
         },
         {
           "breeder": "Spider Shoppe",
@@ -7179,10 +7176,17 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "60-150",
-      "best_price": 40.0,
+      "best_price": 35.0,
       "supplier_count": 9,
       "in_stock_count": 6,
       "suppliers": [
+        {
+          "breeder": "FangzTV",
+          "product_name": "Monocentropus balfouri .25'' Socotra Island Blue Baboon (kept communally)",
+          "price": 35.0,
+          "available": true,
+          "url": "https://www.fangztv.com/products/monocentropus-balfouri-25-socotra-island-blue-baboon-kept-communally"
+        },
         {
           "breeder": "The Defiant Forest",
           "product_name": "Socotra Island Blue Baboon Tarantula, Monocentropus balfouri - Heavy Webbing Species",
@@ -7260,13 +7264,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "FangzTV",
-          "product_name": "Monocentropus balfouri 1.5'' Socotra Island Blue Baboon (kept communally)",
-          "price": 55.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/monocentropus-balfouri-2-socotra-island-blue-baboon-kept-communally"
         },
         {
           "breeder": "Fear Not Tarantulas",
@@ -8199,7 +8196,7 @@
             {
               "label": "Click Here to Add Additional Orders - Save on Shipping at Check Out",
               "price": 19.99,
-              "available": true
+              "available": false
             },
             {
               "label": "2 Orders of Ivory Millipede",
@@ -9892,8 +9889,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "July 12, 2026",
-    "next_update": "July 15, 2026",
-    "last_updated_iso": "2026-07-12T08:26:32.148113+00:00"
+    "last_updated": "July 15, 2026",
+    "next_update": "July 19, 2026",
+    "last_updated_iso": "2026-07-15T08:22:25.086275+00:00"
   }
 }
