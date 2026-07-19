@@ -1416,7 +1416,7 @@
             {
               "label": "Adult Female",
               "price": 85.0,
-              "available": false
+              "available": true
             },
             {
               "label": "Sub-adult Male",
@@ -1437,6 +1437,11 @@
               "label": "Ooth Fertile",
               "price": 160.0,
               "available": false
+            },
+            {
+              "label": "Adult male",
+              "price": 65.0,
+              "available": true
             }
           ]
         },
@@ -3370,6 +3375,21 @@
       },
       "suppliers": [
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "Tliltocatl albopilosum (Nicaraguan Curly Hair) FREE ON ORDERS $100+",
+          "price": 10.0,
+          "available": true,
+          "url": "https://spidershoppe.com/products/tliltocatl-albopilosum-nicaraguan-curly-hair-free-on-orders-100",
+          "size": "0.25\"",
+          "variants": [
+            {
+              "label": "0.25\" (cb)",
+              "price": 10.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "The Defiant Forest",
           "product_name": "Nicaraguan Curly Hair Tarantula, Tliltocatl albopilosus - Terrestrial Species",
           "price": 18.0,
@@ -3493,26 +3513,11 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Tliltocatl albopilosum (Nicaraguan Curly Hair)",
-          "price": 48.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/vancouver-picl-up-tliltocatl-albopilosum-nicaraguan-curly-hair",
-          "size": "4\"",
-          "variants": [
-            {
-              "label": "4\"",
-              "price": 48.0,
-              "available": false
-            }
-          ]
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 5,
-      "best_price": 18.0,
+      "in_stock_count": 6,
+      "best_price": 10.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=curly+hair+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Curly Hair Tarantula",
@@ -4066,10 +4071,10 @@
         },
         {
           "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Brachypelma hamorii (Mexican Red Knee)",
+          "product_name": "Brachypelma hamorii (Mexican Red Knee) FREE ON ORDERS $100+",
           "price": 36.0,
           "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-brachypelma-hamorii-mexican-red-knee",
+          "url": "https://spidershoppe.com/products/brachypelma-hamorii-mexican-red-knee-free-on-orders-100",
           "size": "0.25\"",
           "variants": [
             {
@@ -4699,6 +4704,21 @@
           ]
         },
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
+          "price": 36.0,
+          "available": true,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
+          "size": "2–3\"",
+          "variants": [
+            {
+              "label": "2-3\"",
+              "price": 36.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about 3/4\" - 1\"",
           "price": 39.0,
@@ -4791,21 +4811,6 @@
           "url": "https://tcinsects.com/product/pink-toe-tarantula-for-sale/"
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
-          "price": 36.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
-          "size": "2–3\"",
-          "variants": [
-            {
-              "label": "2-3\"",
-              "price": 36.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Big Apple Herp",
           "product_name": "Peru Purple Pink Toe Tarantulas",
           "price": 44.95,
@@ -4838,7 +4843,7 @@
         }
       ],
       "supplier_count": 12,
-      "in_stock_count": 7,
+      "in_stock_count": 8,
       "best_price": 15.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
@@ -5352,7 +5357,7 @@
       "photo_is_base_species": false,
       "price_range": "1-3",
       "best_price": 6.0,
-      "supplier_count": 15,
+      "supplier_count": 14,
       "in_stock_count": 10,
       "suppliers": [
         {
@@ -5502,7 +5507,7 @@
             {
               "label": "20 Giant Gray Isopods",
               "price": 10.0,
-              "available": true
+              "available": false
             },
             {
               "label": "50 Giant Gray Isopods",
@@ -5558,22 +5563,6 @@
           "price": 18.0,
           "available": true,
           "url": "https://usinvertebratellc.com/products/pocellio-laevis-diary-cow"
-        },
-        {
-          "breeder": "DubiaRoaches.com",
-          "product_name": "Dairy Cow Mix 250ct Auction",
-          "price": 81.0,
-          "available": false,
-          "url": "https://dubiaroaches.com/products/dairy-cow-mix-250ct-auction-2",
-          "quantity": 250,
-          "per_unit_price": 0.32,
-          "variants": [
-            {
-              "label": "Dairy Cow Mix 500ct Auction",
-              "price": 81.0,
-              "available": false
-            }
-          ]
         },
         {
           "breeder": "Holy-Poly Isopods",
@@ -6255,32 +6244,6 @@
       "in_stock_count": 7,
       "suppliers": [
         {
-          "breeder": "The Defiant Forest",
-          "product_name": "Regal Jumping Spiders for Sale | Wholesale Only",
-          "price": 240.0,
-          "available": true,
-          "url": "https://www.thedefiantforest.com/products/regal-jumping-spiders",
-          "quantity": 12,
-          "per_unit_price": 20.0,
-          "variants": [
-            {
-              "label": "Wholesale 12 Count Mixed Gender Our Choice $240.00 / $20.00 ea.",
-              "price": 240.0,
-              "available": true
-            },
-            {
-              "label": "Wholesale 24 Count Mixed Gender Our Choice $432.00 / $18.00 ea.",
-              "price": 432.0,
-              "available": true
-            },
-            {
-              "label": "Wholesale 36 Count Mixed Gender Our Choice $612.00 / $17.00 ea.",
-              "price": 612.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Big Apple Herp",
           "product_name": "Red Backed & Regal Jumping Spiders",
           "price": 23.95,
@@ -6359,6 +6322,32 @@
           ]
         },
         {
+          "breeder": "The Defiant Forest",
+          "product_name": "Regal Jumping Spiders for Sale | Wholesale Only",
+          "price": 180.0,
+          "available": true,
+          "url": "https://www.thedefiantforest.com/products/regal-jumping-spiders",
+          "quantity": 6,
+          "per_unit_price": 30.0,
+          "variants": [
+            {
+              "label": "Wholesale 6 Count Mixed Gender Our Choice $180.00 / $20.00 ea.",
+              "price": 180.0,
+              "available": true
+            },
+            {
+              "label": "Wholesale 12 Count Mixed Gender Our Choice $216.00 / $18.00 ea.",
+              "price": 216.0,
+              "available": true
+            },
+            {
+              "label": "Wholesale 20 Count Mixed Gender Our Choice $340.00 / $17.00 ea.",
+              "price": 340.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "The World of Isopods",
           "product_name": "Regal Jumping Spider",
           "price": 35.0,
@@ -6373,7 +6362,7 @@
             {
               "label": "Female",
               "price": 35.0,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -7520,30 +7509,10 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "25-50",
-      "best_price": 24.0,
+      "best_price": 35.0,
       "supplier_count": 6,
-      "in_stock_count": 3,
+      "in_stock_count": 2,
       "suppliers": [
-        {
-          "breeder": "The Defiant Forest",
-          "product_name": "Desert Hairy Scorpion, Hadrurus arizonensis",
-          "price": 24.0,
-          "available": true,
-          "url": "https://www.thedefiantforest.com/products/desert-hairy-scorpion-hadrurus-arizonensis",
-          "size": "2.0–3.5\"",
-          "variants": [
-            {
-              "label": "2.0 to 3.5\" Youngsters - $24.00 ea.",
-              "price": 24.0,
-              "available": false
-            },
-            {
-              "label": "4.0\" to  5.0\" Adults - $24.00 ea.",
-              "price": 24.0,
-              "available": true
-            }
-          ]
-        },
         {
           "breeder": "Exotics Source",
           "product_name": "Giant Desert Hairy Scoprion (Hadrurus arizonensis)",
@@ -7572,6 +7541,26 @@
           "price": 3.5,
           "available": false,
           "url": "https://gallegoszoologicalsupply.com/products/edrotes-ventricosus-desert-hairy-robot-beetle-adults"
+        },
+        {
+          "breeder": "The Defiant Forest",
+          "product_name": "Desert Hairy Scorpion, Hadrurus arizonensis",
+          "price": 24.0,
+          "available": false,
+          "url": "https://www.thedefiantforest.com/products/desert-hairy-scorpion-hadrurus-arizonensis",
+          "size": "2.0–3.5\"",
+          "variants": [
+            {
+              "label": "2.0 to 3.5\" Youngsters - $24.00 ea.",
+              "price": 24.0,
+              "available": false
+            },
+            {
+              "label": "4.0\" to  5.0\" Adults - $24.00 ea.",
+              "price": 24.0,
+              "available": false
+            }
+          ]
         },
         {
           "breeder": "US Invertebrate LLC",
@@ -8015,7 +8004,7 @@
             {
               "label": "Click Here to Add Additional Orders - Save on Shipping at Checkout",
               "price": 18.99,
-              "available": false
+              "available": true
             },
             {
               "label": "2 Orders of Bumble Bee Millipede",
@@ -8196,7 +8185,7 @@
             {
               "label": "Click Here to Add Additional Orders - Save on Shipping at Check Out",
               "price": 19.99,
-              "available": false
+              "available": true
             },
             {
               "label": "2 Orders of Ivory Millipede",
@@ -8754,7 +8743,7 @@
             {
               "label": "3 Orders of Blue Beetles",
               "price": 58.99,
-              "available": true
+              "available": false
             },
             {
               "label": "4 Orders of Blue Beetles",
@@ -9889,8 +9878,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "July 15, 2026",
-    "next_update": "July 19, 2026",
-    "last_updated_iso": "2026-07-15T08:22:25.086275+00:00"
+    "last_updated": "July 19, 2026",
+    "next_update": "July 22, 2026",
+    "last_updated_iso": "2026-07-19T08:28:02.602626+00:00"
   }
 }
