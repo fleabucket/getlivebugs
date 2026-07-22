@@ -2582,3 +2582,85 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-07-19T08:22:44.785224+00:00,Bantam Earth,bantam-earth:tiny-mycelium-mushroom-terrarium-keychain,Mycelium | The Mushroom Terrarium | TINY Keychain,69.99,62.0,11.4
 2026-07-19T08:22:44.785224+00:00,Bantam Earth,bantam-earth:tiny-summer-in-rome-terrarium-keychain,Summer In Rome | The Roman Terrarium | TINY Keychain,69.99,62.0,11.4
 2026-07-19T08:22:44.785224+00:00,Bantam Earth,bantam-earth:tiny-winter-in-japan-japanese-terrarium-keychain,Winter In Japan | The Japanese Terrarium | TINY Keychain,69.99,62.0,11.4
+2026-07-22T08:32:10.220816+00:00,USMANTIS,usmantis:deroplatys-gorochovi-dead-leaf-mantis,Deroplatys gorochovi dead leaf mantis NEW species,35.0,36.0,2.9
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:125w-heat-panel-reptile-habitat-auction-25,125w Heat Panel Reptile Habitat Auction,151.0,99.0,34.4
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:medium-discoid-roaches-500ct-auction-20,Medium Discoid Roaches 500ct Auction,50.0,66.0,32.0
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:large-dubia-roaches-250ct-auction-19,Large Dubia Roaches 250ct Auction,24.0,45.0,87.5
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:18x18x24-33-gallon-arboreal-reptile-enclosure-v3-auction-16,18x18x24 (33 Gallon) Arboreal Reptile Enclosure V3 Auction,136.0,150.0,10.3
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-49,Large Hornworm 6ct (Case Of 12) Auction,20.0,21.0,5.0
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-44,XL Dubia Roaches 250ct Auction,31.0,47.0,51.6
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-43,Dubia Roaches Medium 500ct Auction,50.0,56.0,12.0
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-47,Large Discoid 250ct Auction,25.0,45.0,80.0
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-35,Medium Hornworm 24ct (Case Of 12) Auction,12.0,30.0,150.0
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-18,24x18x36 (67 Gallon) Arboreal Auction,179.0,165.0,7.8
+2026-07-22T08:32:10.220816+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-500ct-auction-16,Medium Mealworm 500ct Auction,18.0,9.0,50.0
+2026-07-22T08:32:10.220816+00:00,Flow Hive,flow-hive:brood-box-flow-hive-2,Brood Box – Flow Hive 2,51.2,48.0,6.3
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-amber,Regal Jumping Spider “Amber”,95.0,75.0,21.1
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-cider-grove,Regal Jumping Spider “Cider Grove”,75.0,95.0,26.7
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-blush,"Regal Jumping Spider ""Blush""",95.0,75.0,21.1
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-purple-haze,"Regal Jumping Spider ""Purple Haze""",95.0,75.0,21.1
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-camellia,Regal Jumping Spider “Camellia”,75.0,95.0,26.7
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-clover,"Regal Jumping Spider ""Clover""",95.0,75.0,21.1
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-almond,"Regal Jumping Spider ""Almond""",95.0,75.0,21.1
+2026-07-22T08:32:10.220816+00:00,Exotics Source,exotics-source:regal-jumping-spider-beth,"Regal Jumping Spider ""Beth""",95.0,75.0,21.1
+2026-07-22T08:32:10.220816+00:00,Spider Shoppe,spider-shoppe:vancouver-picl-up-tliltocatl-albopilosum-nicaraguan-curly-hair,[Vancouver Pick-up] Tliltocatl albopilosum (Nicaraguan Curly Hair),28.0,10.0,64.3
+2026-07-22T08:32:10.220816+00:00,Big Apple Herp,big-apple-herp:asian-vine-snakes,Asian Vine Snakes,229.0,54.95,76.0
+2026-07-22T08:32:10.220816+00:00,Big Apple Herp,big-apple-herp:canadian-nightcrawlers,Canadian Nightcrawlers,12.99,13.99,7.7
+2026-07-22T08:32:10.220816+00:00,Big Apple Herp,big-apple-herp:hornworms-for-sale,HornWorms,14.95,19.95,33.4
+2026-07-22T08:32:10.220816+00:00,James' Beetle Farm,james-beetle-farm:allotopus-moellenkampi-babai,Allotopus moellenkampi babai,249.99,59.99,76.0
+2026-07-22T08:32:10.220816+00:00,Coast2Coast Beetles,coast2coast-beetles:untitled-may29_18-29-30,Cyclommatus Metallifer Finae Adult Male (QUICK SALE),59.99,25.0,58.3
+2026-07-22T08:32:10.220816+00:00,Coast2Coast Beetles,coast2coast-beetles:propomacrus-bimucronatus-turkey-long-arm-beetle,TAKE ONE FREE PER ORER!Propomacrus bimucronatus (Turkey Long Arm Beetle),15.0,19.99,33.3
+2026-07-22T08:32:10.220816+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:white-springtails-folsomia-candida-or-collembola-sp,Springtails (Clean-Up Crew) | Bioactive Essential,15.49,21.49,38.7
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2104,Male Extreme Harlequin Crested Gecko Cr-2104,499.99,374.99,25.0
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-tricolor-xxx-crested-gecko-cr-2612,Male Tricolor Extreme Harlequin Crested Gecko Cr-2612,749.99,599.99,20.0
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-xxx-crested-gecko-cr-2031,Male XXX Crested Gecko Cr-2031,349.99,299.99,14.3
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:female-harlequin-crested-gecko-cr-1904,Female Harlequin Crested Gecko Cr-1904,449.99,249.99,44.4
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-crested-gecko-cr-1894,Male Pinstripe Crested Gecko Cr-1894,399.99,249.99,37.5
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1843,Male Extreme Harlequin Crested Gecko Cr-1843,549.99,374.99,31.8
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1764,Male Extreme Harlequin Crested Gecko Cr-1764,349.99,274.99,21.4
+2026-07-22T08:32:10.220816+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1756,Male Extreme Harlequin Crested Gecko Cr-1756,849.99,574.99,32.4
+2026-07-22T08:32:10.220816+00:00,Grow Organic,grow-organic:sequoia-strawberry-plants,Sequoia Strawberry Plants,19.99,24.99,25.0
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:legend-of-luna-moth-moss-wall-decor,Legend Of Luna | The Moss Wall Decor,175.0,199.99,14.3
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:luna-moth-terrarium-clock,Legend Of Luna | The Terrarium Clock,219.0,249.99,14.2
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-tiny-brine-shrimp-hatchery-kit,Bantamarium V2 Kit | CULT | TINY,31.0,34.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:winter-wonderland-inner-terrain-decor,Winter Wonderland | Inner Terrain Decor,31.0,34.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:mount-fnaf-inner-terrain-decor,Mount FNAF | Inner Terrain Decor,31.0,34.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:mount-six-seven-inner-terrain-decor,Mount Six-Seven | Inner Terrain Decor,31.0,34.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:bantamarium-v2-kit-terrifier-mini,Bantamarium V2 Kit | Terrifier | MINI,132.0,149.99,13.6
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:eda-the-live-bonsai-terrarium-nano,Eda | The Bonsai Terrarium | NANO,311.0,354.99,14.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ant-farm-colony-flip,Bantamarium R2 Kit | Colony | FLIP,101.0,114.99,13.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ant-enclosure-outworld-flip,Bantamarium R2 Kit | Outworld | FLIP,105.0,119.99,14.3
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ant-farm-clock,Bantamarium C2 Kit | Colony | HORO,114.0,129.99,14.0
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ant-farm-colony-ring,Bantamarium C2 Kit | Colony | RING,97.0,109.99,13.4
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ant-enclosure-clock,Bantamarium C2 Kit | Outworld | HORO,119.0,134.99,13.4
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ant-enclosure-outworld-ring,Bantamarium C2 Kit | Outworld | RING,101.0,114.99,13.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-horo-terrarium-clock-kit,Bantamarium C2 Kit | HORO,75.0,84.99,13.3
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-r2-box-terrarium-kit,Bantamarium R2 Kit | FLIP,57.0,64.99,14.0
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-c2-ring-wall-mounted-terrarium,Bantamarium C2 Kit | RING,57.0,64.99,14.0
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tall-terrarium-base-nano,Bantam V2 Tall Base | NANO,27.0,29.99,11.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:r2-terrarium-light-set,Bantam R2 Light Top Set,18.0,19.99,11.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:c2-terrarium-light-set,Bantam C2 Light Top Set,18.0,19.99,11.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:closed-terrarium-container,Bantamarium V2 VAPO Glassware | MINI,35.0,39.99,14.3
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-dock-drawer-mini-vivarium-stand,Bantamarium V2 Kit | DOCK Drawer | MINI,31.0,34.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-dock-drawer2-mini-vivarium-stand,Bantamarium V2 Kit | DOCK Drawer 2 | MINI,31.0,34.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-dock-pocket2-mini-vivarium-stand,Bantamarium V2 Kit | DOCK Pocket 2 | MINI,27.0,29.99,11.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-dock-pocket-mini-vivarium-stand,Bantamarium V2 Kit | DOCK Pocket | MINI,25.0,27.99,12.0
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-dock-mini-vivarium-stand,Bantamarium V2 Kit | DOCK | MINI,22.0,24.99,13.6
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-brine-shrimp-hatchery-kit,Bantamarium V2 Kit | CULT | MINI,79.0,89.99,13.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-nano-fish-tank,Bantamarium V2 Kit | AQUA | NANO,92.0,104.99,14.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-mini-fish-tank,Bantamarium V2 Kit | AQUA | MINI,75.0,84.99,13.3
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-mini-arid-terrarium-kit,Bantamarium V2 Kit | AERO | MINI,44.0,49.99,13.6
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-kit-mini-closed-terrarium-kit,Bantamarium V2 Kit | VAPO | MINI,49.0,54.99,12.2
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-nano-terrarium-kit,Bantamarium V2 Kit | NANO,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:bantamarium-tiny-terrarium-kit,Bantamarium V2 Kit | TINY,22.0,24.99,13.6
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-ant-enclosure-outworld-kit-2,Bantamarium V2 Kit | Outworld II | MINI,97.0,109.99,13.4
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-ant-terrarium-kit-2,Bantamarium V2 Kit | Forage II | MINI,79.0,89.99,13.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:b-v2-starter-ant-farm-kit-2,Bantamarium V2 Kit | Colony II | MINI,92.0,104.99,14.1
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-reef-saltwater-aquarium-keychain,Reef | The Saltwater Aquarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-botanical-blackwater-aquarium-keychain,Botanical | The Blackwater Aquarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-planted-freshwater-aquarium-keychain,Planted | The Freshwater Aquarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-karma-buddha-terrarium-keychain,Karma | The Buddha Terrarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-eda-bonsai-terrarium-keychain,Eda | The Bonsai Terrarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-mycelium-mushroom-terrarium-keychain,Mycelium | The Mushroom Terrarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-summer-in-rome-terrarium-keychain,Summer In Rome | The Roman Terrarium | TINY Keychain,62.0,69.99,12.9
+2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-winter-in-japan-japanese-terrarium-keychain,Winter In Japan | The Japanese Terrarium | TINY Keychain,62.0,69.99,12.9
