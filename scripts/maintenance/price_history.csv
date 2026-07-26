@@ -2664,3 +2664,67 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-mycelium-mushroom-terrarium-keychain,Mycelium | The Mushroom Terrarium | TINY Keychain,62.0,69.99,12.9
 2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-summer-in-rome-terrarium-keychain,Summer In Rome | The Roman Terrarium | TINY Keychain,62.0,69.99,12.9
 2026-07-22T08:32:10.220816+00:00,Bantam Earth,bantam-earth:tiny-winter-in-japan-japanese-terrarium-keychain,Winter In Japan | The Japanese Terrarium | TINY Keychain,62.0,69.99,12.9
+2026-07-26T08:29:41.051557+00:00,The Defiant Forest,the-defiant-forest:giant-african-peach-ringed-millipede-odontostreptus-sjoestedti,Giant African Ringed Millipede | Odontostreptus sjoestedti - Peach locale variation,75.0,59.0,21.3
+2026-07-26T08:29:41.051557+00:00,The Defiant Forest,the-defiant-forest:bi-color-avatar-millipedes-spirotreptida-sp-red-yellow-legs,"Captive Bred Bi-Color Avatar Millipedes, Salpidobolus sp. | Bright Yellow Legs & Antennae",65.0,85.0,30.8
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:fufius-lanicius-gold-digger-trapdoor-spider-golden-waferlid-trapdoor-spider-live-arrival-guarantee,Fufius lanicius – Gold Digger Trapdoor Spider | Golden Waferlid Trapdoor Spider | Live Arrival Guarantee,39.99,30.89,22.8
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:cyclocosmia-latusicosta-vietnamese-oreo-butt-trapdoor-spider,Cyclocosmia latusicosta – Vietnamese Oreo Butt Trapdoor Spider | Disc-Abdomen Mygalomorph | Live Arrival Guarantee,84.99,55.29,34.9
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-truculentus-hermosa-chilean-emerald-beauty-tarantula-rare-dwarf-new-world-species-live-arrival-guarantee,Euathlus truculentus ‘Hermosa’ – Chilean Emerald Beauty Tarantula | Rare Dwarf New World Species | Live Arrival Guarantee,249.99,123.89,50.4
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-manicatus-gold-chilean-golden-flame-tarantula-rare-dwarf-new-world-species-live-arrival-guarantee,Euathlus manicatus ‘Gold’ – Chilean Golden Flame Tarantula | Rare Dwarf New World Species | Live Arrival Guarantee,234.99,123.89,47.3
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-manicatus-black-chilean-black-flame-tarantula-rare-dwarf-new-world-species-live-arrival-guarantee,Euathlus manicatus ‘Black’ – Chilean Black Flame Tarantula | Rare Dwarf New World Species | Live Arrival Guarantee,199.99,143.89,28.1
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-sp-bronce-chilean-bronze-flame-tarantula-rare-dwarf-new-world-species-live-arrival-guarantee,Euathlus sp. Bronce – Chilean Bronze Flame Tarantula | Rare Dwarf New World Species | Live Arrival Guarantee,164.99,118.79,28.0
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:devicarina-guidonae-saffron-dwarf-pumpkin-tarantula-rare-miniature-species-live-arrival-guarantee,Devicarina guidonae – Saffron Dwarf Pumpkin Tarantula | Ultra-Rare Miniature Species | Live Arrival Guarantee,424.99,299.0,29.6
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-truculentus-blue-chilean-blue-beauty-stunning-blue-femur-jewel-live-arrival-guarantee,Euathlus truculentus 'Blue' – Chilean Blue Beauty | Stunning Blue Femur Jewel | Live Arrival Guarantee,144.99,124.24,14.3
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-sp-smaragd-tiger-chilean-emerald-tiger-metallic-green-striped-beauty-live-arrival-guarantee,Euathlus sp Smaragd Tiger – Chilean Emerald Tiger | Metallic Green Striped Beauty | Live Arrival Guarantee,249.99,189.79,24.1
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:megaphobema-sp-white-colombian-giant-white-leg-tarantula-rare-terrestrial-giant-live-arrival-guarantee,Megaphobema sp White – Colombian Giant White Leg Tarantula | Rare Terrestrial Giant | Live Arrival Guarantee,249.99,169.39,32.2
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:xenesthis-sp-white-colombian-lesser-white-tarantula-black-pink-giant-live-arrival-guarantee,Xenesthis sp White – Colombian Lesser White Tarantula | Black & Pink Giant | Live Arrival Guarantee,359.0,237.79,33.8
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:phoneutria-depilata-panama-wandering-spider-medically-significant-venom-live-arrival-guarantee,Phoneutria depilata – Panama Wandering Spider | Medically Significant Venom | Live Arrival Guarantee,99.99,47.79,52.2
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:tapinauchenius-sp-yasuni-yasuni-tree-spider-metallic-gold-arboreal-species-live-arrival-guarantee,Tapinauchenius sp Yasuni – Yasuni Tree Spider | Metallic Gold Arboreal Species | Live Arrival Guarantee,144.99,99.99,31.0
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:sericopelma-sp-darien-darien-birdeater-tarantula-stunning-pink-black-species-live-arrival-guarantee,Sericopelma sp Darien – Darien Birdeater Tarantula | Stunning Pink & Black Species | Live Arrival Guarantee,124.99,74.29,40.6
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:ischnocolus-jickelii-blue-dhofar-blue-dwarf-tarantula-for-sale-live-arrival-guarantee,Ischnocolus jickelii 'Blue' - Dhofar Blue Dwarf Tarantula for Sale | Live Arrival Guarantee,154.99,84.99,45.2
+2026-07-26T08:29:41.051557+00:00,Ty Dye Exotics,ty-dye-exotics:brachionopus-sp-limpopo-limpopo-dwarf-tarantula-for-sale-live-arrival-guarantee,Brachionopus sp Limpopo - Limpopo Dwarf Tarantula for Sale | Live Arrival Guarantee,54.99,43.79,20.4
+2026-07-26T08:29:41.051557+00:00,Insect Lore,insect-lore:home-school-edition-butterfly-garden-with-live-cup-of-caterpillars,Butterfly Garden® Early Learning Edition with Live Caterpillars,34.99,39.99,14.3
+2026-07-26T08:29:41.051557+00:00,DubiaRoaches.com,dubiaroaches:medium-discoid-roaches-500ct-auction-21,Medium Discoid Roaches 500ct Auction,57.0,51.0,10.5
+2026-07-26T08:29:41.051557+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-45,Dubia Roaches Medium 500ct Auction,56.0,50.0,10.7
+2026-07-26T08:29:41.051557+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction-12,Large CalciGrubs 500ct Auction,4.0,6.0,50.0
+2026-07-26T08:29:41.051557+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-19,24x18x36 (67 Gallon) Arboreal Auction,165.0,169.0,2.4
+2026-07-26T08:29:41.051557+00:00,DubiaRoaches.com,dubiaroaches:large-dubia-roaches-250ct-auction-20,Large Dubia Roaches 250ct Auction,31.0,32.0,3.2
+2026-07-26T08:29:41.051557+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-36,Medium Hornworm 24ct (Case Of 12) Auction,30.0,6.0,80.0
+2026-07-26T08:29:41.051557+00:00,Fear Not Tarantulas,fear-not-tarantulas:dolichothele-diamantinensis-brazilian-blue-dwarf-beauty-tarantula,"Dolichothele diamantinensis (Brazilian Blue Dwarf Beauty Tarantula) about 1/2"" - 3/4""",65.0,85.0,30.8
+2026-07-26T08:29:41.051557+00:00,Fear Not Tarantulas,fear-not-tarantulas:fear-not-walk-in-the-park-journey-pack,"A Walk In The Park Journey Pack!  2 SPIDERLINGS WITH HABITATS. Perfect for any keeper, even first time tarantula keepers!  SEE DESCRIPTION! *ONE PER SHIPMENT*",125.0,74.0,40.8
+2026-07-26T08:29:41.051557+00:00,Exotics Source,exotics-source:regal-jumping-spider-wine,"Regal Jumping Spider ""Wine""",95.0,75.0,21.1
+2026-07-26T08:29:41.051557+00:00,Spider Shoppe,spider-shoppe:phormictopus-sp-dominican-purple-dominican-purple-birdeater,Phormictopus sp 'Dominican Purple' (Dominican Purple Birdeater),62.0,72.0,16.1
+2026-07-26T08:29:41.051557+00:00,Spider Shoppe,spider-shoppe:euathlus-sp-hermosa-chilean-beauty,Euathlus sp 'Hermosa' (Chilean Beauty),148.0,78.0,47.3
+2026-07-26T08:29:41.051557+00:00,Spider Shoppe,spider-shoppe:euathlus-sp-smaragd-tiger-emerald-tiger-1,Euathlus sp 'Tigre Esmeralda' (Emerald Tiger),198.0,178.0,10.1
+2026-07-26T08:29:41.051557+00:00,Spider Shoppe,spider-shoppe:bonnetina-hijmenseni-0-25,Bonnetina hijmenseni (Eddy's Mexican Beauty),98.0,198.0,102.0
+2026-07-26T08:29:41.051557+00:00,Spider Shoppe,spider-shoppe:ornithoctoninae-sp-viridis-black-femur-tarantula-0-75-1,Ornithoctoninae sp 'Viridis' (Black Femur Tarantula),124.0,98.0,21.0
+2026-07-26T08:29:41.051557+00:00,US Invertebrate LLC,us-invertebrate:lygodactylus-williamsi-electric-blue-day-gecko,Lygodactylus Williamsi (Electric blue day gecko),225.0,150.0,33.3
+2026-07-26T08:29:41.051557+00:00,Micro Wilderness,micro-wilderness:phiddipus-regius-regal-jumping-spider-male,Phiddipus Regius- Regal Jumping Spider Male- captive bred juveniles,39.99,29.99,25.0
+2026-07-26T08:29:41.051557+00:00,Buddha Bugs,buddha-bugs:latrodectus-mactans-southern-black-widow-spider-for-sale,"Latrodectus mactans (Southern black widow spider) 0.125""",45.0,15.0,66.7
+2026-07-26T08:29:41.051557+00:00,Buddha Bugs,buddha-bugs:heteropoda-lunula-malaysian-purple-huntsman-spider-for-sale,"Heteropoda lunula (purple huntsman spider) 0.5""-0.75""",30.0,40.0,33.3
+2026-07-26T08:29:41.051557+00:00,Buddha Bugs,buddha-bugs:phormictopus-auratus-cuban-bronze-tarantula-for-sale,"Phormictopus auratus (Cuban bronze tarantula) 0.75""",45.0,30.0,33.3
+2026-07-26T08:29:41.051557+00:00,Gallegos Zoological,gallegos-zoological:ceratophrys-cranwelli-samurai-blue-pacman-frog,Ceratophrys cranwelli (Samurai Blue Pacman Frog),45.0,60.0,33.3
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:ball-pythons-under-149,Ball Pythons Under $149,64.95,69.95,7.7
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:peach-earth-tiger-tarantulas,Peach Earth Tiger Tarantulas,74.95,49.0,34.6
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:colorado-river-toads,Colorado River Toads,89.95,79.95,11.1
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:brown-roughneck-monitors,Brown Roughneck Monitors,429.95,399.95,7.0
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:black-roughneck-monitors,Black Roughneck Monitors,369.0,329.95,10.6
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:tricolor-hognose-snakes,TriColor Hognose Snakes,339.0,219.95,35.1
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:coastal-stripe-california-kingsnakes,Striped California Kingsnakes,74.95,89.95,20.0
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:java-water-monitors-babies,Java Water Monitors,139.0,249.95,79.8
+2026-07-26T08:29:41.051557+00:00,Big Apple Herp,big-apple-herp:copy-of-dispar-uromastyx,"Red ""Niger"" Saharan Uromastyx",119.95,89.95,25.0
+2026-07-26T08:29:41.051557+00:00,Coast2Coast Beetles,coast2coast-beetles:quick-sale-10x-propomacrus-bimucronatus-turkey-long-arm-beetle,Quick Sale 10x Propomacrus bimucronatus (Turkey Long Arm Beetle),100.0,40.0,60.0
+2026-07-26T08:29:41.051557+00:00,Coast2Coast Beetles,coast2coast-beetles:propomacrus-bimucronatus-turkey-long-arm-beetle,Propomacrus bimucronatus (Turkey Long Arm Beetle),19.99,5.0,75.0
+2026-07-26T08:29:41.051557+00:00,Coast2Coast Beetles,coast2coast-beetles:beetle-jelly-cutter-splitter-free-shipping,Beetle Jelly Cutter/Splitter (FREE SHIPPING),22.99,25.99,13.0
+2026-07-26T08:29:41.051557+00:00,Coast2Coast Beetles,coast2coast-beetles:cyclommatus-metallifer-l1-l2-larvae,Cyclommatus metallifer finae (Metallic Stag Beetle),24.99,10.0,60.0
+2026-07-26T08:29:41.051557+00:00,The Bio Dude,the-bio-dude:cyclocosmia-latusicosta-vietnamese-oreo-butt-trapdoor-spider-disc-abdomen-mygalomorph-live-arrival-guarantee,Cyclocosmia latusicosta – Vietnamese Oreo Butt Trapdoor Spider | Disc-Abdomen Mygalomorph | TDE,84.99,55.29,34.9
+2026-07-26T08:29:41.051557+00:00,The Bio Dude,the-bio-dude:devicarina-guidonae-saffron-dwarf-pumpkin-tarantula-ultra-rare-miniature-species-live-arrival-guarantee,Devicarina guidonae – Saffron Dwarf Pumpkin Tarantula | Ultra-Rare Miniature Species | TDE,424.99,299.0,29.6
+2026-07-26T08:29:41.051557+00:00,The Bio Dude,the-bio-dude:xenesthis-sp-light-light-beauty-birdeater-tarantula-pastel-colombian-giant-live-arrival-guarantee,Xenesthis sp Light – Light Beauty Birdeater Tarantula | Pastel Colombian Giant | TDE,329.0,224.89,31.6
+2026-07-26T08:29:41.051557+00:00,Tip Top Bio,tip-top-bio:praying-mantis,Praying Mantis,15.99,12.79,20.0
+2026-07-26T08:29:41.051557+00:00,Tar Heel Ants,tar-heel-ants:myrmecocystus-mendax-25-30-workers-queen-w-mini-hearth,"Myrmecocystus mendax (8-12 workers, Queen) Mini Hearth Bundle",129.99,139.99,7.7
+2026-07-26T08:29:41.051557+00:00,Dubi Deli,dubi-deli:black-soldier-fly-larvae,Black Soldier Fly Larvae,3.5,5.0,42.9
+2026-07-26T08:29:41.051557+00:00,AntGear,antgear:dorymyrmex-bicolor,Bicolored Pyramid Ant (Dorymyrmex bicolor),39.99,23.99,40.0
+2026-07-26T08:29:41.051557+00:00,AntGear,antgear:pogonomyrmex-bicolor,Bicolor Harvester Ant (Pogonomyrmex bicolor),69.99,24.99,64.3
+2026-07-26T08:29:41.051557+00:00,AntGear,antgear:pheidole-militicida,Militant Big-Headed Ants (Pheidole militicida),109.99,54.99,50.0
+2026-07-26T08:29:41.051557+00:00,AntGear,antgear:camponotus-pudorosus,Camponotus pudorosus,44.99,24.99,44.5
+2026-07-26T08:29:41.051557+00:00,AntGear,antgear:camponotus-ocreatus,Camponotus ocreatus,64.99,54.99,15.4
+2026-07-26T08:29:41.051557+00:00,AntGear,antgear:pheidole-rhea,Massive Big-Headed Ants (Pheidole rhea),199.99,64.99,67.5
