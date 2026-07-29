@@ -2728,3 +2728,142 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-07-26T08:29:41.051557+00:00,AntGear,antgear:camponotus-pudorosus,Camponotus pudorosus,44.99,24.99,44.5
 2026-07-26T08:29:41.051557+00:00,AntGear,antgear:camponotus-ocreatus,Camponotus ocreatus,64.99,54.99,15.4
 2026-07-26T08:29:41.051557+00:00,AntGear,antgear:pheidole-rhea,Massive Big-Headed Ants (Pheidole rhea),199.99,64.99,67.5
+2026-07-29T08:44:09.176473+00:00,PanTerra Pets,panterra-pets:giant-asian-mantis,Giant Asian Mantis (H. membranacea),18.99,19.99,5.3
+2026-07-29T08:44:09.176473+00:00,The Defiant Forest,the-defiant-forest:trinidad-chevron-tarantula-psalmopoeus-cambridgei,"Trinidad Chevron Tarantula, Psalmopoeus cambridgei",20.0,25.0,25.0
+2026-07-29T08:44:09.176473+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-large-10-gallon-millipede-starter-kit-comes-with-4-millipedes-of-your-choice,Vivarium Naturals - Large 20 Gallon Millipede Starter Kit  Comes with 3 Millipedes of your choice,64.29,76.46,18.9
+2026-07-29T08:44:09.176473+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-small-5-gallon-millipede-starter-kit,Vivarium Naturals Small 10 Gallon Millipede Starter Kit,21.89,40.89,86.8
+2026-07-29T08:44:09.176473+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-large-10-gallon-millipede-starter-kit,Vivarium Naturals - Large 20 Gallon Millipede Starter Kit,45.69,53.96,18.1
+2026-07-29T08:44:09.176473+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-small-5-gallon-millipede-starter-kit-comes-with-2-millipedes-of-your-choice,Vivarium Naturals - Small 10 Gallon Millipede Starter Kit  Comes with 2 Millipedes of your choice,39.69,58.59,47.6
+2026-07-29T08:44:09.176473+00:00,The Defiant Forest,the-defiant-forest:brazilian-blue-tarantula,"Brazilian Blue Tarantula, Lasiocyano sazamai - Terrestrial Species",24.0,39.0,62.5
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction-16,Large CalciGrubs 500ct Auction,1.0,11.0,1000.0
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction,Large Mealworm 500ct Auction,5.0,21.0,320.0
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:xs-discoid-roaches-500ct-auction,XS Discoid Roaches 500ct Auction,20.0,28.0,40.0
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction,24x18x36 (67 Gallon) Arboreal Auction,169.0,146.0,13.6
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:live-hornworm-moth-pupa-sexed-pair-manduca-sexta-auction,Live Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,5.0,4.0,20.0
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction,X-Small Dubia Roaches 500ct Auction,20.0,29.0,45.0
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction,220w Heat Panel Reptile Habitat Auction,160.0,146.0,8.8
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:125w-heat-panel-reptile-habitat-auction,125w Heat Panel Reptile Habitat Auction,111.0,129.0,16.2
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction,Large Discoid 250ct Auction,41.0,31.0,24.4
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction,Dubia Roaches Medium 500ct Auction,50.0,32.0,36.0
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:18x18x24-33-gallon-arboreal-reptile-enclosure-v3-auction-18,18x18x24 (33 Gallon) Arboreal Reptile Enclosure V3 Auction,126.0,132.0,4.8
+2026-07-29T08:44:09.176473+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction,Medium Hornworm 24ct (Case Of 12) Auction,70.0,10.0,85.7
+2026-07-29T08:44:09.176473+00:00,Fear Not Tarantulas,fear-not-tarantulas:tliltocatl-albopilosus-curlyhair-tarantula,"Tliltocatl albopilosus (Nicaraguan Curly Hair Tarantula) About 1"" - 1 1/4""",25.0,42.0,68.0
+2026-07-29T08:44:09.176473+00:00,Fear Not Tarantulas,fear-not-tarantulas:nhandu-tripepii-brazilian-giant-blonde-tarantula-male,"Nhandu tripepii (Brazilian Giant Blonde Tarantula) 3 1/2"" - 4""  Juvenile 💙Male💙 **IN STORE ONLY**",99.0,50.0,49.5
+2026-07-29T08:44:09.176473+00:00,Fear Not Tarantulas,fear-not-tarantulas:brachypelma-auratum-mexican-flame-knee,"Brachypelma auratum (Mexican Flame Knee Tarantula) about 1/2""",59.0,62.0,5.1
+2026-07-29T08:44:09.176473+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-pulchripes-chaco-golden-knee-tarantula-for-sale,"Grammostola pulchripes (Chaco Golden Knee Tarantula) about 1"" - 1 1/4""",42.0,59.0,40.5
+2026-07-29T08:44:09.176473+00:00,Fear Not Tarantulas,fear-not-tarantulas:sahydroaraneus-raja-indian-blue-dwarf-tarantula-for-sale,"Sahydroaraneus raja (Indian Blue Dwarf Tarantula) about 3/4""",98.0,120.0,22.4
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-snow-white,"Regal Jumping Spider ""Snow White"" (High White)",150.0,250.0,66.7
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-joker,"Regal Jumping Spider ""Joker"" (High White)",150.0,250.0,66.7
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-viola,"Regal Jumping Spider ""Viola""",75.0,95.0,26.7
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-heat,"Regal Jumping Spider ""Heat""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-lily,"Regal Jumping Spider ""Lily""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-sandstorm,"Regal Jumping Spider ""Sandstorm""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-cheeto,"Regal Jumping Spider ""Cheeto""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-fig,"Regal Jumping Spider ""Fig""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-fruit,"Regal Jumping Spider ""Fruit""",75.0,95.0,26.7
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-rachel,"Regal Jumping Spider ""Rachel""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-sapphire,"Regal Jumping Spider ""Sapphire"" (Rare)",200.0,250.0,25.0
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-lilac,"Regal Jumping Spider ""Lilac""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-tomato-for-sale,"Regal Jumping Spider ""Tomato""",75.0,95.0,26.7
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-yam,"Regal Jumping Spider ""Yam""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Exotics Source,exotics-source:regal-jumping-spider-smoothie,"Regal Jumping Spider ""Smoothie""",95.0,75.0,21.1
+2026-07-29T08:44:09.176473+00:00,Spider Shoppe,spider-shoppe:euathlus-sp-tigre-azul-chilean-blue-tiger,Euathlus sp 'Tigre Azul' (Chilean Blue Tiger),198.0,98.0,50.5
+2026-07-29T08:44:09.176473+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-avicularia-avicularia-guyana-pink-toe,[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe),36.0,28.0,22.2
+2026-07-29T08:44:09.176473+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-phormingochilus-hatihati-borneo-purple-earth-tiger,[Vancouver Pick-up] Phormingochilus hatihati (Borneo Purple Earth Tiger),44.0,32.0,27.3
+2026-07-29T08:44:09.176473+00:00,Spider Shoppe,spider-shoppe:eupaleastrus-larae-golden-zebra-beauty-1-25,Eupaleastrus larae (Golden Zebra Beauty),38.0,298.0,684.2
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:combo-2-2-ultimate-pro-carpenter-bee-traps-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #2 - 2 Ultimate Pro Carpenter Bee Traps with Bee Vault and 1 Bee-Licious Bee Bait,61.99,89.0,43.6
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:combo-1-1-ultimate-pro-carpenter-bee-trap-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #1 - 1 Ultimate Pro Carpenter Bee Trap with Bee Vault and 1 Bee-Licious Bee Bait,41.99,61.0,45.3
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-with-bee-vault-and-extra-large-external-receptacle-copy-2,"Ultimate Pro, Carpenter Bee Trap with Bee Vault and Extra Large External Receptacle",27.99,41.0,46.5
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:hand-poured-citronella-soy-candles-clean-burning-summer-scents-3oz-glass-jar-or-10oz-terracotta-pot-copy,"Hand Poured Citronella Soy Candles - Clean-Burning, Summer Scents, 3oz Glass Jar or 10oz Terracotta Pot",12.99,19.0,46.3
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:hand-poured-citronella-soy-candles-clean-burning-summer-scent-pack-copy,Hand Poured Citronella Soy Candles - Clean-Burning - Summer Scent Pack,42.99,62.0,44.2
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:wasp-deterrent-hives-copy,Wasp Deterrent Hives,9.99,15.0,50.2
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:lemon-tea-tree-calm-balm-stick-copy,Lemon + Tea Tree Calm Balm Stick,14.99,22.0,46.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-no-see-ums-repellent-body-mist-combo-copy-2,Shake + Shield No-See-Ums Repellent – Body Mist - Combo,24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:mosquito-repellent-body-mist-and-lotion-2oz-4oz-combo-copy,"Mosquito Repellent – Body Mist and Lotion, 2oz + 4oz Combo",19.99,29.0,45.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:soothe-shield-mosquito-repellent-body-lotion-4oz-copy,"Soothe + Shield Mosquito Repellent – Body Lotion, 4oz",14.99,22.0,46.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-insect-repellent-body-mist-copy-1,Shake + Shield Insect Repellent – Body Mist,6.99,10.0,43.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-no-see-ums-repellent-body-mist-combo-copy-1,Shake + Shield No-See-Ums Repellent – Body Mist - Combo,24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:no-see-ums-repellent-body-mist-and-lotion-2oz-4oz-combo-copy,"No-See-Ums Repellent – Body Mist and Lotion, 2oz + 4oz Combo",19.99,29.0,45.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:soothe-shield-no-see-ums-repellent-body-lotion-4oz-copy,"Soothe + Shield No-See-Ums Repellent – Body Lotion, 4oz",14.99,22.0,46.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-removal-kit-1,Carpenter Bee Removal Kit,12.99,19.0,46.3
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:wasp-deterrent-hive-citrus-carpenter-bee-spray-kit-for-yard-garden-6-pcs,Wasp Deterrent Hive & Citrus Carpenter Bee Spray Kit for Yard & Garden (6 pcs),26.99,39.0,44.5
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-wasp-deterrent-hive-citrus-carpenter-bee-spray-kit-outdoor-pest-control-3-pcs,Wasp Deterrent Hive & Citrus Carpenter Bee Spray Kit Outdoor Pest Control (3 pcs),26.99,39.0,44.5
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),79.99,115.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),79.99,115.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),79.99,115.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),79.99,115.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-repair-kit-replacement-parts-for-outdoor-use-4-pcs,Ultimate Pro Carpenter Bee Trap & Repair Kit (4 pcs),73.99,106.0,43.3
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-for-yard-patio-7-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit for Yard & Patio (7 pcs),76.99,111.0,44.2
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-outdoor-pest-control-5-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit Outdoor Pest Control (5 pcs),68.99,99.0,43.5
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-no-see-um-repellent-dorm-room-essentials-adventure-kit-copy,"Shake & Shield Bed Bug & No-See-Um Repellent - Dorm Room Essentials, Adventure Kit (6 pcs)",78.99,113.0,43.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-repellent-8oz,Carpenter Bee Repellent 8oz,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:bee-licious-bee-bait-2-pack,Bee-Licious Bee Bait 2 Pack,27.99,41.0,46.5
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:zap-2-in-1-insect-zap-racket-trap-1,ZAP! 2-in-1 Insect Zap Racket + Trap,24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-mosquito-repellent-dorm-room-essentials-adventure-kit,"Shake & Shield Bed Bug & Mosquito Repellent - Dorm Room Essentials, Adventure Kit (6 pcs)",78.99,113.0,43.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:everyday-adventure-band,Everyday Adventure Bands - Personal Essential Oil Diffuser,9.99,15.0,50.2
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:glass-wasp-trap-and-deterrent-hive-2-hives-for-wasps-and-yellow-jackets,Glass Wasp Trap and Deterrent Hive (2 Hives) for Wasps and Yellow Jackets,19.99,29.0,45.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:sleep-shield-calming-room-linen-mist-natural-oil-blend-with-peppermint-cedarwood-rosemary-combo-pack,"Sleep & Shield Calming Room + Linen Mist - Natural Oil Blend with Peppermint, Cedarwood & Rosemary - 8oz + 2oz Combo Pack",24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:sleep-shield-calming-room-linen-mist-with-essential-oils,"Sleep & Shield Calming Room + Linen Mist – Natural Essential Oil Blend with Peppermint, Cedarwood & Rosemary",6.99,10.0,43.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:the-firecracker-adventure-kit,"Shake & Shield Mosquito Repellent, Summer Survival Adventure Kit (6 pcs)",59.99,86.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:mosquito-treeline-tranquil-adventure-kit,"Shake & Shield Mosquito Repellent, Treeline Tranquil - Adventure Kit - 4 pcs",38.99,56.0,43.6
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:mosquito-repellent-2oz-tsa-approved-8oz-family-size-bundle,"Mosquito Repellent, 2oz TSA-Approved + 8oz Family Size - Combo Pack",24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:the-coastline-calm-adventure-kit,"Shake & Shield No-See-Um Repellent, Adventure Kit - 4 pcs",38.99,56.0,43.6
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-black-roof-carpenter-bee-trap-with-bee-vault-and-extra-large-external-receptacle,"Ultimate Pro with Color Roof, Carpenter Bee Trap with Bee Vault and Extra Large External Receptacle",29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-control-kit,Carpenter Bee Control Kit,95.99,138.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),119.99,172.0,43.3
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:the-weekender-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Weekender Adventure Kit (7 pcs),83.99,121.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:the-overnighter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Overnighter Adventure Kit (5 pcs),46.99,68.0,44.7
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-happy-house-natural,Carpenter Bee Turbo Trap Happy House with Bee Vault - Natural Roof,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-happy-house-black,Carpenter Bee Turbo Trap Happy House with Bee Vault - Black Roof,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-white,Carpenter Bee Turbo Trap 2.0 with Bee Vault - White Roof,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-brown,Carpenter Bee Turbo Trap 2.0 with Bee Vault - Brown Roof,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-black,Carpenter Bee Turbo Trap 2.0 with Bee Vault - Black Roof,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:rainforest-canopy-after-adventure-lotion-with-eucalyptus-and-copaiba,Rainforest Canopy After Adventure Lotion with Eucalyptus + Copaiba,19.99,29.0,45.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:deep-ocean-after-adventure-lotion-with-palmarosa-sandalwood,Deep Ocean After Adventure Lotion with Palmarosa + Sandalwood,19.99,29.0,45.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-happy-house,Carpenter Bee Turbo Trap Happy House with Bee Vault,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,79.99,115.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:pine-turbo-trap,Carpenter Bee Pine Turbo Trap with Bee Vault,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:wasp-trap,Glass Wasp Trap,12.99,19.0,46.3
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-combo-citrus-carpenter-bee-repellent,Citrus Carpenter Bee Repellent Spray - Combo,38.99,56.0,43.6
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-combo-bed-bug-repellent,Shake + Shield Bed Bug Repellent – Room & Linen Spray - Combo Pack,24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-repellent-spray,Shake + Shield Bed Bug Repellent – Room & Linen Spray,6.99,10.0,43.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,79.99,115.0,43.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap,Carpenter Bee Turbo Trap 2.0 with Bee Vault,27.99,41.0,46.5
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:hanging-carved-face-bee-lodge,Hanging Carved Face Bee Lodge,34.99,51.0,45.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:hanging-carved-bee-lodge,Hanging Carved Bee Lodge,29.99,43.0,43.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:hand-dipped-wooden-corks-8-pack,Hand Dipped Wooden Corks 8 Pack,3.99,6.0,50.4
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:bug-bite-sucker,Bug Bite Extractor,6.99,10.0,43.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:slanted-roof-mason-bee-home,Slanted Roof Mason Bee Home,24.99,36.0,44.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:bee-licious-bee-bait,Carpenter Bee Licious Bait,14.99,22.0,46.8
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:mosquito-zap-trap,Mosquito Zap Trap,19.99,29.0,45.1
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:mosquito-repelling-incense-sticks,Lemongrass + Rosemary Incense Sticks for Mosquitoes,9.99,15.0,50.2
+2026-07-29T08:44:09.176473+00:00,Best Bee Brothers,best-bee-brothers:citrus-spray-natural-carpenter-bee-repellant,Citrus Carpenter Bee Repellent Spray,9.99,15.0,50.2
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:scolopendra-sp-white-leg-peruvian-white-legged-centipede-for-sale,"Scolopendra sp. 'white leg' (Peruvian white-legged centipede) 3""",325.0,300.0,7.7
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:monocentropus-balfouri-socotra-island-blue-baboon-tarantula-for-sale,"Monocentropus balfouri (Socotra Island blue baboon tarantula) 0.75""",45.0,40.0,11.1
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:cyriocosmus-elegans-trinidad-dwarf-tiger-tarantula-for-sale,Cyriocosmus elegans (Trinidadian dwarf tiger tarantula),50.0,35.0,30.0
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:davus-sp-panama-lava-spider-for-sale,"Davus sp. 'Panama' (Panama pink tarantula / lava spider) 0.5""",150.0,125.0,16.7
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:ornithoctoninae-sp-vietnam-silver-vietnam-silver-earth-tiger-tarantula-for-sale,"Ornithoctoninae sp. 'Vietnam silver' (Vietnam silver tarantula) 0.75""",75.0,65.0,13.3
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:idiothele-mira-blue-footed-baboon-tarantula-for-sale,"Idiothele mira (blue-footed baboon tarantula) 0.75""",55.0,65.0,18.2
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:grammostola-pulchripes-chaco-golden-knee-tarantula-for-sale,"Grammostola pulchripes (Chaco golden knee tarantula) 0.5""",40.0,45.0,12.5
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:birupes-simoroxigorum-bornean-neon-blue-legged-tarantula-for-sale,"Birupes simoroxigorum (Bornean neon blue-legged tarantula) 0.5""",75.0,65.0,13.3
+2026-07-29T08:44:09.176473+00:00,Buddha Bugs,buddha-bugs:acanthoscurria-geniculata-brazilian-giant-white-knee-for-sale,"Acanthoscurria geniculata (Brazilian giant white knee tarantula) 2""",30.0,70.0,133.3
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-26-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #26 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-27-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #27 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-28-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #28 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-29-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #29 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-30-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #30 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-31-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #31 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-32-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #32 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-33-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #33 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-34-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #34 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,American Reptile Distributors,american-reptile-distributors:albino-florida-snapping-turtle-2026-35-chelydra-serpentina-osceola,Albino Florida Snapping Turtle 2026 #35 (Chelydra serpentina osceola),399.99,299.99,25.0
+2026-07-29T08:44:09.176473+00:00,Big Apple Herp,big-apple-herp:pied-ball-pythons-for-sale,Pied Ball Pythons for Sale – Multiple Morphs Available,269.95,259.95,3.7
+2026-07-29T08:44:09.176473+00:00,Big Apple Herp,big-apple-herp:enchi-ghost-ball-pythons,Enchi Ghost Ball Pythons,239.0,119.95,49.8
+2026-07-29T08:44:09.176473+00:00,Big Apple Herp,big-apple-herp:java-water-monitors-babies,Java Water Monitors,249.95,259.95,4.0
+2026-07-29T08:44:09.176473+00:00,Big Apple Herp,big-apple-herp:pied-ball-python,Pied Ball Pythons High White,259.95,279.95,7.7
+2026-07-29T08:44:09.176473+00:00,David's Beetles,davids-beetles:pre-order-larvae-caucasus-beetle-chalcosoma-chiron,LARVAE: Three-horned beetle (Chalcosoma chiron),42.0,45.0,7.1
+2026-07-29T08:44:09.176473+00:00,David's Beetles,davids-beetles:larvae-japanese-rhino-beetle-trypoxylus-dichotoma,LARVAE: Japanese Rhino Beetle (Trypoxylus dichotoma),29.99,19.99,33.3
+2026-07-29T08:44:09.176473+00:00,Coast2Coast Beetles,coast2coast-beetles:trypoxylus-dichotomus-tsunobosonu,Trypoxylus dichotomus tsunobosonu (Taiwan Rhino Beetle),19.99,15.0,25.0
+2026-07-29T08:44:09.176473+00:00,AntGear,antgear:dorymyrmex-insanus,Crazy Pyramid Ant (Dorymyrmex insanus),39.99,24.99,37.5
+2026-07-29T08:44:09.176473+00:00,AntGear,antgear:pheidole-militicida,Militant Big-Headed Ants (Pheidole militicida),54.99,59.99,9.1
+2026-07-29T08:44:09.176473+00:00,Buckeye Myrmecology,buckeye-myrmecology:lasius-americanus,Lasius americanus,20.0,24.0,20.0
