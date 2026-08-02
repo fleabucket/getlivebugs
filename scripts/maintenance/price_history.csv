@@ -2867,3 +2867,142 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-07-29T08:44:09.176473+00:00,AntGear,antgear:dorymyrmex-insanus,Crazy Pyramid Ant (Dorymyrmex insanus),39.99,24.99,37.5
 2026-07-29T08:44:09.176473+00:00,AntGear,antgear:pheidole-militicida,Militant Big-Headed Ants (Pheidole militicida),54.99,59.99,9.1
 2026-07-29T08:44:09.176473+00:00,Buckeye Myrmecology,buckeye-myrmecology:lasius-americanus,Lasius americanus,20.0,24.0,20.0
+2026-08-02T08:26:47.078973+00:00,PanTerra Pets,panterra-pets:ghost-mantis,Ghost Mantis (P. paradoxa),18.99,21.99,15.8
+2026-08-02T08:26:47.078973+00:00,PanTerra Pets,panterra-pets:fruit-fly-culturing-kit,Fruit Fly Culturing Kit,16.99,18.99,11.8
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:captive-bred-sulawesi-side-spotted-millipedes-marigold-yellow,Captive Bred Sulawesi Side Spotted Millipedes | Marigold Yellow,85.0,65.0,23.5
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:trinidad-chevron-tarantula-psalmopoeus-cambridgei,"Trinidad Chevron Tarantula, Psalmopoeus cambridgei",25.0,36.0,44.0
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:salmon-pink-bird-eater-lasiodora-parahybana,"Salmon Pink Bird-Eater, Lasiodora parahybana - Terrestrial Species",36.0,30.0,16.7
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:bi-color-avatar-millipedes-spirotreptida-sp-red-yellow-legs,"Captive Bred Bi-Color Avatar Millipedes, Salpidobolus sp. | Bright Yellow Legs & Antennae",85.0,65.0,23.5
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:mini-creeping-vine-fern-microgramma-vaccinifolia,"Creeping Micro Ferns, Microgramma vaccinifolia",9.5,12.5,31.6
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:scalloped-shingle-plant-marcgravia,"Scalloped Shingle Plant, Marcgravia sp.",9.5,12.5,31.6
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:neotropical-creeping-micro-ferns-microgramma-reptans,"Neotropical Creeping Micro-Ferns, Microgramma reptans",11.89,18.0,51.4
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:live-tissue-cultured-moss-unknown-species,"Live Cultured Tropical Moss, Unknown Species",14.0,18.5,32.1
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:thai-giant-orange-millipede-diplopoda-sp,"Captive Bred Giant Thai Orange Millipede, Thyropygus sp. Ban Chak Ngaeo",85.0,65.0,23.5
+2026-08-02T08:26:47.078973+00:00,The Defiant Forest,the-defiant-forest:brazilian-blue-tarantula,"Brazilian Blue Tarantula, Lasiocyano sazamai - Terrestrial Species",39.0,33.0,15.4
+2026-08-02T08:26:47.078973+00:00,Exotics Unlimited,exotics-unlimited:euathlus-sp-bronce-chilean-pink-flame,Euathlus sp. 'Bronce' (Chilean Pink Flame),165.0,160.0,3.0
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:monocentropus-balfouri-socotra-island-blue-tarantula-for-sale-live-arrival-guarantee,Monocentropus balfouri - Socotra Island Blue Tarantula for Sale | Communal Species | Live Arrival Guarantee,49.99,45.69,8.6
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:birupes-simoroxigorum-borneo-neon-blue-leg-tarantula-for-sale-live-arrival-guarantee,Birupes simoroxigorum - Borneo Neon Blue Leg Tarantula for Sale | Live Arrival Guarantee,57.99,84.59,45.9
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:hogna-carolinensis-carolina-wolf-spider-largest-north-american-wolf-spider-live-arrival-guarantee,Hogna carolinensis – Carolina Wolf Spider | Largest North American Wolf Spider | Live Arrival Guarantee,27.99,21.79,22.2
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:grammostola-grossa-guarani-giant-tarantula-docile-giant-new-world-species-live-arrival-guarantee,Grammostola grossa – Guarani Giant Tarantula | Docile Giant New World Species | Live Arrival Guarantee,107.99,93.29,13.6
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:ybyrapora-diversipes-amazon-sapphire-pink-toe-tarantula-iridescent-blue-jewel-live-arrival-guarantee,Ybyrapora diversipes – Amazon Sapphire Pink Toe Tarantula | Iridescent Blue Jewel | Live Arrival Guarantee,97.99,85.59,12.7
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:lasiocyano-sazimai-brazilian-blue-tarantula-sapphire-terrestrial-beauty-live-arrival-guarantee,Lasiocyano sazimai – Brazilian Blue Tarantula | Sapphire Terrestrial Beauty | Live Arrival Guarantee,31.99,44.99,40.6
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:acanthoscurria-geniculata-brazilian-white-knee-tarantula-massive-terrestrial-species-live-arrival-guarantee,Acanthoscurria geniculata – Brazilian White Knee Tarantula | Massive Terrestrial Species | Live Arrival Guarantee,34.99,33.29,4.9
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:grammostola-pulchripes-chaco-golden-knee-tarantula-for-sale-live-arrival-guarantee,Grammostola pulchripes - Chaco Golden Knee Tarantula for Sale | Live Arrival Guarantee,39.99,36.29,9.3
+2026-08-02T08:26:47.078973+00:00,Ty Dye Exotics,ty-dye-exotics:avicularia-purpurea-purple-pink-toe-tarantula-for-sale-live-arrival-guarantee,Avicularia purpurea - Purple Pink Toe Tarantula for Sale | Live Arrival Guarantee,69.99,61.79,11.7
+2026-08-02T08:26:47.078973+00:00,Meme's Worms,memes-worms:garden-tower-2™-50-plant-composting-vertical-garden-planter-dropship,"Garden Tower 2™, 50-Plant Composting Vertical Garden Planter (Dropship)",445.0,438.0,1.6
+2026-08-02T08:26:47.078973+00:00,Meme's Worms,memes-worms:all-metal-round-hoop-house-kit,All-Metal Round Hoop House Kit,3081.24,3624.99,17.6
+2026-08-02T08:26:47.078973+00:00,Meme's Worms,memes-worms:garden-tower®-2-premium-caster-wheel-kit-dropship,Garden Tower® 2 Premium Caster Wheel Kit (Dropship),125.0,119.0,4.8
+2026-08-02T08:26:47.078973+00:00,Meme's Worms,memes-worms:garden-tower-2™-move-and-grow-bundle-dropship,Garden Tower 2™ Move and Grow Bundle (Dropship),535.0,528.0,1.3
+2026-08-02T08:26:47.078973+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-1,Dubia Roaches Medium 500ct Auction,32.0,47.0,46.9
+2026-08-02T08:26:47.078973+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-1,220w Heat Panel Reptile Habitat Auction,146.0,110.0,24.7
+2026-08-02T08:26:47.078973+00:00,DubiaRoaches.com,dubiaroaches:18x18x24-33-gallon-arboreal-reptile-enclosure-v3-auction-19,18x18x24 (33 Gallon) Arboreal Reptile Enclosure V3 Auction,132.0,93.0,29.5
+2026-08-02T08:26:47.078973+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-1,Large Mealworm 500ct Auction,21.0,7.0,66.7
+2026-08-02T08:26:47.078973+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction-18,Large CalciGrubs 500ct Auction,10.0,8.0,20.0
+2026-08-02T08:26:47.078973+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,2.0,3.0,50.0
+2026-08-02T08:26:47.078973+00:00,Flow Hive,flow-hive:super-lifter-handles,Flow Super Lifter Handles,63.2,79.0,25.0
+2026-08-02T08:26:47.078973+00:00,Flow Hive,flow-hive:garden-tools,Flow Garden Tools,47.2,59.0,25.0
+2026-08-02T08:26:47.078973+00:00,Flow Hive,flow-hive:ant-guards,Flow Ant Guards,16.0,20.0,25.0
+2026-08-02T08:26:47.078973+00:00,Flow Hive,flow-hive:bee-jacket-mesh,Flow Bee Jacket – Mesh,111.2,139.0,25.0
+2026-08-02T08:26:47.078973+00:00,Flow Hive,flow-hive:bee-veil,Flow Veil,23.2,29.0,25.0
+2026-08-02T08:26:47.078973+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-guyan-pinktoe-tarantula-for-sale-2026,"Avicularia avicularia (Guyan Pinktoe Tarantula) about 3/4"" - 1""",39.0,45.0,15.4
+2026-08-02T08:26:47.078973+00:00,Fear Not Tarantulas,fear-not-tarantulas:ephebopus-cyanognathus-blue-fang-tarantula-for-sale-now,"Ephebopus cyanognathus (Blue Fang Tarantula) about  about 1"" - 1 1/4""",65.0,45.0,30.8
+2026-08-02T08:26:47.078973+00:00,Fear Not Tarantulas,fear-not-tarantulas:pamphobeteus-mascara-tarantula-for-sale-1,"Pamphobeteus sp. mascara (Mascara Giant Birdeater Tarantula) about 1"" - 1 1/2""",79.0,39.0,50.6
+2026-08-02T08:26:47.078973+00:00,Fear Not Tarantulas,fear-not-tarantulas:thrixopelma-sp-andes-fire-tarantula-for-sale,"Thrixopelma sp Andes Fire about 1/2"" - 3/4"" *NEW",174.0,99.0,43.1
+2026-08-02T08:26:47.078973+00:00,Fear Not Tarantulas,fear-not-tarantulas:harpactira-dictator-tarantula-dictator-baboon,"Harpactira dictator (Dictator Baboon Tarantula) about  1"" - 1 1/4""",49.0,59.0,20.4
+2026-08-02T08:26:47.078973+00:00,Fear Not Tarantulas,fear-not-tarantulas:hapalopus-guerilla-tarantula-for-sale,"Hapalopus guerreroi (Speckle Patch Guerilla Tarantula) about 1/2"" - 3/4""",45.0,59.0,31.1
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-paprika,Regal Jumping Spider “Paprika”,95.0,75.0,21.1
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-wheatly,Regal Jumping Spider “Wheatly”,75.0,95.0,26.7
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-tater-tot,Regal Jumping Spider “Tater Tot”,95.0,75.0,21.1
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-apricot,Regal Jumping Spider “Apricot”,75.0,95.0,26.7
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-snow-white,"Regal Jumping Spider ""Snow White"" (High White)",250.0,150.0,40.0
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-joker,"Regal Jumping Spider ""Joker"" (High White)",250.0,150.0,40.0
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-ignisa,"Regal Jumping Spider ""Ignisa""",75.0,95.0,26.7
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-cake,"Regal Jumping Spider ""Cake""",75.0,95.0,26.7
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-charm,Regal Jumping Spider “Charm”,75.0,95.0,26.7
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-butter-1,"Regal Jumping Spider ""Butter""",75.0,95.0,26.7
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:custom-order,Custom Order,1065.0,60.0,94.4
+2026-08-02T08:26:47.078973+00:00,Exotics Source,exotics-source:regal-jumping-spider-sapphire,"Regal Jumping Spider ""Sapphire"" (Rare)",250.0,200.0,20.0
+2026-08-02T08:26:47.078973+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-boa-constrictor-boa-luecistic-male,[Vancouver Pick-up] Boa constrictor (Boa) Moonglow Female,1998.0,1798.0,10.0
+2026-08-02T08:26:47.078973+00:00,Spider Shoppe,spider-shoppe:heterodon-nasicus-hognose-snake-extreme-red-albino-female,Heterodon nasicus (Hognose Snake) 2025 Extreme Red Albino FEMALE,348.0,298.0,14.4
+2026-08-02T08:26:47.078973+00:00,Spider Shoppe,spider-shoppe:heterodon-nasicus-hognose-snake-axanthic-het-albino-female-copy,Heterodon nasicus (Hognose Snake) Axanthic Het Albino MALE,248.0,398.0,60.5
+2026-08-02T08:26:47.078973+00:00,Spider Shoppe,spider-shoppe:phiddipus-morpheus-bumble-bee-jumper-juvenile-sub-adult,Phidippus morpheus (Bumble Bee Jumper),38.0,48.0,26.3
+2026-08-02T08:26:47.078973+00:00,Spider Shoppe,spider-shoppe:phiddipus-tyrelli,Phidippus tyrelli (Tyrells Tufted Jumper),38.0,42.0,10.5
+2026-08-02T08:26:47.078973+00:00,US Invertebrate LLC,us-invertebrate:isopod-culture-kit-1,Isopod Culture Kit,8.0,10.0,25.0
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:combo-1-1-ultimate-pro-carpenter-bee-trap-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #1 - 1 Ultimate Pro Carpenter Bee Trap with Bee Vault and 1 Bee-Licious Bee Bait,61.0,60.0,1.6
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-with-bee-vault-and-extra-large-external-receptacle-copy-2,"Ultimate Pro, Carpenter Bee Trap with Bee Vault and Extra Large External Receptacle",41.0,40.0,2.4
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,114.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,114.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,114.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,114.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-for-yard-patio-7-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit for Yard & Patio (7 pcs),111.0,110.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:bee-licious-bee-bait-2-pack,Bee-Licious Bee Bait 2 Pack,41.0,40.0,2.4
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-control-kit,Carpenter Bee Control Kit,138.0,137.0,0.7
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),172.0,171.0,0.6
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:the-weekender-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Weekender Adventure Kit (7 pcs),121.0,120.0,0.8
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:the-overnighter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Overnighter Adventure Kit (5 pcs),68.0,67.0,1.5
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,115.0,114.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,115.0,114.0,0.9
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap,Carpenter Bee Turbo Trap 2.0 with Bee Vault,41.0,40.0,2.4
+2026-08-02T08:26:47.078973+00:00,Best Bee Brothers,best-bee-brothers:hanging-carved-face-bee-lodge,Hanging Carved Face Bee Lodge,51.0,50.0,2.0
+2026-08-02T08:26:47.078973+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26703-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26703 (Malaclemys terrapin macrospilota),249.99,199.99,20.0
+2026-08-02T08:26:47.078973+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26702-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26702 (Malaclemys terrapin macrospilota),249.99,199.99,20.0
+2026-08-02T08:26:47.078973+00:00,American Reptile Distributors,american-reptile-distributors:ornate-diamondback-terrapin-female-26701-malaclemys-terrapin-macrospilota,Ornate Diamondback Terrapin Female #26701 (Malaclemys terrapin macrospilota),249.99,199.99,20.0
+2026-08-02T08:26:47.078973+00:00,American Reptile Distributors,american-reptile-distributors:pastel-clown-peacock-slider-baby-2026-1-trachemys-emolii,Pastel Clown Peacock Slider Baby 2026 #1 (Trachemys emolii),199.99,99.99,50.0
+2026-08-02T08:26:47.078973+00:00,Big Apple Herp,big-apple-herp:butter-ball-pythons-for-sale,Butter Ball Pythons for Sale – Multiple Morphs Available,239.95,214.95,10.4
+2026-08-02T08:26:47.078973+00:00,Big Apple Herp,big-apple-herp:ghost-ball-pythons-for-sale,Ghost Ball Pythons for Sale – Multiple Morphs Available,129.0,109.0,15.5
+2026-08-02T08:26:47.078973+00:00,Big Apple Herp,big-apple-herp:fire-ball-pythons-for-sale,Fire Ball Pythons for Sale – Multiple Morphs Available,289.0,89.95,68.9
+2026-08-02T08:26:47.078973+00:00,Big Apple Herp,big-apple-herp:green-basilisks,Green & Brown Basilisks,34.95,37.95,8.6
+2026-08-02T08:26:47.078973+00:00,The Bio Dude,the-bio-dude:monocentropus-balfouri-socotra-island-blue-tarantula-for-sale-live-arrival-guarantee,Monocentropus balfouri - Socotra Island Blue Tarantula for Sale | TDE,49.99,45.69,8.6
+2026-08-02T08:26:47.078973+00:00,The Bio Dude,the-bio-dude:4-pot-sansevieria-shorter-variety,"4"" Pot Sansevieria Shorter Variety",8.95,13.95,55.9
+2026-08-02T08:26:47.078973+00:00,Imperial Reptiles,imperial-reptiles:banana-calico-ball-python-for-sale,Banana Calico Ball Python,149.99,189.99,26.7
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:galapagos-mossy-dome,Galápagos Mossy Dome,20.99,18.99,9.5
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-succulent-garden,Pangea Succulent Garden,12.99,7.98,38.6
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-logo-t-shirt,Pangea Logo Tee,24.99,9.99,60.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:zoo-med-repti-calcium-without-d3-2,Zoo Med Repti Calcium Without D3,8.99,6.99,22.2
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:zoo-med-reptibreeze-substrate-bottom-tray-2,Zoo Med ReptiBreeze Substrate Bottom Tray,17.99,11.99,33.4
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:redline-science-12-straight-non-locking-hemostats-2,"Redline Science 12"" Straight Non-Locking Hemostats",13.99,8.99,35.7
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:exo-terra-terrasky-uv-uvb-led-terrarium-light-1,Exo Terra TerraSky UV - UVB LED Compact Terrarium Light,119.99,69.99,41.7
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:exo-terra-terrasky-uv-uvb-led-terrarium-spot-lamp,Exo Terra TerraSky UV - UVB LED Terrarium Spot Lamp,59.99,39.99,33.3
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:exo-terra-terrasky-uv-uvb-led-terrarium-light,Exo Terra TerraSky UV - UVB LED Terrarium Light,159.99,99.99,37.5
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:zoo-med-eco-earth-coconut-chips,Zoo Med Eco Earth Coconut Chips,6.99,4.99,28.6
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-mojave-stacker,New Age Pet®  Mojave Stacker,79.99,59.99,25.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-48-lo-boy-versa-stand,"New Age Pet®  48"" Lo-Boy Versa Stand",284.99,249.99,12.3
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-24-mojave-reptile-lounge,"New Age Pet®  24"" Mojave Reptile Lounge",154.99,84.99,45.2
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-36-mojave-reptile-lounge,"New Age Pet®  36"" Mojave Reptile Lounge",259.99,161.99,37.7
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-48-mojave-reptile-lounge,"New Age Pet®  48"" Mojave Reptile Lounge",374.99,249.99,33.3
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-48-versa-stand,"New Age Pet®  48"" Versa Stand",448.99,249.99,44.3
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:new-age-pet-36-versa-stand,"New Age Pet®  36"" Versa Stand",307.99,211.99,31.2
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:reptile-systems-eco-halogen-basking-spotlight-25w-50w-75w-100w,Reptile Systems Eco Halogen Basking Spotlight,32.99,31.99,3.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:male-xxx-crested-gecko-cr-2280,Male Extreme Harlequin Crested Gecko Cr-2280,449.99,199.99,55.6
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:joshs-frogs-hydei-fruit-fly-media,Josh's Frogs Hydei Fruit Fly Media,13.99,9.99,28.6
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:joshs-frogs-melanogaster-fruit-fly-media,Josh's Frogs Melanogaster Fruit Fly Media,12.99,8.99,30.8
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2108,Male Extreme Harlequin Crested Gecko Cr-2108,549.99,274.99,50.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2066,Male Extreme Harlequin Crested Gecko Cr-2066,599.99,399.99,33.3
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-crested-gecko-cr-2019,Male Pinstripe Crested Gecko Cr-2019,299.99,199.99,33.3
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-crested-gecko-cr-2007,Male Tricolor Extreme Harlequin Crested Gecko Cr-2007,499.99,374.99,25.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2004,Female XXX Crested Gecko Cr-2004,599.99,199.99,66.7
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1932,Male Extreme Harlequin Crested Gecko Cr-1932,699.99,299.99,57.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:medium-acrylic-enclosure-for-arachnids-and-invertebrates,Medium Acrylic Enclosure,39.99,29.99,25.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-branch-mount-gecko-feeding-dish-large,Pangea MicroDish - Branch Mount Kit - Gecko Feeding Dish - Large,11.99,5.99,50.0
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-extra-small-gecko-feeding-dish-sys1,Pangea MicroDish - Extra Small Dual Gecko Feeding Dish (SYS1),5.99,2.99,50.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-small-gecko-feeding-dish-sys1,Pangea MicroDish - Small Gecko Feeding Dish (SYS1),5.99,2.99,50.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-branch-mount-large-sys3,Pangea MicroDish - Branch Mount - Large (SYS3),5.99,2.99,50.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-branch-mount-small-sys1,Pangea MicroDish - Branch Mount - Small (SYS1),5.99,2.99,50.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-gecko-feeding-dish-large,Pangea MicroDish - Gecko Feeding Dish - Large (SYS3),6.99,2.99,57.2
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-surface-mount-gecko-feeding-dish-small,Pangea MicroDish - Surface Mount - Small (SYS 1),5.99,2.99,50.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-branch-mount-gecko-feeding-dish-dual-extra-small,Pangea MicroDish - Branch Mount Kit - Gecko Feeding Dish - Dual Extra Small,9.99,4.99,50.1
+2026-08-02T08:26:47.078973+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-branch-mount-gecko-feeding-dish-small,Pangea MicroDish - Branch Mount Kit - Gecko Feeding Dish - Small,9.99,4.99,50.1
+2026-08-02T08:26:47.078973+00:00,Grow Organic,grow-organic:complete-soil-analysis,"Soil Test (S-103, Agricultural Soil)",74.99,83.99,12.0
+2026-08-02T08:26:47.078973+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:pipevine-swallowtail-caterpillars-or-chrysalis,Pipevine Swallowtail Caterpillars or Chrysalis,65.0,48.0,26.2
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:large-outworld-with-removable-lid-mesh-vent,Large Outworld with Removable Lid &#038; Mesh Vent,29.99,24.99,16.7
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pogonomyrmex-maricopa,Maricopa Harvester Ant (Pogonomyrmex maricopa),29.99,39.99,33.3
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:myrmecocystus-placodops-01,Bicolored Large Honeypot Ants (Myrmecocystus placodops 01),54.99,89.99,63.6
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pheidole-militicida,Militant Big-Headed Ants (Pheidole militicida),59.99,64.99,8.3
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:fluon-escape-prevention,Fluon (PTFE Disp 30): Keep Ants From Escaping,12.99,16.99,30.8
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:novomessor-cockerelli,Desert Long-Legged Ants (Novomessor cockerelli),34.99,39.99,14.3
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pogonomyrmex-californicus-bicolor,California Harvester (Pogonomyrmex californicus),72.99,62.99,13.7
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pogonomyrmex-barbatus,Red Harvester Ant (Pogonomyrmex barbatus),29.99,39.99,33.3
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:camponotus-pudorosus,Camponotus pudorosus,24.99,44.99,80.0
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pogonomyrmex-rugosus,Rough Harvester Ant (Pogonomyrmex rugosus),24.99,34.99,40.0
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:camponotus-ocreatus,Camponotus ocreatus,54.99,64.99,18.2
+2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pheidole-rhea,Massive Big-Headed Ants (Pheidole rhea),64.99,72.99,12.3
