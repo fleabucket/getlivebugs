@@ -3006,3 +3006,68 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pogonomyrmex-rugosus,Rough Harvester Ant (Pogonomyrmex rugosus),24.99,34.99,40.0
 2026-08-02T08:26:47.078973+00:00,AntGear,antgear:camponotus-ocreatus,Camponotus ocreatus,54.99,64.99,18.2
 2026-08-02T08:26:47.078973+00:00,AntGear,antgear:pheidole-rhea,Massive Big-Headed Ants (Pheidole rhea),64.99,72.99,12.3
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-2,Large Mealworm 500ct Auction,1.0,8.0,700.0
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:medium-discoid-roaches-500ct-auction,Medium Discoid Roaches 500ct Auction,51.0,38.0,25.5
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:125w-heat-panel-reptile-habitat-auction-1,125w Heat Panel Reptile Habitat Auction,129.0,165.0,27.9
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction,Medium Superworm 500ct Auction,12.0,13.0,8.3
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-1,Medium Hornworm 24ct (Case Of 12) Auction,13.0,22.0,69.2
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-1,24x18x36 (67 Gallon) Arboreal Auction,200.0,1590.0,695.0
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-1,Large Discoid 250ct Auction,31.0,22.0,29.0
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-2,Large Hornworm 12ct (Case Of 6) Auction,17.0,21.0,23.5
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-1,X-Small Dubia Roaches 500ct Auction,29.0,19.0,34.5
+2026-08-05T08:39:04.708197+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-3,Dubia Roaches Medium 500ct Auction,32.0,40.0,25.0
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:euthycaelus-colonica-venezuela-orange-tarantula,"Euthycaelus colonica (Venezuela Orange & Bronze Tarantula) about 1/4"" - 1/3""",19.0,35.0,84.2
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:hapalopus-guerreroi-speckle-patch-guerilla-tarantula-small,"Hapalopus guerreroi (Speckle Patch Guerilla Tarantula) about 1/3"" - 1/2""",25.0,45.0,80.0
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:ephebopus-cyanognathus-blue-fang-tarantula-for-sale-now,"Ephebopus cyanognathus (Blue Fang Tarantula) about  about 1"" - 1 1/4""",45.0,69.0,53.3
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:pamphobeteus-mascara-tarantula-for-sale-1,"Pamphobeteus sp. mascara (Mascara Giant Birdeater Tarantula) about 1"" - 1 1/2""",39.0,79.0,102.6
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:ceratogyrus-darlingi-rear-horned-baboon-tarantula-for-sale-flash,"Ceratogyrus darlingi (Rear Horned Baboon Tarantula) about 3/4"" - 1""",35.0,19.0,45.7
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:thrixopelma-sp-andes-fire-tarantula-for-sale,"Thrixopelma sp Andes Fire about 1/2"" - 3/4"" *NEW",99.0,174.0,75.8
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:brachypelma-auratum-mexican-flame-knee,"Brachypelma auratum (Mexican Flame Knee Tarantula) about 1/2""",62.0,35.0,43.5
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:tapinauchenius-sanctivincenti-tarantula-for-sale,"Tapinauchenius sanctivincenti (St. Vincent's Tree Spider) about 3/4"" - 1""",45.0,17.0,62.2
+2026-08-05T08:39:04.708197+00:00,Fear Not Tarantulas,fear-not-tarantulas:hysterocrates-gigas-cameroon-red-baboon-spider,"Hysterocrates gigas (Cameroon Red Baboon Spider) 3/4"" - 1""",45.0,22.0,51.1
+2026-08-05T08:39:04.708197+00:00,Spider Shoppe,spider-shoppe:euathlus-truculentus-green,Euathlus truculentus 'Green',348.0,124.0,64.4
+2026-08-05T08:39:04.708197+00:00,Spider Shoppe,spider-shoppe:avicularia-sp-ecuador,Avicularia sp 'Ecuador',98.0,198.0,102.0
+2026-08-05T08:39:04.708197+00:00,Spider Shoppe,spider-shoppe:mniarogekko-chahoua-new-caledonian-mossy-gecko-mainland-1,Mniarogekko chahoua (New Caledonian Mossy Gecko) Mainland,228.0,168.0,26.3
+2026-08-05T08:39:04.708197+00:00,Spider Shoppe,spider-shoppe:chahoua-gecko-mniarogekko-chahoua-pine-island-proven-pair,Mniarogekko chahoua (New Caledonian Mossy Gecko) Pine Island PAIR,548.0,498.0,9.1
+2026-08-05T08:39:04.708197+00:00,Spider Shoppe,spider-shoppe:aqueon-10-gallon-tank,Aqueon 10 Gallon Tank,24.0,38.98,62.4
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-control-kit,Carpenter Bee Control Kit,137.0,138.0,0.7
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),171.0,172.0,0.6
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:the-overnighter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Overnighter Adventure Kit (5 pcs),67.0,68.0,1.5
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,114.0,115.0,0.9
+2026-08-05T08:39:04.708197+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,114.0,115.0,0.9
+2026-08-05T08:39:04.708197+00:00,Micro Wilderness,micro-wilderness:grammostola-pulchra,Grammostola pulchra - Unsexed - Brazilian Black,149.99,99.99,33.3
+2026-08-05T08:39:04.708197+00:00,Buddha Bugs,buddha-bugs:barylestis-occidentalis-west-african-huntsman-spider-for-sale,"Barylestis occidentalis (West African huntsman spider) 0.33""",20.0,15.0,25.0
+2026-08-05T08:39:04.708197+00:00,Buddha Bugs,buddha-bugs:harpactira-baviana-purcells-baboon-tarantula-for-sale,"Harpactira baviana (Purcell's baboon tarantula) 1""",45.0,35.0,22.2
+2026-08-05T08:39:04.708197+00:00,Buddha Bugs,buddha-bugs:ceratogyrus-sanderi-namibian-horned-baboon-for-sale,"Ceratogyrus sanderi (Namibian horned baboon tarantula) 0.75""",40.0,25.0,37.5
+2026-08-05T08:39:04.708197+00:00,Big Apple Herp,big-apple-herp:emerald-black-tree-skinks,Emerald & Black Tree Skinks,64.95,144.95,123.2
+2026-08-05T08:39:04.708197+00:00,Big Apple Herp,big-apple-herp:green-suriname-cornuta-horned-frogs,Suriname Horned Frogs (Multiple Morph Options),59.95,54.95,8.3
+2026-08-05T08:39:04.708197+00:00,Big Apple Herp,big-apple-herp:peach-throat-monitors,Peach Throat Monitors,319.95,349.95,9.4
+2026-08-05T08:39:04.708197+00:00,Big Apple Herp,big-apple-herp:scaleless-everglades-rat-snakes,Scaleless Everglades Rat Snakes,129.95,59.95,53.9
+2026-08-05T08:39:04.708197+00:00,Big Apple Herp,big-apple-herp:musk-turtles-common,Musk Turtles (Common),24.95,27.95,12.0
+2026-08-05T08:39:04.708197+00:00,James' Beetle Farm,james-beetle-farm:kinishi-cup,Kinishi Cup,24.99,19.99,20.0
+2026-08-05T08:39:04.708197+00:00,Coast2Coast Beetles,coast2coast-beetles:77mm-goliathus-goliatus-adult-male,77mm Goliathus Goliatus Adult Male,200.0,150.0,25.0
+2026-08-05T08:39:04.708197+00:00,Imperial Reptiles,imperial-reptiles:banana-lemonblast-ball-python,Banana Lemonblast Ball Python,189.99,149.99,21.1
+2026-08-05T08:39:04.708197+00:00,Imperial Reptiles,imperial-reptiles:banana-champagne-ball-python-for-sale,Banana Champagne Ball Python,219.99,149.99,31.8
+2026-08-05T08:39:04.708197+00:00,Imperial Reptiles,imperial-reptiles:banana-king-pin-ball-python-for-sale,Banana King Pin Ball Python,149.99,189.99,26.7
+2026-08-05T08:39:04.708197+00:00,Imperial Reptiles,imperial-reptiles:banana-pastel-stripe-ball-python-for-sale,Banana Pastel Stripe Ball Python,249.99,149.99,40.0
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2287,Female Extreme Harlequin Crested Gecko Cr-2287,649.99,349.99,46.2
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:female-tricolor-extreme-crested-gecko-cr-2360,Female Tricolor Extreme Harlequin Crested Gecko Cr-2360,599.99,299.99,50.0
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2349,Male Extreme Harlequin Crested Gecko Cr-2349,399.99,149.99,62.5
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2289,Male Extreme Harlequin Crested Gecko Cr-2289,599.99,299.99,50.0
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-crested-gecko-cr-2106,Male Extreme Harlequin Crested Gecko Cr-2106,599.99,249.99,58.3
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1967,Male Extreme Harlequin Crested Gecko Cr-1967,849.99,299.99,64.7
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-surface-mount-kit-gecko-feeding-dish-small,Pangea MicroDish - Surface Mount Kit - Gecko Feeding Dish - Small,9.99,4.99,50.1
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-surface-mount-gecko-feeding-dish-dual-extra-small,Pangea MicroDish - Surface Mount Kit - Gecko Feeding Dish - Dual Extra Small,9.99,4.99,50.1
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-red-phantom-crested-gecko-cr-1604,Male Red Phantom Crested Gecko Cr-1604,299.99,149.99,50.0
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-super-dalmatian-crested-gecko-cr-1276,Male Dalmatian Crested Gecko Cr-1276,249.99,99.99,60.0
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-lavender-pinstripe-crested-gecko-cr-1527,Male Quadstripe Crested Gecko Cr-1527,449.99,269.99,40.0
+2026-08-05T08:39:04.708197+00:00,Pangea Reptile,pangea-reptile:male-extreme-crested-gecko-cr-1499,Male Extreme Harlequin Crested Gecko Cr-1499,474.99,229.99,51.6
+2026-08-05T08:39:04.708197+00:00,Dubi Deli,dubi-deli:exo-terra-t-rex-skull,Exo Terra T-Rex Skull,18.99,24.99,31.6
+2026-08-05T08:39:04.708197+00:00,AntGear,antgear:pogonomyrmex-bicolor,Bicolor Harvester Ant (Pogonomyrmex bicolor),24.99,39.99,60.0
+2026-08-05T08:39:04.708197+00:00,AntGear,antgear:pheidole-militicida,Militant Big-Headed Ants (Pheidole militicida),64.99,89.99,38.5
+2026-08-05T08:39:04.708197+00:00,AntGear,antgear:pogonomyrmex-barbatus,Red Harvester Ant (Pogonomyrmex barbatus),39.99,44.99,12.5
+2026-08-05T08:39:04.708197+00:00,AntGear,antgear:camponotus-ocreatus,Camponotus ocreatus,64.99,54.99,15.4
