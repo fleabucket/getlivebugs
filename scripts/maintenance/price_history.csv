@@ -3350,3 +3350,77 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-08-09T06:59:18.576187+00:00,Sagebrush Butterflies,sagebrush-butterflies:professional-butterfly-net,Professional Butterfly Net,29.0,31.0,6.9
 2026-08-09T06:59:18.576187+00:00,Sagebrush Butterflies,sagebrush-butterflies:12-inch-cube-rearing-and-release-cage,12 inch Cube Rearing and Release Cage,13.0,15.0,15.4
 2026-08-09T06:59:18.576187+00:00,Sagebrush Butterflies,sagebrush-butterflies:parasite-resistant-rearing-and-release-cages,24 inch Tall Rearing and Release Cage,18.0,19.0,5.6
+2026-08-12T07:27:15.827933+00:00,USMANTIS,usmantis:hymenopus-coronatus-orchid-flower-mantis,"Hymenopus coronatus - Orchid Flower mantis ""Kung Fu Mantis""",55.0,65.0,18.2
+2026-08-12T07:27:15.827933+00:00,USMANTIS,usmantis:hymenopus-coronatus-orchid-mantis,Hymenopus coronatus Orchid mantis,55.0,65.0,18.2
+2026-08-12T07:27:15.827933+00:00,Exotics Unlimited,exotics-unlimited:typhochlaena-seladonia-brazilian-jewel-tarantula,Typhochlaena seladonia (Brazilian Jewel Tarantula),399.0,450.0,12.8
+2026-08-12T07:27:15.827933+00:00,Exotics Unlimited,exotics-unlimited:caribena-versicolor-antilles-pink-toe-tarantula,Caribena versicolor (Antilles Pink Toe Tarantula),49.0,65.0,32.7
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction-2,Medium Superworm 500ct Auction,13.0,15.0,15.4
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-5,Large Hornworm 12ct (Case Of 6) Auction,32.0,28.0,12.5
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:medium-discoid-roaches-500ct-auction-1,Medium Discoid Roaches 500ct Auction,38.0,41.0,7.9
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-250ct-auction-3,Dubia Roaches 250ct Auction,35.0,37.0,5.7
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-5,Large Discoid 250ct Auction,14.0,12.0,14.3
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:18x18x24-33-gallon-arboreal-reptile-enclosure-v3-auction-2,18x18x24 (33 Gallon) Arboreal Reptile Enclosure V3 Auction,7676.0,105.0,98.6
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:zoo-med-super-deluxe-10-stainless-steel-feeding-tongs-auction-6,Zoo Med Super Deluxe 10″ Stainless Steel Feeding Tongs Auction,4.0,3.0,25.0
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-3,X-Small Dubia Roaches 500ct Auction,19.0,21.0,10.5
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-2,Medium Hornworm 24ct (Case Of 12) Auction,22.0,27.0,22.7
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-3,24x18x36 (67 Gallon) Arboreal Auction,1590.0,172.0,89.2
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-6,Dubia Roaches Medium 500ct Auction,47.0,39.0,17.0
+2026-08-12T07:27:15.827933+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-5,80w Heat Panel Reptile Habitat Auction,86.0,101.0,17.4
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:brachypelma-boehmei-mexican-fireleg-tarantula-spiderling,"Brachypelma boehmei (Mexican Fireleg Tarantula) about 1/3"" - 1/2""",27.0,42.0,55.6
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:pterinopelma-sazimai-iridescent-blue-2-unsexed,"Lasiocyano sazimai (Iridescent Blue) about 1/4"" - 1/3""",19.0,35.0,84.2
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:heterothele-villosella-tanzanian-chestnut-baboon-tarantula-2,"Heterothele villosella (Tanzanian Chestnut Baboon Tarantula) a beautiful dwarf about  1/4""",18.0,42.0,133.3
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:euthycaelus-colonica-venezuela-orange-tarantula,"Euthycaelus colonica (Venezuela Orange & Bronze Tarantula) about 1/4"" - 1/3""",19.0,35.0,84.2
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:hapalopus-guerreroi-speckle-patch-guerilla-tarantula-small,"Hapalopus guerreroi (Speckle Patch Guerilla Tarantula) about 1/3"" - 1/2""",25.0,45.0,80.0
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:heterothele-gabonensis-tarantula-for-sale,"Heterothele gabonensis (Gabon Blue Dwarf Baboon Tarantula) about 1/2"" - 3/4""",22.0,42.0,90.9
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:omothymus-violaceopes-singapore-blue-tarantula-for-sale,"Omothymus violaceopes (Singapore Blue Tarantula) about 1"" - 1 1/4""",29.0,49.0,69.0
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-reduncus-costa-rican-orange-mouth-tarantula-1,"Psalmopoeus reduncus (Costa Rican Orange Mouth Tarantula) about 3/4"" - 1""",15.0,39.0,160.0
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:augacephalus-ezendami-mozambique-golden-starburst-baboon-tarantula-for-sale,"Augacephalus ezendami (Mozambique Golden Starburst Baboon) about 3/4""",39.0,45.0,15.4
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:urupelma-peruvianun-tarantula-for-sale,"Urupelma  peruvianum ex Homoeomma (Peruvian Blue Tarantula) about 3/4""-1""",49.0,74.0,51.0
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:kochiana-brunnipes-tarantula-dwarf-pink-leg-for-sale,"Kochiana brunnipes (Dwarf Pink Leg Tarantula) about or very near 1/4""",22.0,39.0,77.3
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:lasiodora-parahybana-brazilian-salmon-pink-birdeater-tarantula,"Lasiodora parahybana - (Brazilian Salmon Pink Birdeater Tarantula) about 1/4"" - 1/2""",22.0,35.0,59.1
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:theraphosidae-sp-dorado-tarantula-for-sale,"Theraphosidae sp dorado (Golden Royalty Tarantula) about 1/2""-3/4"" ONE PER SHIPMENT FOR THE SALE!",65.0,120.0,84.6
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-cambridgei-trinidad-chevron-tarantula-for-sale,"Psalmopoeus cambridgei  (Trinidad Chevron Tarantula) about 3/4"" - 1""",19.0,42.0,121.1
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:harpactira-dictator-tarantula-dictator-baboon,"Harpactira dictator (Dictator Baboon Tarantula) about  1"" - 1 1/4""",29.0,75.0,158.6
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:tapinauchenius-sanctivincenti-tarantula-for-sale,"Tapinauchenius sanctivincenti (St. Vincent's Tree Spider) about 3/4"" - 1""",17.0,45.0,164.7
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-irminia-venezuelan-suntiger-tarantula-1,"Psalmopoeus irminia (Venezuelan Suntiger Tarantula) about 1"" +",19.0,45.0,136.8
+2026-08-12T07:27:15.827933+00:00,Fear Not Tarantulas,fear-not-tarantulas:cilantica-sp-kali,"Cilantica sp Kali (Kali Earth Tiger) about 1 1/4"" - 1 1/2"" Very similar to psychedelicus *RARE",59.0,115.0,94.9
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-frostmint,"Regal Jumping Spider ""Frostmint"" (High White)",125.0,150.0,20.0
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-ivy,Regal Jumping Spider “Ivy”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-bonbon,Regal Jumping Spider “Bonbon”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-cookie-dough,Regal Jumping Spider “Cookie Dough”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-sable,Regal Jumping Spider “Sable”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-duskwillow,Regal Jumping Spider “Duskwillow”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-gooseberry,Regal Jumping Spider “Gooseberry”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-jupiter,"Regal Jumping Spider ""Jupiter""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-nova,Regal Jumping Spider “Nova”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-blossom,"Regal Jumping Spider ""Blossom""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-palmetto,Regal Jumping Spider “Palmetto”,95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-stardust,"Regal Jumping Spider ""Stardust""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-royal,"Regal Jumping Spider ""Royal""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-wildberry,"Regal Jumping Spider ""Wildberry""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-cashew,"Regal Jumping Spider ""Cashew""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-sourdough,"Regal Jumping Spider ""Sourdough""",75.0,95.0,26.7
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-dragon-fruit,"Regal Jumping Spider ""Dragon Fruit""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-bessy,"Regal Jumping Spider ""Bessy""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-peach-for-sale,"Regal Jumping Spider ""Peach""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-jazz,"Regal Jumping Spider ""Jazz""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-paradise,"Regal Jumping Spider ""Paradise""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Exotics Source,exotics-source:regal-jumping-spider-citrine,"Regal Jumping Spider ""Citrine""",95.0,75.0,21.1
+2026-08-12T07:27:15.827933+00:00,Holy-Poly Isopods,holy-poly-isopods:green-laser-isopods-cubaris-sp,Green Laser Isopods (Cubaris sp.),23.0,25.0,8.7
+2026-08-12T07:27:15.827933+00:00,Big Apple Herp,big-apple-herp:rough-green-snakes,Rough Green Snakes,34.95,39.95,14.3
+2026-08-12T07:27:15.827933+00:00,Big Apple Herp,big-apple-herp:red-tegus,Red Argentine Tegus,339.95,299.95,11.8
+2026-08-12T07:27:15.827933+00:00,Big Apple Herp,big-apple-herp:gargoyle-geckos,Gargoyle  Geckos,139.95,144.95,3.6
+2026-08-12T07:27:15.827933+00:00,Big Apple Herp,big-apple-herp:savannah-monitors,Savannah Monitors,39.95,49.95,25.0
+2026-08-12T07:27:15.827933+00:00,Big Apple Herp,big-apple-herp:central-american-wood-turtles,Wood Turtles,59.95,54.95,8.3
+2026-08-12T07:27:15.827933+00:00,Imperial Reptiles,imperial-reptiles:mai-tai-western-hognose-for-sale,Mai Tai Western Hognose,549.99,499.99,9.1
+2026-08-12T07:27:15.827933+00:00,Imperial Reptiles,imperial-reptiles:red-tiger-bearded-dragon-for-sale,Red Tiger Bearded Dragon Baby,199.99,149.99,25.0
+2026-08-12T07:27:15.827933+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:limited-batch-species,Limited Batch Species — Rare & Seasonal Butterflies,25.0,16.0,36.0
+2026-08-12T07:27:15.827933+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,85.0,49.99,41.2
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:test-tube-dock-for-moving-colonies,Test Tube Dock for Moving Colonies,23.99,29.99,25.0
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:test-tube-setup-kit,Pre-Made Test Tube Setup Kit: Stress-Free Colony Transfers,9.99,10.99,10.0
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:fluon-escape-prevention,Fluon (PTFE Disp 30): Keep Ants From Escaping,16.99,9.99,41.2
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:mini-round-house-tubs-and-tubes,Mini-Round-House &#8211; A Test Tube Outworld,15.99,19.99,25.0
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:pogo-occidentalis,Western Harvester Ants (Pogonomyrmex occidentalis),69.99,39.99,42.9
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:ant-vacuum,Rechargeable AntVac for Maintaining Captive Ants,32.99,42.99,30.3
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:test-tubes,Test Tubes,4.99,5.99,20.0
+2026-08-12T07:27:15.827933+00:00,AntGear,antgear:leafcutter-food-sample-bags,Leafcutter Flowers,13.99,14.99,7.1
