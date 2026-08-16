@@ -3424,3 +3424,121 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-08-12T07:27:15.827933+00:00,AntGear,antgear:ant-vacuum,Rechargeable AntVac for Maintaining Captive Ants,32.99,42.99,30.3
 2026-08-12T07:27:15.827933+00:00,AntGear,antgear:test-tubes,Test Tubes,4.99,5.99,20.0
 2026-08-12T07:27:15.827933+00:00,AntGear,antgear:leafcutter-food-sample-bags,Leafcutter Flowers,13.99,14.99,7.1
+2026-08-16T06:41:52.027217+00:00,The Defiant Forest,the-defiant-forest:giant-sunfire-millipede-undescribed-sp-indonesia,Giant Sunfire Millipede for Sale | Indonesian Diplopoda Species,85.0,50.0,41.2
+2026-08-16T06:41:52.027217+00:00,The Defiant Forest,the-defiant-forest:giant-indo-red-leg-millipede-undescribed-sp,"Captive Bred Giant Red Leg Tree Millipede, Balustreptus falcatus | Available Winter 2026",89.0,95.0,6.7
+2026-08-16T06:41:52.027217+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-large-10-gallon-millipede-starter-kit-comes-with-4-millipedes-of-your-choice,Vivarium Naturals - Large 20 Gallon Millipede Starter Kit  Comes with 3 Millipedes of your choice,76.46,79.89,4.5
+2026-08-16T06:41:52.027217+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-large-10-gallon-millipede-starter-kit,Vivarium Naturals - Large 20 Gallon Millipede Starter Kit,53.96,55.16,2.2
+2026-08-16T06:41:52.027217+00:00,Exotics Unlimited,exotics-unlimited:grammostola-pulchra-brazilian-black-tarantula,Grammostola pulchra (Brazilian Black Tarantula),86.0,95.0,10.5
+2026-08-16T06:41:52.027217+00:00,Exotics Unlimited,exotics-unlimited:grammostola-pulchra-brazilian-black-tarantula-0-75-1,"Grammostola pulchra (Brazilian Black Tarantula) 0.75-1""",86.0,95.0,10.5
+2026-08-16T06:41:52.027217+00:00,Meme's Worms,memes-worms:bulk-eisenia-andrei-red-wiggler-composting-worms,Bulk Pure Red Wiggler Composting Worms - FREE SHIPPING,279.99,299.99,7.1
+2026-08-16T06:41:52.027217+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-6,Large Discoid 250ct Auction,14.0,36.0,157.1
+2026-08-16T06:41:52.027217+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-3,Medium Hornworm 24ct (Case Of 12) Auction,36.0,63.0,75.0
+2026-08-16T06:41:52.027217+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-4,X-Small Dubia Roaches 500ct Auction,21.0,23.0,9.5
+2026-08-16T06:41:52.027217+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-3,4x2x2 V3 (120 Gallon) Auction,290.0,256.0,11.7
+2026-08-16T06:41:52.027217+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-7,Dubia Roaches Medium 500ct Auction,41.0,35.0,14.6
+2026-08-16T06:41:52.027217+00:00,DubiaRoaches.com,dubiaroaches:125w-heat-panel-reptile-habitat-auction-5,125w Heat Panel Reptile Habitat Auction,140.0,175.0,25.0
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-lucky,Regal Jumping Spider “Lucky”,95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-blaze,"Regal Jumping Spider ""Blaze""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-glowpetal,"Regal Jumping Spider ""Glowpetal""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-fantasy,"Regal Jumping Spider ""Fantasy""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-snowball,"Regal Jumping Spider ""Snowball""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-saffron,"Regal Jumping Spider ""Saffron""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-vanilla,"Regal Jumping Spider ""Vanilla""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-jelly-bean,"Regal Jumping Spider ""Jelly Bean""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-gelato,"Regal Jumping Spider ""Gelato""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-mimosa,Regal Jumping Spider “Mimosa”,95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-jade,"Regal Jumping Spider ""Jade""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-sprinkle,"Regal Jumping Spider ""Sprinkle""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-rainbow,"Regal Jumping Spider ""Rainbow""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-pomegranate,"Regal Jumping Spider ""Pomegranate""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-love,"Regal Jumping Spider ""Love""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-artichoke,"Regal Jumping Spider ""Artichoke""",150.0,75.0,50.0
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-dandelion,"Regal Jumping Spider ""Dandelion""",95.0,75.0,21.1
+2026-08-16T06:41:52.027217+00:00,Exotics Source,exotics-source:regal-jumping-spider-neon,"Regal Jumping Spider ""Neon""",150.0,75.0,50.0
+2026-08-16T06:41:52.027217+00:00,Spider Shoppe,spider-shoppe:centruroides-margaritatus-central-american-bark-scorpion,Centruroides margaritatus (Central American Bark Scorpion),34.0,12.0,64.7
+2026-08-16T06:41:52.027217+00:00,Spider Shoppe,spider-shoppe:pangea-microdish-branch-mount-magnetic-bowl,MicroDish - Surface Mount Kit - Gecko Feeding Dish - Dual Extra Small,13.98,9.98,28.6
+2026-08-16T06:41:52.027217+00:00,Spider Shoppe,spider-shoppe:heteropoda-davidbowie-orange-huntsman-4-female,Heteropoda davidbowie (Orange Huntsman),124.0,30.0,75.8
+2026-08-16T06:41:52.027217+00:00,Spider Shoppe,spider-shoppe:scorpiops-validus-yunnan-rock-scorpion-1-2,Scorpiops validus (Yunnan Rock Scorpion),48.0,8.0,83.3
+2026-08-16T06:41:52.027217+00:00,I Heart Bugs,i-heart-bugs:maple-leaf-litter-leaves-1-gallon-3-25-oz-copy,Catappa Terminalia Indian Almond Leaves - 25 mixed-sized leaves,5.95,11.95,100.8
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,113.0,0.9
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,113.0,0.9
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,113.0,0.9
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,113.0,0.9
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:mosquito-treeline-tranquil-adventure-kit,"Shake & Shield Mosquito Repellent, Treeline Tranquil - Adventure Kit - 4 pcs",56.0,55.0,1.8
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:the-coastline-calm-adventure-kit,"Shake & Shield No-See-Um Repellent, Adventure Kit - 4 pcs",56.0,55.0,1.8
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),170.0,169.0,0.6
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,114.0,113.0,0.9
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-combo-citrus-carpenter-bee-repellent,Citrus Carpenter Bee Repellent Spray - Combo,56.0,55.0,1.8
+2026-08-16T06:41:52.027217+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,114.0,113.0,0.9
+2026-08-16T06:41:52.027217+00:00,Micro Wilderness,micro-wilderness:aphonopelma-vorhiesi-unsexed-tucson-bronze,Aphonopelma vorhiesi (Madrean Red Rump Tarantula) - female- Tucson Bronze,149.99,179.99,20.0
+2026-08-16T06:41:52.027217+00:00,Buddha Bugs,buddha-bugs:heteropoda-lunula-malaysian-purple-huntsman-spider-for-sale,"Heteropoda lunula (purple huntsman spider) 0.75""-1""",40.0,45.0,12.5
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:eastern-box-turtles,Eastern & Florida Box Turtles,229.95,269.95,17.4
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:lavendar-white-sided-black-rat-snakes,Lavendar White Sided Black Rat Snakes,119.95,124.95,4.2
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:amazon-milk-frogs,Amazon Milk Frogs,79.95,64.95,18.8
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:northern-blue-tongue-skinks,Northern Blue Tongue Skinks,1099.95,239.95,78.2
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:white-sided-black-rat-snakes,White Sided Black Rat Snakes,64.95,74.95,15.4
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:amazon-tree-boas-normal-phase,Amazon Tree Boas,109.95,74.95,31.8
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:red-iguanas,CB El Salvador Red Iguanas,64.95,67.95,4.6
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:blue-iguanas,CB El Salvador Blue Iguanas & Exotic Colors,134.95,129.95,3.7
+2026-08-16T06:41:52.027217+00:00,Big Apple Herp,big-apple-herp:hermanns-tortoises,Hermann's Tortoises,219.95,199.95,9.1
+2026-08-16T06:41:52.027217+00:00,David's Beetles,davids-beetles:adults-three-horned-beetle-chalcosoma-chiron,ADULTS: Three-horned beetle  (Chalcosoma chiron),100.0,150.0,50.0
+2026-08-16T06:41:52.027217+00:00,David's Beetles,davids-beetles:cyclommatus-metallifer,LARVAE: Metallic stag beetle (Cyclommatus metallifer),29.99,25.0,16.6
+2026-08-16T06:41:52.027217+00:00,The Bio Dude,the-bio-dude:new-caledonia-giant-gecko-rhacodactylus-leachianus-bioactive-vivarium-kit,New Caledonia Giant Gecko (Rhacodactylus leachianus) Bioactive Vivarium Kit,289.95,314.95,8.6
+2026-08-16T06:41:52.027217+00:00,The Bio Dude,the-bio-dude:red-foot-tortoise-bioactive-kit,Red Foot Tortoise (Chelonoidis carbonaria) Bioactive Vivarium Kit,214.95,264.95,23.3
+2026-08-16T06:41:52.027217+00:00,The Bio Dude,the-bio-dude:sulcata-tortoise-bioactive-kit,Sulcata Tortoise (Centrochelys sulcata) Bioactive Vivarium Kit,259.95,309.95,19.2
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:scolopendra-hardwickei,Indian Tiger Centipede (Scolopendra hardwickei),625.0,449.0,28.2
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:black-cherry-centipede,Black Cherry Centipede,44.99,59.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:green-river-diving-huntsman-spider,Green River Diving Huntsman Spider,59.99,79.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:coenobita-brevimanus,Coenobita brevimanus,14.99,19.99,33.4
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:scolopendra-toraja-normal,Scolopendra Toraja - normal,74.99,99.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:penang-freshwater-crab-stoliczia-stoliczkana,Penang Freshwater Crab (Stoliczia stoliczkana),37.99,49.99,31.6
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:scolopendra-toraja-red,Scolopendra Toraja - Red,164.99,219.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:giant-african-millipede-archispirostreptus-gigas,Giant African Millipede (Archispirostreptus gigas),37.99,49.99,31.6
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:gigathele-hungae-spiderling,Giant Funnel-Web Spider(Gigathele hungae / Macrothele hungae) Spiderling,74.99,99.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:black-dragon-centipede-2i,Black Dragon Centipede (5i),44.99,59.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:buton-island-giant-centipede,Buton Island Black Centipede,164.99,219.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:acanthophrynus-coronatus,Acanthophrynus coronatus Tailless Whip Scorpion,59.99,79.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:haitian-giant-centipede-scolopendra-alternans,Hispaniola Red Giant (Scolopendra alternans) 4-5 inch Yearling Juveniles,164.99,219.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:coconut-crab-birgus-latro,Coconut Crab (Birgus latro),349.99,399.99,14.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:gecarcoidea-lalandii,Purple Land Crab (Gecarcoidea humei),67.99,89.99,32.4
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:black-java-giant-centipede,Scolopendra Sp Java Black Giant,149.99,199.99,33.3
+2026-08-16T06:41:52.027217+00:00,Frognose Exotics,frognose-exotics:scolopendra-subspinipes-piceoflava,Scolopendra piceoflava - normal,74.99,99.99,33.3
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2142,Male Extreme Harlequin Crested Gecko Cr-2142,499.99,249.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-white-wall-pinstripe-crested-gecko-cr-2613,Male White Wall Pinstripe Crested Gecko Cr-2613,399.99,199.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2348,Female Extreme Harlequin Crested Gecko Cr-2348,499.99,249.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2215,Female Extreme Harlequin Crested Gecko Cr-2215,599.99,299.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2131,Female Extreme Harlequin Crested Gecko Cr-2131,399.99,299.99,25.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-xxx-crested-gecko-cr-1980,Male XXX Crested Gecko Cr-1980,749.99,299.99,60.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1936,Male White Wall Crested Gecko Cr-1936,449.99,199.99,55.6
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-1928,Female Extreme Harlequin Crested Gecko Cr-1928,649.99,374.99,42.3
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-1926,Female Extreme Harlequin Crested Gecko Cr-1926,1199.99,399.99,66.7
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-harlequin-crested-gecko-cr-1916,Female Harlequin Crested Gecko Cr-1916,349.99,149.99,57.1
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-harlequin-crested-gecko-cr-1889,Female Harlequin Crested Gecko Cr-1889,349.99,199.99,42.9
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-tricolor-xxx-crested-gecko-cr-1844,Female Tricolor XXX Crested Gecko Cr-1844,999.99,399.99,60.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-tricolor-extreme-crested-gecko-cr-1823,Female Tricolor Extreme Crested Gecko Cr-1823,649.99,349.99,46.2
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1720,Male Extreme Harlequin Crested Gecko Cr-1720,599.99,249.99,58.3
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-reverse-pinstripe-crested-gecko-cr-1643,Male Reverse Pinstripe Crested Gecko Cr-1643,299.99,99.99,66.7
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-crested-gecko-cr-1635,Female Tricolor Extreme Harlequin Crested Gecko Cr-1635,499.99,249.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-crested-gecko-cr-1634,Female Extreme Harlequin Crested Gecko Cr-1634,599.99,349.99,41.7
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-lavender-extreme-crested-gecko-cr-1633,Male Extreme Harlequin Crested Gecko Cr-1633,374.99,249.99,33.3
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-pinstripe-crested-gecko-cr-1629,Female Pinstripe Crested Gecko Cr-1629,399.99,99.99,75.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-phantom-crested-gecko-cr-1620,Male Phantom Crested Gecko Cr-1620,499.99,124.99,75.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-tricolor-extreme-crested-gecko-cr-1616,Female Tricolor Extreme Harlequin Crested Gecko Cr-1616,999.99,349.99,65.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-crested-gecko-cr-1612,Male Tricolor Harlequin Crested Gecko Cr-1612,399.99,199.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-harlequin-crested-gecko-cr-1607,Male Harlequin Crested Gecko Cr-1607,649.99,199.99,69.2
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-1601,Male Extreme Harlequin Crested Gecko Cr-1601,599.99,299.99,50.0
+2026-08-16T06:41:52.027217+00:00,Pangea Reptile,pangea-reptile:female-extreme-crested-gecko-cr-1446,Female Extreme Harlequin Crested Gecko Cr-1446,499.99,249.99,50.0
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:malabar-spinach-seeds-organic,Malabar Spinach Seeds (Organic),3.95,5.2,31.6
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:african-ashwagandha-seeds-organic,African Ecotype Ashwagandha Seeds (Organic),4.95,6.49,31.1
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:andrographis-seeds-organic,Andrographis Seeds (Organic),5.95,7.89,32.6
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:balloonflower-seeds-organic,Balloonflower Seeds (Organic),3.95,5.2,31.6
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:balm-of-gilead-seeds-organic,Balm of Gilead Seeds (Organic),4.95,6.49,31.1
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:hidcote-lavender-seeds-organic,Hidcote Lavender Seeds (Organic),4.95,6.49,31.1
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:hops-seeds-organic,Hops Seeds (Organic),4.95,6.49,31.1
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:pitcher-sage-seeds-organic,Pitcher Sage Seeds (Organic),4.95,6.49,31.1
+2026-08-16T06:41:52.027217+00:00,Grow Organic,grow-organic:styrian-pumpkin-seeds-organic,Styrian Pumpkin Seeds (Organic),3.95,5.2,31.6
+2026-08-16T06:41:52.027217+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:queen-butterfly-caterpillars-or-chrysalis,Queen Butterfly Caterpillars Or Chrysalis,75.0,59.99,20.0
+2026-08-16T06:41:52.027217+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,49.99,54.99,10.0
+2026-08-16T06:41:52.027217+00:00,AntGear,antgear:large-outworld-with-removable-lid-mesh-vent,Large Outworld with Removable Lid &#038; Mesh Vent,24.99,19.99,20.0
+2026-08-16T06:41:52.027217+00:00,Ants Alive,ants-alive:ant-colony-rejuvenation-kit,Ant Colony Rejuvenation Kit (Ants + Food + Sand),10.99,11.99,9.1
+2026-08-16T06:41:52.027217+00:00,Ants Alive,ants-alive:live-ants-super-supply-about-60,Live Ants &#8211; Super Supply (About 60),7.98,9.96,24.8
