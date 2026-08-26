@@ -1199,20 +1199,6 @@
       },
       "suppliers": [
         {
-          "breeder": "Coast2Coast Beetles",
-          "product_name": "Mecynorhina torquata ugandensis (Giant African Flower Beetle)",
-          "price": 25.0,
-          "available": true,
-          "url": "https://coast2coastbeetles.com/products/mecynorhina-torquata-ugandensis-giant-african-flower-beetle",
-          "variants": [
-            {
-              "label": "L1/L2",
-              "price": 25.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "USMANTIS",
           "product_name": "Sphodromantis lineola Giant African Mantis ooths and live",
           "price": 32.0,
@@ -1328,6 +1314,20 @@
           "url": "https://theworldofisopods.com/products/giant-african-mantis"
         },
         {
+          "breeder": "Coast2Coast Beetles",
+          "product_name": "Mecynorhina torquata ugandensis (Giant African Flower Beetle)",
+          "price": 25.0,
+          "available": false,
+          "url": "https://coast2coastbeetles.com/products/mecynorhina-torquata-ugandensis-giant-african-flower-beetle",
+          "variants": [
+            {
+              "label": "L1/L2",
+              "price": 25.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "The Defiant Forest",
           "product_name": "Giant African Whip Spider, Damon variegatus",
           "price": 28.0,
@@ -1336,8 +1336,8 @@
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 5,
-      "best_price": 25.0,
+      "in_stock_count": 4,
+      "best_price": 32.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+giant+african+mantis&tag=getlivebugs-20",
         "creature_label": "Live Giant African Mantis",
@@ -1438,7 +1438,7 @@
             {
               "label": "Adult Female",
               "price": 85.0,
-              "available": true
+              "available": false
             },
             {
               "label": "Sub-adult Male",
@@ -2485,49 +2485,6 @@
           "size": "0.5\""
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Caribena versicolor (Antilles Pink Toe Tarantula)",
-          "price": 55.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/caribena-versicolor-antilles-pink-toe-tarantula",
-          "size": "0.5–0.75\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Arboreal",
-          "variants": [
-            {
-              "label": "0.5-0.75\" Spiderling FREE WITH QUALIFYING PURCHASE OF $300",
-              "price": 55.0,
-              "available": false
-            },
-            {
-              "label": "0.5-0.75\" Spiderling",
-              "price": 65.0,
-              "available": true
-            },
-            {
-              "label": "0.75-1\" Spiderling",
-              "price": 85.0,
-              "available": false
-            },
-            {
-              "label": "1-1.5\" Juvenile",
-              "price": 99.0,
-              "available": false
-            },
-            {
-              "label": "2” Juvenile",
-              "price": 135.0,
-              "available": false
-            },
-            {
-              "label": "FEMALE about 2.5” Juvenile",
-              "price": 350.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Big Apple Herp",
           "product_name": "Antilles Pink Toe Tarantulas",
           "price": 69.95,
@@ -2658,8 +2615,8 @@
           ]
         }
       ],
-      "supplier_count": 10,
-      "in_stock_count": 3,
+      "supplier_count": 9,
+      "in_stock_count": 2,
       "best_price": 50.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=antilles+pinktoe+tarantula+tarantula&tag=getlivebugs-20",
@@ -3216,38 +3173,6 @@
           ]
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Cyriopagopus lividus (Cobalt Blue Tarantula)",
-          "price": 45.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/cyriopagopus-lividus-cobalt-blue-tarantula",
-          "size": "0.5–0.75\"",
-          "temperament": "Defensive",
-          "world": "Old World",
-          "variants": [
-            {
-              "label": "0.5-0.75\" Spiderling",
-              "price": 45.0,
-              "available": true
-            },
-            {
-              "label": "2\" FEMALE Juvenile",
-              "price": 150.0,
-              "available": false
-            },
-            {
-              "label": "5\" Female Adult",
-              "price": 250.0,
-              "available": false
-            },
-            {
-              "label": "2\" MALE Juvenile",
-              "price": 50.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Buddha Bugs",
           "product_name": "Melopoeus lividus, formerly Cyriopagopus lividus (Cobalt blue tarantula) 0.75\"",
           "price": 45.0,
@@ -3258,24 +3183,14 @@
         {
           "breeder": "Big Apple Herp",
           "product_name": "Cobalt Blue Tarantulas",
-          "price": 62.95,
+          "price": 69.95,
           "available": true,
           "url": "https://www.bigappleherp.com/products/cobalt-blue-tarantulas",
-          "size": "1\"",
+          "size": "3–4\"",
           "variants": [
             {
-              "label": "1 Inch CB",
-              "price": 62.95,
-              "available": true
-            },
-            {
-              "label": "Adult FC",
-              "price": 79.95,
-              "available": true
-            },
-            {
-              "label": "Huge Female FC",
-              "price": 119.95,
+              "label": "3 to 4 Inch FC",
+              "price": 69.95,
               "available": true
             }
           ]
@@ -3326,8 +3241,8 @@
           ]
         }
       ],
-      "supplier_count": 7,
-      "in_stock_count": 5,
+      "supplier_count": 6,
+      "in_stock_count": 4,
       "best_price": 36.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=cobalt+blue+tarantula+tarantula&tag=getlivebugs-20",
@@ -3434,34 +3349,6 @@
           ]
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Aphonopelma seemanni (Costa Rican Stripe Knee Tarantula)",
-          "price": 29.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/aphonopelma-seemanni-costa-rican-stripe-knee-tarantula",
-          "size": "0.50\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.50\" Spiderling",
-              "price": 29.0,
-              "available": false
-            },
-            {
-              "label": "0.75-1\" Spiderling",
-              "price": 45.0,
-              "available": false
-            },
-            {
-              "label": "1-1.25\" Juvenile",
-              "price": 55.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Exotics Source",
           "product_name": "Striped Knee tarantula (Aphonopelma seemanni)",
           "price": 35.0,
@@ -3489,8 +3376,8 @@
           ]
         }
       ],
-      "supplier_count": 5,
-      "in_stock_count": 4,
+      "supplier_count": 4,
+      "in_stock_count": 3,
       "best_price": 20.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=costa+rican+zebra+tarantula+tarantula&tag=getlivebugs-20",
@@ -4622,6 +4509,18 @@
           ]
         },
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Tliltocatl vagans (Mexican Red Rump Tarantula) 2.5-3\" FEMALE",
+          "price": 99.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-vagans-mexican-red-rump-2-2-5-female",
+          "size": "2.5–3\"",
+          "sex": "Female",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "The Defiant Forest",
           "product_name": "Mexican Red Rump Tarantula for Sale | Tliltocatl vagans",
           "price": null,
@@ -4632,7 +4531,7 @@
           "per_unit_price": null
         }
       ],
-      "supplier_count": 6,
+      "supplier_count": 7,
       "in_stock_count": 4,
       "best_price": 20.0,
       "amazon": {
@@ -5924,9 +5823,9 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "1-2",
-      "best_price": 10.0,
+      "best_price": 1.0,
       "supplier_count": 13,
-      "in_stock_count": 8,
+      "in_stock_count": 9,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5963,6 +5862,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Holy-Poly Isopods",
+          "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
+          "price": 1.0,
+          "available": true,
+          "url": "https://holypolyisopods.com/products/powder-orange-isopods-porcellionides-pruinosus"
         },
         {
           "breeder": "DubiaRoaches.com",
@@ -6127,13 +6033,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Holy-Poly Isopods",
-          "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
-          "price": 1.0,
-          "available": false,
-          "url": "https://holypolyisopods.com/products/powder-orange-isopods-porcellionides-pruinosus"
         },
         {
           "breeder": "Isopod Depot",
@@ -6773,16 +6672,9 @@
       "photo_is_base_species": false,
       "price_range": "15-35",
       "best_price": null,
-      "supplier_count": 3,
+      "supplier_count": 2,
       "in_stock_count": 0,
       "suppliers": [
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "Phidippus audax (Bold Jumper) Mixed",
-          "price": 22.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/phiddipus-audax-bold-jumper-mixed"
-        },
         {
           "breeder": "TC Insects",
           "product_name": "Bold Jumping Spider | Phidippus audax",
@@ -7676,8 +7568,8 @@
       "photo_is_base_species": false,
       "price_range": "20-40",
       "best_price": 14.99,
-      "supplier_count": 5,
-      "in_stock_count": 4,
+      "supplier_count": 6,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "Imperial Reptiles",
@@ -7722,6 +7614,32 @@
           "price": 25.0,
           "available": true,
           "url": "https://exoticssource.com/products/asian-forest-scorpion"
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Heterometrus silenus (Asian Forest Scorpion)",
+          "price": 48.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/heterometrus-silenus-asian-forest-scorpion-1",
+          "size": "0.75–1\"",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.75-1\" Scorpling",
+              "price": 55.0,
+              "available": true
+            },
+            {
+              "label": "0.5-0.75\" Scorpling",
+              "price": 48.0,
+              "available": false
+            },
+            {
+              "label": "1-1.25\" Juvenile",
+              "price": 75.0,
+              "available": false
+            }
+          ]
         },
         {
           "breeder": "Spider Shoppe",
@@ -8043,24 +7961,10 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "20-50",
-      "best_price": 25.0,
+      "best_price": 32.0,
       "supplier_count": 9,
-      "in_stock_count": 5,
+      "in_stock_count": 4,
       "suppliers": [
-        {
-          "breeder": "Coast2Coast Beetles",
-          "product_name": "Mecynorhina torquata ugandensis (Giant African Flower Beetle)",
-          "price": 25.0,
-          "available": true,
-          "url": "https://coast2coastbeetles.com/products/mecynorhina-torquata-ugandensis-giant-african-flower-beetle",
-          "variants": [
-            {
-              "label": "L1/L2",
-              "price": 25.0,
-              "available": true
-            }
-          ]
-        },
         {
           "breeder": "USMANTIS",
           "product_name": "Sphodromantis lineola Giant African Mantis ooths and live",
@@ -8175,6 +8079,20 @@
           "price": 15.0,
           "available": false,
           "url": "https://theworldofisopods.com/products/giant-african-mantis"
+        },
+        {
+          "breeder": "Coast2Coast Beetles",
+          "product_name": "Mecynorhina torquata ugandensis (Giant African Flower Beetle)",
+          "price": 25.0,
+          "available": false,
+          "url": "https://coast2coastbeetles.com/products/mecynorhina-torquata-ugandensis-giant-african-flower-beetle",
+          "variants": [
+            {
+              "label": "L1/L2",
+              "price": 25.0,
+              "available": false
+            }
+          ]
         },
         {
           "breeder": "The Defiant Forest",
@@ -10196,8 +10114,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "August 23, 2026",
-    "next_update": "August 26, 2026",
-    "last_updated_iso": "2026-08-23T06:49:10.217869+00:00"
+    "last_updated": "August 26, 2026",
+    "next_update": "August 30, 2026",
+    "last_updated_iso": "2026-08-26T06:58:18.173317+00:00"
   }
 }
