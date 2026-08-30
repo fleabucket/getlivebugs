@@ -4113,3 +4113,55 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-08-26T06:52:46.980110+00:00,Grow Organic,grow-organic:pomegranate-eversweet,Eversweet Potted Pomegranate Tree,39.99,44.99,12.5
 2026-08-26T06:52:46.980110+00:00,AntGear,antgear:myrmecocystus-mendax,Mendax Honeypots (Myrmecocystus mendax),59.99,86.99,45.0
 2026-08-26T06:52:46.980110+00:00,Buckeye Myrmecology,buckeye-myrmecology:prenolepis-imparis,Prenolepis Imparis,48.0,44.0,8.3
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:giant-sunfire-millipede-undescribed-sp-indonesia,Giant Sunfire Millipede for Sale | Indonesian Diplopoda Species,79.0,85.0,7.6
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:mediterranean-ladybird-velvet-spider,"Mediterranean Ladybird Velvet Spider, Eresus walckenaeri",35.0,36.0,2.9
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:dominican-purple-tarantulas,"Dominican Purple Tarantula, Phormictopus sp. - Terrestrial Species",49.0,74.0,51.0
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-iso-thrive-protein-mineral-nutriment,Iso-Thrive Protein & Mineral Nutriment,7.89,8.89,12.7
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:african-giant-black-millipede,"African Giant Black Millipede, Archispirostreptus Gigas",89.0,75.0,15.7
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:borneo-purple-earth-tiger-tarantula,"Borneo Purple Earth Tiger Tarantula, Cyriopagopus sp. - Fossorial Burrowing Species",32.0,36.0,12.5
+2026-08-30T11:29:45.157225+00:00,The Defiant Forest,the-defiant-forest:green-bottle-blue-tarantulas,"Green Bottle Blue Tarantula, Chromatopelma cyaneopubescens - Heavy Webbing Species",39.0,56.0,43.6
+2026-08-30T11:29:45.157225+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-11,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,3.0,5.0,66.7
+2026-08-30T11:29:45.157225+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-13,Large Discoid 250ct Auction,35.0,30.0,14.3
+2026-08-30T11:29:45.157225+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction-6,Medium Superworm 500ct Auction,15.0,6.0,60.0
+2026-08-30T11:29:45.157225+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-7,4x2x2 V3 (120 Gallon) Auction,240.0,250.0,4.2
+2026-08-30T11:29:45.157225+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-14,Large Hornworm 12ct (Case Of 6) Auction,11.0,13.0,18.2
+2026-08-30T11:29:45.157225+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-5,220w Heat Panel Reptile Habitat Auction,75.0,131.0,74.7
+2026-08-30T11:29:45.157225+00:00,Fear Not Tarantulas,fear-not-tarantulas:chromatopelma-cyaneopubescens-green-bottleblue-gbb-tarantula-for-sale,"Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 1"" - 1 1/4""",65.0,75.0,15.4
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-mulberry-pie,Regal Jumping Spider “Mulberry Pie”,95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-apple-crisp,Regal Jumping Spider “Apple Crisp”,95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-lava,"Regal Jumping Spider ""Lava""",95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-gothic,"Regal Jumping Spider ""Gothic""",95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-calypso,"Regal Jumping Spider ""Calypso""",95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-jessica,"Regal Jumping Spider ""Jessica""",95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,Exotics Source,exotics-source:regal-jumping-spider-elizabeth,"Regal Jumping Spider ""Elizabeth""",95.0,75.0,21.1
+2026-08-30T11:29:45.157225+00:00,US Invertebrate LLC,us-invertebrate:premium-springtail-food-source-4-oz,Premium Springtail Food Source 4 Oz,11.0,12.0,9.1
+2026-08-30T11:29:45.157225+00:00,US Invertebrate LLC,us-invertebrate:lygodactylus-williamsi-electric-blue-day-gecko,Lygodactylus Williamsi (Electric blue day gecko),150.0,200.0,33.3
+2026-08-30T11:29:45.157225+00:00,Insect Sales,insect-sales:male-regal-jumping-spider,Male Regal Jumping Spider,39.99,32.99,17.5
+2026-08-30T11:29:45.157225+00:00,Insect Sales,insect-sales:female-regal-jumping-spider,Female Regal Jumping Spider,44.0,28.95,34.2
+2026-08-30T11:29:45.157225+00:00,Best Bee Brothers,best-bee-brothers:wasp-deterrent-hive-citrus-carpenter-bee-spray-kit-for-yard-garden-6-pcs,Wasp Deterrent Hive & Citrus Carpenter Bee Spray Kit for Yard & Garden (6 pcs),38.0,39.0,2.6
+2026-08-30T11:29:45.157225+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-wasp-deterrent-hive-citrus-carpenter-bee-spray-kit-outdoor-pest-control-3-pcs,Wasp Deterrent Hive & Citrus Carpenter Bee Spray Kit Outdoor Pest Control (3 pcs),38.0,39.0,2.6
+2026-08-30T11:29:45.157225+00:00,Best Bee Brothers,best-bee-brothers:mosquito-treeline-tranquil-adventure-kit,"Shake & Shield Mosquito Repellent, Treeline Tranquil - Adventure Kit - 4 pcs",55.0,56.0,1.8
+2026-08-30T11:29:45.157225+00:00,Best Bee Brothers,best-bee-brothers:the-coastline-calm-adventure-kit,"Shake & Shield No-See-Um Repellent, Adventure Kit - 4 pcs",55.0,56.0,1.8
+2026-08-30T11:29:45.157225+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),169.0,170.0,0.6
+2026-08-30T11:29:45.157225+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-combo-citrus-carpenter-bee-repellent,Citrus Carpenter Bee Repellent Spray - Combo,55.0,56.0,1.8
+2026-08-30T11:29:45.157225+00:00,Buddha Bugs,buddha-bugs:pseudoclamoris-gigas-orange-chevron-taratula-for-sale,"Amazonius germani (orange chevron tarantula) 0.75""",35.0,40.0,14.3
+2026-08-30T11:29:45.157225+00:00,Buddha Bugs,buddha-bugs:acanthoscurria-geniculata-brazilian-giant-white-knee-for-sale,"Acanthoscurria geniculata (Brazilian giant white knee tarantula) 0.5""",70.0,40.0,42.9
+2026-08-30T11:29:45.157225+00:00,American Reptile Distributors,american-reptile-distributors:hypomelanistic-common-snapping-turtle-2026-6-pig-tailed-chelydra-serpentina,Hypomelanistic Common Snapping Turtle 2026  #6 (Pig tailed)  (Chelydra serpentina),299.99,199.99,33.3
+2026-08-30T11:29:45.157225+00:00,Big Apple Herp,big-apple-herp:emerald-black-tree-skinks,Emerald & Black Tree Skinks,144.95,79.95,44.8
+2026-08-30T11:29:45.157225+00:00,Big Apple Herp,big-apple-herp:colorado-river-toads,Colorado River Toads,79.95,104.95,31.3
+2026-08-30T11:29:45.157225+00:00,Big Apple Herp,big-apple-herp:water-monitors,Asian Water Monitors,139.95,149.95,7.1
+2026-08-30T11:29:45.157225+00:00,Big Apple Herp,big-apple-herp:goliath-bird-eating,Goliath Bird Eating Tarantula,89.95,144.95,61.1
+2026-08-30T11:29:45.157225+00:00,Big Apple Herp,big-apple-herp:red-foot-tortoises,Red Foot Tortoises,129.0,109.95,14.8
+2026-08-30T11:29:45.157225+00:00,David's Beetles,davids-beetles:adults-three-horned-beetle-chalcosoma-chiron,ADULTS: Three-horned beetle  (Chalcosoma chiron),150.0,120.0,20.0
+2026-08-30T11:29:45.157225+00:00,The Bio Dude,the-bio-dude:cork-bark-flats-for-reptile,"Cork Bark Flats for Reptiles, amphibians, plants and invertebrates",17.95,14.95,16.7
+2026-08-30T11:29:45.157225+00:00,The Bio Dude,the-bio-dude:1-lb-cork-bark-tubes-free-shipping,"Reptile Cork Bark Tubes - for orchids, frogs, lizards and snakes",24.95,19.95,20.0
+2026-08-30T11:29:45.157225+00:00,Imperial Reptiles,imperial-reptiles:thai-black-vinegaroon-typopeltis-sp,Thai Black Vinegaroon (Typopeltis sp.),29.99,39.99,33.3
+2026-08-30T11:29:45.157225+00:00,Frognose Exotics,frognose-exotics:gecarcoidea-lalandii,Purple Land Crab (Gecarcoidea humei),89.99,79.99,11.1
+2026-08-30T11:29:45.157225+00:00,The World of Isopods,the-world-of-isopods:giant-african-mantis,Giant Asian Mantis,15.0,20.0,33.3
+2026-08-30T11:29:45.157225+00:00,The World of Isopods,the-world-of-isopods:rubber-bee-isopods,Rubber Bees,60.0,40.0,33.3
+2026-08-30T11:29:45.157225+00:00,The World of Isopods,the-world-of-isopods:red-tiger-10-ct,Red Tigers,50.0,60.0,20.0
+2026-08-30T11:29:45.157225+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2350,Male Extreme Harlequin Crested Gecko Cr-2350,399.99,199.99,50.0
+2026-08-30T11:29:45.157225+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-luna-cocoon,Single Luna Cocoon,18.0,20.0,11.1
+2026-08-30T11:29:45.157225+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:cecropia-moth-cocoons,Cecropia Moth Cocoon,45.0,39.99,11.1
+2026-08-30T11:29:45.157225+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-polyphemus-moth-cocoon,(SINGLE) Polyphemus Moth Cocoon.,16.0,20.0,25.0
+2026-08-30T11:29:45.157225+00:00,AntGear,antgear:camponotus-semitestaceus,Brick Carpenter Ant (Camponotus semitestaceus),34.99,73.99,111.5
