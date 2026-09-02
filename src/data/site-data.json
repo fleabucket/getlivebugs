@@ -284,15 +284,6 @@
           "url": "https://heartleaftropicals.com/products/carolina-mantis-ootheca-stagmomantis-carolina"
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "Hogna carolinensis (Carolina Wolf Spider) 2-3\" FEMALE",
-          "price": 24.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/hogna-carolinensis-carolina-wolf-spider",
-          "size": "2–3\"",
-          "sex": "Female"
-        },
-        {
           "breeder": "Praying Mantis Shop",
           "product_name": "Praying Mantis Living Juvenile - Carolina",
           "price": 24.5,
@@ -325,7 +316,7 @@
           "life_stage": "Baby"
         }
       ],
-      "supplier_count": 9,
+      "supplier_count": 8,
       "in_stock_count": 2,
       "best_price": 12.0,
       "amazon": {
@@ -1263,13 +1254,6 @@
           ]
         },
         {
-          "breeder": "The World of Isopods",
-          "product_name": "Giant African Millipede (P Gigas)",
-          "price": 80.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/giant-african-millipede-p-gigas"
-        },
-        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Giant African Millipede about 4\" - 5\" unsexed",
           "price": 115.0,
@@ -1333,10 +1317,17 @@
           "price": 49.99,
           "available": false,
           "url": "https://frognoseexotics.com/products/giant-african-millipede-archispirostreptus-gigas"
+        },
+        {
+          "breeder": "The World of Isopods",
+          "product_name": "Giant African Millipede (P Gigas)",
+          "price": 80.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/giant-african-millipede-p-gigas"
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "best_price": 32.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+giant+african+mantis&tag=getlivebugs-20",
@@ -1440,7 +1431,7 @@
             {
               "label": "Subadult Female",
               "price": 65.0,
-              "available": false
+              "available": true
             },
             {
               "label": "Adult Female",
@@ -2199,9 +2190,29 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Pseudocreobotra wahlbergii (Spiny Flower Mantis)",
+          "price": 45.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/pseudocreobotra-wahlbergii-spiny-flower-mantis",
+          "size": "0.5\"",
+          "variants": [
+            {
+              "label": "0.5\"",
+              "price": 45.0,
+              "available": false
+            },
+            {
+              "label": "1.25\" Subadult",
+              "price": 75.0,
+              "available": false
+            }
+          ]
         }
       ],
-      "supplier_count": 5,
+      "supplier_count": 6,
       "in_stock_count": 4,
       "best_price": 35.0,
       "amazon": {
@@ -4071,29 +4082,6 @@
           ]
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 1\" - 1 1/4\"",
-          "price": 75.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/chromatopelma-cyaneopubescens-green-bottleblue-gbb-tarantula-for-sale",
-          "size": "1–1\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "Spiderling alone",
-              "price": 75.0,
-              "available": false
-            },
-            {
-              "label": "MAKE IT A PACKAGE! 🛖🛖🛖🛖",
-              "price": 95.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "American Reptile Distributors",
           "product_name": "Green Bottle Blue Tarantula Female (3-4 inches) (Chromatopelma cyaneopubescens)",
           "price": 199.99,
@@ -4118,7 +4106,7 @@
           ]
         }
       ],
-      "supplier_count": 11,
+      "supplier_count": 10,
       "in_stock_count": 3,
       "best_price": 50.0,
       "amazon": {
@@ -4759,9 +4747,31 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Pterinochilus murinus DCF 'Kigoma' (Gold & Orange Baboon Tarantula)",
+          "price": 39.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/pterinochilus-murinus-dcf-kigoma-gold-orange-baboon-tarantula",
+          "size": "1–1.25\"",
+          "world": "Old World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "1-1.25\" Juvenile",
+              "price": 49.0,
+              "available": false
+            },
+            {
+              "label": "0.75-1\" Spiderling",
+              "price": 39.0,
+              "available": false
+            }
+          ]
         }
       ],
-      "supplier_count": 7,
+      "supplier_count": 8,
       "in_stock_count": 7,
       "best_price": 22.0,
       "amazon": {
@@ -4865,7 +4875,7 @@
             {
               "label": "2-3\"",
               "price": 36.0,
-              "available": true
+              "available": false
             },
             {
               "label": "1-2\"",
@@ -4903,6 +4913,14 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Buddha Bugs",
+          "product_name": "Avicularia avicularia morphotype 1 (common pink-toed tarantula) 1\"",
+          "price": 30.0,
+          "available": true,
+          "url": "https://buddha-bugs.com/products/avicularia-avicularia-m1-guyana-pink-toe-tarantula-for-sale",
+          "size": "1\""
         },
         {
           "breeder": "Gallegos Zoological",
@@ -4945,24 +4963,6 @@
           ]
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Avicularia purpurea (Purple Pink Toe Tarantula) 0.75-1\"",
-          "price": 85.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/avicularia-purpurea-purple-pink-toe-tarantula-0-75-1",
-          "size": "0.75–1\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Arboreal",
-          "variants": [
-            {
-              "label": "0.75-1\" Spiderling",
-              "price": 85.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "Martinique Pink Toe Tarantula, Caribena versicolor - Arboreal Species",
           "price": 45.0,
@@ -4987,14 +4987,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Avicularia avicularia morphotype 1 (common pink-toed tarantula) 1\"",
-          "price": 30.0,
-          "available": false,
-          "url": "https://buddha-bugs.com/products/avicularia-avicularia-m1-guyana-pink-toe-tarantula-for-sale",
-          "size": "1\""
         },
         {
           "breeder": "TC Insects",
@@ -5035,7 +5027,7 @@
           ]
         }
       ],
-      "supplier_count": 12,
+      "supplier_count": 11,
       "in_stock_count": 7,
       "best_price": 15.99,
       "amazon": {
@@ -7347,7 +7339,7 @@
       "price_range": "60-150",
       "best_price": 40.0,
       "supplier_count": 9,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "Buddha Bugs",
@@ -7388,41 +7380,6 @@
               "label": "1.25\" - $45.00 ea.",
               "price": 45.0,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "The Bio Dude",
-          "product_name": "Monocentropus balfouri - Socotra Island Blue Tarantula for Sale | TDE",
-          "price": 48.69,
-          "available": true,
-          "url": "https://thebiodude.com/products/monocentropus-balfouri-socotra-island-blue-tarantula-for-sale-live-arrival-guarantee",
-          "size": "1/4–1/2\"",
-          "variants": [
-            {
-              "label": "1/4-1/2\"",
-              "price": 48.69,
-              "available": false
-            },
-            {
-              "label": "1-1.5\"",
-              "price": 56.49,
-              "available": true
-            },
-            {
-              "label": "1.5\"",
-              "price": 59.99,
-              "available": false
-            },
-            {
-              "label": "3-4\" Unsexed",
-              "price": 107.99,
-              "available": false
-            },
-            {
-              "label": "Mature Female",
-              "price": 146.89,
-              "available": false
             }
           ]
         },
@@ -7485,6 +7442,41 @@
             {
               "label": ".5\"",
               "price": 44.99,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "The Bio Dude",
+          "product_name": "Monocentropus balfouri - Socotra Island Blue Tarantula for Sale | TDE",
+          "price": 48.69,
+          "available": false,
+          "url": "https://thebiodude.com/products/monocentropus-balfouri-socotra-island-blue-tarantula-for-sale-live-arrival-guarantee",
+          "size": "1/4–1/2\"",
+          "variants": [
+            {
+              "label": "1/4-1/2\"",
+              "price": 48.69,
+              "available": false
+            },
+            {
+              "label": "1-1.5\"",
+              "price": 56.49,
+              "available": false
+            },
+            {
+              "label": "1.5\"",
+              "price": 59.99,
+              "available": false
+            },
+            {
+              "label": "3-4\" Unsexed",
+              "price": 107.99,
+              "available": false
+            },
+            {
+              "label": "Mature Female",
+              "price": 146.89,
               "available": false
             }
           ]
@@ -7597,7 +7589,7 @@
       "photo_is_base_species": false,
       "price_range": "20-40",
       "best_price": 14.99,
-      "supplier_count": 6,
+      "supplier_count": 5,
       "in_stock_count": 3,
       "suppliers": [
         {
@@ -7655,32 +7647,6 @@
             {
               "label": "3\"",
               "price": 28.0,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Heterometrus silenus (Asian Forest Scorpion)",
-          "price": 48.0,
-          "available": false,
-          "url": "https://exoticsunlimitedusa.com/products/heterometrus-silenus-asian-forest-scorpion-1",
-          "size": "0.75–1\"",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.75-1\" Scorpling",
-              "price": 55.0,
-              "available": false
-            },
-            {
-              "label": "0.5-0.75\" Scorpling",
-              "price": 48.0,
-              "available": false
-            },
-            {
-              "label": "1-1.25\" Juvenile",
-              "price": 75.0,
               "available": false
             }
           ]
@@ -7992,7 +7958,7 @@
       "price_range": "20-50",
       "best_price": 32.0,
       "supplier_count": 9,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "USMANTIS",
@@ -8057,13 +8023,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "The World of Isopods",
-          "product_name": "Giant African Millipede (P Gigas)",
-          "price": 80.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/giant-african-millipede-p-gigas"
         },
         {
           "breeder": "Fear Not Tarantulas",
@@ -8153,6 +8112,13 @@
           "price": 49.99,
           "available": false,
           "url": "https://frognoseexotics.com/products/giant-african-millipede-archispirostreptus-gigas"
+        },
+        {
+          "breeder": "The World of Isopods",
+          "product_name": "Giant African Millipede (P Gigas)",
+          "price": 80.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/giant-african-millipede-p-gigas"
         }
       ],
       "amazon": {
@@ -10143,8 +10109,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "August 30, 2026",
-    "next_update": "September 02, 2026",
-    "last_updated_iso": "2026-08-30T11:35:44.341094+00:00"
+    "last_updated": "September 02, 2026",
+    "next_update": "September 06, 2026",
+    "last_updated_iso": "2026-09-02T10:58:40.523495+00:00"
   }
 }

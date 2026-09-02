@@ -4165,3 +4165,137 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-08-30T11:29:45.157225+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:cecropia-moth-cocoons,Cecropia Moth Cocoon,45.0,39.99,11.1
 2026-08-30T11:29:45.157225+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-polyphemus-moth-cocoon,(SINGLE) Polyphemus Moth Cocoon.,16.0,20.0,25.0
 2026-08-30T11:29:45.157225+00:00,AntGear,antgear:camponotus-semitestaceus,Brick Carpenter Ant (Camponotus semitestaceus),34.99,73.99,111.5
+2026-09-02T10:52:31.639257+00:00,The Defiant Forest,the-defiant-forest:captive-bred-sulawesi-side-spotted-millipedes-marigold-yellow,Captive Bred Sulawesi Side Spotted Millipedes | Marigold Yellow,58.0,65.0,12.1
+2026-09-02T10:52:31.639257+00:00,The Defiant Forest,the-defiant-forest:giant-sunfire-millipede-undescribed-sp-indonesia,Giant Sunfire Millipede for Sale | Indonesian Diplopoda Species,85.0,75.0,11.8
+2026-09-02T10:52:31.639257+00:00,The Defiant Forest,the-defiant-forest:bi-color-avatar-millipedes-spirotreptida-sp-red-yellow-legs,"Captive Bred Bi-Color Avatar Millipedes, Salpidobolus sp. | Bright Yellow Legs & Antennae",58.0,65.0,12.1
+2026-09-02T10:52:31.639257+00:00,The Defiant Forest,the-defiant-forest:golden-giant-banded-millipede-undescribed-species,"Captive Bred Giant Porcelain Tiger Millipedes, Diplopoda sp.",58.0,65.0,12.1
+2026-09-02T10:52:31.639257+00:00,The Defiant Forest,the-defiant-forest:thai-giant-orange-millipede-diplopoda-sp,"Captive Bred Giant Thai Orange Millipede, Thyropygus sp. Ban Chak Ngaeo",58.0,65.0,12.1
+2026-09-02T10:52:31.639257+00:00,Exotics Unlimited,exotics-unlimited:hysterocrates-gigas-cameroon-red-baboon-tarantula,Hysterocrates gigas (Cameroon Red Baboon Tarantula),19.0,35.0,84.2
+2026-09-02T10:52:31.639257+00:00,Crown Bees,crown-bees:leafcutter-incubation-kit,Leafcutter Bee Incubation Kit,29.95,34.95,16.7
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-11,XL Dubia Roaches 250ct Auction,13.0,41.0,215.4
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-9,Medium Hornworm 24ct (Case Of 12) Auction,36.0,70.0,94.4
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-8,4x2x2 V3 (120 Gallon) Auction,240.0,245.0,2.1
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-17,Dubia Roaches Medium 500ct Auction,1.0,62.0,6100.0
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-9,Large Hornworm 6ct (Case Of 12) Auction,30.0,20.0,33.3
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-10,XL Dubia Roaches 250ct Auction,48.0,30.0,37.5
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-7,X-Small Dubia Roaches 500ct Auction,31.0,22.0,29.0
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-10,24x18x36 (67 Gallon) Arboreal Auction,200.0,177.0,11.5
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-12,Large Mealworm 500ct Auction,5.0,6.0,20.0
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-15,Large Discoid 250ct Auction,35.0,40.0,14.3
+2026-09-02T10:52:31.639257+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-13,80w Heat Panel Reptile Habitat Auction,55.0,99.0,80.0
+2026-09-02T10:52:31.639257+00:00,Symton Black Soldier Fly,symton-bsf:symton-insect-flight,Insect Flight,30.0,40.0,33.3
+2026-09-02T10:52:31.639257+00:00,Flow Hive,flow-hive:beek-bundle,Ultimate Beek Bundle,1427.0,1617.0,13.3
+2026-09-02T10:52:31.639257+00:00,Flow Hive,flow-hive:starter-bundle,Starter Bundle,804.0,1039.0,29.2
+2026-09-02T10:52:31.639257+00:00,Flow Hive,flow-hive:ultimate-bundle,Ultimate Starter Bundle,1568.0,1778.0,13.4
+2026-09-02T10:52:31.639257+00:00,Flow Hive,flow-hive:deluxe-bundle,Deluxe Starter Bundle,1079.0,1279.0,18.5
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-harvest-fern,Regal Jumping Spider “Harvest Fern”,95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-elvira,"Regal Jumping Spider ""Elvira""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-manzana,"Regal Jumping Spider ""Manzana""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-sahara-1,"Regal Jumping Spider ""Sahara""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-mulberry,"Regal Jumping Spider ""Mulberry""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-ignisa,"Regal Jumping Spider ""Ignisa""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-firecracker-for-sale,"Regal Jumping Spider ""Firecracker""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-kisses,"Regal Jumping Spider ""Kisses""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-jamba,"Regal Jumping Spider ""Jamba""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-charm,Regal Jumping Spider “Charm”,95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-butter-1,"Regal Jumping Spider ""Butter""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:jumping-spider-cornbread,"Regal Jumping Spider ""Cornbread""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:regal-jumping-spider-bunny,"Regal Jumping Spider ""Bunny""",95.0,75.0,21.1
+2026-09-02T10:52:31.639257+00:00,Exotics Source,exotics-source:audax-jumping-spider-hexic,"Audax Jumping Spider ""Hexic""",65.0,75.0,15.4
+2026-09-02T10:52:31.639257+00:00,Spider Shoppe,spider-shoppe:heteropoda-pingungensis-pingtung-huntsman-2,Heteropoda pingungensis (Pingtung Huntsman),28.0,14.0,50.0
+2026-09-02T10:52:31.639257+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-02T10:52:31.639257+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-02T10:52:31.639257+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-02T10:52:31.639257+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-02T10:52:31.639257+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,113.0,114.0,0.9
+2026-09-02T10:52:31.639257+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,113.0,114.0,0.9
+2026-09-02T10:52:31.639257+00:00,Buddha Bugs,buddha-bugs:phoneutria-depilata-depilated-wandering-spider-for-sale,"Phoneutria depilata (depilated wandering spider) 0.75""",50.0,75.0,50.0
+2026-09-02T10:52:31.639257+00:00,Buddha Bugs,buddha-bugs:pterinochilus-lugardi-dodoma-baboon-tarantula-for-sale,"Pterinochilus lugardi (Dodoma baboon tarantula) 0.5""",45.0,25.0,44.4
+2026-09-02T10:52:31.639257+00:00,Buddha Bugs,buddha-bugs:poecilotheria-tigrinawesseli-wessels-tiger-ornamental-tarantula-for-sale,"Poecilotheria tigrinawesseli (Wessel's tiger ornamental tarantula) 1""",75.0,65.0,13.3
+2026-09-02T10:52:31.639257+00:00,American Reptile Distributors,american-reptile-distributors:supernova-florida-red-bellied-turtle-2601-pseudemys-nelsoni,Supernova Golden Flame Florida Red Bellied Turtle #2601 (Pseudemys nelsoni),749.99,599.99,20.0
+2026-09-02T10:52:31.639257+00:00,Big Apple Herp,big-apple-herp:banana-ball-pythons-for-sale,Banana Ball Pythons for Sale – Multiple Morphs Available,219.95,229.95,4.5
+2026-09-02T10:52:31.639257+00:00,Big Apple Herp,big-apple-herp:yellow-atelopus-frogs,Yellow & Purple Atelopus Frogs,79.95,69.95,12.5
+2026-09-02T10:52:31.639257+00:00,Big Apple Herp,big-apple-herp:smooth-sided-toads,Smooth Sided Toads,42.95,59.95,39.6
+2026-09-02T10:52:31.639257+00:00,Big Apple Herp,big-apple-herp:palmetto-corn-snake-for-sale,Palmetto Corn Snakes,199.95,159.95,20.0
+2026-09-02T10:52:31.639257+00:00,Big Apple Herp,big-apple-herp:brazilian-rainbow-boas,Colombian Rainbow Boas,319.95,144.95,54.7
+2026-09-02T10:52:31.639257+00:00,Big Apple Herp,big-apple-herp:blue-tongue-skinks,Blue Tongue Skinks,189.95,289.95,52.6
+2026-09-02T10:52:31.639257+00:00,The Bio Dude,the-bio-dude:hydrogrow-v2-drainage-layer-18-quarts,HydroGrow V2 Drainage Layer 18 QUARTS,34.95,39.95,14.3
+2026-09-02T10:52:31.639257+00:00,Frognose Exotics,frognose-exotics:penang-freshwater-crab-stoliczia-stoliczkana,Penang Freshwater Crab (Stoliczia stoliczkana),49.99,29.99,40.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-super-dalmatian-crested-gecko-cr-2487,Male Super Dalmatian Crested Gecko Cr-2487,1999.99,299.99,85.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-brindle-crested-gecko-cr-2410,Male Brindle Crested Gecko Cr-2410,299.99,99.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:juvenile-frappuccino-crested-gecko-cr-2451,Female Frappuccino Crested Gecko Cr-2451,1199.99,299.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-tricolor-extreme-harlequin-crested-gecko-cr-2424,Female Tricolor Extreme Harlequin Crested Gecko Cr-2424,649.99,249.99,61.5
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:copy-of-crested-gecko-template-sexmorph-crested-gecko-cr-code,Male Dark Tiger Crested Gecko Cr-2436,249.99,74.99,70.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:herpstat-6-spyderweb,Herpstat 6 SpyderWeb,538.99,549.99,2.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:juvenile-frappuccino-crested-gecko-cr-2504,Male Frappuccino Crested Gecko Cr-2504,1399.99,399.99,71.4
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-quadstripe-crested-gecko-cr-2559,Male Quadstripe Crested Gecko Cr-2559,299.99,124.99,58.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-harlequin-crested-gecko-cr-2555,Male Tricolor Extreme Harlequin Crested Gecko Cr-2555,549.99,199.99,63.6
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-harlequin-crested-gecko-cr-2550,Male Tricolor Extreme Harlequin Crested Gecko Cr-2550,649.99,199.99,69.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-harlequin-crested-gecko-cr-2548,Male Tricolor Extreme Harlequin Crested Gecko Cr-2548,449.99,174.99,61.1
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2544,Male Harlequin Crested Gecko Cr-2544,349.99,124.99,64.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-crested-gecko-cr-2543,Male Tricolor Extreme Harlequin Crested Gecko Cr-2543,499.99,174.99,65.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-red-super-dalmatian-crested-gecko-cr-2542,Male Red Super Dalmatian Crested Gecko Cr-2542,999.99,249.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-red-snowflake-crested-gecko-cr-2540,Male Red Brindle Crested Gecko Cr-2540,349.99,124.99,64.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-harlequin-pinstripe-crested-gecko-cr-2538,Male Harlequin Pinstripe Crested Gecko Cr-2538,399.99,99.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-red-pinstripe-crested-gecko-cr-2536,Male Reverse Quadstripe Crested Gecko Cr-2536,299.99,74.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-tricolor-extreme-harlequin-crested-gecko-cr-2534,Female Tricolor Extreme Harlequin Crested Gecko Cr-2534,599.99,99.99,83.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2532,Male Extreme Harlequin Crested Gecko Cr-2532,599.99,124.99,79.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-red-extreme-harlequin-crested-gecko-cr-2531,Male White Wall Crested Gecko Cr-2531,649.99,124.99,80.8
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-red-tricolor-crested-gecko-cr-2528,Female Red Tricolor Harlequin Crested Gecko Cr-2528,549.99,174.99,68.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-pinstripe-crested-gecko-cr-2526,Male Tricolor Extreme Harlequin Crested Gecko Cr-2526,424.99,199.99,52.9
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-quadstripe-crested-gecko-cr-2524,Male Tricolor Quadstripe Crested Gecko Cr-2524,349.99,149.99,57.1
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-xxx-crested-gecko-cr-2521,Male XXX Crested Gecko Cr-2521,699.99,249.99,64.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-pinstripe-crested-gecko-cr-2518,Male Extreme Harlequin Crested Gecko Cr-2518,399.99,124.99,68.8
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2514,Female Extreme Harlequin Crested Gecko Cr-2514,499.99,199.99,60.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-extreme-tricolor-crested-gecko-cr-2513,Female Tricolor Extreme Harlequin Crested Gecko Cr-2513,549.99,149.99,72.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-xxx-tricolor-crested-gecko-cr-2512,Female Tricolor XXX Crested Gecko Cr-2512,899.99,249.99,72.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-crested-gecko-cr-2511,Male Tricolor Extreme Harlequin Crested Gecko Cr-2511,599.99,249.99,58.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-crested-gecko-cr-2510,Male Tricolor Extreme Harlequin Crested Gecko Cr-2510,599.99,249.99,58.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-xxx-tricolor-crested-gecko-cr-2509,Female Tricolor XXX Crested Gecko Cr-2509,899.99,249.99,72.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:juvenile-frappuccino-crested-gecko-cr-2502,Male Frappuccino Crested Gecko Cr-2502,999.99,299.99,70.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-cappuccino-crested-gecko-cr-2501,Female Cappuccino Crested Gecko Cr-2501,1199.99,199.99,83.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:juvenile-frappuccino-crested-gecko-cr-2499,Male Frappuccino Crested Gecko Cr-2499,1499.99,399.99,73.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-harlequin-crested-gecko-cr-2496,Male Pinstripe Harlequin Crested Gecko Cr-2496,349.99,124.99,64.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-quadstripe-crested-gecko-cr-2493,Male Tricolor Quadstripe Crested Gecko Cr-2493,699.99,174.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-crested-gecko-cr-2492,Male Tricolor Extreme Harlequin Crested Gecko Cr-2492,799.99,349.99,56.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-red-super-dalmatian-crested-gecko-cr-2490,Male Red Super Dalmatian Crested Gecko Cr-2490,1999.99,349.99,82.5
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-xxx-crested-gecko-cr-2485,Male XXX Crested Gecko Cr-2485,699.99,199.99,71.4
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-tricolor-partial-pinstripe-cr-2480,Female Tricolor Extreme Harlequin Cr-2480,1049.99,299.99,71.4
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-betty-white-pinstripe-cr-2477,Female Betty White Pinstripe Crested Gecko Cr-2477,2399.99,249.99,89.6
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-white-wall-pinstripe-crested-gecko-cr-2475,Male Tricolor White Wall Crested Gecko Cr-2475,474.99,174.99,63.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:tricolor-partial-pinstripe-crested-gecko-cr-2473,Male Tricolor Extreme Harlequin Crested Gecko Cr-2473,399.99,174.99,56.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2472,Male Extreme Harlequin Crested Gecko Cr-2471,649.99,199.99,69.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-orange-lilly-white-crested-gecko-cr-2467,Male Orange Lilly White Crested Gecko Cr-2467,649.99,199.99,69.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-lilly-white-tricolor-crested-gecko-cr-2466,Male Tricolor Lilly White Crested Gecko Cr-2466,999.99,299.99,70.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tricolor-extreme-crested-gecko-cr-2460,Male Tricolor Harlequin Crested Gecko Cr-2460,249.99,124.99,50.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-tricolor-crested-gecko-cr-2458,Male Tricolor Harlequin Crested Gecko Cr-2458,549.99,174.99,68.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-quadstripe-sexmorph-crested-gecko-cr-2456,Male Pinstripe Crested Gecko Cr-2456,249.99,74.99,70.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-extreme-tricolor-crested-gecko-cr-2455,Female Tricolor Extreme Harlequin Crested Gecko Cr-2455,549.99,174.99,68.2
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-xxx-tricolor-crested-gecko-cr-2454,Male Tricolor XXX Crested Gecko Cr-2454,749.99,249.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:copy-of-crested-gecko-template-sexmorph-crested-gecko-cr-code-copy,Male Quadstripe Crested Gecko Cr-2448,399.99,149.99,62.5
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-quadstripe-crested-gecko-cr-2442,Male Tricolor Quadstripe Crested Gecko Cr-2442,399.99,124.99,68.8
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tiger-crested-gecko-cr-2440,Male Tiger Crested Gecko Cr-2440,299.99,99.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-dark-phantom-portholes-crested-gecko-cr-2439,Male Dark Phantom Crested Gecko Cr-2439,749.99,199.99,73.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-extreme-crested-gecko-cr-2435,Female Extreme Harlequin Crested Gecko Cr-2435,449.99,149.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2421,Female Extreme Harlequin Crested Gecko Cr-2421,449.99,149.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tiger-crested-gecko-cr-2412,Male Tiger Crested Gecko Cr-2412,299.99,74.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-brindle-crested-gecko-cr-2411,Male Brindle Crested Gecko Cr-2411,299.99,99.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-tiger-crested-gecko-cr-2409,Male Tiger Crested Gecko Cr-2409,299.99,74.99,75.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-quadstripe-crested-gecko-cr-2404,Male Solid Back Quadstripe Crested Gecko Cr-2404,449.99,99.99,77.8
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-quadstripe-crested-gecko-cr-2400,Male Quadstripe Crested Gecko Cr-2400,349.99,124.99,64.3
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-crested-gecko-cr-2398,Male Pinstripe Crested Gecko Cr-2398,349.99,149.99,57.1
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-crested-gecko-cr-2393,Male Pinstripe Crested Gecko Cr-2393,349.99,174.99,50.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-pinstripe-crested-gecko-cr-2392,Male Pinstripe Crested Gecko Cr-2392,599.99,199.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2357,Male White Wall Crested Gecko Cr-2357,549.99,199.99,63.6
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2356,Male Extreme Harlequin Crested Gecko Cr-2356,749.99,249.99,66.7
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:female-extreme-harlequin-crested-gecko-cr-2355,Female Extreme Harlequin Crested Gecko Cr-2355,399.99,124.99,68.8
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2352,Male Extreme Harlequin Crested Gecko Cr-2352,499.99,249.99,50.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2354,Male Extreme Harlequin Crested Gecko Cr-2354,374.99,149.99,60.0
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2353,Male Extreme Harlequin Crested Gecko Cr-2353,549.99,199.99,63.6
+2026-09-02T10:52:31.639257+00:00,Pangea Reptile,pangea-reptile:male-extreme-harlequin-crested-gecko-cr-2351,Male Extreme Harlequin Crested Gecko Cr-2351,399.99,199.99,50.0
+2026-09-02T10:52:31.639257+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:queen-butterfly-caterpillars-or-chrysalis,Queen Butterfly Caterpillars Or Chrysalis,59.99,49.99,16.7
+2026-09-02T10:52:31.639257+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:monarch-caterpillars-or-chrysalis,Monarch Caterpillars or Chrysalis,54.99,75.0,36.4
+2026-09-02T10:52:31.639257+00:00,AntGear,antgear:mini-round-house-tubs-and-tubes,Mini-Round-House &#8211; A Test Tube Outworld,19.99,22.99,15.0
+2026-09-02T10:52:31.639257+00:00,AntGear,antgear:camponotus-ocreatus,Camponotus ocreatus,54.99,64.99,18.2
+2026-09-02T10:52:31.639257+00:00,Wish Upon A Butterfly,wish-upon-a-butterfly:giant-swallowtail-butterflies-for-butterfly-release,Giant Swallowtail Butterflies for Butterfly Release,95.0,10.0,89.5
+2026-09-02T10:52:31.639257+00:00,Wish Upon A Butterfly,wish-upon-a-butterfly:black-swallowtail-butterflies-for-butterfly-release,Black Swallowtail Butterflies for Butterfly Release,95.0,9.0,90.5
