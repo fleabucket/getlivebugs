@@ -222,13 +222,6 @@
       },
       "suppliers": [
         {
-          "breeder": "JMZ Butterfly Farm",
-          "product_name": "Carolina Sphinx Moth Pupae",
-          "price": 12.0,
-          "available": true,
-          "url": "https://jmzbutterflyfarm.com/products/carolina-sphinx-moth-pupae-1"
-        },
-        {
           "breeder": "Insect Sales",
           "product_name": "One Carolina Praying Mantis Egg ... Fresh For This Season",
           "price": 15.95,
@@ -241,6 +234,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "JMZ Butterfly Farm",
+          "product_name": "Carolina Sphinx Moth Pupae",
+          "price": 12.0,
+          "available": false,
+          "url": "https://jmzbutterflyfarm.com/products/carolina-sphinx-moth-pupae-1"
         },
         {
           "breeder": "PanTerra Pets",
@@ -317,8 +317,8 @@
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 2,
-      "best_price": 12.0,
+      "in_stock_count": 1,
+      "best_price": 15.95,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+carolina+mantis&tag=getlivebugs-20",
         "creature_label": "Live Carolina Mantis",
@@ -3267,7 +3267,7 @@
             {
               "label": "4\" Female",
               "price": 98.0,
-              "available": true
+              "available": false
             },
             {
               "label": "0.5\"",
@@ -3443,7 +3443,7 @@
             {
               "label": "3-4\" Male (field-collected)",
               "price": 28.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -3821,6 +3821,17 @@
           "size": "1.5\""
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 3/4\"-2\"",
+          "price": 125.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
+          "size": "3/4–2\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "The Defiant Forest",
           "product_name": "Burgundy Goliath Bird Eater Tarantula for Sale | Theraphosa stirmi",
           "price": 60.0,
@@ -3899,21 +3910,10 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 2\" +",
-          "price": 125.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
-          "size": "2\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial"
         }
       ],
       "supplier_count": 7,
-      "in_stock_count": 1,
+      "in_stock_count": 2,
       "best_price": 120.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=goliath+birdeater+tarantula&tag=getlivebugs-20",
@@ -8857,7 +8857,7 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "8-15",
-      "best_price": 14.99,
+      "best_price": 9.99,
       "supplier_count": 10,
       "in_stock_count": 8,
       "suppliers": [
@@ -8893,6 +8893,30 @@
             {
               "label": "5x BDFB (A. verrucosus) Plus Dune Scorpion",
               "price": 70.0,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "James' Beetle Farm",
+          "product_name": "Asbolus verrucosus (Blue death feigning beetle)",
+          "price": 9.99,
+          "available": true,
+          "url": "https://jamesbeetlefarm.com/products/asbolus-verrucosus-blue-death-feigning-beetle",
+          "variants": [
+            {
+              "label": "1 Beetle",
+              "price": 14.99,
+              "available": true
+            },
+            {
+              "label": "5 Beetle",
+              "price": 59.99,
+              "available": true
+            },
+            {
+              "label": "1 Imperfect Beetle",
+              "price": 9.99,
               "available": true
             }
           ]
@@ -8961,13 +8985,6 @@
               "available": true
             }
           ]
-        },
-        {
-          "breeder": "James' Beetle Farm",
-          "product_name": "Asbolus verrucosus (Blue death feigning beetle)",
-          "price": 14.99,
-          "available": true,
-          "url": "https://jamesbeetlefarm.com/products/asbolus-verrucosus-blue-death-feigning-beetle"
         },
         {
           "breeder": "Heart Leaf Tropicals",
@@ -10177,8 +10194,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "September 06, 2026",
-    "next_update": "September 09, 2026",
-    "last_updated_iso": "2026-09-06T10:36:31.963397+00:00"
+    "last_updated": "September 09, 2026",
+    "next_update": "September 13, 2026",
+    "last_updated_iso": "2026-09-09T11:02:47.183328+00:00"
   }
 }
