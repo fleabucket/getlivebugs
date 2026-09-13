@@ -236,6 +236,14 @@
           ]
         },
         {
+          "breeder": "American Reptile Distributors",
+          "product_name": "Hi Color Yellow Baby Eastern Box Turtle #2601 (Terrapene carolina)",
+          "price": 199.99,
+          "available": true,
+          "url": "https://americanreptiles.com/products/hi-color-yellow-baby-eastern-box-turtle-2601-terrapene-carolina",
+          "life_stage": "Baby"
+        },
+        {
           "breeder": "JMZ Butterfly Farm",
           "product_name": "Carolina Sphinx Moth Pupae",
           "price": 12.0,
@@ -306,18 +314,10 @@
           "available": false,
           "url": "https://exoticssource.com/products/juvenile-pinstripe-with-portholes-crested-gecko-carolina",
           "life_stage": "Juvenile"
-        },
-        {
-          "breeder": "American Reptile Distributors",
-          "product_name": "Hi Color Yellow Baby Eastern Box Turtle #6 (Terrapene carolina)",
-          "price": 199.99,
-          "available": false,
-          "url": "https://americanreptiles.com/products/hi-color-yellow-baby-eastern-box-turtle-6-terrapene-carolina",
-          "life_stage": "Baby"
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 1,
+      "in_stock_count": 2,
       "best_price": 15.95,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+carolina+mantis&tag=getlivebugs-20",
@@ -973,6 +973,42 @@
       },
       "suppliers": [
         {
+          "breeder": "PanTerra Pets",
+          "product_name": "Ghost Mantis (P. paradoxa)",
+          "price": 21.99,
+          "available": true,
+          "url": "https://www.panterrapets.com/products/ghost-mantis",
+          "quantity": 5,
+          "per_unit_price": 4.4,
+          "variants": [
+            {
+              "label": "Single (L3/L4)",
+              "price": 21.99,
+              "available": false
+            },
+            {
+              "label": "Fresh Adult Female",
+              "price": 40.99,
+              "available": false
+            },
+            {
+              "label": "5 pack (L2/L3)",
+              "price": 75.96,
+              "available": false
+            },
+            {
+              "label": "10 pack (L2/L3)",
+              "price": 132.93,
+              "available": false
+            },
+            {
+              "label": "Fresh Adult Male",
+              "price": 35.99,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "USMANTIS",
           "product_name": "P paradoxa Ghost mantis All colors SALE",
           "price": 24.5,
@@ -1071,47 +1107,11 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "PanTerra Pets",
-          "product_name": "Ghost Mantis (P. paradoxa)",
-          "price": 21.99,
-          "available": false,
-          "url": "https://www.panterrapets.com/products/ghost-mantis",
-          "quantity": 5,
-          "per_unit_price": 4.4,
-          "variants": [
-            {
-              "label": "Single (L3/L4)",
-              "price": 21.99,
-              "available": false
-            },
-            {
-              "label": "Fresh Adult Female",
-              "price": 30.99,
-              "available": false
-            },
-            {
-              "label": "5 pack (L2/L3)",
-              "price": 75.96,
-              "available": false
-            },
-            {
-              "label": "10 pack (L2/L3)",
-              "price": 132.93,
-              "available": false
-            },
-            {
-              "label": "Fresh Adult Male",
-              "price": 35.99,
-              "available": false
-            }
-          ]
         }
       ],
       "supplier_count": 5,
-      "in_stock_count": 3,
-      "best_price": 24.5,
+      "in_stock_count": 4,
+      "best_price": 21.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+ghost+mantis&tag=getlivebugs-20",
         "creature_label": "Live Ghost Mantis",
@@ -1876,7 +1876,7 @@
             {
               "label": "L2/3 Nymph",
               "price": 65.0,
-              "available": true
+              "available": false
             },
             {
               "label": "5 pack L2/3 Nymphs Save$$",
@@ -2722,15 +2722,20 @@
           "price": 45.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/nhandu-colloratovilosus-brazilian-black-white-tarantula",
-          "size": "0.5\"",
+          "size": "0.75–1\"",
           "temperament": "Defensive",
           "world": "New World",
           "habitat": "Terrestrial",
           "variants": [
             {
+              "label": "0.75-1\" Spiderling",
+              "price": 49.0,
+              "available": true
+            },
+            {
               "label": "0.5\" Spiderling",
               "price": 45.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -3013,7 +3018,7 @@
             {
               "label": "1.5\" Female",
               "price": 148.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -3079,11 +3084,16 @@
           "price": 75.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/grammostola-porteri-now-rosea-chilean-rose-hair-tarantula",
-          "size": "1–1.5\"",
+          "size": "0.75–1\"",
           "temperament": "Docile",
           "world": "New World",
           "habitat": "Terrestrial",
           "variants": [
+            {
+              "label": "0.75-1\" Juvenile",
+              "price": 85.0,
+              "available": true
+            },
             {
               "label": "1-1.5\" Juvenile",
               "price": 125.0,
@@ -3092,7 +3102,7 @@
             {
               "label": "0.5-0.75\" Spiderling",
               "price": 75.0,
-              "available": true
+              "available": false
             },
             {
               "label": "1.5-2\" Juvenile",
@@ -3438,7 +3448,7 @@
             {
               "label": "4\" Female w/ 10gal",
               "price": 78.0,
-              "available": true
+              "available": false
             },
             {
               "label": "3-4\" Male (field-collected)",
@@ -3660,6 +3670,24 @@
           ]
         },
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\"",
+          "price": 25.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-albopilosus-curly-hair-tarantula-0-5-0-76",
+          "size": "0.5–0.75\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.5-0.75\" Spiderling",
+              "price": 25.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Exotics Source",
           "product_name": "Curly Hair Tarantula",
           "price": 35.0,
@@ -3733,8 +3761,8 @@
           ]
         }
       ],
-      "supplier_count": 10,
-      "in_stock_count": 8,
+      "supplier_count": 11,
+      "in_stock_count": 9,
       "best_price": 8.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=curly+hair+tarantula+tarantula&tag=getlivebugs-20",
@@ -4059,6 +4087,29 @@
           ]
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 3/4\" - 1\"",
+          "price": 79.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/chromatopelma-cyaneopubescens-green-bottleblue-gbb-tarantula-for-sale",
+          "size": "3/4–1\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "Spiderling alone",
+              "price": 79.0,
+              "available": true
+            },
+            {
+              "label": "MAKE IT A PACKAGE! 🛖🛖🛖🛖",
+              "price": 105.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "TC Insects",
           "product_name": "Chromatopelma cyaneopubescens | Green Bottle Blue 3/4 -1&#8243;",
           "price": 48.99,
@@ -4122,29 +4173,6 @@
           ]
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 1\" - 1 1/4\"",
-          "price": 79.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/chromatopelma-cyaneopubescens-green-bottleblue-gbb-tarantula-for-sale",
-          "size": "1–1\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "Spiderling alone",
-              "price": 79.0,
-              "available": false
-            },
-            {
-              "label": "MAKE IT A PACKAGE! 🛖🛖🛖🛖",
-              "price": 99.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "American Reptile Distributors",
           "product_name": "Green Bottle Blue Tarantula Female (3-4 inches) (Chromatopelma cyaneopubescens)",
           "price": 199.99,
@@ -4170,7 +4198,7 @@
         }
       ],
       "supplier_count": 11,
-      "in_stock_count": 4,
+      "in_stock_count": 5,
       "best_price": 50.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=greenbottle+blue+tarantula+tarantula&tag=getlivebugs-20",
@@ -4497,6 +4525,24 @@
           "size": "0.5\""
         },
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Tliltocatl vagans (Mexican Red Rump Tarantula) 0.75-1\"",
+          "price": 39.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-vagans-mexican-red-rump-tarantula-0-75-1",
+          "size": "0.75–1\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.75-1\" Spiderling",
+              "price": 39.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Tliltocatl vagans (Mexican Redrump Tarantula) was Brachypelma about 1/2\"",
           "price": 39.0,
@@ -4578,8 +4624,8 @@
           "per_unit_price": null
         }
       ],
-      "supplier_count": 6,
-      "in_stock_count": 4,
+      "supplier_count": 7,
+      "in_stock_count": 5,
       "best_price": 20.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+rump+tarantula+tarantula&tag=getlivebugs-20",
@@ -4675,7 +4721,7 @@
             {
               "label": "3/4-1\"",
               "price": 24.89,
-              "available": true
+              "available": false
             },
             {
               "label": "Mature Male",
@@ -4975,17 +5021,6 @@
           "url": "https://www.fangztv.com/products/avicularia-avicularia-guyana-pink-toe-2"
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about 3/4\" - 1\"",
-          "price": 45.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/avicularia-guyan-pinktoe-tarantula-for-sale-2026",
-          "size": "3/4–1\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Arboreal"
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Avicularia avicularia (Pink Toe Tarantula)",
           "price": 50.0,
@@ -5051,6 +5086,17 @@
           "url": "https://tcinsects.com/product/pink-toe-tarantula-for-sale/"
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about 3/4\" - 1\"",
+          "price": 45.0,
+          "available": false,
+          "url": "https://fearnottarantulas.com/products/avicularia-guyan-pinktoe-tarantula-for-sale-2026",
+          "size": "3/4–1\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Arboreal"
+        },
+        {
           "breeder": "The Bio Dude",
           "product_name": "Avicularia avicularia M6 – Metallic Pink Toe Tarantula | Shimmering Morphotype | TDE",
           "price": 47.79,
@@ -5083,7 +5129,7 @@
         }
       ],
       "supplier_count": 13,
-      "in_stock_count": 9,
+      "in_stock_count": 8,
       "best_price": 15.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
@@ -5165,88 +5211,88 @@
           "breeder": "Nature's Good Guys",
           "product_name": "Red \"Wiggler\" Worms - Limit 6lb per customer only",
           "price": 17.85,
-          "available": true,
+          "available": false,
           "url": "https://www.naturesgoodguys.com/products/live-red-worms",
           "variants": [
             {
               "label": "300 Red Worms / No Worm Chow",
               "price": 17.85,
-              "available": true
+              "available": false
             },
             {
               "label": "300 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 23.1,
-              "available": true
+              "available": false
             },
             {
               "label": "300 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 25.1,
-              "available": true
+              "available": false
             },
             {
               "label": "300 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 26.6,
-              "available": true
+              "available": false
             },
             {
               "label": "600 Red Worms / No Worm Chow",
               "price": 26.5,
-              "available": true
+              "available": false
             },
             {
               "label": "600 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 31.75,
-              "available": true
+              "available": false
             },
             {
               "label": "600 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 33.75,
-              "available": true
+              "available": false
             },
             {
               "label": "600 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 35.25,
-              "available": true
+              "available": false
             },
             {
               "label": "1200 Red Worms / No Worm Chow",
               "price": 36.0,
-              "available": true
+              "available": false
             },
             {
               "label": "1200 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 41.25,
-              "available": true
+              "available": false
             },
             {
               "label": "1200 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 43.25,
-              "available": true
+              "available": false
             },
             {
               "label": "1200 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 44.75,
-              "available": true
+              "available": false
             },
             {
               "label": "2100 Red Worms / No Worm Chow",
               "price": 59.99,
-              "available": true
+              "available": false
             },
             {
               "label": "2100 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 65.24,
-              "available": true
+              "available": false
             },
             {
               "label": "2100 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 67.24,
-              "available": true
+              "available": false
             },
             {
               "label": "2100 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 68.74,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -5254,24 +5300,24 @@
           "breeder": "Tip Top Bio",
           "product_name": "Composting Red \"Wiggler\" Worms",
           "price": 21.5,
-          "available": true,
+          "available": false,
           "url": "https://retail-tiptopbio.com/products/red-worms",
           "size": "500–600\"",
           "variants": [
             {
               "label": "200 Worms in Retail Pail with Handle",
               "price": 21.5,
-              "available": true
+              "available": false
             },
             {
               "label": "500-600 Worms (1/2 lb.) in Cloth Bag",
               "price": 35.53,
-              "available": true
+              "available": false
             },
             {
               "label": "1k Worms (1 lb.) in Cloth Bag",
               "price": 55.07,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -5311,8 +5357,8 @@
         }
       ],
       "supplier_count": 3,
-      "in_stock_count": 2,
-      "best_price": 17.85,
+      "in_stock_count": 0,
+      "best_price": null,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+red+wiggler+worm&tag=getlivebugs-20",
         "creature_label": "Live Red Wiggler Worms",
@@ -5722,7 +5768,7 @@
             {
               "label": "20 Giant Gray Isopods",
               "price": 10.0,
-              "available": true
+              "available": false
             },
             {
               "label": "50 Giant Gray Isopods",
@@ -5896,7 +5942,7 @@
       "price_range": "1-2",
       "best_price": 10.0,
       "supplier_count": 13,
-      "in_stock_count": 8,
+      "in_stock_count": 6,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5952,37 +5998,6 @@
               "label": "10ct FREE SHIPPING",
               "price": 19.99,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Pangea Reptile",
-          "product_name": "Porcellionides pruinosus 'White Out' Isopods",
-          "price": 14.99,
-          "available": true,
-          "url": "https://pangeareptile.com/products/porcellionides-pruinosus-white-out-isopods",
-          "quantity": 10,
-          "per_unit_price": 1.5,
-          "variants": [
-            {
-              "label": "10 Count",
-              "price": 14.99,
-              "available": true
-            },
-            {
-              "label": "20 Count",
-              "price": 26.99,
-              "available": true
-            },
-            {
-              "label": "50 Count",
-              "price": 55.99,
-              "available": false
-            },
-            {
-              "label": "100 Count",
-              "price": 74.99,
-              "available": false
             }
           ]
         },
@@ -6070,35 +6085,6 @@
           ]
         },
         {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": true,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": true
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
           "price": 1.0,
@@ -6158,6 +6144,37 @@
           ]
         },
         {
+          "breeder": "Pangea Reptile",
+          "product_name": "Porcellionides pruinosus 'White Out' Isopods",
+          "price": 14.99,
+          "available": false,
+          "url": "https://pangeareptile.com/products/porcellionides-pruinosus-white-out-isopods",
+          "quantity": 10,
+          "per_unit_price": 1.5,
+          "variants": [
+            {
+              "label": "10 Count",
+              "price": 14.99,
+              "available": false
+            },
+            {
+              "label": "20 Count",
+              "price": 26.99,
+              "available": false
+            },
+            {
+              "label": "50 Count",
+              "price": 55.99,
+              "available": false
+            },
+            {
+              "label": "100 Count",
+              "price": 74.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Terrarium Tribe",
           "product_name": "Powder Orange Isopods (Porcellionides pruinosus) 10 Count",
           "price": 17.95,
@@ -6172,6 +6189,35 @@
           "price": 6.99,
           "available": false,
           "url": "https://tcinsects.com/product/porcellionides-pruinosus-lemon-berry-crumble/"
+        },
+        {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": false,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": false
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
+              "available": false
+            }
+          ]
         }
       ],
       "amazon": {
@@ -6304,15 +6350,15 @@
       "photo_caption": "Photo shows standard Armadillidium vulgare. The Magic Potion morph displays striking purple and blue coloration not seen in wild-type individuals.",
       "photo_is_base_species": true,
       "price_range": "5-15",
-      "best_price": 53.99,
+      "best_price": null,
       "supplier_count": 1,
-      "in_stock_count": 1,
+      "in_stock_count": 0,
       "suppliers": [
         {
           "breeder": "Reptanicals",
           "product_name": "Magic Potion Panda King Isopod Combo",
           "price": 53.99,
-          "available": true,
+          "available": false,
           "url": "https://reptanicalshop.com/products/magic-potion-panda-king-isopod-combo",
           "variants": [
             {
@@ -6323,12 +6369,12 @@
             {
               "label": "Potion/Panda Pack + 1.3oz Isopod Feast",
               "price": 61.99,
-              "available": true
+              "available": false
             },
             {
               "label": "Potion/Panda Pack w/ Isopod Feast & 5-in1 Calcium",
               "price": 66.99,
-              "available": true
+              "available": false
             }
           ]
         }
@@ -7416,8 +7462,8 @@
       "photo_is_base_species": false,
       "price_range": "60-150",
       "best_price": 40.0,
-      "supplier_count": 9,
-      "in_stock_count": 4,
+      "supplier_count": 10,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "Buddha Bugs",
@@ -7437,7 +7483,7 @@
             {
               "label": "5 ct communal",
               "price": 200.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -7458,6 +7504,24 @@
               "label": "1.75\" - $45.00 ea.",
               "price": 45.0,
               "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Monocentropus balfouri (Socotra Island Blue Baboon Tarantula) 0.75-1\"",
+          "price": 55.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/monocentropus-balfouri-socotra-island-blue-baboon-tarantula-0-75-1",
+          "size": "0.75–1\"",
+          "temperament": "Skittish",
+          "world": "Old World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.75-1\" Spiderling",
+              "price": 55.0,
+              "available": true
             }
           ]
         },
@@ -10194,8 +10258,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "September 09, 2026",
-    "next_update": "September 13, 2026",
-    "last_updated_iso": "2026-09-09T11:02:47.183328+00:00"
+    "last_updated": "September 13, 2026",
+    "next_update": "September 16, 2026",
+    "last_updated_iso": "2026-09-13T11:24:30.889867+00:00"
   }
 }
