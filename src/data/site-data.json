@@ -236,14 +236,6 @@
           ]
         },
         {
-          "breeder": "American Reptile Distributors",
-          "product_name": "Hi Color Yellow Baby Eastern Box Turtle #2601 (Terrapene carolina)",
-          "price": 199.99,
-          "available": true,
-          "url": "https://americanreptiles.com/products/hi-color-yellow-baby-eastern-box-turtle-2601-terrapene-carolina",
-          "life_stage": "Baby"
-        },
-        {
           "breeder": "JMZ Butterfly Farm",
           "product_name": "Carolina Sphinx Moth Pupae",
           "price": 12.0,
@@ -314,10 +306,18 @@
           "available": false,
           "url": "https://exoticssource.com/products/juvenile-pinstripe-with-portholes-crested-gecko-carolina",
           "life_stage": "Juvenile"
+        },
+        {
+          "breeder": "American Reptile Distributors",
+          "product_name": "Hi Color Yellow Baby Eastern Box Turtle #2601 (Terrapene carolina)",
+          "price": 199.99,
+          "available": false,
+          "url": "https://americanreptiles.com/products/hi-color-yellow-baby-eastern-box-turtle-2601-terrapene-carolina",
+          "life_stage": "Baby"
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 2,
+      "in_stock_count": 1,
       "best_price": 15.95,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+carolina+mantis&tag=getlivebugs-20",
@@ -1936,13 +1936,6 @@
           ]
         },
         {
-          "breeder": "The World of Isopods",
-          "product_name": "Orchid Mantis",
-          "price": 60.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/orchid-mantis"
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Orchid Mantis (Hymenopus coronatus)",
           "price": 69.0,
@@ -1995,11 +1988,18 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "The World of Isopods",
+          "product_name": "Orchid Mantis",
+          "price": 60.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/orchid-mantis"
         }
       ],
       "supplier_count": 5,
-      "in_stock_count": 4,
-      "best_price": 60.0,
+      "in_stock_count": 3,
+      "best_price": 65.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+orchid+mantis&tag=getlivebugs-20",
         "creature_label": "Live Orchid Mantis",
@@ -2760,7 +2760,7 @@
             {
               "label": "2-2.5\" Female",
               "price": 299.0,
-              "available": false
+              "available": true
             },
             {
               "label": "2-2.5\" Pair (Male & Female)",
@@ -3465,22 +3465,6 @@
           "url": "https://exoticssource.com/products/chilean-red-rose-hair-tarantula-grammostola-rosea"
         },
         {
-          "breeder": "Micro Wilderness",
-          "product_name": "Aphonopelma seemani - Female - Costa Rican Zebra Tarantula",
-          "price": 79.99,
-          "available": true,
-          "url": "https://www.microwilderness.com/products/aphonopelma-seemani-female-costa-rican-zebra-tarantula",
-          "size": "5\"",
-          "sex": "Female",
-          "variants": [
-            {
-              "label": "5”",
-              "price": 79.99,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Gallegos Zoological",
           "product_name": "Aphonopelma seemanni (Stripe Knee Tarantula)",
           "price": 25.0,
@@ -3499,10 +3483,26 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Micro Wilderness",
+          "product_name": "Aphonopelma seemani - Female - Costa Rican Zebra Tarantula",
+          "price": 79.99,
+          "available": false,
+          "url": "https://www.microwilderness.com/products/aphonopelma-seemani-female-costa-rican-zebra-tarantula",
+          "size": "5\"",
+          "sex": "Female",
+          "variants": [
+            {
+              "label": "5”",
+              "price": 79.99,
+              "available": false
+            }
+          ]
         }
       ],
       "supplier_count": 5,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "best_price": 20.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=costa+rican+zebra+tarantula+tarantula&tag=getlivebugs-20",
@@ -4371,7 +4371,7 @@
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
               "price": 85.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -4386,6 +4386,22 @@
             {
               "label": "2 to 2.5 Inch FC",
               "price": 79.95,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Exotics Source",
+          "product_name": "Mexican Red Knee",
+          "price": 85.0,
+          "available": true,
+          "url": "https://exoticssource.com/products/mexican-red-knee",
+          "size": "1–2\"",
+          "world": "New World",
+          "variants": [
+            {
+              "label": "1-2 inch",
+              "price": 85.0,
               "available": true
             }
           ]
@@ -4420,26 +4436,10 @@
           "available": false,
           "url": "https://americanreptiles.com/products/mexican-red-knee-tarantula-2-5-3-inch-brachypelma-hamorii",
           "size": "2.5–3\""
-        },
-        {
-          "breeder": "Exotics Source",
-          "product_name": "Mexican Red Knee",
-          "price": 75.0,
-          "available": false,
-          "url": "https://exoticssource.com/products/mexican-red-knee",
-          "size": "1–2\"",
-          "world": "New World",
-          "variants": [
-            {
-              "label": "1-2 inch",
-              "price": 75.0,
-              "available": false
-            }
-          ]
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 6,
+      "in_stock_count": 7,
       "best_price": 36.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+knee+tarantula+tarantula&tag=getlivebugs-20",
@@ -4561,7 +4561,7 @@
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
               "price": 49.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -4741,26 +4741,6 @@
           ]
         },
         {
-          "breeder": "The Defiant Forest",
-          "product_name": "Orange Starburst Baboon Tarantula, Pterinochilus murinus - Fast and Defensive Species",
-          "price": 28.0,
-          "available": true,
-          "url": "https://www.thedefiantforest.com/products/orange-baboon-tarantula",
-          "size": "1.0\"",
-          "variants": [
-            {
-              "label": ".50\" - $28.00 ea.",
-              "price": 28.0,
-              "available": false
-            },
-            {
-              "label": "1.0\" - $38.00",
-              "price": 38.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Spider Shoppe",
           "product_name": "[Vancouver Pick-up] Pterinochilus murinus 'TCF'",
           "price": 28.0,
@@ -4809,6 +4789,26 @@
           ]
         },
         {
+          "breeder": "The Defiant Forest",
+          "product_name": "Orange Starburst Baboon Tarantula, Pterinochilus murinus - Fast and Defensive Species",
+          "price": 28.0,
+          "available": false,
+          "url": "https://www.thedefiantforest.com/products/orange-baboon-tarantula",
+          "size": "1.0\"",
+          "variants": [
+            {
+              "label": ".50\" - $28.00 ea.",
+              "price": 28.0,
+              "available": false
+            },
+            {
+              "label": "1.0\" - $38.00",
+              "price": 38.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Exotics Unlimited",
           "product_name": "Pterinochilus murinus DCF 'Kigoma' (Gold & Orange Baboon Tarantula)",
           "price": 39.0,
@@ -4848,7 +4848,7 @@
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 6,
+      "in_stock_count": 5,
       "best_price": 22.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=orange+baboon+tarantula+tarantula&tag=getlivebugs-20",
@@ -5014,13 +5014,6 @@
           ]
         },
         {
-          "breeder": "FangzTV",
-          "product_name": "Avicularia avicularia Guyana Pink Toe 2''",
-          "price": 40.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/avicularia-avicularia-guyana-pink-toe-2"
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Avicularia avicularia (Pink Toe Tarantula)",
           "price": 50.0,
@@ -5086,15 +5079,11 @@
           "url": "https://tcinsects.com/product/pink-toe-tarantula-for-sale/"
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about 3/4\" - 1\"",
-          "price": 45.0,
+          "breeder": "FangzTV",
+          "product_name": "Avicularia avicularia Guyana Pink Toe 2''",
+          "price": 40.0,
           "available": false,
-          "url": "https://fearnottarantulas.com/products/avicularia-guyan-pinktoe-tarantula-for-sale-2026",
-          "size": "3/4–1\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Arboreal"
+          "url": "https://www.fangztv.com/products/avicularia-avicularia-guyana-pink-toe-2"
         },
         {
           "breeder": "The Bio Dude",
@@ -5110,6 +5099,17 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Caribena versicolor (Antilles Pinktoe Tarantula) about  3/4\"",
+          "price": 49.0,
+          "available": false,
+          "url": "https://fearnottarantulas.com/products/caribena-avicularia-versicolor-antilles-pinktoe-tarantula-for-sale",
+          "size": "3/4\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Arboreal"
         },
         {
           "breeder": "Exotics Source",
@@ -5129,7 +5129,7 @@
         }
       ],
       "supplier_count": 13,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "best_price": 15.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
@@ -5940,9 +5940,9 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "1-2",
-      "best_price": 10.0,
+      "best_price": 1.0,
       "supplier_count": 13,
-      "in_stock_count": 6,
+      "in_stock_count": 7,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5979,6 +5979,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Holy-Poly Isopods",
+          "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
+          "price": 1.0,
+          "available": true,
+          "url": "https://holypolyisopods.com/products/powder-orange-isopods-porcellionides-pruinosus"
         },
         {
           "breeder": "DubiaRoaches.com",
@@ -6083,13 +6090,6 @@
               "available": true
             }
           ]
-        },
-        {
-          "breeder": "Holy-Poly Isopods",
-          "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
-          "price": 1.0,
-          "available": false,
-          "url": "https://holypolyisopods.com/products/powder-orange-isopods-porcellionides-pruinosus"
         },
         {
           "breeder": "Isopod Depot",
@@ -7592,7 +7592,7 @@
               "available": false
             },
             {
-              "label": "1-1.5\"",
+              "label": "1\"+",
               "price": 56.49,
               "available": false
             },
@@ -7722,7 +7722,7 @@
       "price_range": "20-40",
       "best_price": 14.99,
       "supplier_count": 5,
-      "in_stock_count": 3,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "Imperial Reptiles",
@@ -7765,7 +7765,7 @@
           "breeder": "Exotics Source",
           "product_name": "Asian Forest Scorpion (Heterometrus spinifer)",
           "price": 25.0,
-          "available": false,
+          "available": true,
           "url": "https://exoticssource.com/products/asian-forest-scorpion"
         },
         {
@@ -10258,8 +10258,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "September 13, 2026",
-    "next_update": "September 16, 2026",
-    "last_updated_iso": "2026-09-13T11:24:30.889867+00:00"
+    "last_updated": "September 16, 2026",
+    "next_update": "September 20, 2026",
+    "last_updated_iso": "2026-09-16T11:09:35.109438+00:00"
   }
 }

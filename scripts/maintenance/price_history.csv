@@ -4885,3 +4885,70 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-09-13T11:18:19.103290+00:00,Grow Organic,grow-organic:crimson-seedless-table-grape-vine,Crimson Seedless Table Grape Vine,29.99,19.99,33.3
 2026-09-13T11:18:19.103290+00:00,Grow Organic,grow-organic:princess-seedless-grapes,Princess Seedless Table Grape Vine,29.99,19.99,33.3
 2026-09-13T11:18:19.103290+00:00,Buckeye Myrmecology,buckeye-myrmecology:solenopsis-carolinensis,Solenopsis carolinensis,68.0,24.0,64.7
+2026-09-16T11:03:19.539506+00:00,The Defiant Forest,the-defiant-forest:giant-red-leg-tree-millipede-balustreptus-falcatus-wild-stock,"Giant Vietnamese Red Leg Tree Millipede, Balustreptus falcatus | Wild Stock",89.0,79.0,11.2
+2026-09-16T11:03:19.539506+00:00,The Defiant Forest,the-defiant-forest:vietnamese-giant-flame-leg-millipede-alienostreptus-bicoloripes,"Giant Vietnamese Flame Leg Millipede, Alienostreptus bicoloripes | AKA Ghost Rider",79.0,75.0,5.1
+2026-09-16T11:03:19.539506+00:00,Ty Dye Exotics,ty-dye-exotics:lasiodora-klugi-bahia-scarlet-birdeater-tarantula-massive-brazilian-giant-live-arrival-guarantee,Lasiodora klugi – Bahia Scarlet Birdeater Tarantula | Massive Brazilian Giant | Live Arrival Guarantee,30.49,31.49,3.3
+2026-09-16T11:03:19.539506+00:00,Ty Dye Exotics,ty-dye-exotics:ornithoctoninae-sp-phan-cay-blue-cobalt-tree-spider-rare-blue-arboreal-live-arrival-guarantee,"Ornithoctoninae sp. ""Phan Cay Blue"" – Cobalt Tree Spider | Rare Blue Arboreal | Live Arrival Guarantee",89.79,93.79,4.5
+2026-09-16T11:03:19.539506+00:00,Ty Dye Exotics,ty-dye-exotics:cyriocosmus-ritae-peruvian-black-white-dwarf-tarantula-new-world-live-arrival-guarantee,Cyriocosmus ritae – Peruvian Black & White Dwarf Tarantula | New World | Live Arrival Guarantee,89.99,91.99,2.2
+2026-09-16T11:03:19.539506+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-manicatus-gold-chilean-golden-flame-tarantula-rare-dwarf-new-world-species-live-arrival-guarantee,Euathlus manicatus ‘Gold’ – Chilean Golden Flame Tarantula | Rare Dwarf New World Species | Live Arrival Guarantee,123.89,127.89,3.2
+2026-09-16T11:03:19.539506+00:00,Ty Dye Exotics,ty-dye-exotics:euathlus-manicatus-black-chilean-black-flame-tarantula-rare-dwarf-new-world-species-live-arrival-guarantee,Euathlus manicatus ‘Black’ – Chilean Black Flame Tarantula | Rare Dwarf New World Species | Live Arrival Guarantee,142.59,147.59,3.5
+2026-09-16T11:03:19.539506+00:00,Ty Dye Exotics,ty-dye-exotics:harpactira-pulchripes-golden-blue-leg-baboon-tarantula-for-sale-live-arrival-guarantee,Harpactira pulchripes - Golden Blue Leg Baboon Tarantula for Sale | Live Arrival Guarantee,43.79,44.89,2.5
+2026-09-16T11:03:19.539506+00:00,Nature's Good Guys,natures-good-guys:beneficial-nematodes-hb-sf,"Beneficial Nematodes HB+SF Mix - Control Codling Moths, Fungus Gnats, Thrips & More",20.99,14.69,30.0
+2026-09-16T11:03:19.539506+00:00,Nature's Good Guys,natures-good-guys:beneficial-nematodes-hb-sc-sf,"Beneficial Nematodes Triple Blend – Targets Fleas, Grubs, Fungus Gnats, Thrips & More",14.99,10.49,30.0
+2026-09-16T11:03:19.539506+00:00,Nature's Good Guys,natures-good-guys:beneficial-nematodes-hb-sc,"Beneficial Nematodes HB+SC Mix - Control Codling Moths, Cucumber Beetles, Grubs & More",20.99,14.69,30.0
+2026-09-16T11:03:19.539506+00:00,Nature's Good Guys,natures-good-guys:beneficial-nematodes-sf,"Beneficial Nematodes SF – Targets Fungus Gnats, Thrips, Shore Flies & More",14.99,10.49,30.0
+2026-09-16T11:03:19.539506+00:00,Nature's Good Guys,natures-good-guys:beneficial-nematodes-sc,"Beneficial Nematodes SC – Targets Fleas, Flies, Moths & More",14.99,10.49,30.0
+2026-09-16T11:03:19.539506+00:00,Nature's Good Guys,natures-good-guys:beneficial-nematodes-hb,"Beneficial Nematodes HB – Targets Grubs, Japanese Beetles, Cucumber Beetles, & More",14.99,10.49,30.0
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-19,80w Heat Panel Reptile Habitat Auction,20.0,162.0,710.0
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-14,Medium Hornworm 24ct (Case Of 12) Auction,36.0,26.0,27.8
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-1-000ct-auction-4,"Medium Mealworm 1,000ct Auction",12.0,15.0,25.0
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-24,24x18x36 (67 Gallon) Arboreal Auction,200.0,201.0,0.5
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-19,XL Dubia Roaches 250ct Auction,13.0,44.0,238.5
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-22,Large Discoid 250ct Auction,35.0,40.0,14.3
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-21,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,5.0,1.0,80.0
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:medium-mealworm-1-000ct-auction-3,"Medium Mealworm 1,000ct Auction",12.0,6.0,50.0
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:x-small-dubia-roaches-500ct-auction-10,X-Small Dubia Roaches 500ct Auction,31.0,21.0,32.3
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction-3,Large Superworm 250ct Auction,18.0,9.0,50.0
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction-9,Medium Superworm 500ct Auction,15.0,7.0,53.3
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-12,4x2x2 V3 (120 Gallon) Auction,240.0,265.0,10.4
+2026-09-16T11:03:19.539506+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction-12,Large Hornworm 6ct (Case Of 12) Auction,30.0,21.0,30.0
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-valencia,Regal Jumping Spider “Valencia”,75.0,95.0,26.7
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-solstice,Regal Jumping Spider “Solstice”,95.0,75.0,21.1
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-purple,Regal Jumping Spider “Purple”,75.0,95.0,26.7
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-stardust,"Regal Jumping Spider ""Stardust""",75.0,95.0,26.7
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-primrose,Regal Jumping Spider “Primrose”,95.0,75.0,21.1
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-sprite,Regal Jumping Spider “Sprite”,95.0,75.0,21.1
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-frostberry,"Regal Jumping Spider ""Frostberry""",75.0,95.0,26.7
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:mexican-red-knee,Mexican Red Knee,75.0,85.0,13.3
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:custom-order,Custom Order,2130.0,900.0,57.7
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-raven,"Regal Jumping Spider ""Raven""",95.0,75.0,21.1
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-ursula,"Regal Jumping Spider ""Ursula""",95.0,75.0,21.1
+2026-09-16T11:03:19.539506+00:00,Exotics Source,exotics-source:regal-jumping-spider-apple-for-sale,"Regal Jumping Spider ""Apple""",125.0,75.0,40.0
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:wasp-deterrent-hive-citrus-carpenter-bee-spray-kit-for-yard-garden-6-pcs,Wasp Deterrent Hive & Citrus Carpenter Bee Spray Kit for Yard & Garden (6 pcs),38.0,39.0,2.6
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-wasp-deterrent-hive-citrus-carpenter-bee-spray-kit-outdoor-pest-control-3-pcs,Wasp Deterrent Hive & Citrus Carpenter Bee Spray Kit Outdoor Pest Control (3 pcs),38.0,39.0,2.6
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),113.0,114.0,0.9
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:mosquito-treeline-tranquil-adventure-kit,"Shake & Shield Mosquito Repellent, Treeline Tranquil - Adventure Kit - 4 pcs",55.0,56.0,1.8
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:the-coastline-calm-adventure-kit,"Shake & Shield No-See-Um Repellent, Adventure Kit - 4 pcs",55.0,56.0,1.8
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),169.0,170.0,0.6
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,113.0,114.0,0.9
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-combo-citrus-carpenter-bee-repellent,Citrus Carpenter Bee Repellent Spray - Combo,55.0,56.0,1.8
+2026-09-16T11:03:19.539506+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,113.0,114.0,0.9
+2026-09-16T11:03:19.539506+00:00,FangzTV,fangztv:hapolopus-sp-colombia-formosus-lg-pumpkin-patch-tarantula-2i-1-64,"Hapolopus sp. Colombia FORMOSUS LG Pumpkin Patch Tarantula .25""",10.0,18.0,80.0
+2026-09-16T11:03:19.539506+00:00,American Reptile Distributors,american-reptile-distributors:adult-mississippi-diamondback-terrapin-female-260902-malaclemys-terrapin-pileata,Adult Mississippi Diamondback Terrapin Female #260902 (Malaclemys terrapin pileata),399.99,299.99,25.0
+2026-09-16T11:03:19.539506+00:00,American Reptile Distributors,american-reptile-distributors:adult-mississippi-diamondback-terrapin-female-260903-malaclemys-terrapin-pileata,Adult Mississippi Diamondback Terrapin Female #260903 (Malaclemys terrapin pileata),399.99,299.99,25.0
+2026-09-16T11:03:19.539506+00:00,American Reptile Distributors,american-reptile-distributors:adult-mississippi-diamondback-terrapin-female-260905-malaclemys-terrapin-pileata,Adult Mississippi Diamondback Terrapin Female #260905 (Malaclemys terrapin pileata),399.99,299.99,25.0
+2026-09-16T11:03:19.539506+00:00,American Reptile Distributors,american-reptile-distributors:hypomelanistic-common-snapping-turtle-2025-01-chelydra-serpentina,Hypomelanistic Common Snapping Turtle 2024 #01  (Chelydra serpentina),499.99,299.99,40.0
+2026-09-16T11:03:19.539506+00:00,American Reptile Distributors,american-reptile-distributors:hypomelanistic-common-snapping-turtle-2024-03-chelydra-serpentina,Hypomelanistic Common Snapping Turtle 2024 #03  (Chelydra serpentina),499.99,299.99,40.0
+2026-09-16T11:03:19.539506+00:00,Big Apple Herp,big-apple-herp:albino-okeetee-corn-snakes,Albino Extreme Okeetee Corn Snakes,84.95,89.95,5.9
+2026-09-16T11:03:19.539506+00:00,Big Apple Herp,big-apple-herp:emerald-swifts,Emerald Swifts,24.95,39.95,60.1
+2026-09-16T11:03:19.539506+00:00,Big Apple Herp,big-apple-herp:blood-red-corn-snakes,Blood Red Corn Snakes,69.95,79.95,14.3
+2026-09-16T11:03:19.539506+00:00,Big Apple Herp,big-apple-herp:mexican-black-king-snakes,Mexican Black Kingsnakes,144.95,159.95,10.3
+2026-09-16T11:03:19.539506+00:00,Coast2Coast Beetles,coast2coast-beetles:dicronorrhina-derbyana-derbyana-5x-larva,Dicronorrhina derbyana derbyana (Derby Flower Beetle),8.99,10.0,11.2
+2026-09-16T11:03:19.539506+00:00,The Bio Dude,the-bio-dude:lasiodora-klugi-bahia-scarlet-birdeater-tarantula-massive-brazilian-giant-live-arrival-guarantee,Lasiodora klugi – Bahia Scarlet Birdeater Tarantula | Massive Brazilian Giant | Live Arrival Guarantee | TDE,30.49,31.49,3.3
+2026-09-16T11:03:19.539506+00:00,The Bio Dude,the-bio-dude:cyriocosmus-ritae-peruvian-black-white-dwarf-tarantula-new-world-live-arrival-guarantee,Cyriocosmus ritae – Peruvian Black & White Dwarf Tarantula | New World | TDE,89.99,91.99,2.2
+2026-09-16T11:03:19.539506+00:00,Imperial Reptiles,imperial-reptiles:blood-red-corn-snake-male-11524-07,Blood Red Corn Snake Baby,74.99,89.99,20.0
+2026-09-16T11:03:19.539506+00:00,Imperial Reptiles,imperial-reptiles:nu-ami-leachianus-gecko-112524-04,High Color Nuu Ana Leachianus Gecko Baby,399.99,299.99,25.0
+2026-09-16T11:03:19.539506+00:00,Grow Organic,grow-organic:winter-covers-for-raised-garden-beds,Winter Covers for Raised Garden Beds,54.0,59.0,9.3
