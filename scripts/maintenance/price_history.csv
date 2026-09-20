@@ -4952,3 +4952,111 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-09-16T11:03:19.539506+00:00,Imperial Reptiles,imperial-reptiles:blood-red-corn-snake-male-11524-07,Blood Red Corn Snake Baby,74.99,89.99,20.0
 2026-09-16T11:03:19.539506+00:00,Imperial Reptiles,imperial-reptiles:nu-ami-leachianus-gecko-112524-04,High Color Nuu Ana Leachianus Gecko Baby,399.99,299.99,25.0
 2026-09-16T11:03:19.539506+00:00,Grow Organic,grow-organic:winter-covers-for-raised-garden-beds,Winter Covers for Raised Garden Beds,54.0,59.0,9.3
+2026-09-20T10:52:54.472770+00:00,The Defiant Forest,the-defiant-forest:captive-bred-sulawesi-side-spotted-millipedes-marigold-yellow,Captive Bred Sulawesi Side Spotted Millipedes | Marigold Yellow,49.0,55.0,12.2
+2026-09-20T10:52:54.472770+00:00,The Defiant Forest,the-defiant-forest:bi-color-avatar-millipedes-spirotreptida-sp-red-yellow-legs,"Captive Bred Avatar Millipedes, Salpidobolus sp. | Purple-Pink Babies",49.0,55.0,12.2
+2026-09-20T10:52:54.472770+00:00,The Defiant Forest,the-defiant-forest:golden-giant-banded-millipede-undescribed-species,"Captive Bred Giant Porcelain Tiger Millipedes, Diplopoda sp.",49.0,55.0,12.2
+2026-09-20T10:52:54.472770+00:00,The Defiant Forest,the-defiant-forest:red-spotted-white-tree-millipede-anadenobolus-arboreus-gundlachi-var-yellow-leg-antennae,"Captive Bred Spotted White Tree Millipede Yellow Leg, Anadenobolus arboreus gundlachi",36.0,30.0,16.7
+2026-09-20T10:52:54.472770+00:00,The Defiant Forest,the-defiant-forest:thai-giant-orange-millipede-diplopoda-sp,"Captive Bred Giant Thai Orange Millipede, Thyropygus sp. Ban Chak Ngaeo",49.0,65.0,32.7
+2026-09-20T10:52:54.472770+00:00,Exotics Unlimited,exotics-unlimited:phormictopus-sp-sierra-de-bahoruco-tarantula-rare-1-1-25,"Phormictopus sp. 'Sierra de Bahoruco' Tarantula RARE 1-1.25""",165.0,125.0,24.2
+2026-09-20T10:52:54.472770+00:00,Exotics Unlimited,exotics-unlimited:psalmopoeus-pulcher-panama-blonde-tarantula-for-sale-1,"Psalmopoeus pulcher (Panama Blonde Tarantula) 0.75-1""",40.0,39.0,2.5
+2026-09-20T10:52:54.472770+00:00,Ty Dye Exotics,ty-dye-exotics:phidippus-morpheus-dream-jumping-spider-bold-desert-jumper-live-arrival-guarantee,Phidippus morpheus – Dream Jumping Spider | Bold Desert Jumper | Live Arrival Guarantee,38.96,23.74,39.1
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-24,Large Discoid 250ct Auction,35.0,47.0,34.3
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-20,Large Hornworm 12ct (Case Of 6) Auction,11.0,8.0,27.3
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-12,220w Heat Panel Reptile Habitat Auction,157.0,185.0,17.8
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-13,4x2x2 V3 (120 Gallon) Auction,240.0,262.0,9.2
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-25,Dubia Roaches Medium 500ct Auction,1.0,46.0,4500.0
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-22,Large Mealworm 500ct Auction,5.0,7.0,40.0
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:waxworms-free-shipping,Waxworms Free Shipping,9.4,10.4,10.6
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-free-shipping,Large CalciGrubs™ Free Shipping,8.3,9.3,12.0
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:medium-calcigrubs-free-shipping,Medium CalciGrubs™ Free Shipping,8.3,9.3,12.0
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:small-calcigrubs-free-shipping,Small CalciGrubs™ Free Shipping,8.3,9.3,12.0
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:calcigrubs-free-shipping,CalciGrubs™ Free Shipping,8.3,9.3,12.0
+2026-09-20T10:52:54.472770+00:00,DubiaRoaches.com,dubiaroaches:jumbo-hornworms-free-shipping,Extra Large Hornworms FREE SHIPPING,9.75,10.75,10.3
+2026-09-20T10:52:54.472770+00:00,Symton Black Soldier Fly,symton-bsf:reptihomes,ReptiHomes,10.0,5.0,50.0
+2026-09-20T10:52:54.472770+00:00,Fear Not Tarantulas,fear-not-tarantulas:haploclastus-devamatha-was-thrigmopoeus-psychedelicus-polychromatic-earth-tiger-tarantula-small,"Cilantica devamatha (Psychedelic Earth Tiger Tarantula) 1/2"" - 3/4""",67.0,135.0,101.5
+2026-09-20T10:52:54.472770+00:00,Fear Not Tarantulas,fear-not-tarantulas:hogna-maderiana-porto-santo-wolf-spider,"Hogna maderiana (Porto Santo Wolf Spider)  about 1"" - 1 1/4""",42.0,52.0,23.8
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:apalachicola-regal-jumping-spider-moss,"(Apalachicola Locale) Regal Jumping Spider ""Moss”",75.0,125.0,66.7
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-skye,"Regal Jumping Spider ""Skye” (High White)",125.0,150.0,20.0
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-hex,"Regal Jumping Spider ""Hex""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-limeade,"Regal Jumping Spider ""Limeade"" (High White)",95.0,150.0,57.9
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-matilda,"Regal Jumping Spider ""Matilda""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-snugglebug,"Regal Jumping Spider ""Snugglebug""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-ivyplum,"Regal Jumping Spider ""Ivyplum""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-burberry,"Regal Jumping Spider ""Burberry""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-comet,"Regal Jumping Spider ""Comet""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-jade,"Regal Jumping Spider ""Jade""",75.0,95.0,26.7
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-cheetah,"Regal Jumping Spider ""Cheetah""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:copy-of-regal-jumping-spider-keylime,"Regal Jumping Spider ""Keylime"" (High White)",75.0,150.0,100.0
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-gemstone,"Regal Jumping Spider ""Gemstone""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-fire,"Regal Jumping Spider ""Fire""",75.0,95.0,26.7
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-magma,Regal Jumping Spider “Magma”,75.0,95.0,26.7
+2026-09-20T10:52:54.472770+00:00,Exotics Source,exotics-source:regal-jumping-spider-skittles,"Regal Jumping Spider ""Skittles""",95.0,75.0,21.1
+2026-09-20T10:52:54.472770+00:00,Spider Shoppe,spider-shoppe:androctonus-finitimus-rajasthan-fat-tail,Androctonus finitimus (Rajasthan Fat Tail),148.0,98.0,33.8
+2026-09-20T10:52:54.472770+00:00,Spider Shoppe,spider-shoppe:scolopendra-mutilans-gold-gold-red-head-4,Scolopendra mutilans 'Gold' (Gold Red Head),68.0,98.0,44.1
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:combo-2-2-ultimate-pro-carpenter-bee-traps-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #2 - 2 Ultimate Pro Carpenter Bee Traps with Bee Vault and 1 Bee-Licious Bee Bait,88.0,89.0,1.1
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:hand-poured-citronella-soy-candles-clean-burning-summer-scent-pack-copy,Hand Poured Citronella Soy Candles - Clean-Burning - Summer Scent Pack,61.0,62.0,1.6
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-repair-kit-replacement-parts-for-outdoor-use-4-pcs,Ultimate Pro Carpenter Bee Trap & Repair Kit (4 pcs),105.0,106.0,1.0
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-for-yard-patio-7-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit for Yard & Patio (7 pcs),109.0,110.0,0.9
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-no-see-um-repellent-dorm-room-essentials-adventure-kit-copy,"Shake & Shield Bed Bug & No-See-Um Repellent - Dorm Room Essentials, Adventure Kit (6 pcs)",112.0,113.0,0.9
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-mosquito-repellent-dorm-room-essentials-adventure-kit,"Shake & Shield Bed Bug & Mosquito Repellent - Dorm Room Essentials, Adventure Kit (6 pcs)",112.0,113.0,0.9
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:the-firecracker-adventure-kit,"Shake & Shield Mosquito Repellent, Summer Survival Adventure Kit (6 pcs)",85.0,86.0,1.2
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-control-kit,Carpenter Bee Control Kit,136.0,137.0,0.7
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),170.0,171.0,0.6
+2026-09-20T10:52:54.472770+00:00,Best Bee Brothers,best-bee-brothers:the-weekender-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Weekender Adventure Kit (7 pcs),119.0,120.0,0.8
+2026-09-20T10:52:54.472770+00:00,Praying Mantis Shop,praying-mantis-shop:praying-mantis-eggs-ootheca-chinese,Praying Mantis Egg Case,9.5,7.5,21.1
+2026-09-20T10:52:54.472770+00:00,Micro Wilderness,micro-wilderness:poecilotheria-regalis-female-indian-ornamental,Poecilotheria regalis - Female - Indian Ornamental,249.99,299.99,20.0
+2026-09-20T10:52:54.472770+00:00,Micro Wilderness,micro-wilderness:chromatopelma-cyaneopubescens-male-green-bottle-blue-tarantula,Chromatopelma cyaneopubescens - unsexed- Green Bottle Blue Tarantula,169.99,49.99,70.6
+2026-09-20T10:52:54.472770+00:00,Micro Wilderness,micro-wilderness:brachypelma-boehmei,Brachypelma boehmei - Unsexed - Mexican Fireleg Tarantula,139.99,149.99,7.1
+2026-09-20T10:52:54.472770+00:00,Micro Wilderness,micro-wilderness:hapalopus-sp-colombian-large-pumpkin-patch-unsexed,Hapalopus sp Colombian Large - Pumpkin Patch -Female,119.99,299.99,150.0
+2026-09-20T10:52:54.472770+00:00,Micro Wilderness,micro-wilderness:monocentropus-balfouri,Monocentropus balfouri - Unsexed - Socotra Island Blue Baboon Tarantula,44.99,54.99,22.2
+2026-09-20T10:52:54.472770+00:00,Micro Wilderness,micro-wilderness:aphonopelma-johnnycashi-johnny-cash-tarantula-unsexed,Aphonopelma johnnycashi- Johnny Cash Tarantula- unsexed,34.99,29.99,14.3
+2026-09-20T10:52:54.472770+00:00,Buddha Bugs,buddha-bugs:eresus-walckenaeri-greek-lady-bird-spider-for-sale,Eresus walckenaeri (Walckenaer's ladybird spider) 0.125”,50.0,75.0,50.0
+2026-09-20T10:52:54.472770+00:00,Buddha Bugs,buddha-bugs:chilobrachys-huahini-asian-fawn-tarantula-for-sale,"Chilobrachys aff. huahini (Thai fawn tarantula) 0.5""",30.0,20.0,33.3
+2026-09-20T10:52:54.472770+00:00,Buddha Bugs,buddha-bugs:neoholothele-incei-gold-trinidad-olive-tarantula-for-sale,"Neoholothele incei 'gold' (Trinidadian olive tarantula) 0.5""",35.0,25.0,28.6
+2026-09-20T10:52:54.472770+00:00,Gallegos Zoological,gallegos-zoological:diplomystus-denatus-double-sided-knightia-fossil-8-022,Diplomystus denatus double sided Knightia fossil #8-022,30.0,45.0,50.0
+2026-09-20T10:52:54.472770+00:00,American Reptile Distributors,american-reptile-distributors:concentric-diamondback-terrapin-adult-female-260901-malaclemys-terrapin,Concentric Diamondback Terrapin Adult Female #260901 (Malaclemys terrapin),399.99,299.99,25.0
+2026-09-20T10:52:54.472770+00:00,American Reptile Distributors,american-reptile-distributors:concentric-diamondback-terrapin-adult-female-260904-malaclemys-terrapin,Concentric Diamondback Terrapin Adult Female #260904 (Malaclemys terrapin),399.99,299.99,25.0
+2026-09-20T10:52:54.472770+00:00,American Reptile Distributors,american-reptile-distributors:green-gost-penninsula-cooter-turtle-babies-pseudemys-peninsularis,Green Ghost Florida Red Bellied Cooter Turtle Babies (Pseudemys nelsonii),69.99,99.99,42.9
+2026-09-20T10:52:54.472770+00:00,Big Apple Herp,big-apple-herp:antilles-pink-toe-tarantulas,Antilles Pink Toe Tarantulas,69.95,54.95,21.4
+2026-09-20T10:52:54.472770+00:00,Big Apple Herp,big-apple-herp:skeleton-leg-tarantulas,Skeleton Leg Tarantulas,99.0,69.95,29.3
+2026-09-20T10:52:54.472770+00:00,Big Apple Herp,big-apple-herp:metallic-pink-toe-tarantulas-1,Metallic Pink Toe Tarantulas,64.95,44.95,30.8
+2026-09-20T10:52:54.472770+00:00,Big Apple Herp,big-apple-herp:ambanja-panther-chameleons,Madagascar Panther Chameleons,699.95,119.95,82.9
+2026-09-20T10:52:54.472770+00:00,Big Apple Herp,big-apple-herp:goliath-bird-eating,Goliath Bird Eating Tarantula,144.95,99.0,31.7
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:mecynorhina-oberthuri-1,Oberthuri Flower Beetle (Mecynorhina oberthuri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:copy-of-black-rainbow-stag-beetle-phalacrognathus-muelleri,Green/Blue Rainbow Stag Beetle (Phalacrognathus muelleri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:mixed-rainbow-stag-beetle-phalacrognathus-muelleri,Mixed Color Rainbow Stag Beetle (Phalacrognathus muelleri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:blue-purple-rainbow-stag-beetle-phalacrognathus-muelleri,Blue/Purple Rainbow Stag Beetle (Phalacrognathus muelleri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:black-rainbow-stag-beetle-phalacrognathus-muelleri,Black Rainbow Stag Beetle (Phalacrognathus muelleri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:purple-rainbow-stag-beetle-phalacrognathus-muelleri,Purple Rainbow Stag Beetle (Phalacrognathus muelleri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,James' Beetle Farm,james-beetle-farm:green-rainbow-stag-beetle-phalacrognathus-muelleri,Green Rainbow Stag Beetle (Phalacrognathus muelleri),29.99,39.99,33.3
+2026-09-20T10:52:54.472770+00:00,Coast2Coast Beetles,coast2coast-beetles:turkey-tail-kinshi-kawaratake-32oz-deli-cup,Turkey Tail Kinshi (Kawaratake) 32oz Deli Cup,10.0,15.0,50.0
+2026-09-20T10:52:54.472770+00:00,The Bio Dude,the-bio-dude:dendrobates-tinctorius-mint,Phyllobates terribilis ‘Mint’ froglet,69.95,39.0,44.2
+2026-09-20T10:52:54.472770+00:00,Imperial Reptiles,imperial-reptiles:fire-red-hypo-translucent-bearded-dragon-for-sale-1,Fire Red Translucent Bearded Dragon Baby,249.99,174.99,30.0
+2026-09-20T10:52:54.472770+00:00,Frognose Exotics,frognose-exotics:euperipatoides-rowelli,Blue Velvet Worm (Euperipatoides rowelli),250.0,299.99,20.0
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:midnight-pear-cherry-tomato-seeds-organic-1-oz,"Midnight Pear Cherry Tomato Seeds (Organic, 1 oz)",68.99,127.99,85.5
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:lot-org-pv-budget-soil-builder-mix-lb,Organic Peaceful Valley Budget Soil Builder Mix - Raw Seed (lb),4.99,2.99,40.1
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:pv-org-marigold-sparky-14-lb,"Organic Marigold, Sparky (1/4 lb)",41.99,118.99,183.4
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-pak-choi-1-4-lb,"Organic Greens, Pak Choi (1/4 lb)",9.99,21.99,120.1
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:fava-bean-windsor-raw-lb,"Fava Bean, Windsor, Raw Seed (lb)",3.99,6.25,56.6
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:organic-soil-builder-mix-raw-lb,Peaceful Valley Organic Premium Soil Builder Mix - Raw Seed (lb),4.99,2.99,40.1
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:organic-galilee-spinach-seeds-1-lb,Galilee Spinach Seeds (Organic) 1lb,19.99,60.99,205.1
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:winter-covers-for-raised-garden-beds,Winter Covers for Raised Garden Beds,59.0,54.0,8.5
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-marjoram-1-oz,Organic Marjoram (1 oz),37.99,173.99,358.0
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:out-rpk-pv-org-tomato-black-prince-1-oz,"Organic Tomato, Black Prince (1 oz)",31.49,33.99,7.9
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-tomato-siberia-1-oz,"Organic Tomato, Siberia (1 oz)",31.99,74.99,134.4
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-lettuce-red-oakleaf-1-4-lb,"Organic Lettuce, Red Oakleaf (1 oz)",43.99,35.99,18.2
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-chard-fordhook-giant-1-4-lb,"Organic Chard, Fordhook Giant (1/4 lb)",31.99,19.99,37.5
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-tomato-brandywine-pink-1-oz,"Organic Tomato, Brandywine Pink (1 oz)",14.99,63.99,326.9
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:org-eggplant-rosa-bianca-1-4-lb,"Organic Eggplant, Rosa Bianca (1 oz)",27.99,44.99,60.7
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:rpk-pv-org-eggplant-mixed-fingers-1-oz,"Organic Eggplant, Mixed Fingers (1 oz)",25.99,44.99,73.1
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:out-rpk-pv-org-tomato-big-rainbw-1-oz,"Organic Tomato, Big Rainbow (1 oz)",26.99,150.99,459.4
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:out-rpk-pv-org-tomato-silvry-fir-tr-1-oz,"Organic Tomato, Silvery Fir Tree (1 oz)",39.99,108.99,172.5
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:org-tomato-white-wonder-1-oz,"Organic Tomato, White Wonder (1 oz)",36.99,66.99,81.1
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:pv-org-amaranth-burgundy-1-oz,"Organic Amaranth, Burgundy (1 oz)",13.49,19.99,48.2
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:o-mustard-tatsoi-1-4-lb,"Organic Greens, Mustard Tatsoi (1/4 lb)",11.69,60.99,421.7
+2026-09-20T10:52:54.472770+00:00,Grow Organic,grow-organic:showy-milkweed-1oz,Showy Milkweed 1oz,23.39,31.99,36.8
+2026-09-20T10:52:54.472770+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:12-regal-moth-eggs,(Single) Regal Moth Pupae,45.0,48.0,6.7
+2026-09-20T10:52:54.472770+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-luna-cocoon,Single Luna Cocoon,20.0,18.0,10.0
+2026-09-20T10:52:54.472770+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:cecropia-moth-cocoons,Cecropia Moth Cocoon,39.99,38.0,5.0
+2026-09-20T10:52:54.472770+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-polyphemus-moth-cocoon,(SINGLE) Polyphemus Moth Cocoon.,20.0,18.0,10.0
+2026-09-20T10:52:54.472770+00:00,AntGear,antgear:squeeze-bottle,Squeeze Bottle,2.99,3.99,33.4
