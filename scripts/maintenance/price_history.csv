@@ -5060,3 +5060,150 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-09-20T10:52:54.472770+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:cecropia-moth-cocoons,Cecropia Moth Cocoon,39.99,38.0,5.0
 2026-09-20T10:52:54.472770+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-polyphemus-moth-cocoon,(SINGLE) Polyphemus Moth Cocoon.,20.0,18.0,10.0
 2026-09-20T10:52:54.472770+00:00,AntGear,antgear:squeeze-bottle,Squeeze Bottle,2.99,3.99,33.4
+2026-09-23T11:00:49.344630+00:00,The Defiant Forest,the-defiant-forest:giant-vinegaroons-mastigoproctus-giganteus,"Giant Vinegaroons, Mastigoproctus giganteus",28.0,35.0,25.0
+2026-09-23T11:00:49.344630+00:00,The Defiant Forest,the-defiant-forest:vivarium-naturals-large-10-gallon-millipede-starter-kit,Vivarium Naturals - Large 20 Gallon Millipede Starter Kit,55.16,53.95,2.2
+2026-09-23T11:00:49.344630+00:00,Exotics Unlimited,exotics-unlimited:stromatopelma-calceatum-feather-leg-baboon-tarantula,Stromatopelma calceatum (Feather-leg Baboon Tarantula),29.0,19.0,34.5
+2026-09-23T11:00:49.344630+00:00,Exotics Unlimited,exotics-unlimited:grammostola-porteri-now-rosea-chilean-rose-hair-tarantula,Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula),75.0,59.0,21.3
+2026-09-23T11:00:49.344630+00:00,Exotics Unlimited,exotics-unlimited:psalmopoeus-reduncus-costa-rican-orange-mouth-tarantula,Psalmopoeus reduncus (Costa Rican Orange Mouth Tarantula),35.0,19.0,45.7
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-29,Large Discoid 250ct Auction,41.0,30.0,26.8
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-28,Large Discoid 250ct Auction,41.0,40.0,2.4
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-16,220w Heat Panel Reptile Habitat Auction,141.0,112.0,20.6
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction-15,220w Heat Panel Reptile Habitat Auction,141.0,103.0,27.0
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-17,4x2x2 V3 (120 Gallon) Auction,240.0,252.0,5.0
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-16,4x2x2 V3 (120 Gallon) Auction,240.0,260.0,8.3
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-24,Large Hornworm 12ct (Case Of 6) Auction,11.0,20.0,81.8
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-23,Large Hornworm 12ct (Case Of 6) Auction,11.0,20.0,81.8
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-29,Dubia Roaches Medium 500ct Auction,1.0,44.0,4300.0
+2026-09-23T11:00:49.344630+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-27,large Mealworm 500ct Auction,5.0,20.0,300.0
+2026-09-23T11:00:49.344630+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormingochilus-sp-sabah-red-sabah-red-earth-tiger-tarantula,"Phormingochilus sp. Sabah Red (Sabah Red Earth Tiger Tarantula)  about 1""",65.0,125.0,92.3
+2026-09-23T11:00:49.344630+00:00,Fear Not Tarantulas,fear-not-tarantulas:chromatopelma-cyaneopubescens-green-bottleblue-gbb-tarantula-for-sale,"Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 3/4"" - 1""",79.0,65.0,17.7
+2026-09-23T11:00:49.344630+00:00,Fear Not Tarantulas,fear-not-tarantulas:tliltocatl-albopilosus-curlyhair-tarantula-brachypelma-1,"Tliltocatl albopilosus (Curlyhair Tarantula) about 1/3"" - 1/2""",10.0,15.0,50.0
+2026-09-23T11:00:49.344630+00:00,Fear Not Tarantulas,fear-not-tarantulas:tliltocatl-vagans-mexican-redrump-tarantula-bigger-for-sale,"Tliltocatl vagans (Mexican Redrump Tarantula)  about 2"" Showing adult coloration!",59.0,89.0,50.8
+2026-09-23T11:00:49.344630+00:00,Fear Not Tarantulas,fear-not-tarantulas:heteropoda-pingtungensis-taiwan-orange-huntsman-spider-for-sale,"Heteropoda pingtungensis (Taiwan Orange Huntsman Spider) about 1"" - 1 1/2""",39.0,45.0,15.4
+2026-09-23T11:00:49.344630+00:00,Fear Not Tarantulas,fear-not-tarantulas:amazonius-sp-ecuador-tarantula,"Amazonius sp 'Ecuador' (Napo Bronze Tree Spider)  very nearly 1"" - 1 1/4""",42.0,52.0,23.8
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:springtail-food,Springtail Food,9.99,7.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-crossbody-bag,The Podfather - Crossbody bag,34.99,29.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:rocks-jigsaw-puzzle,Holy-Poly Rocks!!! Jigsaw puzzle,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hairy-podder-jigsaw-puzzle,Hairy Podder Jigsaw Puzzle,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-beanie,The Podfather Beanie,22.99,23.99,4.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hairy-podder-isopod-tumbler,Hairy Podder Tumbler,29.99,24.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hairy-podder-isopod-t-shirt,Hairy Podder Tee,24.99,19.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-crossbody-bag,Holy-Poly Rocks!!! - Crossbody bag,34.99,29.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-angry-monk-crossbody-bag,The Angry Monk - Crossbody bag,34.99,29.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-crossbody-bag,Peppers & Pods - Crossbody bag,34.99,29.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-kids-tee,Holy-Poly Rocks!!! - Kids Tee,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-angry-monk-kids-tee,The Angry Monk - Kids Tee,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-snapback-hat,Holy-Poly Snapback Hat,27.99,26.99,3.6
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-isopod-jigsaw-puzzle,Peppers & Pods - Jigsaw Puzzle,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-jigsaw-puzzle,The Podfather Jigsaw puzzle,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-jigsaw-puzzle,SuperPods Jigsaw puzzle,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:angry-monk-isopod-jigsaw-puzzle,The Angry Monk - Jigsaw puzzle,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hpi-brings-the-heat-youth-fleece-hoodie,Peppers & Pods - Youth Fleece Hoodie,39.99,34.99,12.5
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-youth-fleece-hoodie,SuperPods - Youth Fleece Hoodie,39.99,34.99,12.5
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-youth-fleece-hoodie,Holy-Poly Rocks!!! - Youth Fleece Hoodie,39.99,34.99,12.5
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-pest-blue-mug,The Pest - Blue Mug,19.99,14.99,25.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-pest-baby-onesie,The Pest - Baby Onesie,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-pest-isopod-tote-bag,The Pest - Tote bag,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-pest-tee,The Pest T-Shirt,24.99,19.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-tumbler,The Podfather Tumbler,29.99,24.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:angry-monk-womens-isopod-t-shirt,The Angry Monk - Women's Relaxed T-Shirt,26.99,19.99,25.9
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-womens-racerback-tank,The Podfather - Women's Racerback Tank,27.99,23.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:podfather-mens-isopod-tank-top,The Podfather - Tank Top,24.99,23.99,4.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:podfather-womens-isopod-t-shirt,The Podfather - Women's Relaxed Style Tee,26.99,19.99,25.9
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:podfather-isopod-hoodie,The Podfather Hoodie,44.99,29.99,33.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:podfather-isopod-long-sleeve-shirt,The Podfather Long Sleeve,27.99,23.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-belt-bag,SuperPods Belt Bag,39.99,32.99,17.5
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-belt-bag,The Podfather Belt Bag,39.99,32.99,17.5
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-isopod-kids-rash-guard,SuperPods - Kids Rash Guard (Red),34.99,28.99,17.1
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-isopod-drawstring-bag,SuperPods Drawstring bag,27.99,22.99,17.9
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-white-glossy-mug,SuperPods - White Glossy Mug,17.99,14.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-isopod-hoodie,Holy-Poly Rocks!!! - Unisex Hoodie,44.99,29.99,33.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:podfather-isopod-black-mug,The Podfather - Black Glossy Mug,19.99,14.99,25.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hpi-brings-the-heat-long-sleeve,Peppers & Pods - Long Sleeve,27.99,23.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hpi-brings-the-heat-mens-tank-top,Peppers & Pods - Men's Tank Top,24.99,23.99,4.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-long-sleeve,Holy-Poly Rocks!!! - Long Sleeve,27.99,23.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hpi-logo-unisex-hoodie,HPI Logo - Unisex Hoodie,44.99,29.99,33.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-mens-tank-top,Holy-Poly Rocks!!! - Men's Tank Top,24.99,23.99,4.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-womens-racerback-tank,Peppers & Pods - Women's Racerback Tank,27.99,23.99,14.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-podfather-large-tote-bag,The Podfather - Large Tote Bag,29.99,24.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:the-monk-white-glossy-mug,The Angry Monk - White Glossy Mug,17.99,14.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:angry-monk-isopod-baby-tee,The Angry Monk - Baby Jersey Tee,21.99,19.99,9.1
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-isopod-baby-onesie,SuperPods - Baby Onesie,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-womens-isopod-t-shirt,Peppers & Pods - Women's Relaxed Style Tee,26.99,19.99,25.9
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-baby-onesie,Holy-Poly Rocks!!! - Baby Onesie,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-baby-onesie,Peppers & Pods - Baby Onesie,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:podfather-isopod-baby-onesie,The Podfather - Baby Onesie,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-isopod-mug,Peppers & Pods - White Glossy Mug,17.99,14.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-isopod-mug,Holy-Poly Rocks!!! - White Glossy Mug,17.99,14.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:unisex-hoodie,Peppers & Pods Hoodie,44.99,29.99,33.3
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hpi-logo-isopod-mug,HPI White Glossy Mug,17.99,14.99,16.7
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-isopod-youth-t-shirt,SuperPods Youth Tee,22.99,19.99,13.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:peppers-pods-isopod-tote-bag,Peppers & Pods - Tote bag,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:holy-poly-rocks-drawstring-bag,Holy-Poly Rocks!!! Drawstring bag,27.99,22.99,17.9
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:hpi-logo-isopod-tote-bag,HPI Logo - Tote bag,29.99,23.99,20.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:cuffed-beanie,HPI Cuffed Beanie,24.99,23.99,4.0
+2026-09-23T11:00:49.344630+00:00,Holy-Poly Isopods,holy-poly-isopods:superpods-isopod-toddler-tee,SuperPods - Toddler Tee,21.99,19.99,9.1
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:combo-1-1-ultimate-pro-carpenter-bee-trap-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #1 - 1 Ultimate Pro Carpenter Bee Trap with Bee Vault and 1 Bee-Licious Bee Bait,60.0,61.0,1.7
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-with-bee-vault-and-extra-large-external-receptacle-copy-2,"Ultimate Pro, Carpenter Bee Trap with Bee Vault and Extra Large External Receptacle",40.0,41.0,2.5
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),114.0,115.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-for-yard-patio-7-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit for Yard & Patio (7 pcs),110.0,111.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-outdoor-pest-control-5-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit Outdoor Pest Control (5 pcs),98.0,99.0,1.0
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:bee-licious-bee-bait-2-pack,Bee-Licious Bee Bait 2 Pack,40.0,41.0,2.5
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-control-kit,Carpenter Bee Control Kit,137.0,138.0,0.7
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),171.0,172.0,0.6
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:the-weekender-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Weekender Adventure Kit (7 pcs),120.0,121.0,0.8
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:the-overnighter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Overnighter Adventure Kit (5 pcs),67.0,68.0,1.5
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,114.0,115.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,114.0,115.0,0.9
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap,Carpenter Bee Turbo Trap 2.0 with Bee Vault,40.0,41.0,2.5
+2026-09-23T11:00:49.344630+00:00,Best Bee Brothers,best-bee-brothers:hanging-carved-face-bee-lodge,Hanging Carved Face Bee Lodge,50.0,51.0,2.0
+2026-09-23T11:00:49.344630+00:00,FangzTV,fangztv:phormingochilus-cyriopagopus-sp-hati-hati-1-purple-earth-tiger-copy,Phormingochilus (Cyriopagopus) sp. Hati Hati  1 to 1.5'' Purple Earth Tiger,18.0,30.0,66.7
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:albino-t-penninsula-cooter-turtle-2601-pseudemys-peninsularis,Albino T- Penninsula Cooter Turtle #2601 (Pseudemys peninsularis),899.99,599.99,33.3
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-4-python-regius,Banana Ball Python Mixed Morph Female #4 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-3-python-regius,Banana Ball Python Mixed Morph Female #3 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-2-python-regius,Banana Ball Python Mixed Morph Female #2 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-6-python-regius,Banana Ball Python Mixed Morph Female #5 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-1-python-regius,Banana Ball Python Mixed Morph Female #1 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-10-python-regius,Banana Ball Python Mixed Morph Female #10 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-8-python-regius,Banana Ball Python Mixed Morph Female #8 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-13-python-regius,Banana Ball Python Mixed Morph Female #13 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-12-python-regius,Banana Ball Python Mixed Morph Female #12 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,American Reptile Distributors,american-reptile-distributors:banana-ball-python-mixed-morph-female-11-python-regius,Banana Ball Python Mixed Morph Female #11 (Python regius),124.99,99.99,20.0
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:firebelly-toads-for-sale,Fire Bellied Toads,69.95,59.95,14.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:snow-striped-corn-snakes,Snow Striped Corn Snakes,99.95,104.95,5.0
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:spekes-hingeback-tortoises,Hingeback Tortoises,159.95,149.95,6.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:albino-orange-corn-snakes,Albino Orange Corn Snakes,69.95,79.95,14.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:sunkissed-corn-snakes,Sunkissed Corn Snakes,59.95,84.95,41.7
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:blue-whites-blue-eyed-tree-frogs,Whites BLUE EYED Tree Frogs,42.95,44.95,4.7
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:ornate-monitors,Ornate Nile Monitors,69.95,109.95,57.2
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:central-american-boas-1,Central American Boas,74.95,104.95,40.0
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:snow-corn-snakes,Snow Corn Snakes,59.95,84.95,41.7
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:lavender-corn-snakes,Lavender Corn Snakes,94.95,99.95,5.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:coral-pink-snow-corn-snakes,Coral Pink Corn Snakes (Multiple Morph Choices),89.95,134.95,50.0
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:albino-licorice-rat-snakes,Albino Licorice Rat Snakes,109.0,99.95,8.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:black-roughneck-monitors,Black Roughneck Monitors,329.95,399.0,20.9
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:anery-honduran-milksnakes,Anery Honduran Milksnakes,114.95,104.95,8.7
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:chain-kingsnakes,Eastern Chain Kingsnakes,64.95,74.95,15.4
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:rabbits,Rabbits,6.99,7.99,14.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:ghost-corn-snakes,Ghost Corn Snakes,104.95,94.95,9.5
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:butter-corn-snakes,Butter Corn Snakes,69.95,84.95,21.4
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:african-fat-tailed-geckos,African Fat Tailed Geckos,42.95,54.95,27.9
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:tangerine-honduran-milk-snakes,Tangerine Honduran Milksnakes,129.95,79.95,38.5
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:sinaloan-milk-snakes,Sinaloan Milksnakes,104.95,119.95,14.3
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:rusty-rat-snakes,Rusty Rat Snakes,49.95,79.95,60.1
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:emoryi-rat-snakes,Emoryi Rat Snakes,54.95,49.95,9.1
+2026-09-23T11:00:49.344630+00:00,Big Apple Herp,big-apple-herp:central-american-wood-turtles,Wood Turtles,59.95,69.95,16.7
+2026-09-23T11:00:49.344630+00:00,Imperial Reptiles,imperial-reptiles:orange-dream-enchi-pied-ball-python-for-sale,Orange Dream Enchi Pied Ball Python,149.99,174.99,16.7
+2026-09-23T11:00:49.344630+00:00,Imperial Reptiles,imperial-reptiles:patternless-african-fat-tail-gecko-for-sale,Patternless African Fat Tail Gecko Baby,199.99,99.99,50.0
+2026-09-23T11:00:49.344630+00:00,Grow Organic,grow-organic:winter-covers-for-raised-garden-beds,Winter Covers for Raised Garden Beds,54.0,59.0,9.3
+2026-09-23T11:00:49.344630+00:00,Grow Organic,grow-organic:platform-feet,Platform Feet,32.0,36.0,12.5
+2026-09-23T11:00:49.344630+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-luna-cocoon,Single Luna Cocoon,18.0,12.88,28.4
+2026-09-23T11:00:49.344630+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-polyphemus-moth-cocoon,(SINGLE) Polyphemus Moth Cocoon.,18.0,14.88,17.3
+2026-09-23T11:00:49.344630+00:00,AntGear,antgear:harvester-kit,Harvester Ant Colony Kit,74.99,99.99,33.3
+2026-09-23T11:00:49.344630+00:00,AntGear,antgear:pogo-occidentalis,Western Harvester Ants (Pogonomyrmex occidentalis),39.99,44.99,12.5
+2026-09-23T11:00:49.344630+00:00,AntGear,antgear:stainless-steel-tweezers,Feeding Tweezers,2.99,4.99,66.9
+2026-09-23T11:00:49.344630+00:00,AntGear,antgear:squeeze-bottle,Squeeze Bottle,3.99,5.49,37.6
+2026-09-23T11:00:49.344630+00:00,AntGear,antgear:pogonomyrmex-rugosus,Rough Harvester Ant (Pogonomyrmex rugosus),44.99,54.99,22.2

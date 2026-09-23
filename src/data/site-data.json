@@ -2345,16 +2345,6 @@
           "url": "https://exoticssource.com/products/emperor-scorpion-pandinus-imperator"
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Emperor Scorpion (Pandinus imperator) 3\"-5\" Large Juvenile to Sub-adult Probable FEMALE",
-          "price": 99.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/emperor-scorpion-pandinus-imperator-4",
-          "size": "3–5\"",
-          "life_stage": "Sub-adult",
-          "sex": "Female"
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Pandinus imperator- Emperor Scorpion- unsexed",
           "price": 99.99,
@@ -2426,8 +2416,8 @@
           ]
         }
       ],
-      "supplier_count": 8,
-      "in_stock_count": 6,
+      "supplier_count": 7,
+      "in_stock_count": 5,
       "best_price": 54.95,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+emperor+scorpion&tag=getlivebugs-20",
@@ -2506,7 +2496,7 @@
       "suppliers": [
         {
           "breeder": "Exotics Unlimited",
-          "product_name": "Caribena versicolor (Antilles Pink Toe Tarantula) 0.5-0.75\" POTIONS EVENT",
+          "product_name": "Caribena versicolor (Antilles Pink Toe Tarantula) 0.5-0.75\" CHAMPION EVENT",
           "price": 45.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/caribena-versicolor-antilles-pink-toe-tarantula-0-5-0-75-copy",
@@ -3041,6 +3031,24 @@
           ]
         },
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula) 0.75-1\" CHAMPION EVENT",
+          "price": 59.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/grammostola-porteri-now-rosea-chilean-rose-hair-tarantula-0-75-1-champion-event",
+          "size": "0.75–1\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.75-1\" Juvenile  CHAMPION EVENT",
+              "price": 59.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Grammostola rosea RCF (Chilean Rose Tarantula) Red Color Form about  3/4\" - 1\"",
           "price": 65.0,
@@ -3093,49 +3101,6 @@
               "label": "2-2.5\"",
               "price": 139.79,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula)",
-          "price": 75.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/grammostola-porteri-now-rosea-chilean-rose-hair-tarantula",
-          "size": "0.75–1\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.75-1\" Juvenile",
-              "price": 85.0,
-              "available": true
-            },
-            {
-              "label": "1-1.5\" Juvenile",
-              "price": 125.0,
-              "available": false
-            },
-            {
-              "label": "0.5-0.75\" Spiderling",
-              "price": 75.0,
-              "available": false
-            },
-            {
-              "label": "1.5-2\" Juvenile",
-              "price": 150.0,
-              "available": true
-            },
-            {
-              "label": "2\" MALE Juvenile",
-              "price": 175.0,
-              "available": false
-            },
-            {
-              "label": "4-5\" FEMALE Sub-Adult",
-              "price": 450.0,
-              "available": false
             }
           ]
         },
@@ -3607,27 +3572,6 @@
           "url": "https://www.fangztv.com/products/tliltocatl-albopilosum-honduran-curlyhair-tarantula-75"
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Tliltocatl albopilosus (Curlyhair Tarantula) about 1/3\" - 1/2\"",
-          "price": 10.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/tliltocatl-albopilosus-curlyhair-tarantula-brachypelma-1",
-          "size": "1/3–1/2\"",
-          "world": "New World",
-          "variants": [
-            {
-              "label": "Spiderling alone",
-              "price": 10.0,
-              "available": true
-            },
-            {
-              "label": "Make it a Package! 🛖🛖🛖",
-              "price": 25.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Spider Shoppe",
           "product_name": "Tliltocatl albopilosum (Nicaraguan Curly Hair) FREE ON ORDERS $100+",
           "price": 10.0,
@@ -3638,6 +3582,45 @@
             {
               "label": "0.25\" (cb)",
               "price": 10.0,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\" CHAMPION EVENT",
+          "price": 15.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-albopilosus-curly-hair-tarantula-0-5-0-75-champion-event",
+          "size": "0.5–0.75\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.5-0.75\" Spiderling CHAMPION EVENT",
+              "price": 15.0,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Tliltocatl albopilosus (Curlyhair Tarantula) about 1/3\" - 1/2\"",
+          "price": 15.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/tliltocatl-albopilosus-curlyhair-tarantula-brachypelma-1",
+          "size": "1/3–1/2\"",
+          "world": "New World",
+          "variants": [
+            {
+              "label": "Spiderling alone",
+              "price": 15.0,
+              "available": true
+            },
+            {
+              "label": "Make it a Package! 🛖🛖🛖",
+              "price": 25.0,
               "available": true
             }
           ]
@@ -3683,24 +3666,6 @@
             {
               "label": "1.5 inch unsexed sling",
               "price": 35.0,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\"",
-          "price": 25.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-albopilosus-curly-hair-tarantula-0-5-0-76",
-          "size": "0.5–0.75\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.5-0.75\" Spiderling",
-              "price": 25.0,
               "available": true
             }
           ]
@@ -3859,23 +3824,23 @@
       },
       "suppliers": [
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Theraphosa blondi (Goliath Birdeater Tarantula) Spiderling about 1 1/2\"",
+          "price": 119.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/theraphosa-blondi-goliath-birdeater-tarantula",
+          "size": "1 1/2\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "Buddha Bugs",
           "product_name": "Pamphobeteus sp. 'Santo Domingo goliath' (Santo Domingo goliath birdeater tarantula) 1.5\"",
           "price": 120.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/pamphobeteus-sp-santo-domingo-goliath-santo-domingo-goliath-birdeater-tarantula-for-sale",
           "size": "1.5\""
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 3/4\"-2\"",
-          "price": 125.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
-          "size": "3/4–2\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial"
         },
         {
           "breeder": "The Defiant Forest",
@@ -3960,7 +3925,7 @@
       ],
       "supplier_count": 7,
       "in_stock_count": 2,
-      "best_price": 120.0,
+      "best_price": 119.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=goliath+birdeater+tarantula&tag=getlivebugs-20",
         "creature_label": "Goliath Birdeater",
@@ -4103,7 +4068,7 @@
         {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 3/4\" - 1\"",
-          "price": 79.0,
+          "price": 65.0,
           "available": true,
           "url": "https://fearnottarantulas.com/products/chromatopelma-cyaneopubescens-green-bottleblue-gbb-tarantula-for-sale",
           "size": "3/4–1\"",
@@ -4113,12 +4078,12 @@
           "variants": [
             {
               "label": "Spiderling alone",
-              "price": 79.0,
+              "price": 65.0,
               "available": true
             },
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖🛖",
-              "price": 105.0,
+              "price": 85.0,
               "available": true
             }
           ]
@@ -4370,6 +4335,29 @@
           ]
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) about 1\" - 1 1/4\" showing some coloration!",
+          "price": 65.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-2025",
+          "size": "1–1\"",
+          "life_stage": "Spiderling",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "Spiderling Alone",
+              "price": 65.0,
+              "available": true
+            },
+            {
+              "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
+              "price": 85.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Big Apple Herp",
           "product_name": "Mexican Red Knee Tarantulas",
           "price": 79.95,
@@ -4409,29 +4397,6 @@
           "size": "0.5\""
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Brachypelma hamorii (Mexican Redknee Tarantula) about 1\" - 1 1/4\" showing some coloration!",
-          "price": 65.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/brachypelma-hamorii-mexican-redknee-tarantula-2025",
-          "size": "1–1\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "Spiderling Alone",
-              "price": 65.0,
-              "available": false
-            },
-            {
-              "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
-              "price": 85.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Gallegos Zoological",
           "product_name": "Brachypelma hamorii (Mexican Red Knee Tarantula)",
           "price": 69.99,
@@ -4456,7 +4421,7 @@
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 6,
+      "in_stock_count": 7,
       "best_price": 36.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+knee+tarantula+tarantula&tag=getlivebugs-20",
@@ -4582,6 +4547,17 @@
           "url": "https://tcinsects.com/product/mexican-red-rump-tarantula/"
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Tliltocatl vagans (Mexican Redrump Tarantula)  about 2\" Showing adult coloration!",
+          "price": 89.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/tliltocatl-vagans-mexican-redrump-tarantula-bigger-for-sale",
+          "size": "2\"",
+          "life_stage": "Juvenile",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "Micro Wilderness",
           "product_name": "Tliltocatl vagans - Unsexed - Mexican Red Rump Tarantula",
           "price": 17.99,
@@ -4608,17 +4584,6 @@
           ]
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Tliltocatl vagans (Mexican Redrump Tarantula) was Brachypelma around 1- 1 1/4\" Showing adult coloration! *** IN-STORE ONLY DUE TO PREMOLT ***",
-          "price": 59.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/tliltocatl-vagans-mexican-redrump-tarantula-bigger-for-sale",
-          "size": "1–1\"",
-          "life_stage": "Adult",
-          "world": "New World",
-          "habitat": "Terrestrial"
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "Mexican Red Rump Tarantula for Sale | Tliltocatl vagans",
           "price": null,
@@ -4630,7 +4595,7 @@
         }
       ],
       "supplier_count": 7,
-      "in_stock_count": 4,
+      "in_stock_count": 5,
       "best_price": 20.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=mexican+red+rump+tarantula+tarantula&tag=getlivebugs-20",
@@ -5053,7 +5018,7 @@
         },
         {
           "breeder": "Exotics Unlimited",
-          "product_name": "Caribena versicolor (Antilles Pink Toe Tarantula) 0.5-0.75\" POTIONS EVENT",
+          "product_name": "Caribena versicolor (Antilles Pink Toe Tarantula) 0.5-0.75\" CHAMPION EVENT",
           "price": 45.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/caribena-versicolor-antilles-pink-toe-tarantula-0-5-0-75-copy",
@@ -5275,62 +5240,62 @@
             {
               "label": "600 Red Worms / No Worm Chow",
               "price": 26.5,
-              "available": false
+              "available": true
             },
             {
               "label": "600 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 31.75,
-              "available": false
+              "available": true
             },
             {
               "label": "600 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 33.75,
-              "available": false
+              "available": true
             },
             {
               "label": "600 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 35.25,
-              "available": false
+              "available": true
             },
             {
               "label": "1200 Red Worms / No Worm Chow",
               "price": 36.0,
-              "available": false
+              "available": true
             },
             {
               "label": "1200 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 41.25,
-              "available": false
+              "available": true
             },
             {
               "label": "1200 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 43.25,
-              "available": false
+              "available": true
             },
             {
               "label": "1200 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 44.75,
-              "available": false
+              "available": true
             },
             {
               "label": "2100 Red Worms / No Worm Chow",
               "price": 59.99,
-              "available": false
+              "available": true
             },
             {
               "label": "2100 Red Worms / 1/4 Pound Worm Chow (+$5.25)",
               "price": 65.24,
-              "available": false
+              "available": true
             },
             {
               "label": "2100 Red Worms / 1/2 Pound Worm Chow (+$7.25)",
               "price": 67.24,
-              "available": false
+              "available": true
             },
             {
               "label": "2100 Red Worms / 1 Pound Worm Chow (+$8.75)",
               "price": 68.74,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -5338,24 +5303,24 @@
           "breeder": "Tip Top Bio",
           "product_name": "Composting Red \"Wiggler\" Worms",
           "price": 21.5,
-          "available": false,
+          "available": true,
           "url": "https://retail-tiptopbio.com/products/red-worms",
           "size": "500–600\"",
           "variants": [
             {
               "label": "200 Worms in Retail Pail with Handle",
               "price": 21.5,
-              "available": false
+              "available": true
             },
             {
               "label": "500-600 Worms (1/2 lb.) in Cloth Bag",
               "price": 35.53,
-              "available": false
+              "available": true
             },
             {
               "label": "1k Worms (1 lb.) in Cloth Bag",
               "price": 55.07,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -5395,7 +5360,7 @@
         }
       ],
       "supplier_count": 3,
-      "in_stock_count": 1,
+      "in_stock_count": 2,
       "best_price": 17.85,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+red+wiggler+worm&tag=getlivebugs-20",
@@ -5666,7 +5631,7 @@
       "price_range": "1-3",
       "best_price": 6.0,
       "supplier_count": 14,
-      "in_stock_count": 10,
+      "in_stock_count": 9,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5864,20 +5829,6 @@
           "url": "https://usinvertebratellc.com/products/pocellio-laevis-diary-cow"
         },
         {
-          "breeder": "Rubber Ducky Isopods",
-          "product_name": "\"Orange Dairy Cow\" THE Perfect BioActive Isopod (Porcellio laevis)",
-          "price": 24.49,
-          "available": true,
-          "url": "https://rubberduckyisopods.com/products/orange-dairy-cow-the-perfect-bioactive-isopod-porcellio-laevis-10-100-count",
-          "variants": [
-            {
-              "label": "10",
-              "price": 24.49,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "White Laevis Isopods (Porcellio laevis)",
           "price": 1.0,
@@ -5912,6 +5863,20 @@
             {
               "label": "10",
               "price": 10.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Rubber Ducky Isopods",
+          "product_name": "\"Orange Dairy Cow\" THE Perfect BioActive Isopod (Porcellio laevis)",
+          "price": 24.49,
+          "available": false,
+          "url": "https://rubberduckyisopods.com/products/orange-dairy-cow-the-perfect-bioactive-isopod-porcellio-laevis-10-100-count",
+          "variants": [
+            {
+              "label": "10",
+              "price": 24.49,
               "available": false
             }
           ]
@@ -5980,7 +5945,7 @@
       "price_range": "1-2",
       "best_price": 1.0,
       "supplier_count": 13,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6037,7 +6002,7 @@
             {
               "label": "10ct",
               "price": 14.99,
-              "available": false
+              "available": true
             },
             {
               "label": "10ct FREE SHIPPING",
@@ -6126,35 +6091,6 @@
               "label": "Oreo crumble",
               "price": 30.0,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": true,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": true
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
             }
           ]
         },
@@ -6256,6 +6192,35 @@
           "price": 6.99,
           "available": false,
           "url": "https://tcinsects.com/product/porcellionides-pruinosus-lemon-berry-crumble/"
+        },
+        {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": false,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": false
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
+              "available": false
+            }
+          ]
         }
       ],
       "amazon": {
@@ -6935,7 +6900,7 @@
       "price_range": "25-60",
       "best_price": 8.0,
       "supplier_count": 10,
-      "in_stock_count": 6,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -6943,24 +6908,6 @@
           "price": 8.0,
           "available": true,
           "url": "https://www.fangztv.com/products/lasiodora-parahybana-brazilian-salmon-pink-tarantula-25"
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Lasiodora parahybana (Salmon Pink Bird Eater Tarantula) 0.5\" POTIONS EVENT",
-          "price": 15.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/lasiodora-parahybana-salmon-pink-bird-eater-tarantula-0-5-september-event",
-          "size": "0.5\"",
-          "temperament": "Skittish",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.5\" Spiderling POTIONS EVENT",
-              "price": 15.0,
-              "available": true
-            }
-          ]
         },
         {
           "breeder": "The Bio Dude",
@@ -7037,6 +6984,24 @@
               "label": "1.5\"",
               "price": 36.0,
               "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Lasiodora parahybana (Salmon Pink Bird Eater Tarantula) 0.5\" CHAMPION EVENT",
+          "price": 15.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/lasiodora-parahybana-salmon-pink-bird-eater-tarantula-0-5-september-event",
+          "size": "0.5\"",
+          "temperament": "Skittish",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.5\" Spiderling POTIONS EVENT",
+              "price": 15.0,
+              "available": false
             }
           ]
         },
@@ -7166,8 +7131,8 @@
       "photo_is_base_species": false,
       "price_range": "30-70",
       "best_price": 19.0,
-      "supplier_count": 8,
-      "in_stock_count": 5,
+      "supplier_count": 9,
+      "in_stock_count": 6,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -7198,6 +7163,26 @@
               "label": "1.5\" -  $65.00 ea.",
               "price": 45.0,
               "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Grammostola pulchripes (Chaco Golden Knee Tarantula) about 1/2\" - 3/4\"",
+          "price": 35.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/grammostola-pulchripes-chaco-golden-knee-tarantula-beginner",
+          "size": "1/2–3/4\"",
+          "variants": [
+            {
+              "label": "Spiderling alone",
+              "price": 35.0,
+              "available": true
+            },
+            {
+              "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
+              "price": 45.0,
+              "available": true
             }
           ]
         },
@@ -7239,9 +7224,9 @@
               "available": true
             },
             {
-              "label": "1” suspected female",
+              "label": "1.5” suspected female",
               "price": 99.99,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -7363,11 +7348,11 @@
         },
         {
           "breeder": "Fear Not Tarantulas",
-          "product_name": "Brachypelma boehmei (Mexican Fireleg Tarantula) about 1/3\" - 1/2\"",
+          "product_name": "Brachypelma boehmei (Mexican Fireleg Tarantula) about  1/2\" - 3/4\"",
           "price": 45.0,
           "available": true,
           "url": "https://fearnottarantulas.com/products/brachypelma-boehmei-mexican-fireleg-tarantula-for-sale",
-          "size": "1/3–1/2\"",
+          "size": "1/2–3/4\"",
           "life_stage": "Spiderling",
           "world": "New World",
           "habitat": "Terrestrial",
@@ -7519,7 +7504,7 @@
       "price_range": "60-150",
       "best_price": 40.0,
       "supplier_count": 10,
-      "in_stock_count": 6,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "Buddha Bugs",
@@ -7544,26 +7529,6 @@
           ]
         },
         {
-          "breeder": "The Defiant Forest",
-          "product_name": "Socotra Island Blue Baboon Tarantula, Monocentropus balfouri - Heavy Webbing Species",
-          "price": 40.0,
-          "available": true,
-          "url": "https://www.thedefiantforest.com/products/socotra-island-blue-baboon-tarantula-monocentropus-balfouri",
-          "size": "1.25\"",
-          "variants": [
-            {
-              "label": "1.25\" - $40.00 ea.",
-              "price": 40.0,
-              "available": true
-            },
-            {
-              "label": "1.75\" - $45.00 ea.",
-              "price": 45.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Monocentropus balfouri - Unsexed - Socotra Island Blue Baboon Tarantula",
           "price": 54.99,
@@ -7575,24 +7540,6 @@
             {
               "label": ".5\"",
               "price": 54.99,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Monocentropus balfouri (Socotra Island Blue Baboon Tarantula) 0.75-1\"",
-          "price": 55.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/monocentropus-balfouri-socotra-island-blue-baboon-tarantula-0-75-1",
-          "size": "0.75–1\"",
-          "temperament": "Skittish",
-          "world": "Old World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.75-1\" Spiderling",
-              "price": 55.0,
               "available": true
             }
           ]
@@ -7631,6 +7578,44 @@
               "label": "2.5\"",
               "price": 78.0,
               "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Monocentropus balfouri (Socotra Island Blue Baboon Tarantula) 0.75-1\" CHAMPION EVENT",
+          "price": 39.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/monocentropus-balfouri-socotra-island-blue-baboon-tarantula-0-75-1-champion-event",
+          "size": "0.75–1\"",
+          "temperament": "Skittish",
+          "world": "Old World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "0.75-1\" Spiderling CHAMPION EVENT",
+              "price": 39.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "The Defiant Forest",
+          "product_name": "Socotra Island Blue Baboon Tarantula, Monocentropus balfouri - Heavy Webbing Species",
+          "price": 40.0,
+          "available": false,
+          "url": "https://www.thedefiantforest.com/products/socotra-island-blue-baboon-tarantula-monocentropus-balfouri",
+          "size": "1.25\"",
+          "variants": [
+            {
+              "label": "1.25\" - $40.00 ea.",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "1.75\" - $45.00 ea.",
+              "price": 45.0,
+              "available": false
             }
           ]
         },
@@ -8376,7 +8361,7 @@
       "price_range": "10-25",
       "best_price": 4.0,
       "supplier_count": 8,
-      "in_stock_count": 3,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "Spider Shoppe",
@@ -8418,6 +8403,30 @@
             {
               "label": "Single $15.00 ea.",
               "price": 15.0,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Insect Sales",
+          "product_name": "Bumble Bee Millipede (Anadenobolus monilicornis) Educational & Fun - Easy to Keep",
+          "price": 18.99,
+          "available": true,
+          "url": "https://insectsales.com/products/bumble-bee-millipedes-anadenobolus-monilicornis-educational-fun-easy-to-keep",
+          "variants": [
+            {
+              "label": "Click Here to Add Additional Orders - Save on Shipping at Checkout",
+              "price": 18.99,
+              "available": true
+            },
+            {
+              "label": "2 Orders of Bumble Bee Millipede",
+              "price": 37.99,
+              "available": true
+            },
+            {
+              "label": "3 Orders of Bumble Bee Millipede",
+              "price": 56.99,
               "available": true
             }
           ]
@@ -8465,30 +8474,6 @@
             {
               "label": "5",
               "price": 25.0,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "Insect Sales",
-          "product_name": "Bumble Bee Millipede (Anadenobolus monilicornis) Educational & Fun - Easy to Keep",
-          "price": 18.99,
-          "available": false,
-          "url": "https://insectsales.com/products/bumble-bee-millipedes-anadenobolus-monilicornis-educational-fun-easy-to-keep",
-          "variants": [
-            {
-              "label": "Click Here to Add Additional Orders - Save on Shipping at Checkout",
-              "price": 18.99,
-              "available": false
-            },
-            {
-              "label": "2 Orders of Bumble Bee Millipede",
-              "price": 37.99,
-              "available": false
-            },
-            {
-              "label": "3 Orders of Bumble Bee Millipede",
-              "price": 56.99,
               "available": false
             }
           ]
@@ -10314,8 +10299,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "September 20, 2026",
-    "next_update": "September 23, 2026",
-    "last_updated_iso": "2026-09-20T10:58:38.113171+00:00"
+    "last_updated": "September 23, 2026",
+    "next_update": "September 27, 2026",
+    "last_updated_iso": "2026-09-23T11:06:40.678413+00:00"
   }
 }
