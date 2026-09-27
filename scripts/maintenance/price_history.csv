@@ -5207,3 +5207,71 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-09-23T11:00:49.344630+00:00,AntGear,antgear:stainless-steel-tweezers,Feeding Tweezers,2.99,4.99,66.9
 2026-09-23T11:00:49.344630+00:00,AntGear,antgear:squeeze-bottle,Squeeze Bottle,3.99,5.49,37.6
 2026-09-23T11:00:49.344630+00:00,AntGear,antgear:pogonomyrmex-rugosus,Rough Harvester Ant (Pogonomyrmex rugosus),44.99,54.99,22.2
+2026-09-27T11:39:04.449134+00:00,The Defiant Forest,the-defiant-forest:golden-trap-door-spider-fufius-lanicius-trap-door-species,"Golden Trap Door Spider, Fufius lanicius | Trap Door Species",39.0,45.0,15.4
+2026-09-27T11:39:04.449134+00:00,The Defiant Forest,the-defiant-forest:cobalt-red-rump-tarantula-thrixopelma-cyaneolum-blue,"Peruvian Cobalt Red Rump Tarantula, Thrixopelma cyaneolum “Blue” - Terrestrial Species",65.0,69.0,6.2
+2026-09-27T11:39:04.449134+00:00,The Defiant Forest,the-defiant-forest:golden-blue-legged-baboon-tarantulas,"Golden Blue-Legged Baboon Tarantula, Harpactira pulchripes - Terrestrial Species",49.0,46.0,6.1
+2026-09-27T11:39:04.449134+00:00,The Defiant Forest,the-defiant-forest:brazilian-black-tarantulas,"Giant Black Beauty Beauty Tarantula, Grammostola quirogai - Terrestrial Species",82.0,78.0,4.9
+2026-09-27T11:39:04.449134+00:00,The Defiant Forest,the-defiant-forest:brazilian-white-knee-tarantula-acanthoscurria-geniculata,"Brazilian White Knee Tarantula, Acanthoscurria geniculata - Terrestrial Species",32.0,60.0,87.5
+2026-09-27T11:39:04.449134+00:00,The Defiant Forest,the-defiant-forest:arizona-blonde-tarantulas,"Arizona Blonde Tarantula, Aphonopelma chalcodes - Terrestrial Species",36.0,39.0,8.3
+2026-09-27T11:39:04.449134+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-31,Dubia Roaches Medium 500ct Auction,1.0,47.0,4600.0
+2026-09-27T11:39:04.449134+00:00,DubiaRoaches.com,dubiaroaches:medium-superworm-500ct-auction-10,Medium Superworm 500ct Auction,15.0,9.0,40.0
+2026-09-27T11:39:04.449134+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction-20,XL Dubia Roaches 250ct Auction,13.0,41.0,215.4
+2026-09-27T11:39:04.449134+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-18,4x2x2 V3 (120 Gallon) Auction,240.0,297.0,23.8
+2026-09-27T11:39:04.449134+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-15,Medium Hornworm 24ct (Case Of 12) Auction,13.0,41.0,215.4
+2026-09-27T11:39:04.449134+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction-21,80w Heat Panel Reptile Habitat Auction,55.0,103.0,87.3
+2026-09-27T11:39:04.449134+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-juruensis-purple-peru-tarantula,"Avicularia juruensis (Purple Peru Tarantula) about 3/4""-1""",55.0,29.0,47.3
+2026-09-27T11:39:04.449134+00:00,Fear Not Tarantulas,fear-not-tarantulas:pterinopelma-sazimai-iridescent-blue-tarantula-for-sale,"Lasiocyano sazimai  (Iridescent Blue Tarantula) about 1/4"" - 1/3""",35.0,15.0,57.1
+2026-09-27T11:39:04.449134+00:00,Fear Not Tarantulas,fear-not-tarantulas:tliltocatl-albopilosus-curlyhair-tarantula-brachypelma-1,"Tliltocatl albopilosus (Curlyhair Tarantula) about 1/3"" - 1/2""",15.0,10.0,33.3
+2026-09-27T11:39:04.449134+00:00,Fear Not Tarantulas,fear-not-tarantulas:omothymus-violaceopes-singapore-blue-tarantula-for-sale,"Omothymus violaceopes (Singapore Blue Tarantula) about 1"" - 1 1/4""",49.0,29.0,40.8
+2026-09-27T11:39:04.449134+00:00,Fear Not Tarantulas,fear-not-tarantulas:homoeomma-chilense-chilean-flame-tarantula-small,"Homoeomma chilense  (Chilean Flame Tarantula)  about  1/2""  These are about a year old!",135.0,65.0,51.9
+2026-09-27T11:39:04.449134+00:00,Exotics Source,exotics-source:regal-jumping-spider-melody,"Regal Jumping Spider ""Melody""",95.0,75.0,21.1
+2026-09-27T11:39:04.449134+00:00,Exotics Source,exotics-source:custom-order,Custom Order,900.0,1730.0,92.2
+2026-09-27T11:39:04.449134+00:00,Exotics Source,exotics-source:regal-jumping-spider-dream,"Regal Jumping Spider ""Dream""",95.0,75.0,21.1
+2026-09-27T11:39:04.449134+00:00,Exotics Source,exotics-source:regal-jumping-spider-smoothie,"Regal Jumping Spider ""Smoothie""",95.0,75.0,21.1
+2026-09-27T11:39:04.449134+00:00,Spider Shoppe,spider-shoppe:cyriocosmus-sp-cumbaza-black-dwarf,Cyriocosmus sp 'Cumbaza' (Black Dwarf),98.0,88.0,10.2
+2026-09-27T11:39:04.449134+00:00,Spider Shoppe,spider-shoppe:sicarius-thomisoides-chilean-six-eyed-sand-spider-0-25-0-5,Sicarius thomisoides (Chilean Six-Eyed Sand Spider),48.0,98.0,104.2
+2026-09-27T11:39:04.449134+00:00,Spider Shoppe,spider-shoppe:androctonus-bicolor-black-fat-tail-scorpion-0-5,Androctonus bicolor (Black Fat-Tail Scorpion),58.0,44.0,24.1
+2026-09-27T11:39:04.449134+00:00,US Invertebrate LLC,us-invertebrate:dried-leaves,Dried Leaves,7.0,8.0,14.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-x-tidal-golf-bundle,Best Bee Brothers x Tidal Golf Bundle,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-no-see-ums-repellent-body-mist-copy-1,Shake + Shield No-See-Ums Repellent – Body Mist,10.0,11.0,10.0
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-insect-repellent-body-mist-copy-1,Shake + Shield Insect Repellent – Body Mist,10.0,11.0,10.0
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-repair-kit-replacement-parts-for-outdoor-use-4-pcs,Ultimate Pro Carpenter Bee Trap & Repair Kit (4 pcs),106.0,107.0,0.9
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-carpenter-bee-trap-wasp-deterrent-hive-combo-kit-outdoor-pest-control-5-pcs,Ultimate Pro Carpenter Bee Trap & Wasp Deterrent Hive Combo Kit Outdoor Pest Control (5 pcs),99.0,100.0,1.0
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-no-see-um-repellent-dorm-room-essentials-adventure-kit-copy,"Shake & Shield Bed Bug & No-See-Um Repellent - Dorm Room Essentials, Adventure Kit (6 pcs)",113.0,114.0,0.9
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-repellent-8oz,Carpenter Bee Repellent 8oz,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-mosquito-repellent-dorm-room-essentials-adventure-kit,"Shake & Shield Bed Bug & Mosquito Repellent - Dorm Room Essentials, Adventure Kit (6 pcs)",113.0,114.0,0.9
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:sleep-shield-calming-room-linen-mist-with-essential-oils,"Sleep & Shield Calming Room + Linen Mist – Natural Essential Oil Blend with Peppermint, Cedarwood & Rosemary",10.0,11.0,10.0
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:the-firecracker-adventure-kit,"Shake & Shield Mosquito Repellent, Summer Survival Adventure Kit (6 pcs)",86.0,87.0,1.2
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-black-roof-carpenter-bee-trap-with-bee-vault-and-extra-large-external-receptacle,"Ultimate Pro with Color Roof, Carpenter Bee Trap with Bee Vault and Extra Large External Receptacle",43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:the-jet-setter-adventure-kit,Shake & Shield Bed Bug and No-See-Um Repellent - The Jet-Setter Adventure Kit (9 pcs),172.0,173.0,0.6
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-happy-house-natural,Carpenter Bee Turbo Trap Happy House with Bee Vault - Natural Roof,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-happy-house-black,Carpenter Bee Turbo Trap Happy House with Bee Vault - Black Roof,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-white,Carpenter Bee Turbo Trap 2.0 with Bee Vault - White Roof,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-brown,Carpenter Bee Turbo Trap 2.0 with Bee Vault - Brown Roof,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-black,Carpenter Bee Turbo Trap 2.0 with Bee Vault - Black Roof,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-happy-house,Carpenter Bee Turbo Trap Happy House with Bee Vault,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:pine-turbo-trap,Carpenter Bee Pine Turbo Trap with Bee Vault,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:bed-bug-repellent-spray,Shake + Shield Bed Bug Repellent – Room & Linen Spray,10.0,11.0,10.0
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:hanging-carved-bee-lodge,Hanging Carved Bee Lodge,43.0,44.0,2.3
+2026-09-27T11:39:04.449134+00:00,Best Bee Brothers,best-bee-brothers:bug-bite-sucker,Bug Bite Extractor,10.0,11.0,10.0
+2026-09-27T11:39:04.449134+00:00,FangzTV,fangztv:tliltocatl-albopilosum-honduran-curlyhair-tarantula-75,Tliltocatl albopilosus Honduran curlyhair tarantula .25'',8.0,10.0,25.0
+2026-09-27T11:39:04.449134+00:00,FangzTV,fangztv:ceratogyrus-marshalli-straight-horned-baboon-75,Ceratogyrus marshalli Straight Horned Baboon .75'',22.0,30.0,36.4
+2026-09-27T11:39:04.449134+00:00,FangzTV,fangztv:lasiodora-parahybana-brazilian-salmon-pink-tarantula-25,Lasiodora parahybana Brazilian Salmon Pink Tarantula .25'',8.0,10.0,25.0
+2026-09-27T11:39:04.449134+00:00,FangzTV,fangztv:hapolopus-sp-colombia-formosus-lg-pumpkin-patch-tarantula-2i-1-64,"Hapolopus sp. Colombia FORMOSUS LG Pumpkin Patch Tarantula .25""",18.0,20.0,11.1
+2026-09-27T11:39:04.449134+00:00,Buddha Bugs,buddha-bugs:heteropoda-sp-thai-cave-thai-cave-huntsman-spider-for-sale,"Heteropoda schwendingeri, formerly Heteropoda sp. 'Thai cave' (Thai cave huntsman spider) 0.75""",30.0,40.0,33.3
+2026-09-27T11:39:04.449134+00:00,Buddha Bugs,buddha-bugs:heteropoda-lunula-malaysian-purple-huntsman-spider-for-sale,Heteropoda lunula (purple huntsman spider),45.0,20.0,55.6
+2026-09-27T11:39:04.449134+00:00,Buddha Bugs,buddha-bugs:heteropoda-davidbowie-david-bowie-huntsman-spider-for-sale,"Heteropoda davidbowie (David Bowie huntsman spider) 0.75""",30.0,40.0,33.3
+2026-09-27T11:39:04.449134+00:00,American Reptile Distributors,american-reptile-distributors:spanish-pond-turtle-adullt-pair-1-mauremys-leprosa,Spanish Pond Turtle Adult Pair #1 (Mauremys leprosa leprosa),2249.99,2999.99,33.3
+2026-09-27T11:39:04.449134+00:00,American Reptile Distributors,american-reptile-distributors:albino-t-penninsula-cooter-turtle-2601-pseudemys-peninsularis,Albino T- Penninsula Cooter Turtle #2601 (Pseudemys peninsularis),599.99,799.99,33.3
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:florida-green-iguanas-the-best,FLORIDA Green Iguanas,34.95,29.95,14.3
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:ghana-reed-frogs,Ghana Reed Frogs,29.95,34.95,16.7
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:white-lip-pythons,White Lip Pythons,349.0,469.95,34.7
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:amazon-tree-boas-normal-phase,Amazon Tree Boas,74.95,84.95,13.3
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:albino-japanese-rat-snakes,Albino Japanese Rat Snakes,279.0,249.95,10.4
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:pixie-frogs,Pixie Frogs,39.95,44.95,12.5
+2026-09-27T11:39:04.449134+00:00,Big Apple Herp,big-apple-herp:ball-python-cb-baby,Ball Pythons (Normal Phase),47.95,69.95,45.9
+2026-09-27T11:39:04.449134+00:00,The Bio Dude,the-bio-dude:redichip-premium-medium-sized-coconut-chips-ready-to-use,RediChip Premium Medium Sized Coconut Chips; Ready to Use,19.95,20.95,5.0
+2026-09-27T11:39:04.449134+00:00,The Bio Dude,the-bio-dude:reptichip-coarse-coconut-chip-mix-ready-to-use,ReptiChip Coarse Coconut Chip Mix; Ready to Use,19.95,20.95,5.0
+2026-09-27T11:39:04.449134+00:00,The Bio Dude,the-bio-dude:terra-fauna-accent-pack,Terra Fauna Accent Pack,24.95,39.95,60.1
+2026-09-27T11:39:04.449134+00:00,Frognose Exotics,frognose-exotics:celebes-rainbow-centipede,Celebes Rainbow Centipede,219.99,149.99,31.8
+2026-09-27T11:39:04.449134+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:giant-swallowtail-caterpillars-or-chrysalis,Giant Swallowtail Caterpillars or Chrysalis,75.0,58.0,22.7
