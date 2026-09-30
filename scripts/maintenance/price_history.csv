@@ -5275,3 +5275,120 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-09-27T11:39:04.449134+00:00,The Bio Dude,the-bio-dude:terra-fauna-accent-pack,Terra Fauna Accent Pack,24.95,39.95,60.1
 2026-09-27T11:39:04.449134+00:00,Frognose Exotics,frognose-exotics:celebes-rainbow-centipede,Celebes Rainbow Centipede,219.99,149.99,31.8
 2026-09-27T11:39:04.449134+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:giant-swallowtail-caterpillars-or-chrysalis,Giant Swallowtail Caterpillars or Chrysalis,75.0,58.0,22.7
+2026-09-30T12:07:14.687866+00:00,Exotics Unlimited,exotics-unlimited:stromatopelma-calceatum-feather-leg-baboon-tarantula,Stromatopelma calceatum (Feather-leg Baboon Tarantula),19.0,29.0,52.6
+2026-09-30T12:07:14.687866+00:00,Exotics Unlimited,exotics-unlimited:grammostola-porteri-now-rosea-chilean-rose-hair-tarantula,Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula),59.0,75.0,27.1
+2026-09-30T12:07:14.687866+00:00,Exotics Unlimited,exotics-unlimited:psalmopoeus-reduncus-costa-rican-orange-mouth-tarantula,Psalmopoeus reduncus (Costa Rican Orange Mouth Tarantula),19.0,35.0,84.2
+2026-09-30T12:07:14.687866+00:00,Exotics Unlimited,exotics-unlimited:eresus-sp-balcanicus-orange-face-velvet-spider-0-5-0-75,"Eresus sp ""balcanicus"" (Orange Face Velvet Spider) 0.5-0.75""",150.0,199.0,32.7
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:large-discoid-250ct-auction-31,Large Discoid 250ct Auction,42.0,55.0,31.0
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-12ct-case-of-6-auction-25,Large Hornworm 12ct (Case Of 6) Auction,25.0,20.0,20.0
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-30,Dubia Roaches Medium 500ct Auction,32.0,56.0,75.0
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction-18,4x2x2 V3 (120 Gallon) Auction,297.0,282.0,5.1
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction,Large CalciGrubs 500ct Auction,14.0,10.0,28.6
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction-24,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,6.0,16.0,166.7
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-15,Medium Hornworm 24ct (Case Of 12) Auction,41.0,33.05,19.4
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:large-mealworm-500ct-auction-13,Large Mealworm 500ct Auction,5.0,12.0,140.0
+2026-09-30T12:07:14.687866+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction-28,24x18x36 (67 Gallon) Arboreal Auction,200.0,167.0,16.5
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-pulchripes-chaco-golden-knee-tarantula-beginner,"Grammostola pulchripes (Chaco Golden Knee Tarantula) about 1/2"" - 3/4""",35.0,17.0,51.4
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:neoholothele-incei-gold-trinidad-olive-tarantula-for-sale,"Neoholothele incei  - Gold Form (Trinidad Olive) about 1/2"" - 3/4""",45.0,17.0,62.2
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormictopus-sp-dominican-purple-tarantula,"Phormictopus sp. Dominican Purple Tarantula about 1""",65.0,45.0,30.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormingochilus-sp-sabah-red-sabah-red-earth-tiger-tarantula,"Phormingochilus sp. Sabah Red (Sabah Red Earth Tiger Tarantula)  about 1""",125.0,56.0,55.2
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:haploclastus-devamatha-was-thrigmopoeus-psychedelicus-polychromatic-earth-tiger-tarantula-small,"Cilantica devamatha (Psychedelic Earth Tiger Tarantula) 1/2"" - 3/4""",135.0,59.0,56.3
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-purpurea-purple-pinktoe-tarantula-for-sale,"Avicularia purpurea (Purple Pinktoe Tarantula) about 1/2""-3/4""",79.0,39.0,50.6
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormingochilus-rufus-peach-earth-tiger-tarantula-for-sale,"Aspinochilus rufus (Peach Earth Tiger Tarantula) ex Phormingochilus  1/2"" - 3/4""",45.0,15.0,66.7
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:heterothele-villosella-tanzanian-chestnut-baboon-tarantula-2,"Heterothele villosella (Tanzanian Chestnut Baboon Tarantula) a beautiful dwarf about  1/3""",42.0,15.0,64.3
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:brachypelma-boehmei-mexican-fireleg-tarantula-for-sale,"Brachypelma boehmei (Mexican Fireleg Tarantula) about  1/2"" - 3/4""",45.0,19.0,57.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:lasiodora-klugi-bahia-scarlet-tarantula-for-sale,"Lasiodora klugi (Bahia Scarlet Tarantula) about 1/2""",45.0,19.0,57.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:euthycaelus-colonica-venezuela-orange-tarantula,"Euthycaelus colonica (Venezuela Orange & Bronze Tarantula) about  1/3"" - 1/2""",35.0,15.0,57.1
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:neoholothele-incei-trinidad-olive-tarantula,"Neoholothele incei ""Olive"" Form (Trinidad Olive Tarantula) around  1/2""",39.0,17.0,56.4
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:heteroscodra-maculata-togo-starburst-tarantula-for-sale,"Heteroscodra maculata (Togo Starburst Tarantula) about 1/2"" - 3/4""",45.0,19.0,57.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-rosea-chilean-rose-tarantula-for-sale,"Grammostola rosea RCF (Chilean Rose Tarantula) Red Color Form about  3/4"" - 1""",65.0,39.0,40.0
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:harpactira-namaquensis-bronze-baboon-tarantula-for-sale-1,"Harpactira namaquensis (Bronze Baboon Tarantula) about 1""",52.0,29.0,44.2
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-reduncus-costa-rican-orange-mouth-tarantula-1,"Psalmopoeus reduncus (Costa Rican Orange Mouth Tarantula) about 3/4"" - 1""",39.0,15.0,61.5
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:harpactira-pulchripes-golden-blue-leg-baboon-tarantula-for-sale,"Harpactira pulchripes (Golden Blue Leg Baboon Tarantula) about 3/4"" - 1""",35.0,29.0,17.1
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:pamphobeteus-mascara-tarantula-for-sale-1,"Pamphobeteus sp. mascara (Mascara Giant Birdeater Tarantula) about 1 14"" - 1 1/2""",79.0,42.0,46.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:urupelma-peruvianun-tarantula-for-sale,"Urupelma  peruvianum ex Homoeomma (Peruvian Blue Tarantula) about 1"" - 1 1/4""",74.0,42.0,43.2
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:monocentropus-balfouri-socotra-island-blue-baboon,"Monocentropus balfouri (Socotra Island Blue Baboon) 1"" - 1 1/4""",65.0,42.0,35.4
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-cambridgei-trinidad-chevron-tarantula-for-sale,"Psalmopoeus cambridgei  (Trinidad Chevron Tarantula) about 3/4"" - 1""",42.0,15.0,64.3
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormictopus-auratus-bronze-tarantula-for-sale,"Phormictopus auratus (Bronze Tarantula)  about 3/4""-1""",45.0,25.0,44.4
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:tapinauchenius-sanctivincenti-tarantula-for-sale,"Tapinauchenius sanctivincenti (St. Vincent's Tree Spider) about 3/4"" - 1""",45.0,19.0,57.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:cyriopagopus-hati-hati-tarantula-for-sale,"Phormingochilus hatihati (Sulawesi Violet Hati Tarantula) ex Cyriopagopus about 3/4"" - 1""",42.0,25.0,40.5
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1,"Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 1/4""-1 1/2""",125.0,65.0,48.0
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-victori-tarantula-for-sale,"Psalmopoeus victori (Darth Maul Tarantula) about  3/4"" - 1""",55.0,35.0,36.4
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:chilobrachys-natanicharum-electric-blue-tarantula-for-sale,"Chilobrachys natanicharum  (Electric Blue Tarantula) about  1/2""-3/4""",45.0,19.0,57.8
+2026-09-30T12:07:14.687866+00:00,Fear Not Tarantulas,fear-not-tarantulas:pelinobius-muticus-king-baboon-tarantula-for-sale,"Pelinobius muticus (King Baboon Tarantula) about  1"" - 1 1/4""",59.0,29.0,50.8
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-baja,"Regal Jumping Spider ""Baja”",125.0,75.0,40.0
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-venom,"Regal Jumping Spider ""Venom""",95.0,75.0,21.1
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-sandberry,"Regal Jumping Spider ""Sandberry""",95.0,75.0,21.1
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-mystara,"Regal Jumping Spider ""Mystara""",95.0,75.0,21.1
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-casper,"Regal Jumping Spider ""Casper""",65.0,75.0,15.4
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-shadow,"Regal Jumping Spider ""Shadow""",95.0,75.0,21.1
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-storm,"Audax Jumping Spider ""Storm”",55.0,65.0,18.2
+2026-09-30T12:07:14.687866+00:00,Exotics Source,exotics-source:regal-jumping-spider-pepper,"Regal Jumping Spider ""Pepper""",65.0,75.0,15.4
+2026-09-30T12:07:14.687866+00:00,Spider Shoppe,spider-shoppe:exo-terra-pro-paludariums,Exo Terra Pro-Paludariums,128.0,125.0,2.3
+2026-09-30T12:07:14.687866+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-pamphobeteus-sp-machala-ecuador-purple-bloom,[Vancouver Pick-up] Pamphobeteus sp 'Machala' (Ecuador Purple Bloom),88.0,68.0,22.7
+2026-09-30T12:07:14.687866+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-monocentropus-balfouri-socotra-island-blue-baboon-copy,[Vancouver Pick-up] Monocentropus balfouri (Socotra Island Blue Baboon),78.0,48.0,38.5
+2026-09-30T12:07:14.687866+00:00,Spider Shoppe,spider-shoppe:correlophus-ciliatus-crested-gecko-lily-white-lw901,Correlophus ciliatus (Crested Gecko) Sable Lily White,198.0,148.0,25.3
+2026-09-30T12:07:14.687866+00:00,Holy-Poly Isopods,holy-poly-isopods:calcium-carbonate-powder-for-isopods,Calcium Carbonate Powder — Isopod Calcium Supplement,5.99,4.99,16.7
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:combo-2-2-ultimate-pro-carpenter-bee-traps-with-bee-vault-and-1-bee-licious-bee-bait-copy,COMBO #2 - 2 Ultimate Pro Carpenter Bee Traps with Bee Vault and 1 Bee-Licious Bee Bait,89.0,90.0,1.1
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-pink-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Pink Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,116.0,0.9
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-white-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro White Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,116.0,0.9
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:ultimate-pro-brown-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Brown Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,116.0,0.9
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:best-bee-brothers-ultimate-pro-black-roof-carpenter-bee-trap-repair-kit-replacement-parts-4-pcs,Ultimate Pro Black Roof Carpenter Bee Trap & Repair Kit (4 pcs),115.0,116.0,0.9
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:mosquito-treeline-tranquil-adventure-kit,"Shake & Shield Mosquito Repellent, Treeline Tranquil - Adventure Kit - 4 pcs",56.0,57.0,1.8
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:the-coastline-calm-adventure-kit,"Shake & Shield No-See-Um Repellent, Adventure Kit - 4 pcs",56.0,57.0,1.8
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-control-kit,Carpenter Bee Control Kit,138.0,139.0,0.7
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-designer-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Colored Roofs Gift Box,115.0,116.0,0.9
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-combo-citrus-carpenter-bee-repellent,Citrus Carpenter Bee Repellent Spray - Combo,56.0,57.0,1.8
+2026-09-30T12:07:14.687866+00:00,Best Bee Brothers,best-bee-brothers:carpenter-bee-turbo-trap-gift-box,Carpenter Bee Turbo Trap 2.0 with Bee Vault Gift Box,115.0,116.0,0.9
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:aphonopelma-hentzi,Aphonopelma hentzi - Female - Texas Brown Tarantula,84.99,89.99,5.9
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:acanthoscurria-geniculata-female-brazilian-whiteknee-tarantula-1,Acanthoscurria geniculata - suspected male-Brazilian Whiteknee Tarantula,69.99,175.99,151.5
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:heteroscodra-maculata-unsexed-togo-starburst-baboon,Heteroscodra maculata-female- Togo Starburst Baboon,64.99,199.99,207.7
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:grammostola-rosea-rcf,Grammostola rosea Red Form- female- Chilean Rose Tarantula,49.99,450.0,800.2
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:brachypelma-bohemei-pre-order,Brachypelma bohemei (Mexican Fireleg Tarantula) - Male - RARE - Pure Blood,174.99,199.99,14.3
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:tlitocatl-khalenbergi-veracruz-red-rump-tarantula-unsexed-pureblood-lines,Tlitocatl Khalenbergi- Veracruz Red Rump Tarantula- unsexed- Pure bloodlines,59.99,69.99,16.7
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:brachypelma-albopilosum-nicaraguan,Tliltocatl albopilosum 'Nicaraguan' - Unsexed - Nicaraguan Curly Hair Tarantula,44.99,52.99,17.8
+2026-09-30T12:07:14.687866+00:00,Micro Wilderness,micro-wilderness:acanthoscurria-geniculata-unsexed-brazilian-white-knee,Acanthoscurria geniculata - Unsexed - Brazilian Whiteknee Tarantula,49.99,69.99,40.0
+2026-09-30T12:07:14.687866+00:00,FangzTV,fangztv:avicularia-avicularia-guyana-pink-toe-2,Avicularia avicularia Guyana Pink Toe .5'',40.0,10.0,75.0
+2026-09-30T12:07:14.687866+00:00,Buddha Bugs,buddha-bugs:cyriocosmus-leetzi-colombian-dwarf-tiger-tarantula-for-sale,"Cyriocosmus leetzi (Colombian dwarf tiger tarantula) 0.33""",45.0,35.0,22.2
+2026-09-30T12:07:14.687866+00:00,Buddha Bugs,buddha-bugs:ephebopus-uatuman-emerald-skeleton-tarantula-for-sale,"Ephebopus uatuman (emerald skeleton tarantula) 0.75""",45.0,60.0,33.3
+2026-09-30T12:07:14.687866+00:00,Buddha Bugs,buddha-bugs:grammostola-pulchripes-chaco-golden-knee-tarantula-for-sale,"Grammostola pulchripes (Chaco golden knee tarantula) 0.5""",45.0,40.0,11.1
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:white-lipped-horned-toads,White Lipped Horned Toads,69.95,64.95,7.1
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:small-webbed-bell-toads,Small Webbed Bell Toads,79.95,69.95,12.5
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:true-dwarf-caimans-for-sale,Dwarf Caimans,379.95,394.95,3.9
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:peters-banded-skinks,Peter's Banded Skinks,84.95,64.95,23.5
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:coral-pink-snow-corn-snakes,Coral Pink Corn Snakes (Multiple Morph Choices),134.95,104.95,22.2
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:golden-tree-frogs,Golden Tree Frogs,32.95,29.95,9.1
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:veiled-chameleons,Veiled Chameleons,34.95,47.95,37.2
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:centipedes-for-sale,Centipedes For Sale - Various Morphs,34.95,32.95,5.7
+2026-09-30T12:07:14.687866+00:00,Big Apple Herp,big-apple-herp:mexican-black-king-snakes,Mexican Black Kingsnakes,159.95,169.95,6.3
+2026-09-30T12:07:14.687866+00:00,JamJam Exotic,jamjam-exotic:beelte-larvea-kit,Beelte Larvae Kit,7.99,9.99,25.0
+2026-09-30T12:07:14.687866+00:00,Pangea Reptile,pangea-reptile:pangea-microdish-surface-mount-gecko-feeding-dish-dual-extra-small,Pangea MicroDish - Surface Mount Kit - Gecko Feeding Dish - Dual Extra Small,9.99,4.99,50.1
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:peaceful-valley-sunflower-mix,Peaceful Valley Sunflower Mix - Raw Seed (lb),23.99,25.99,8.3
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:lot-org-pv-budget-soil-builder-mix-lb,Organic Peaceful Valley Budget Soil Builder Mix - Raw Seed (lb),2.99,4.99,66.9
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:lot-org-ryegrass-oregon-annual-lb,"Organic Ryegrass, Oregon Annual (lb)",2.75,6.99,154.2
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:high-rainfall-dryland-pasture-mix,Peaceful Valley High Rainfall Dryland Pasture Mix - Nitrocoated Seed (lb),6.3,9.99,58.6
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:austrian-winter-peas-raw-lb-7628,Austrian Winter Peas - Raw Seed (lb),3.2,7.99,149.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:nitro-persian-clover-rhizocoated-lb,Persian Clover - Nitrocoated Seed (lb),4.9,9.99,103.9
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:palestine-strawberry-clover-rhizocoated-lb,Palestine Strawberry Clover - Nitrocoated Seed (lb),8.3,10.99,32.4
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:alsike-clover-rhizocoated-lb,Alsike Clover - Nitrocoated Seed (lb),6.5,9.99,53.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:fava-bean-windsor-raw-lb,"Fava Bean, Windsor, Raw Seed (lb)",6.25,4.99,20.2
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-soil-builder-mix-raw-lb,Peaceful Valley Organic Premium Soil Builder Mix - Raw Seed (lb),2.99,4.99,66.9
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:frostmaster-peas-raw-seed-lb,Frostmaster Peas - Raw Seed (lb),2.69,4.99,85.5
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-wine-cap-mushroom-sawdust-spawn,Organic Wine Cap Mushroom Sawdust Spawn,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-lions-mane-spray-grow-mushroom-growing-kit,Organic Lion's Mane ‘Spray & Grow’ Mushroom Growing Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-snow-oyster-mushroom-outdoor-log-growing-kit,Organic Snow Oyster Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-chicken-of-the-woods-mushroom-outdoor-log-kit,Organic Chicken of the Woods Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-chestnut-mushroom-grow-kit-fruiting-block,Organic Chestnut Mushroom Grow Kit Fruiting Block,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-hen-of-the-woods-maitake-outdoor-log-growing-kit,Organic Hen of the Woods (Maitake) Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-lions-mane-mushroom-outdoor-log-growing-kit,Organic Lion's Mane Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-blue-oyster-mushroom-outdoor-log-growing-kit,Organic Blue Oyster Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-pink-oyster-spray-grow-mushroom-growing-kit,Organic Pink Oyster ‘Spray & Grow’ Mushroom Growing Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-nameko-mushroom-outdoor-log-growing-kit,Organic Nameko Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-shiitake-mushroom-outdoor-log-kit,Organic Shiitake Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-chestnut-mushroom-outdoor-log-kit,Organic Chestnut Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-italian-oyster-mushroom-outdoor-log-growing-kit,Organic Italian Oyster Mushroom Log Kit,29.99,34.99,16.7
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:winter-covers-for-24-tall-planter-boxes,"Winter Covers for 24"" Tall Planter Boxes",54.0,59.0,9.3
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:sleeve-feet,Sleeve Feet,20.0,26.0,30.0
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:soybeans-raw,Soybeans - Raw Seed (lb),2.99,4.99,66.9
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:japanese-millet-lb,Japanese Millet Seed (lb),3.99,4.99,25.1
+2026-09-30T12:07:14.687866+00:00,Grow Organic,grow-organic:organic-blue-oyster-spray-grow-mushroom-growing-kit,Organic Blue Oyster ‘Spray & Grow’ Mushroom Growing Kit,29.99,34.99,16.7
