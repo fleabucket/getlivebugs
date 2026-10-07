@@ -1391,13 +1391,6 @@
       },
       "suppliers": [
         {
-          "breeder": "The World of Isopods",
-          "product_name": "Giant Asian Mantis",
-          "price": 20.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/giant-african-mantis"
-        },
-        {
           "breeder": "USMANTIS",
           "product_name": "Hierodula membranacea Giant Asian Mantis",
           "price": 32.0,
@@ -1496,6 +1489,13 @@
           ]
         },
         {
+          "breeder": "The World of Isopods",
+          "product_name": "Giant Asian Mantis",
+          "price": 20.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/giant-african-mantis"
+        },
+        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Giant Asian Mantis (Hierodula membranacea)",
           "price": 30.0,
@@ -1551,8 +1551,8 @@
         }
       ],
       "supplier_count": 7,
-      "in_stock_count": 2,
-      "best_price": 20.0,
+      "in_stock_count": 1,
+      "best_price": 32.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+giant+asian+mantis&tag=getlivebugs-20",
         "creature_label": "Live Giant Asian Mantis",
@@ -2704,10 +2704,10 @@
       "suppliers": [
         {
           "breeder": "Exotics Unlimited",
-          "product_name": "Nhandu colloratovilosus (Brazilian Black & White Tarantula) 0.75-1\"",
-          "price": 49.0,
+          "product_name": "Nhandu colloratovilosus (Brazilian Black & White Tarantula)",
+          "price": 45.0,
           "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/nhandu-colloratovilosus-brazilian-black-white-tarantula-0-75-1",
+          "url": "https://exoticsunlimitedusa.com/products/nhandu-colloratovilosus-brazilian-black-white-tarantula",
           "size": "0.75–1\"",
           "temperament": "Defensive",
           "world": "New World",
@@ -2717,6 +2717,11 @@
               "label": "0.75-1\" Spiderling",
               "price": 49.0,
               "available": true
+            },
+            {
+              "label": "0.5\" Spiderling",
+              "price": 45.0,
+              "available": false
             }
           ]
         },
@@ -2882,7 +2887,7 @@
       ],
       "supplier_count": 12,
       "in_stock_count": 7,
-      "best_price": 49.0,
+      "best_price": 45.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=brazilian+black+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Brazilian Black Tarantula",
@@ -3652,6 +3657,26 @@
           ]
         },
         {
+          "breeder": "Buddha Bugs",
+          "product_name": "Tliltocatl albopilosus (curly hair tarantula)",
+          "price": 25.0,
+          "available": true,
+          "url": "https://buddha-bugs.com/products/tliltocatl-albopilosus-curly-hair-tarantula-for-sale",
+          "size": "0.33\"",
+          "variants": [
+            {
+              "label": "0.33\"",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "2\"-2.5\"",
+              "price": 50.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Exotics Source",
           "product_name": "Curly Hair Tarantula",
           "price": 35.0,
@@ -3730,18 +3755,10 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Tliltocatl albopilosus (curly hair tarantula) 0.33\"",
-          "price": 25.0,
-          "available": false,
-          "url": "https://buddha-bugs.com/products/tliltocatl-albopilosus-curly-hair-tarantula-for-sale",
-          "size": "0.33\""
         }
       ],
       "supplier_count": 11,
-      "in_stock_count": 9,
+      "in_stock_count": 10,
       "best_price": 10.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=curly+hair+tarantula+tarantula&tag=getlivebugs-20",
@@ -3820,16 +3837,6 @@
       },
       "suppliers": [
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 1/4\"-1 1/2\"",
-          "price": 65.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
-          "size": "1/4–1\"",
-          "world": "New World",
-          "habitat": "Terrestrial"
-        },
-        {
           "breeder": "FangzTV",
           "product_name": "Theraphosa stirmi Burgundy\" Goliath Bird-eater 4''+",
           "price": 110.0,
@@ -3865,6 +3872,16 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 1/4\"-1 1/2\"",
+          "price": 65.0,
+          "available": false,
+          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
+          "size": "1/4–1\"",
+          "world": "New World",
+          "habitat": "Terrestrial"
         },
         {
           "breeder": "Frognose Exotics",
@@ -3926,8 +3943,8 @@
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 3,
-      "best_price": 65.0,
+      "in_stock_count": 2,
+      "best_price": 110.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=goliath+birdeater+tarantula&tag=getlivebugs-20",
         "creature_label": "Goliath Birdeater",
@@ -8556,7 +8573,7 @@
             {
               "label": "Click Here to Add Additional Orders - Save on Shipping at Check Out",
               "price": 19.99,
-              "available": true
+              "available": false
             },
             {
               "label": "2 Orders of Ivory Millipede",
@@ -9941,8 +9958,8 @@
       "photo_is_base_species": false,
       "price_range": "15-30",
       "best_price": 5.0,
-      "supplier_count": 1,
-      "in_stock_count": 1,
+      "supplier_count": 2,
+      "in_stock_count": 2,
       "suppliers": [
         {
           "breeder": "US Invertebrate LLC",
@@ -9972,6 +9989,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Heart Leaf Tropicals",
+          "product_name": "Giant Australian Prickly Stick Insect - Extatosoma Tiaratum Lichen Morph",
+          "price": 150.0,
+          "available": true,
+          "url": "https://heartleaftropicals.com/products/lichen-stick-insect"
         }
       ],
       "amazon": {
@@ -10265,8 +10289,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "October 04, 2026",
-    "next_update": "October 07, 2026",
-    "last_updated_iso": "2026-10-04T12:04:10.548872+00:00"
+    "last_updated": "October 07, 2026",
+    "next_update": "October 11, 2026",
+    "last_updated_iso": "2026-10-07T12:58:33.105867+00:00"
   }
 }
