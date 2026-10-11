@@ -222,6 +222,14 @@
       },
       "suppliers": [
         {
+          "breeder": "American Reptile Distributors",
+          "product_name": "Hi Color Eastern Box Turtle Baby #2610010 (Terrapene carolina)",
+          "price": 149.99,
+          "available": true,
+          "url": "https://americanreptiles.com/products/hi-color-eastern-box-turtle-baby-2610010-terrapene-carolina",
+          "life_stage": "Baby"
+        },
+        {
           "breeder": "JMZ Butterfly Farm",
           "product_name": "Carolina Sphinx Moth Pupae",
           "price": 12.0,
@@ -306,19 +314,11 @@
           "available": false,
           "url": "https://exoticssource.com/products/juvenile-pinstripe-with-portholes-crested-gecko-carolina",
           "life_stage": "Juvenile"
-        },
-        {
-          "breeder": "American Reptile Distributors",
-          "product_name": "Hi Color Yellow Baby Eastern Box Turtle #2601 (Terrapene carolina)",
-          "price": 199.99,
-          "available": false,
-          "url": "https://americanreptiles.com/products/hi-color-yellow-baby-eastern-box-turtle-2601-terrapene-carolina",
-          "life_stage": "Baby"
         }
       ],
       "supplier_count": 8,
-      "in_stock_count": 0,
-      "best_price": null,
+      "in_stock_count": 1,
+      "best_price": 149.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+carolina+mantis&tag=getlivebugs-20",
         "creature_label": "Live Carolina Mantis",
@@ -2115,7 +2115,7 @@
             {
               "label": "10-pack breeder bundles L2/3",
               "price": 300.0,
-              "available": false
+              "available": true
             },
             {
               "label": "Pair Male/Female",
@@ -2124,8 +2124,8 @@
             },
             {
               "label": "5 Pack L2 Save$$",
-              "price": 150.0,
-              "available": false
+              "price": 180.0,
+              "available": true
             }
           ]
         },
@@ -2300,6 +2300,22 @@
           ]
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Emperor Scorpion Baby (Pandisus imperator)",
+          "price": 49.99,
+          "available": true,
+          "url": "https://imperialreptiles.com/products/baby-emperor-scorpion-for-sale",
+          "size": "75–1\"",
+          "life_stage": "Baby",
+          "variants": [
+            {
+              "label": ".75-1”",
+              "price": 49.99,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Big Apple Herp",
           "product_name": "Emperor Scorpions (True P. imperator)",
           "price": 54.95,
@@ -2402,9 +2418,9 @@
           ]
         }
       ],
-      "supplier_count": 7,
-      "in_stock_count": 4,
-      "best_price": 54.95,
+      "supplier_count": 8,
+      "in_stock_count": 5,
+      "best_price": 49.99,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+emperor+scorpion&tag=getlivebugs-20",
         "creature_label": "Live Emperor Scorpion",
@@ -2500,6 +2516,36 @@
               "label": ".5 Inch",
               "price": 54.95,
               "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Antilles Pink-Toe Tarantula (Caribena versicolor)",
+          "price": 64.99,
+          "available": true,
+          "url": "https://imperialreptiles.com/products/antilles-pink-toe-tarantula-for-sale",
+          "size": "5\"",
+          "variants": [
+            {
+              "label": ".5”",
+              "price": 64.99,
+              "available": true
+            },
+            {
+              "label": "1.5\"",
+              "price": 99.99,
+              "available": false
+            },
+            {
+              "label": "GRAB N GO KIT - .5-.75”",
+              "price": 79.99,
+              "available": false
+            },
+            {
+              "label": "GRAB N GO KIT - 1.5\"",
+              "price": 124.99,
+              "available": false
             }
           ]
         },
@@ -2619,8 +2665,8 @@
           ]
         }
       ],
-      "supplier_count": 9,
-      "in_stock_count": 2,
+      "supplier_count": 10,
+      "in_stock_count": 3,
       "best_price": 50.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=antilles+pinktoe+tarantula+tarantula&tag=getlivebugs-20",
@@ -3327,9 +3373,29 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Cobalt Blue \"Emerald Green\" Tarantula",
+          "price": 99.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/cobal-emerald-green-tarantula-for-sale",
+          "size": "3–4\"",
+          "variants": [
+            {
+              "label": "0.5",
+              "price": 99.99,
+              "available": false
+            },
+            {
+              "label": "3-4\"",
+              "price": 149.99,
+              "available": false
+            }
+          ]
         }
       ],
-      "supplier_count": 7,
+      "supplier_count": 8,
       "in_stock_count": 4,
       "best_price": 38.0,
       "amazon": {
@@ -3659,15 +3725,15 @@
         {
           "breeder": "Buddha Bugs",
           "product_name": "Tliltocatl albopilosus (curly hair tarantula)",
-          "price": 25.0,
+          "price": 30.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/tliltocatl-albopilosus-curly-hair-tarantula-for-sale",
-          "size": "0.33\"",
+          "size": "0.75\"",
           "variants": [
             {
-              "label": "0.33\"",
-              "price": 25.0,
-              "available": false
+              "label": "0.75\"",
+              "price": 30.0,
+              "available": true
             },
             {
               "label": "2\"-2.5\"",
@@ -3837,6 +3903,16 @@
       },
       "suppliers": [
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 1/4\"-1 1/2\"",
+          "price": 65.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
+          "size": "1/4–1\"",
+          "world": "New World",
+          "habitat": "Terrestrial"
+        },
+        {
           "breeder": "FangzTV",
           "product_name": "Theraphosa stirmi Burgundy\" Goliath Bird-eater 4''+",
           "price": 110.0,
@@ -3872,16 +3948,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 1/4\"-1 1/2\"",
-          "price": 65.0,
-          "available": false,
-          "url": "https://fearnottarantulas.com/products/theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1",
-          "size": "1/4–1\"",
-          "world": "New World",
-          "habitat": "Terrestrial"
         },
         {
           "breeder": "Frognose Exotics",
@@ -3928,6 +3994,26 @@
           ]
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Burgundy Goliath Bird-Eater Tarantula (Theraphosa stirmi)",
+          "price": 99.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/goliath-bird-eater-tarantula-theraphosa-stirmi-burgundy-for-sale",
+          "size": "2.5\"",
+          "variants": [
+            {
+              "label": "2.5\"",
+              "price": 99.99,
+              "available": false
+            },
+            {
+              "label": "GRAB N GO KIT - 1.5\"",
+              "price": 129.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Theraphosa blondi (Goliath Bird Eating Tarantula)",
           "price": 105.0,
@@ -3942,9 +4028,9 @@
           ]
         }
       ],
-      "supplier_count": 8,
-      "in_stock_count": 2,
-      "best_price": 110.0,
+      "supplier_count": 9,
+      "in_stock_count": 3,
+      "best_price": 65.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=goliath+birdeater+tarantula&tag=getlivebugs-20",
         "creature_label": "Goliath Birdeater",
@@ -4103,7 +4189,7 @@
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖🛖",
               "price": 85.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -4174,6 +4260,26 @@
           ]
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Green Bottle Blue Tarantula (Chromatopelma cyaneopubescens)",
+          "price": 119.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/green-bottle-blue-tarantula-for-sale",
+          "size": "2.5\"",
+          "variants": [
+            {
+              "label": "2.5”",
+              "price": 134.99,
+              "available": false
+            },
+            {
+              "label": "GRAN N GO KIT - 1.5\"",
+              "price": 119.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "American Reptile Distributors",
           "product_name": "Green Bottle Blue Tarantula Female (3-4 inches) (Chromatopelma cyaneopubescens)",
           "price": 199.99,
@@ -4198,7 +4304,7 @@
           ]
         }
       ],
-      "supplier_count": 11,
+      "supplier_count": 12,
       "in_stock_count": 6,
       "best_price": 49.99,
       "amazon": {
@@ -4592,6 +4698,31 @@
           ]
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Mexican Red Rump Tarantula (Tliltocatl (Brachypelma) vagans)",
+          "price": 22.49,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/mexican-red-rump-tarantula-for-sale-1",
+          "size": "2\"",
+          "variants": [
+            {
+              "label": "2\"",
+              "price": 59.99,
+              "available": false
+            },
+            {
+              "label": ".5\"",
+              "price": 22.49,
+              "available": false
+            },
+            {
+              "label": "GRAND N GO KIT - 1\"",
+              "price": 44.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "The Defiant Forest",
           "product_name": "Mexican Red Rump Tarantula for Sale | Tliltocatl vagans",
           "price": null,
@@ -4602,7 +4733,7 @@
           "per_unit_price": null
         }
       ],
-      "supplier_count": 6,
+      "supplier_count": 7,
       "in_stock_count": 4,
       "best_price": 20.0,
       "amazon": {
@@ -4851,9 +4982,29 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Orange Starburst Baboon Tarantula \"OBT\" (Pterinochilus murinus)",
+          "price": 49.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/orange-starburst-baboon-tarantula-for-sale",
+          "size": "1\"",
+          "variants": [
+            {
+              "label": "1\"",
+              "price": 49.99,
+              "available": false
+            },
+            {
+              "label": "Pair (2\")",
+              "price": 149.99,
+              "available": false
+            }
+          ]
         }
       ],
-      "supplier_count": 9,
+      "supplier_count": 10,
       "in_stock_count": 6,
       "best_price": 22.0,
       "amazon": {
@@ -5120,6 +5271,26 @@
           ]
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Puerto Rican Pink Toe Tarantula (Caribena laeta)",
+          "price": 59.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/puerto-rican-pink-toe-tarantula-for-sale",
+          "size": "0.5–0.75\"",
+          "variants": [
+            {
+              "label": ".5-.75\"",
+              "price": 59.99,
+              "available": false
+            },
+            {
+              "label": "GRAB N' GO KIT - .5-.75\"",
+              "price": 74.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Exotics Unlimited",
           "product_name": "Avicularia avicularia (Guyana Pink Toe Tarantula) 1-1.25\"",
           "price": 65.0,
@@ -5138,7 +5309,7 @@
           ]
         }
       ],
-      "supplier_count": 13,
+      "supplier_count": 14,
       "in_stock_count": 8,
       "best_price": 10.0,
       "amazon": {
@@ -5389,8 +5560,8 @@
       "photo_is_base_species": true,
       "price_range": "5-15",
       "best_price": 21.99,
-      "supplier_count": 12,
-      "in_stock_count": 4,
+      "supplier_count": 13,
+      "in_stock_count": 5,
       "suppliers": [
         {
           "breeder": "JamJam Exotic",
@@ -5414,6 +5585,22 @@
             {
               "label": "50 CT",
               "price": 249.99,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Cubaris murina “Rubber Ducky” Isopods (5 ct.)",
+          "price": 59.99,
+          "available": true,
+          "url": "https://imperialreptiles.com/products/rubber-ducky-isopods-for-sale",
+          "quantity": 5,
+          "per_unit_price": 12.0,
+          "variants": [
+            {
+              "label": "5 ct.",
+              "price": 59.99,
               "available": true
             }
           ]
@@ -5637,8 +5824,8 @@
       "photo_is_base_species": false,
       "price_range": "1-3",
       "best_price": 6.0,
-      "supplier_count": 14,
-      "in_stock_count": 9,
+      "supplier_count": 15,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5747,7 +5934,7 @@
             {
               "label": "20 Giant Gray Isopods",
               "price": 10.0,
-              "available": true
+              "available": false
             },
             {
               "label": "50 Giant Gray Isopods",
@@ -5803,20 +5990,6 @@
           "price": 18.0,
           "available": true,
           "url": "https://usinvertebratellc.com/products/pocellio-laevis-diary-cow"
-        },
-        {
-          "breeder": "Rubber Ducky Isopods",
-          "product_name": "\"Orange Dairy Cow\" THE Perfect BioActive Isopod (Porcellio laevis)",
-          "price": 24.49,
-          "available": true,
-          "url": "https://rubberduckyisopods.com/products/orange-dairy-cow-the-perfect-bioactive-isopod-porcellio-laevis-10-100-count",
-          "variants": [
-            {
-              "label": "10",
-              "price": 24.49,
-              "available": true
-            }
-          ]
         },
         {
           "breeder": "Holy-Poly Isopods",
@@ -5875,6 +6048,22 @@
           "per_unit_price": 1.79
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Porcellio laevis \"Dairy Cow\" Isopods (10 ct.)",
+          "price": 24.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/porcellio-laevis-dairy-cow-isopods-for-sale",
+          "quantity": 10,
+          "per_unit_price": 2.5,
+          "variants": [
+            {
+              "label": "10 ct",
+              "price": 24.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Isopod Depot",
           "product_name": "Porcellio Laevis White Isopods",
           "price": 10.0,
@@ -5884,6 +6073,20 @@
             {
               "label": "10",
               "price": 10.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Rubber Ducky Isopods",
+          "product_name": "\"Orange Dairy Cow\" THE Perfect BioActive Isopod (Porcellio laevis)",
+          "price": 24.49,
+          "available": false,
+          "url": "https://rubberduckyisopods.com/products/orange-dairy-cow-the-perfect-bioactive-isopod-porcellio-laevis-10-100-count",
+          "variants": [
+            {
+              "label": "10",
+              "price": 24.49,
               "available": false
             }
           ]
@@ -5951,8 +6154,8 @@
       "photo_is_base_species": false,
       "price_range": "1-2",
       "best_price": 10.0,
-      "supplier_count": 13,
-      "in_stock_count": 7,
+      "supplier_count": 14,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6007,6 +6210,22 @@
             {
               "label": "10ct FREE SHIPPING",
               "price": 20.99,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Porcellionides pruinosus \"Oreo Crumble\" Isopods (10 ct.)",
+          "price": 19.99,
+          "available": true,
+          "url": "https://imperialreptiles.com/products/porcellionides-pruinosus-oreo-crumble-isopods-for-sale",
+          "quantity": 10,
+          "per_unit_price": 2.0,
+          "variants": [
+            {
+              "label": "10ct",
+              "price": 19.99,
               "available": true
             }
           ]
@@ -6451,9 +6670,17 @@
       "photo_is_base_species": false,
       "price_range": "5-12",
       "best_price": null,
-      "supplier_count": 0,
+      "supplier_count": 1,
       "in_stock_count": 0,
-      "suppliers": [],
+      "suppliers": [
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "A. klugii \"Montenegro Clown\" Isopods",
+          "price": 39.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/a-klugii-montenegro-clown-isopods-for-sale"
+        }
+      ],
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+Clown+Isopod&tag=getlivebugs-20",
         "creature_label": "Live Clown Isopod",
@@ -6519,10 +6746,34 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "20-50",
-      "best_price": 23.95,
-      "supplier_count": 12,
-      "in_stock_count": 6,
+      "best_price": 19.99,
+      "supplier_count": 13,
+      "in_stock_count": 7,
       "suppliers": [
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Regal Jumping Spider",
+          "price": 19.99,
+          "available": true,
+          "url": "https://imperialreptiles.com/products/regal-jumping-spider-for-sale",
+          "variants": [
+            {
+              "label": "Male",
+              "price": 19.99,
+              "available": true
+            },
+            {
+              "label": "Female",
+              "price": 24.99,
+              "available": true
+            },
+            {
+              "label": "Pair",
+              "price": 39.99,
+              "available": true
+            }
+          ]
+        },
         {
           "breeder": "Big Apple Herp",
           "product_name": "Red Backed & Regal Jumping Spiders",
@@ -6822,7 +7073,7 @@
       "photo_is_base_species": false,
       "price_range": "15-35",
       "best_price": null,
-      "supplier_count": 2,
+      "supplier_count": 1,
       "in_stock_count": 0,
       "suppliers": [
         {
@@ -6831,13 +7082,6 @@
           "price": 34.98,
           "available": false,
           "url": "https://tcinsects.com/product/phidippus-adax-bold-jumping-spider-for-sale/"
-        },
-        {
-          "breeder": "Imperial Reptiles",
-          "product_name": "Bold Jumping Spider",
-          "price": 39.99,
-          "available": false,
-          "url": "https://imperialreptiles.com/products/bold-jumping-spider-for-sale"
         }
       ],
       "amazon": {
@@ -6906,7 +7150,7 @@
       "photo_is_base_species": false,
       "price_range": "25-60",
       "best_price": 10.0,
-      "supplier_count": 9,
+      "supplier_count": 10,
       "in_stock_count": 5,
       "suppliers": [
         {
@@ -7024,6 +7268,26 @@
           ]
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Salmon Pink Bird Eater Tarantula (Lasiodora parahybana)",
+          "price": 39.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/salmon-pink-bird-eater-for-sale",
+          "size": "05\"",
+          "variants": [
+            {
+              "label": ".05\"",
+              "price": 39.99,
+              "available": false
+            },
+            {
+              "label": "GRAB N GO KIT - 1.5\"",
+              "price": 69.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Gallegos Zoological",
           "product_name": "Lasiodora parahybana (Salmon Pink Birdeater Tarantula)",
           "price": 50.0,
@@ -7120,7 +7384,7 @@
       "photo_is_base_species": false,
       "price_range": "30-70",
       "best_price": 17.0,
-      "supplier_count": 9,
+      "supplier_count": 10,
       "in_stock_count": 6,
       "suppliers": [
         {
@@ -7241,6 +7505,26 @@
           "url": "https://frognoseexotics.com/products/grammostola-pulchripes"
         },
         {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Chaco Goldenknee Tarantula (Grammostola pulchripes)",
+          "price": 54.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/cahco-goldenknee-tarantula-for-sale",
+          "size": "5\"",
+          "variants": [
+            {
+              "label": ".5\"",
+              "price": 54.99,
+              "available": false
+            },
+            {
+              "label": "GRAB N GO KIT - 1.5\"",
+              "price": 89.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "TC Insects",
           "product_name": "Grammostola pulchripes | Chaco golden knee",
           "price": 112.0,
@@ -7311,7 +7595,7 @@
       "price_range": "60-150",
       "best_price": 45.0,
       "supplier_count": 6,
-      "in_stock_count": 3,
+      "in_stock_count": 2,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -7331,29 +7615,6 @@
             {
               "label": "2 Count 1.5\" - $84.00 / $42.00 ea.",
               "price": 80.0,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Brachypelma boehmei (Mexican Fireleg Tarantula) about  1/2\" - 3/4\"",
-          "price": 45.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/brachypelma-boehmei-mexican-fireleg-tarantula-for-sale",
-          "size": "1/2–3/4\"",
-          "life_stage": "Spiderling",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "Spiderling alone",
-              "price": 45.0,
-              "available": true
-            },
-            {
-              "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
-              "price": 55.0,
               "available": true
             }
           ]
@@ -7405,6 +7666,13 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Mexican Fire Leg Tarantula (Brachypelma boehmei)",
+          "price": 89.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/mexican-fire-leg-tarantula-brachypelma-boehmei-for-sale"
         },
         {
           "breeder": "Micro Wilderness",
@@ -7485,7 +7753,7 @@
       "photo_is_base_species": false,
       "price_range": "60-150",
       "best_price": 40.0,
-      "supplier_count": 10,
+      "supplier_count": 11,
       "in_stock_count": 7,
       "suppliers": [
         {
@@ -7663,6 +7931,31 @@
             {
               "label": "3",
               "price": 145.0,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Socotra Island Blue Baboon Tarantula (Monocentropus balfouri)",
+          "price": 59.99,
+          "available": false,
+          "url": "https://imperialreptiles.com/products/socotra-island-blue-baboon-for-sale",
+          "size": "1\"",
+          "variants": [
+            {
+              "label": "1\"",
+              "price": 59.99,
+              "available": false
+            },
+            {
+              "label": "1.25\"",
+              "price": 59.99,
+              "available": false
+            },
+            {
+              "label": "2.5\"",
+              "price": 99.99,
               "available": false
             }
           ]
@@ -7884,8 +8177,8 @@
       "photo_is_base_species": false,
       "price_range": "25-50",
       "best_price": 24.0,
-      "supplier_count": 7,
-      "in_stock_count": 5,
+      "supplier_count": 8,
+      "in_stock_count": 6,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -7925,6 +8218,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Imperial Reptiles",
+          "product_name": "Desert Hairy Scorpion",
+          "price": 29.99,
+          "available": true,
+          "url": "https://imperialreptiles.com/products/desert-hairy-scorpion-for-sale"
         },
         {
           "breeder": "Big Apple Herp",
@@ -8343,7 +8643,7 @@
       "photo_is_base_species": false,
       "price_range": "10-25",
       "best_price": 4.0,
-      "supplier_count": 8,
+      "supplier_count": 7,
       "in_stock_count": 4,
       "suppliers": [
         {
@@ -8474,21 +8774,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Imperial Reptiles",
-          "product_name": "Banana Mojave Bumblebee Ball Python",
-          "price": 249.99,
-          "available": false,
-          "url": "https://imperialreptiles.com/products/banana-mojave-bumblebee-ball-python-for-sale",
-          "life_stage": "Baby",
-          "variants": [
-            {
-              "label": "Male",
-              "price": 249.99,
-              "available": false
-            }
-          ]
         }
       ],
       "amazon": {
@@ -8578,7 +8863,7 @@
             {
               "label": "2 Orders of Ivory Millipede",
               "price": 39.99,
-              "available": true
+              "available": false
             },
             {
               "label": "3 Orders of Ivory Millipede",
@@ -9155,7 +9440,7 @@
             {
               "label": "5",
               "price": 60.0,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -9265,7 +9550,7 @@
             {
               "label": "Larva: L1-L2",
               "price": 29.99,
-              "available": true
+              "available": false
             },
             {
               "label": "Larva: L2-L3",
@@ -10289,8 +10574,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "October 07, 2026",
-    "next_update": "October 11, 2026",
-    "last_updated_iso": "2026-10-07T12:58:33.105867+00:00"
+    "last_updated": "October 11, 2026",
+    "next_update": "October 14, 2026",
+    "last_updated_iso": "2026-10-11T12:25:50.626325+00:00"
   }
 }
