@@ -5716,3 +5716,92 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-10-14T11:24:49.028945+00:00,The World of Isopods,the-world-of-isopods:white-stripe-spikey,White Striped Spikeys,400.0,350.0,12.5
 2026-10-14T11:24:49.028945+00:00,Sagebrush Butterflies,sagebrush-butterflies:oregon-swallowtail-chrysalis-live-butterfly-oregon-only,Oregon Swallowtail Chrysalis -- LIVE BUTTERFLY,15.0,18.0,20.0
 2026-10-14T11:24:49.028945+00:00,Sagebrush Butterflies,sagebrush-butterflies:polyphemus-silkmoth-live-moth-cocoon,Polyphemus Silkmoth -- LIVE MOTH COCOON,17.5,20.0,14.3
+2026-10-18T10:34:41.886554+00:00,PanTerra Pets,panterra-pets:praying-mantis-habitat-starter-kit,Praying Mantis Habitat Starter Kit,19.99,22.99,15.0
+2026-10-18T10:34:41.886554+00:00,The Defiant Forest,the-defiant-forest:tyrells-tufted-jumping-spiders-phidippus-tyrelli,"Captive Bred Tyrell's Tufted Jumping Spiders, Phidippus tyrelli | Wholesale Only - i4 & i5",180.0,156.0,13.3
+2026-10-18T10:34:41.886554+00:00,The Defiant Forest,the-defiant-forest:african-giant-black-millipede,"African Giant Black Millipede, Archispirostreptus Gigas | Wild Stock",80.0,85.0,6.2
+2026-10-18T10:34:41.886554+00:00,The Defiant Forest,the-defiant-forest:brazilian-blue-tarantula,"Brazilian Blue Tarantula, Lasiocyano sazamai - Terrestrial Species",36.0,49.0,36.1
+2026-10-18T10:34:41.886554+00:00,Exotics Unlimited,exotics-unlimited:cilantica-devamatha-polychromatic-earth-tiger-tarantula-1-1-25,"Cilantica devamatha (Polychromatic Earth Tiger Tarantula) 1-1.25""",155.0,99.0,36.1
+2026-10-18T10:34:41.886554+00:00,Exotics Unlimited,exotics-unlimited:pterinochilus-lapalala-gold-dust-baboon-tarantula,Pterinochilus lapalala (Gold Dust Baboon Tarantula),115.0,99.0,13.9
+2026-10-18T10:34:41.886554+00:00,Exotics Unlimited,exotics-unlimited:pterinochilus-lapalala-gold-dust-baboon-tarantula-0-75-1,"Pterinochilus lapalala (Gold Dust Baboon Tarantula) 0.75-1""",119.0,99.0,16.8
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:scolopendra-sp-ruby-red-hispaniolan-red-giant-centipede-massive-caribbean-species-live-arrival-guarantee,Scolopendra sp Ruby Red – Hispaniolan Red Giant Centipede | Massive Caribbean Species | Live Arrival Guarantee,191.79,89.99,53.1
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:hadrurus-arizonensis-desert-hairy-scorpion-impressive-north-american-species-live-arrival-guarantee,Hadrurus arizonensis – Desert Hairy Scorpion | Impressive North American Species | Live Arrival Guarantee,27.49,23.29,15.3
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:tliltocatl-albopilosus-curly-hair-tarantula-perfect-beginner-species-live-arrival-guarantee,Tliltocatl albopilosus – Curly Hair Tarantula | Perfect Beginner Species | Live Arrival Guarantee,27.99,24.79,11.4
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:archispirostreptus-gigas-african-giant-millipede-massive-gentle-giant-live-arrival-guarantee,Archispirostreptus gigas – African Giant Millipede | Massive Gentle Giant | Live Arrival Guarantee,79.99,77.69,2.9
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:pseudouroctonus-santarita-madera-forest-scorpion-santa-rita-mountains-scorpion-live-arrival-guarantee,Pseudouroctonus santarita – Madera Forest Scorpion | Santa Rita Mountains Scorpion | Live Arrival Guarantee,34.99,29.29,16.3
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:poecilotheria-metallica-gooty-sapphire-ornamental-tarantula-stunning-blue-species-live-arrival-guarantee,Poecilotheria metallica – Gooty Sapphire Ornamental Tarantula | Stunning Blue Species | Live Arrival Guarantee,99.99,97.99,2.0
+2026-10-18T10:34:41.886554+00:00,Ty Dye Exotics,ty-dye-exotics:ornithoctoninae-sp-vietnam-silver-vietnam-silver-earth-tiger-tarantula-rare-metallic-species-live-arrival-guarantee,"Ornithoctoninae sp. ""Vietnam Silver"" – Vietnam Silver Earth Tiger Tarantula | Rare Metallic Species | Live Arrival Guarantee",63.79,46.69,26.8
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:18x18x24-33-gallon-arboreal-reptile-enclosure-v3-auction,18x18x24 (33 Gallon) Arboreal Reptile Enclosure V3 Auction,100.0,152.0,52.0
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:medium-calcigrubs-500ct-auction,Medium CalciGrubs 500ct Auction,4.0,3.0,25.0
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction,Large Hornworm 6ct (Case Of 12) Auction,41.0,45.0,9.8
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction,24x18x36 (67 Gallon) Arboreal Auction,146.0,141.0,3.4
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction-1,Large Superworm 250ct Auction,18.0,6.0,66.7
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-1,Dubia Roaches Medium 500ct Auction,47.0,46.0,2.1
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction,80w Heat Panel Reptile Habitat Auction,120.0,76.0,36.7
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-1,Medium Hornworm 24ct (Case Of 12) Auction,22.0,18.0,18.2
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:large-dubia-roaches-250ct-auction,Large Dubia Roaches 250ct Auction,30.0,40.0,33.3
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction,4x2x2 V3 (120 Gallon) Auction,277.0,265.0,4.3
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction,Large CalciGrubs 500ct Auction,9.0,4.0,55.6
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction,Medium Hornworm 24ct (Case Of 12) Auction,10.0,18.0,80.0
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:hornworm-moth-pupa-sexed-pair-manduca-sexta-auction,Hornworm Moth Pupa Sexed Pair (Manduca sexta) Auction,3.0,1.0,66.7
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:xl-dubia-roaches-250ct-auction,XL Dubia Roaches 250ct Auction,43.0,42.0,2.3
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction,Large Superworm 250ct Auction,17.5,10.0,42.9
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction,Dubia Roaches Medium 500ct Auction,32.0,58.0,81.2
+2026-10-18T10:34:41.886554+00:00,DubiaRoaches.com,dubiaroaches:220w-heat-panel-reptile-habitat-auction,220w Heat Panel Reptile Habitat Auction,146.0,182.0,24.7
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:selenobrachys-orphnaecus-philippinus-philippinus,"Selenobrachys (ex Orphnaecus) philippinus (Philippine Tangerine Tarantula) about 1/2"" - 3/4""",25.0,45.0,80.0
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:hysterocrates-gigas-cameroon-red-baboon-tarantula-spiderlings,"Hysterocrates gigas  (Cameroon Red Baboon Tarantula) about 1/2"" - 3/4""",15.0,45.0,200.0
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-pulchripes-chaco-golden-knee-tarantula-beginner,"Grammostola pulchripes (Chaco Golden Knee Tarantula) about 1/2"" - 3/4""",17.0,35.0,105.9
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormingochilus-sp-sabah-red-sabah-red-earth-tiger-tarantula,"Phormingochilus sp. Sabah Red (Sabah Red Earth Tiger Tarantula)  about 1""",56.0,119.0,112.5
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:haploclastus-devamatha-was-thrigmopoeus-psychedelicus-polychromatic-earth-tiger-tarantula-small,"Cilantica devamatha (Psychedelic Earth Tiger Tarantula) 1/2"" - 3/4""",59.0,125.0,111.9
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:acanthoscurria-geniculata-giant-white-knee-tarantula-for-sale,"Acanthoscurria geniculata (Giant White Knee Tarantula) about 1/2""",22.0,39.0,77.3
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:pterinopelma-sazimai-iridescent-blue-tarantula-for-sale,"Lasiocyano sazimai  (Iridescent Blue Tarantula) about 1/4"" - 1/3""",15.0,35.0,133.3
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-rosea-chilean-rose-tarantula-for-sale,"Grammostola rosea RCF (Chilean Rose Tarantula) Red Color Form about  3/4"" - 1""",39.0,65.0,66.7
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:harpactira-pulchripes-golden-blue-leg-baboon-tarantula-for-sale,"Harpactira pulchripes (Golden Blue Leg Baboon Tarantula) about 3/4"" - 1""",29.0,45.0,55.2
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:pamphobeteus-mascara-tarantula-for-sale-1,"Pamphobeteus sp. mascara (Mascara Giant Birdeater Tarantula) about 1 1/4"" - 1 1/2""",42.0,79.0,88.1
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-cambridgei-trinidad-chevron-tarantula-for-sale,"Psalmopoeus cambridgei  (Trinidad Chevron Tarantula) about 3/4"" - 1""",15.0,42.0,180.0
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:theraphosa-stirmi-burgundy-goliath-birdeater-tarantula-for-sale-1,"Theraphosa stirmi (Burgundy Goliath Birdeater Tarantula) about 1 1/4""-1 1/2""",65.0,75.0,15.4
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:chilobrachys-natanicharum-electric-blue-tarantula-for-sale,"Chilobrachys natanicharum  (Electric Blue Tarantula) about  1/2""-3/4""",19.0,45.0,136.8
+2026-10-18T10:34:41.886554+00:00,Fear Not Tarantulas,fear-not-tarantulas:pelinobius-muticus-king-baboon-tarantula-for-sale,"Pelinobius muticus (King Baboon Tarantula) about  1"" - 1 1/4""",29.0,59.0,103.4
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:untitled-oct8_16-40,Regal Jumping Spider “Indica”,75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-copper,Regal Jumping Spider “Copper”,75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-dijon,Regal Jumping Spider “Dijon”,75.0,65.0,13.3
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-sable,Regal Jumping Spider “Sable”,75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-duskwillow,Regal Jumping Spider “Duskwillow”,75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-butterscotch,Regal Jumping Spider “Butterscotch”,95.0,75.0,21.1
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-berrypuff,"Regal Jumping Spider ""Berry Puff""",75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-sugarplum,"Regal Jumping Spider ""Sugarplum""",75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-sage,"Regal Jumping Spider ""Sage""",95.0,75.0,21.1
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-onyx-high-white,"Regal Jumping Spider ""Onyx"" (High White)",150.0,95.0,36.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-phantom,"Regal Jumping Spider ""Phantom""",95.0,75.0,21.1
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-fruity-pebbles,Regal Jumping Spider “Fruity Pebbles”,75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-royal,"Regal Jumping Spider ""Royal""",75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-bambi,"Regal Jumping Spider ""Bambi""",95.0,75.0,21.1
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-frostberry,"Regal Jumping Spider ""Frostberry""",95.0,75.0,21.1
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-pink,"Regal Jumping Spider ""Pink""",75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Exotics Source,exotics-source:regal-jumping-spider-ursula,"Regal Jumping Spider ""Ursula""",75.0,95.0,26.7
+2026-10-18T10:34:41.886554+00:00,Spider Shoppe,spider-shoppe:arcadia-goldensun-basking-halogen,Arcadia GoldenSun Basking Halogen,15.78,12.78,19.0
+2026-10-18T10:34:41.886554+00:00,Spider Shoppe,spider-shoppe:abdomegaphobema-mesomelas-costa-rican-red-leg-1-5,Abdomegaphobema mesomelas (Costa Rican Red Leg),224.0,108.0,51.8
+2026-10-18T10:34:41.886554+00:00,US Invertebrate LLC,us-invertebrate:lepidodactylus-lugubris-mourning-gecko,Lepidodactylus lugubris (Mourning Gecko),25.0,29.0,16.0
+2026-10-18T10:34:41.886554+00:00,Buddha Bugs,buddha-bugs:heteropoda-javana-javan-huntsman-spider-for-sale,"Heteropoda javana (Javan huntsman spider) 0.33""",30.0,35.0,16.7
+2026-10-18T10:34:41.886554+00:00,Buddha Bugs,buddha-bugs:heteropoda-lunula-malaysian-purple-huntsman-spider-for-sale,Heteropoda lunula (purple huntsman spider),20.0,30.0,50.0
+2026-10-18T10:34:41.886554+00:00,Big Apple Herp,big-apple-herp:painted-agamas,Painted Agamas,59.95,69.95,16.7
+2026-10-18T10:34:41.886554+00:00,Big Apple Herp,big-apple-herp:snow-flake-blue-whites-tree-frogs,Snow Flake Whites Tree Frogs,44.95,39.95,11.1
+2026-10-18T10:34:41.886554+00:00,Big Apple Herp,big-apple-herp:blue-whites-tree-frogs,Blue White's Tree Frogs,39.95,34.95,12.5
+2026-10-18T10:34:41.886554+00:00,Big Apple Herp,big-apple-herp:water-dragons,Water Dragons,289.95,269.95,6.9
+2026-10-18T10:34:41.886554+00:00,Big Apple Herp,big-apple-herp:mexican-black-king-snakes,Mexican Black Kingsnakes,119.95,99.95,16.7
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:purple-starburst-bird-eater-tarantula-pamphobeteus-sp-machala,Purple Starburst Bird-eater Tarantula (Pamphobeteus sp. 'Machala'),124.99,119.99,4.0
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:red-tiger-bearded-dragon-for-sale,Red Tiger Bearded Dragon Baby,149.99,199.99,33.3
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:goliath-bird-eater-tarantula-theraphosa-stirmi-burgundy-for-sale,Burgundy Goliath Bird-Eater Tarantula (Theraphosa stirmi),99.99,129.99,30.0
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:mexican-fire-leg-tarantula-brachypelma-boehmei-for-sale,Mexican Fire Leg Tarantula (Brachypelma boehmei),89.99,69.99,22.2
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:mexican-pink-tarantula-for-sale,Mexican Pink Tarantula (Brachypelma klaasi),139.99,149.99,7.1
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:unicorn-horned-baboon-tarantula-for-sale,Unicorn Horned Baboon Tarantula (Ceratogyrus marshalli),39.99,59.99,50.0
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:guatemalan-tiger-rump-tarantula-for-sale,Guatemalan Tiger-Rump Tarantula (Davus pentaloris),64.99,59.99,7.7
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:panamanian-blonde-tarantula-for-sale,Panamanian Blonde Tarantula (Psalmopoeus pulcher),49.99,69.99,40.0
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:mysore-ornamental-tarantula-for-sale,Mysore Ornamental Tarantula (Poecilotheria striata),49.99,124.99,150.0
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:mexican-giant-red-knee-tarantula-for-sale,Mexican Giant Red Knee Tarantula (Brachypelma smithi),59.99,74.99,25.0
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:mexican-red-knee-tarantula-for-sale,Mexican Red Knee Tarantula (Brachypelma hamorii ),54.99,79.99,45.5
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:western-hognose-baby-for-sale,Western Hognose Baby,149.99,139.99,6.7
+2026-10-18T10:34:41.886554+00:00,Imperial Reptiles,imperial-reptiles:russian-tortoise-for-sale,Russian Tortoise,199.99,149.99,25.0
+2026-10-18T10:34:41.886554+00:00,Grow Organic,grow-organic:commercial-grade-plant-benches,Commercial Grade Plant Benches,500.0,800.0,60.0
+2026-10-18T10:34:41.886554+00:00,Grow Organic,grow-organic:18-x-48-raised-garden-bed,18″ x 48″ Deep Root Raised Garden Bed - 30″ TALL - Select Grade,199.0,229.0,15.1
+2026-10-18T10:34:41.886554+00:00,AntGear,antgear:pheidole-rhea,Massive Big-Headed Ants (Pheidole rhea),89.99,129.99,44.4
+2026-10-18T10:34:41.886554+00:00,AntGear,antgear:leafcutter-food-sample-bags,Leafcutter Flowers,14.99,19.99,33.4
