@@ -5805,3 +5805,102 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-10-18T10:34:41.886554+00:00,Grow Organic,grow-organic:18-x-48-raised-garden-bed,18″ x 48″ Deep Root Raised Garden Bed - 30″ TALL - Select Grade,199.0,229.0,15.1
 2026-10-18T10:34:41.886554+00:00,AntGear,antgear:pheidole-rhea,Massive Big-Headed Ants (Pheidole rhea),89.99,129.99,44.4
 2026-10-18T10:34:41.886554+00:00,AntGear,antgear:leafcutter-food-sample-bags,Leafcutter Flowers,14.99,19.99,33.4
+2026-10-21T11:22:33.035649+00:00,USMANTIS,usmantis:5-t-sinensis-egg-with-bag,5x Praying Mantis Egg Case Hatching Bag Produces T Sinensis Natural Pest Control,75.99,60.99,19.7
+2026-10-21T11:22:33.035649+00:00,USMANTIS,usmantis:4-t-sinensis-egg-with-bag,4x T Sinensis Praying Mantis Ootheca Eggs Case Hatching Bag Natural Pest Control,60.99,50.99,16.4
+2026-10-21T11:22:33.035649+00:00,USMANTIS,usmantis:3-t-sinensis-egg-with-bag,3x T Sinensis Praying Mantis Ootheca Eggs Case Hatching Bag Natural Pest Control,45.99,35.99,21.7
+2026-10-21T11:22:33.035649+00:00,USMANTIS,usmantis:european-praying-mantis-m-religiosa-ooths,European Praying Mantis M. Religiosa Ooths. Beneficial insects.,25.0,22.0,12.0
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:goliath-bird-eater-tarantula-theraphosa-blondi,"Goliath Bird Eater Tarantula, Theraphosa blondi - Terrestrial Species",108.0,92.0,14.8
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:giant-black-armored-trap-door-spider-liphistius-sp-jarujien,"Giant Black Armored Trap Door Spider, Liphistius jarujini",56.0,41.0,26.8
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:chaco-golden-knee-tarantulas,"Chaco Golden Knee Tarantula, Grammostola pulchripes - Beginner Terrestrial Species",29.0,25.0,13.8
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:tyrells-tufted-jumping-spiders-phidippus-tyrelli,"Captive Bred Tyrell's Tufted Jumping Spiders, Phidippus tyrelli | Wholesale Only - i4 & i5",156.0,200.0,28.2
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:western-red-back-jumping-spider-phidippus-johnsoni,"Captive Bred Western Red-Back Jumping Spider, Phidippus johnsoni | Wholesale Only - i4 & i5",180.0,200.0,11.1
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:california-red-jumping-spider-phidippus-adumbratus,"California Red Jumping Spiders, Phidippus adumbratus | Wholesale Only - Wild Stock",35.0,200.0,471.4
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:regal-jumping-spiders,Regal Jumping Spiders for Sale | Wholesale Only - Wild Stock,180.0,200.0,11.1
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:sabah-blue-earth-tiger-tarantulas,"Sabah Blue Earth Tiger Tarantula, Phormingochilus sp - Arboreal Species",98.0,82.0,16.3
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:brazilian-black-tarantulas,"Giant Black Beauty Beauty Tarantula, Grammostola quirogai - Terrestrial Species",78.0,65.0,16.7
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:brazilian-white-knee-tarantula-acanthoscurria-geniculata,"Brazilian White Knee Tarantula, Acanthoscurria geniculata - Terrestrial Species",60.0,28.0,53.3
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:borneo-purple-earth-tiger-tarantula,"Borneo Purple Earth Tiger Tarantula, Cyriopagopus sp. - Fossorial Burrowing Species",36.0,28.0,22.2
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:green-bottle-blue-tarantulas,"Green Bottle Blue Tarantula, Chromatopelma cyaneopubescens - Heavy Webbing Species",52.0,48.0,7.7
+2026-10-21T11:22:33.035649+00:00,The Defiant Forest,the-defiant-forest:mexican-flame-knee-tarantulas,"Mexican Flame Knee Tarantula, Brachypelma auratum - Terrestrial Species",45.0,48.0,6.7
+2026-10-21T11:22:33.035649+00:00,Exotics Unlimited,exotics-unlimited:heteropoda-pingtungensis-taiwan-orange-huntsman-0-25,"Heteropoda pingtungensis (Taiwan Orange Huntsman Spider) 0.5""",25.0,19.0,24.0
+2026-10-21T11:22:33.035649+00:00,Exotics Unlimited,exotics-unlimited:davus-sp-honduras,"Davus sp. 'Honduras' (Tribal Fire Tarantula) 0.33-0.5"" **FIRST TIME IN USA**",179.0,175.0,2.2
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:phormingochilus-sp-sabah-red-crimson-purple-bat-eater-tarantula-rare-malaysian-species-live-arrival-guarantee,Phormingochilus sp Sabah Red – Crimson Purple Bat Eater Tarantula | Rare Malaysian Species | Live Arrival Guarantee,107.99,54.32,49.7
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:vitalius-chromatus-brazilian-red-white-tarantula-candy-cane-beauty-live-arrival-guarantee,Vitalius chromatus – Brazilian Red & White Tarantula | Formerly Nhandu chromatus | Live Arrival Guarantee,27.89,19.89,28.7
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:psalmopoeus-cambridgei-trinidad-chevron-tarantula-fast-arboreal-species-live-arrival-guarantee,Psalmopoeus cambridgei – Trinidad Chevron Tarantula | Fast Arboreal Species | Live Arrival Guarantee,21.79,19.99,8.3
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:avicularia-juruensis-peru-purple-pinktoe,Avicularia juruensis M2 - Peru Purple Pink Toe Tarantula for Sale | Live Arrival Guarantee,45.69,46.69,2.2
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:ybyrapora-diversipes-amazon-sapphire-pink-toe-tarantula-iridescent-blue-jewel-live-arrival-guarantee,Ybyrapora diversipes – Amazon Sapphire Pink Toe Tarantula | Iridescent Blue Jewel | Live Arrival Guarantee,85.59,67.99,20.6
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:pamphobeteus-sp-machala-colombian-purple-bloom-birdeater-tarantula-purple-velvet-giant-live-arrival-guarantee,Pamphobeteus sp Machala – Purple Bloom Birdeater Tarantula | Purple Velvet Giant | Live Arrival Guarantee,74.79,58.29,22.1
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:lasiocyano-sazimai-brazilian-blue-tarantula-sapphire-terrestrial-beauty-live-arrival-guarantee,Lasiocyano sazimai – Brazilian Blue Tarantula | Sapphire Terrestrial Beauty | Live Arrival Guarantee,44.99,18.98,57.8
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:acanthoscurria-geniculata-brazilian-white-knee-tarantula-massive-terrestrial-species-live-arrival-guarantee,Acanthoscurria geniculata – Brazilian White Knee Tarantula | Massive Terrestrial Species | Live Arrival Guarantee,33.29,19.89,40.3
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:xenesthis-intermedia-amazon-blue-bloom-tarantula-rare-birdeater-species-live-arrival-guarantee,Xenesthis intermedia – Amazon Blue Bloom Tarantula | Rare Birdeater Species | Live Arrival Guarantee,164.99,121.29,26.5
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:theraphosa-blondi-true-goliath-birdeater-tarantula-worlds-largest-spider-live-arrival-guarantee,Theraphosa blondi – True Goliath Birdeater Tarantula | World's Largest Spider | Live Arrival Guarantee,124.99,116.89,6.5
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:psalmopoeus-irminia-venezuelan-suntiger-tarantula-stunning-arboreal-species-live-arrival-guarantee,Psalmopoeus irminia – Venezuelan Suntiger Tarantula | Stunning Arboreal Species | Live Arrival Guarantee,26.69,27.79,4.1
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:omothymus-violaceopes-singapore-blue-tarantula-stunning-blue-species-live-arrival-guarantee,Omothymus violaceopes – Singapore Blue Tarantula | Stunning Blue Species | Live Arrival Guarantee,39.99,44.49,11.3
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:harpactira-pulchripes-golden-blue-leg-baboon-tarantula-for-sale-live-arrival-guarantee,Harpactira pulchripes - Golden Blue Leg Baboon Tarantula for Sale | Live Arrival Guarantee,44.89,41.98,6.5
+2026-10-21T11:22:33.035649+00:00,Ty Dye Exotics,ty-dye-exotics:avicularia-purpurea-purple-pink-toe-tarantula-for-sale-live-arrival-guarantee,Avicularia purpurea - Purple Pink Toe Tarantula for Sale | Live Arrival Guarantee,61.79,58.29,5.7
+2026-10-21T11:22:33.035649+00:00,Meme's Worms,memes-worms:5000-red-wiggler-composting-worms-for-sale,5LBS Pure Red Wiggler Composting Worms For Sale - FREE SHIPPING (Approx. 5000 Worms),295.99,299.99,1.4
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:medium-calcigrubs-500ct-auction,Medium CalciGrubs 500ct Auction,3.0,1.0,66.7
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction-1,Large CalciGrubs 500ct Auction,4.0,10.0,150.0
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:large-hornworm-6ct-case-of-12-auction,Large Hornworm 6ct (Case Of 12) Auction,45.0,26.0,42.2
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:24x18x36-67-gallon-arboreal-auction,24x18x36 (67 Gallon) Arboreal Auction,141.0,153.0,8.5
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:large-superworm-250ct-auction-1,Large Superworm 250ct Auction,6.0,3.0,50.0
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:dubia-roaches-medium-500ct-auction-1,Dubia Roaches Medium 500ct Auction,46.0,40.0,13.0
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:80w-heat-panel-reptile-habitat-auction,80w Heat Panel Reptile Habitat Auction,76.0,103.0,35.5
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction-1,Medium Hornworm 24ct (Case Of 12) Auction,18.0,7.0,61.1
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:large-dubia-roaches-250ct-auction,Large Dubia Roaches 250ct Auction,40.0,26.0,35.0
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:4x2x2-v3-120-gallon-auction,4x2x2 V3 (120 Gallon) Auction,265.0,258.0,2.6
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:large-calcigrubs-500ct-auction,Large CalciGrubs 500ct Auction,4.0,8.0,100.0
+2026-10-21T11:22:33.035649+00:00,DubiaRoaches.com,dubiaroaches:medium-hornworm-24ct-case-of-12-auction,Medium Hornworm 24ct (Case Of 12) Auction,18.0,15.0,16.7
+2026-10-21T11:22:33.035649+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-juruensis-purple-peru-tarantula,"Avicularia juruensis (Purple Peru Tarantula) about 3/4""-1""",29.0,55.0,89.7
+2026-10-21T11:22:33.035649+00:00,Fear Not Tarantulas,fear-not-tarantulas:kochiana-brunnipes-tarantula-dwarf-pink-leg-for-sale,"Kochiana brunnipes (Dwarf Pink Leg Tarantula) about or very near 1/4""",39.0,45.0,15.4
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-fury,Regal Jumping Spider “Fury”,75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-stardust,"Regal Jumping Spider ""Stardust""",95.0,75.0,21.1
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-sangria,Regal Jumping Spider “Sangria”,75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-jello,"Regal Jumping Spider ""Jello""",75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-burberry,"Regal Jumping Spider ""Burberry""",75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-coconut-1,"Regal Jumping Spider ""Coconut""",95.0,75.0,21.1
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-cherry-for-sale,"Regal Jumping Spider ""Cherry""",75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-watermelon-for-sale,"Regal Jumping Spider ""Watermelon""",75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Exotics Source,exotics-source:regal-jumping-spider-bubblegum,"Regal Jumping Spider ""Bubblegum""",75.0,95.0,26.7
+2026-10-21T11:22:33.035649+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-dolichothele-diamantinensis-brazilian-blue-dwarf-beauty,[Vancouver PIck-up] Dolichothele diamantinensis (Brazilian Blue Dwarf Beauty),58.0,48.0,17.2
+2026-10-21T11:22:33.035649+00:00,Spider Shoppe,spider-shoppe:correlophus-ciliatus-crested-gecko-normal-juvenile,Correlophus ciliatus (Crested Gecko) Normal Juveniles,48.0,38.0,20.8
+2026-10-21T11:22:33.035649+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-psalmopoeus-victori-darth-maul-tarantula,[Vancouver Pick-up] Psalmopoeus victori (Darth Maul Tarantula),48.0,58.0,20.8
+2026-10-21T11:22:33.035649+00:00,Spider Shoppe,spider-shoppe:large-escape-proof-dish,Escape Proof Dish,10.0,8.0,20.0
+2026-10-21T11:22:33.035649+00:00,Best Bee Brothers,best-bee-brothers:shake-shield-no-see-um-repellent-2oz-case-of-20,Shake+Shield No-See-Um Repellent 2oz - Case of 20,75.0,70.0,6.7
+2026-10-21T11:22:33.035649+00:00,Buddha Bugs,buddha-bugs:psalmopoeus-irminia-venezuelan-suntiger-tarantula-for-sale,"Psalmopoeus irminia (Venezuelan suntiger tarantula) 0.75""",35.0,20.0,42.9
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:spinytail-iguanas-for-sale,Spinytail Iguanas,34.95,42.95,22.9
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:white-lipped-horned-toads,White Lipped Horned Toads,64.95,59.95,7.7
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:rare-unusual-rat-snakes,Rare & Unusual Rat Snakes,119.95,189.95,58.4
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:powdered-glass-tree-frogs-for-sale,Powdered Glass Tree Frogs,44.99,39.95,11.2
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:florida-green-iguanas-the-best,FLORIDA Green Iguanas,29.95,24.95,16.7
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:suriname-toad-pipa-pipa,Suriname Toad Pipa pipa,47.95,44.95,6.3
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:emerald-black-tree-skinks,Emerald & Black Tree Skinks,79.95,49.95,37.5
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:western-hognose-snakes,Western Hognose Snakes (MASSIVE SELECTION),134.95,99.95,25.9
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:albino-western-hognose-snakes,Normal and Albino Morphs - Hognose Snakes,134.95,99.95,25.9
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:emerald-skeleton-tarantulas,Emerald Skeleton Tarantulas,44.95,69.95,55.6
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:smooth-sided-toads,Smooth Sided Toads,59.95,49.95,16.7
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:mascara-bird-eater-tarantulas,Mascara Bird Eater Tarantulas,99.95,104.95,5.0
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:salamanders-for-sale,Salamanders (Various Species),42.95,104.95,144.4
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:dragon-snakes,Dragon Snakes,249.0,289.95,16.4
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:indonesian-tree-boas,Indonesian Tree Boas,59.95,74.95,25.0
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:king-rat-snakes,King Rat Snakes,329.0,189.95,42.3
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:white-sided-black-rat-snakes,White Sided Black Rat Snakes,74.95,54.95,26.7
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:peach-throat-monitors,Peach Throat Monitors,329.95,319.95,3.0
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:tricolor-hognose-snakes,TriColor Hognose Snakes,219.95,189.95,13.6
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:arizona-mountain-kingsnakes,Arizona Mountain Kingsnakes,189.0,269.95,42.8
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:leopard-tortoises,Leopard Tortoises,319.95,229.95,28.1
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:white-lined-gecko,White Lined Geckos,42.95,34.95,18.6
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:red-tail-green-rat-snake,Red Tail Green Rat Snakes,169.95,119.95,29.4
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:crested-geckos-for-sale,Crested Geckos - Various Morphs,39.95,49.95,25.0
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:red-eyed-crock-skinks,Red Eyed & Normal Eyed Armored Croc Skinks,149.95,119.95,20.0
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:blue-tongue-skinks,Blue Tongue Skinks,289.95,149.95,48.3
+2026-10-21T11:22:33.035649+00:00,Big Apple Herp,big-apple-herp:black-rat-snakes,Black Rat Snakes,69.95,64.95,7.1
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:hadrurus-arizonensis-desert-hairy-scorpion-impressive-north-american-species-live-arrival-guarantee,Hadrurus arizonensis – Desert Hairy Scorpion | Impressive North American Species | Live Arrival Guarantee | TDE,27.49,23.29,15.3
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:monocentropus-balfouri-socotra-island-blue-tarantula-for-sale-live-arrival-guarantee,Monocentropus balfouri - Socotra Island Blue Tarantula for Sale | TDE,48.69,38.89,20.1
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:ornithoctoninae-sp-vietnam-silver-vietnam-silver-earth-tiger-tarantula-rare-metallic-species-live-arrival-guarantee,"Ornithoctoninae sp. ""Vietnam Silver"" – Vietnam Silver Earth Tiger Tarantula | Rare Metallic Species | TDE",63.79,46.69,26.8
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:pamphobeteus-sp-machala-purple-bloom-birdeater-tarantula-purple-velvet-giant-live-arrival-guarantee,Pamphobeteus sp Machala – Purple Bloom Birdeater Tarantula | Purple Velvet Giant | TDE,74.79,58.29,22.1
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:phormictopus-atrichomatus-red-island-birdeater-caribbean-red-giant-live-arrival-guarantee,Phormictopus atrichomatus – Red Island Birdeater | Caribbean Red Giant | TDE,49.99,48.49,3.0
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:poecilotheria-metallica-gooty-sapphire-ornamental-tarantula-stunning-blue-species-live-arrival-guarantee,Poecilotheria metallica – Gooty Sapphire Ornamental Tarantula | Stunning Blue Species | TDE,99.99,97.99,2.0
+2026-10-21T11:22:33.035649+00:00,The Bio Dude,the-bio-dude:phormingochilus-sp-sabah-red-crimson-purple-bat-eater-tarantula-rare-malaysian-species-live-arrival-guarantee,Phormingochilus sp Sabah Red – Crimson Purple Bat Eater Tarantula | Rare Malaysian Species | TDE,107.99,54.32,49.7
+2026-10-21T11:22:33.035649+00:00,Grow Organic,grow-organic:18-x-48-raised-garden-bed,18″ x 48″ Deep Root Raised Garden Bed - 30″ TALL - Select Grade,229.0,149.0,34.9
+2026-10-21T11:22:33.035649+00:00,Grow Organic,grow-organic:corona-long-sraight-snip-replacement-spring,Corona Long Straight Snip Replacement Spring,1.99,17.99,804.0
