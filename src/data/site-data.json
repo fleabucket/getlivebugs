@@ -1917,77 +1917,6 @@
       },
       "suppliers": [
         {
-          "breeder": "USMANTIS",
-          "product_name": "Hymenopus coronatus - Orchid Flower mantis \"Kung Fu Mantis\"",
-          "price": 65.0,
-          "available": true,
-          "url": "https://usmantis.com/products/hymenopus-coronatus-orchid-flower-mantis",
-          "quantity": 5,
-          "per_unit_price": 13.0,
-          "variants": [
-            {
-              "label": "L2/3 Nymph",
-              "price": 65.0,
-              "available": false
-            },
-            {
-              "label": "5 pack L2/3 Nymphs Save$$",
-              "price": 300.0,
-              "available": false
-            },
-            {
-              "label": "10-L2/3 Breeders group Save $$",
-              "price": 600.0,
-              "available": false
-            },
-            {
-              "label": "L4",
-              "price": 75.0,
-              "available": true
-            },
-            {
-              "label": "Pair of 4/5 orchids",
-              "price": 160.0,
-              "available": false
-            },
-            {
-              "label": "L5 male",
-              "price": 95.0,
-              "available": false
-            },
-            {
-              "label": "L5 Female",
-              "price": 95.0,
-              "available": false
-            },
-            {
-              "label": "Sub adult female",
-              "price": 125.0,
-              "available": false
-            },
-            {
-              "label": "Sub adult male",
-              "price": 80.0,
-              "available": false
-            },
-            {
-              "label": "Adult male",
-              "price": 125.0,
-              "available": false
-            },
-            {
-              "label": "Adult female",
-              "price": 150.0,
-              "available": false
-            },
-            {
-              "label": "Ooth",
-              "price": 350.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Heart Leaf Tropicals",
           "product_name": "Orchid Mantis  (Hymenopus coronatus) - i2/i3 (Indonesian variant)",
           "price": 120.0,
@@ -2049,9 +1978,9 @@
           "url": "https://usinvertebratellc.com/products/orchid-mantis-hymenopus-coronatus"
         }
       ],
-      "supplier_count": 5,
-      "in_stock_count": 2,
-      "best_price": 65.0,
+      "supplier_count": 4,
+      "in_stock_count": 1,
+      "best_price": 120.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=live+orchid+mantis&tag=getlivebugs-20",
         "creature_label": "Live Orchid Mantis",
@@ -2564,11 +2493,11 @@
       "suppliers": [
         {
           "breeder": "Buddha Bugs",
-          "product_name": "Caribena versicolor (Antilles pink-toed tarantula) 0.5\"",
+          "product_name": "Caribena versicolor (Antilles pink-toed tarantula) 0.75\"",
           "price": 50.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/caribena-versicolor-antilles-pink-toe-tarantula-for-sale",
-          "size": "0.5\""
+          "size": "0.75\""
         },
         {
           "breeder": "Big Apple Herp",
@@ -3106,7 +3035,7 @@
             {
               "label": "1.5\" Female",
               "price": 148.0,
-              "available": false
+              "available": true
             }
           ]
         },
@@ -3133,11 +3062,11 @@
         },
         {
           "breeder": "Buddha Bugs",
-          "product_name": "Grammostola rosea 'NCF', formerly Grammostola porteri (Chilean rose hair tarantula) 0.5\"",
+          "product_name": "Grammostola rosea 'NCF', formerly Grammostola porteri (Chilean rose hair tarantula) 0.66\"",
           "price": 65.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/grammostola-rosea-ncf-ex-porteri-chilean-rose-hair-tarantula-for-sale",
-          "size": "0.5\""
+          "size": "0.66\""
         },
         {
           "breeder": "The Bio Dude",
@@ -3219,13 +3148,6 @@
           "size": "2\""
         },
         {
-          "breeder": "The World of Isopods",
-          "product_name": "Chilean Rose Hair Tarantula",
-          "price": 90.0,
-          "available": true,
-          "url": "https://theworldofisopods.com/products/chilean-rose-hair-tarantula"
-        },
-        {
           "breeder": "Imperial Reptiles",
           "product_name": "Chilean Rose Hair 'Red' Tarantula (Grammostola rosea 'Red')",
           "price": 89.99,
@@ -3239,6 +3161,13 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "The World of Isopods",
+          "product_name": "Chilean Rose Hair Tarantula",
+          "price": 90.0,
+          "available": false,
+          "url": "https://theworldofisopods.com/products/chilean-rose-hair-tarantula"
         },
         {
           "breeder": "Micro Wilderness",
@@ -3258,7 +3187,7 @@
         }
       ],
       "supplier_count": 11,
-      "in_stock_count": 9,
+      "in_stock_count": 8,
       "best_price": 48.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=chilean+rose+tarantula+tarantula&tag=getlivebugs-20",
@@ -3559,7 +3488,7 @@
             {
               "label": "3-4\" Female (field-collected)",
               "price": 58.0,
-              "available": false
+              "available": true
             },
             {
               "label": "3-4\" Male (field-collected)",
@@ -3707,27 +3636,6 @@
           "url": "https://www.fangztv.com/products/tliltocatl-albopilosum-honduran-curlyhair-tarantula-75"
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Tliltocatl albopilosus (Curlyhair Tarantula) about 1/3\" - 1/2\"",
-          "price": 15.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/tliltocatl-albopilosus-curlyhair-tarantula-brachypelma-1",
-          "size": "1/3–1/2\"",
-          "world": "New World",
-          "variants": [
-            {
-              "label": "Spiderling alone",
-              "price": 15.0,
-              "available": true
-            },
-            {
-              "label": "Make it a Package! 🛖🛖🛖",
-              "price": 25.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "Nicaraguan Curly Hair Tarantula, Tliltocatl albopilosus - Terrestrial Species",
           "price": 20.0,
@@ -3773,8 +3681,29 @@
           ]
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Tliltocatl albopilosus (Curlyhair Tarantula) about 1/3\" - 1/2\"",
+          "price": 23.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/tliltocatl-albopilosus-curlyhair-tarantula-brachypelma-1",
+          "size": "1/3–1/2\"",
+          "world": "New World",
+          "variants": [
+            {
+              "label": "Spiderling alone",
+              "price": 23.0,
+              "available": true
+            },
+            {
+              "label": "Make it a Package! 🛖🛖🛖",
+              "price": 33.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Exotics Unlimited",
-          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\"",
+          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\" (Pre Molt)",
           "price": 25.0,
           "available": true,
           "url": "https://exoticsunlimitedusa.com/products/tliltocatl-albopilosus-curly-hair-tarantula-0-5-0-76",
@@ -4508,8 +4437,8 @@
               "available": true
             },
             {
-              "label": "3.5\" Female",
-              "price": 148.0,
+              "label": "4\" Male",
+              "price": 98.0,
               "available": false
             }
           ]
@@ -5246,12 +5175,12 @@
             {
               "label": "3-4\" (WC)",
               "price": 44.0,
-              "available": false
+              "available": true
             },
             {
               "label": "2\" (WC)",
               "price": 36.0,
-              "available": false
+              "available": true
             },
             {
               "label": "1-2\"",
@@ -5271,20 +5200,20 @@
           "price": 29.0,
           "available": true,
           "url": "https://www.bigappleherp.com/products/pink-toe-tarantulas",
-          "size": "5–1\"",
+          "size": "5\"",
           "variants": [
             {
-              "label": "Normal Adult",
+              "label": "Normal Pink Toe Baby",
               "price": 29.0,
               "available": true
             },
             {
-              "label": "Ecuadorian Wooly Pink Toe .5 to 1 Inch",
-              "price": 99.0,
+              "label": "Grizzly Red Pink Toe .5\" \"variegata\"",
+              "price": 134.95,
               "available": true
             },
             {
-              "label": "Peru Purple Pink Toe .75 Inch",
+              "label": "Peru Purple Pink Toe .5\" \"purpurea\"",
               "price": 99.0,
               "available": true
             }
@@ -5963,7 +5892,7 @@
       "price_range": "1-3",
       "best_price": 6.0,
       "supplier_count": 15,
-      "in_stock_count": 9,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6130,20 +6059,6 @@
           "url": "https://usinvertebratellc.com/products/pocellio-laevis-diary-cow"
         },
         {
-          "breeder": "Rubber Ducky Isopods",
-          "product_name": "\"Orange Dairy Cow\" THE Perfect BioActive Isopod (Porcellio laevis)",
-          "price": 24.49,
-          "available": true,
-          "url": "https://rubberduckyisopods.com/products/orange-dairy-cow-the-perfect-bioactive-isopod-porcellio-laevis-10-100-count",
-          "variants": [
-            {
-              "label": "10",
-              "price": 24.49,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "White Laevis Isopods (Porcellio laevis)",
           "price": 1.0,
@@ -6221,6 +6136,20 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Rubber Ducky Isopods",
+          "product_name": "\"Orange Dairy Cow\" THE Perfect BioActive Isopod (Porcellio laevis)",
+          "price": 24.49,
+          "available": false,
+          "url": "https://rubberduckyisopods.com/products/orange-dairy-cow-the-perfect-bioactive-isopod-porcellio-laevis-10-100-count",
+          "variants": [
+            {
+              "label": "10",
+              "price": 24.49,
+              "available": false
+            }
+          ]
         }
       ],
       "amazon": {
@@ -6286,7 +6215,7 @@
       "price_range": "1-2",
       "best_price": 10.0,
       "supplier_count": 14,
-      "in_stock_count": 7,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6445,6 +6374,35 @@
           ]
         },
         {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": true,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": true
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
           "price": 1.0,
@@ -6549,35 +6507,6 @@
           "price": 6.99,
           "available": false,
           "url": "https://tcinsects.com/product/porcellionides-pruinosus-lemon-berry-crumble/"
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": false,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": false
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
-            }
-          ]
         }
       ],
       "amazon": {
@@ -7274,7 +7203,7 @@
       "price_range": "25-60",
       "best_price": 10.0,
       "supplier_count": 10,
-      "in_stock_count": 5,
+      "in_stock_count": 4,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -7325,11 +7254,11 @@
         },
         {
           "breeder": "Fear Not Tarantulas",
-          "product_name": "Lasiodora parahybana - (Brazilian Salmon Pink Birdeater Tarantula) about 1/2\"",
+          "product_name": "Lasiodora parahybana - (Brazilian Salmon Pink Birdeater Tarantula) about 1/3\" - 1/2\"",
           "price": 35.0,
           "available": true,
           "url": "https://fearnottarantulas.com/products/lasiodora-parahybana-brazilian-salmon-pink-birdeater-tarantula",
-          "size": "1/2\"",
+          "size": "1/3–1/2\"",
           "life_stage": "Spiderling",
           "world": "New World",
           "habitat": "Terrestrial",
@@ -7345,14 +7274,6 @@
               "available": true
             }
           ]
-        },
-        {
-          "breeder": "Buddha Bugs",
-          "product_name": "Lasiodora parahybana (salmon pink bird-eating tarantula) 2\"",
-          "price": 50.0,
-          "available": true,
-          "url": "https://buddha-bugs.com/products/lasiodora-parahybana-salmon-pink-bird-eater-tarantula-for-sale",
-          "size": "2\""
         },
         {
           "breeder": "Micro Wilderness",
@@ -7409,6 +7330,14 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Buddha Bugs",
+          "product_name": "Lasiodora parahybana (salmon pink bird-eating tarantula) 2\"",
+          "price": 50.0,
+          "available": false,
+          "url": "https://buddha-bugs.com/products/lasiodora-parahybana-salmon-pink-bird-eater-tarantula-for-sale",
+          "size": "2\""
         },
         {
           "breeder": "Gallegos Zoological",
@@ -7508,7 +7437,7 @@
       "price_range": "30-70",
       "best_price": 19.0,
       "supplier_count": 10,
-      "in_stock_count": 5,
+      "in_stock_count": 6,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -7563,6 +7492,26 @@
           ]
         },
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Grammostola pulchripes (Chaco Golden-Knee)",
+          "price": 38.0,
+          "available": true,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-grammostola-pulchripes-chaco-golden-knee",
+          "size": "0.5\"",
+          "variants": [
+            {
+              "label": "0.5\"",
+              "price": 38.0,
+              "available": true
+            },
+            {
+              "label": "3-4\" Female",
+              "price": 178.0,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Buddha Bugs",
           "product_name": "Grammostola pulchripes (Chaco golden knee tarantula) 0.5\"-0.75\"",
           "price": 45.0,
@@ -7588,26 +7537,6 @@
               "label": "1.5”",
               "price": 99.99,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Grammostola pulchripes (Chaco Golden-Knee)",
-          "price": 38.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-grammostola-pulchripes-chaco-golden-knee",
-          "size": "0.5\"",
-          "variants": [
-            {
-              "label": "0.5\"",
-              "price": 38.0,
-              "available": false
-            },
-            {
-              "label": "3-4\" Female",
-              "price": 178.0,
-              "available": false
             }
           ]
         },
@@ -8043,7 +7972,7 @@
             {
               "label": "Spiderling alone",
               "price": 65.0,
-              "available": true
+              "available": false
             },
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
@@ -8214,6 +8143,11 @@
             {
               "label": "Adult (FC)",
               "price": 24.95,
+              "available": true
+            },
+            {
+              "label": "SIX PACK of Babies CB",
+              "price": 29.95,
               "available": true
             }
           ]
@@ -8986,24 +8920,19 @@
         },
         {
           "breeder": "Insect Sales",
-          "product_name": "Two Ivory Millipedes (Chicobolus spinigerus) -- Educational-Fun",
-          "price": 19.99,
+          "product_name": "Rare Purple Ivory Millipede (Chicobolus spinigerus) Educational-Active-Fun-Pet",
+          "price": 19.95,
           "available": true,
-          "url": "https://insectsales.com/products/two-big-ivory-millipedes-chicobolus-spinigerus-educational-fun-free-habitat",
+          "url": "https://insectsales.com/products/copy-of-two-ivory-millipedes-chicobolus-spinigerus-educational-fun",
           "variants": [
             {
               "label": "Click Here to Add Additional Orders - Save on Shipping at Check Out",
-              "price": 19.99,
+              "price": 19.95,
               "available": true
             },
             {
-              "label": "2 Orders of Ivory Millipede",
-              "price": 39.99,
-              "available": true
-            },
-            {
-              "label": "3 Orders of Ivory Millipede",
-              "price": 59.99,
+              "label": "2 orders of Purple Ivory",
+              "price": 39.9,
               "available": true
             }
           ]
@@ -9396,7 +9325,7 @@
             },
             {
               "label": "5x BDFB (A. verrucosus) Plus Dune Scorpion",
-              "price": 70.0,
+              "price": 60.0,
               "available": true
             }
           ]
@@ -9859,10 +9788,19 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "5-10",
-      "best_price": null,
+      "best_price": 1.97,
       "supplier_count": 6,
-      "in_stock_count": 0,
+      "in_stock_count": 1,
       "suppliers": [
+        {
+          "breeder": "DubiaRoaches.com",
+          "product_name": "Adult Male Madagascar Hissing Cockroach",
+          "price": 1.97,
+          "available": true,
+          "url": "https://dubiaroaches.com/products/adult-male-madagascar-hissing-cockroach",
+          "life_stage": "Adult",
+          "sex": "Male"
+        },
         {
           "breeder": "Frognose Exotics",
           "product_name": "Madagascar Hissing Cockroach",
@@ -9907,15 +9845,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "DubiaRoaches.com",
-          "product_name": "Adult Male Madagascar Hissing Cockroach",
-          "price": 1.97,
-          "available": false,
-          "url": "https://dubiaroaches.com/products/adult-male-madagascar-hissing-cockroach",
-          "life_stage": "Adult",
-          "sex": "Male"
         },
         {
           "breeder": "James' Beetle Farm",
@@ -10408,10 +10337,10 @@
         },
         {
           "breeder": "Heart Leaf Tropicals",
-          "product_name": "Giant Australian Prickly Stick Insect - Extatosoma Tiaratum Lichen Morph",
-          "price": 150.0,
+          "product_name": "Giant Australian Prickly Stick Insect - Extatosoma Tiaratum",
+          "price": 75.0,
           "available": true,
-          "url": "https://heartleaftropicals.com/products/lichen-stick-insect"
+          "url": "https://heartleaftropicals.com/products/giant-australian-prickly-stick-insect-extatosoma-tiaratum-lichen-morph-copy"
         }
       ],
       "amazon": {
@@ -10475,10 +10404,17 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "20-50",
-      "best_price": null,
-      "supplier_count": 2,
-      "in_stock_count": 0,
+      "best_price": 95.0,
+      "supplier_count": 3,
+      "in_stock_count": 1,
       "suppliers": [
+        {
+          "breeder": "Heart Leaf Tropicals",
+          "product_name": "Giant Malaysian Leaf Insect (Pulchriphyllium giganteum)",
+          "price": 95.0,
+          "available": true,
+          "url": "https://heartleaftropicals.com/products/giant-malaysian-leaf-insect-pulchriphyllium-giganteum"
+        },
         {
           "breeder": "Big Apple Herp",
           "product_name": "Giant Leaf Turtles",
@@ -10705,8 +10641,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "October 21, 2026",
-    "next_update": "October 25, 2026",
-    "last_updated_iso": "2026-10-21T11:28:02.505305+00:00"
+    "last_updated": "October 25, 2026",
+    "next_update": "October 28, 2026",
+    "last_updated_iso": "2026-10-25T11:02:22.254221+00:00"
   }
 }
