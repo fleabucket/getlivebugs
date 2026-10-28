@@ -6016,3 +6016,91 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-10-25T10:56:52.874544+00:00,Dubi Deli,dubi-deli:dubia-roaches-starter-colony-2,Dubia Roaches:  Starter Colony 2,82.5,90.75,10.0
 2026-10-25T10:56:52.874544+00:00,Dubi Deli,dubi-deli:dubia-roach-starter-colony-1,Dubia Roach:  Starter Colony 1,66.0,72.6,10.0
 2026-10-25T10:56:52.874544+00:00,Dubi Deli,dubi-deli:dubia-roaches-medium-7-8-ml,"Dubia Roaches: Medium 7/8""  (ML)",10.75,11.83,10.0
+2026-10-28T12:20:28.759789+00:00,PanTerra Pets,panterra-pets:giant-shield-mantis-r-megaera,Timor Shield Mantis (R. kirbyi),21.99,22.99,4.5
+2026-10-28T12:20:28.759789+00:00,USMANTIS,usmantis:phyllocrania-paradoxa-ghost-mantis,P paradoxa Ghost mantis All colors SALE,24.5,25.5,4.1
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:sericopelma-sp-azuero-1-1-5,"Sericopelma sp. Azuero (Azuero Bird Eater)1-1.5""",85.0,100.0,17.6
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:cyrtopholis-sp-horned,"Cyrtopholis sp. 'Horned' 0.33-0.5""",55.0,85.0,54.5
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:chilobrachys-sp-kontum,"Chilobrachys sp. 'Kontum' 0.75-1""",35.0,55.0,57.1
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:chilobrachys-sp-cat-tien,"Chilobrachys sp. 'Cat Tien' 0.5-0.75"" *RARE*",35.0,55.0,57.1
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:stegodyphus-dufouri-oman-desert-velvet-spider,Stegodyphus dufouri 'Oman' (Orange Desert Velvet Spider),45.0,85.0,88.9
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:stegodyphus-dufouri-oman-0-33-0-5,"Stegodyphus dufouri 'Oman' (Orange Desert Velvet Spider) 0.33-0.5""",95.0,125.0,31.6
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:stegodyphus-dufouri-oman,"Stegodyphus dufouri 'Oman' (Orange Desert Velvet Spider) 1/8-1/4""",45.0,95.0,111.1
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:heteropoda-pingtungensis-taiwan-orange-huntsman-0-25,"Heteropoda pingtungensis (Taiwan Orange Huntsman Spider) 0.5""",19.0,45.0,136.8
+2026-10-28T12:20:28.759789+00:00,Exotics Unlimited,exotics-unlimited:cilantica-devamatha-polychromatic-earth-tiger-tarantula-1-1-25,"Cilantica devamatha (Polychromatic Earth Tiger Tarantula) 1-1.25""",99.0,150.0,51.5
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:kit-guts-station-50-lg-reeds-spring,Spring Kit - 50 lg reeds & 20MB,20.45,21.45,4.9
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:dual-season-reeds-35-lg-35-sm-2,Wild Bee Discovery Chalet House & Pollinator Pack,62.95,65.5,4.1
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:chalet-kit-with-bee-certificate,Chalet Bee House Gift Kit with Bee Certificate (Bees Ship in Season),123.25,127.95,3.8
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:mason-bee-revolution-2nd-edition,"Mason Bee Revolution, 2nd Edition",24.95,23.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:rewild-refuge,"Rewild Refuge Wild Bee House Set (Attracts Local Bees, No Bees Shipped)",33.25,34.5,3.8
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:color-enhanced-spring-wood-trays-for-mason-bees-8mm,Color-Enhanced Spring Wood Trays for Mason Bees - 8mm,49.95,51.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:cabana-bee-house-kit-with-bee-certificate,Cabana Bee House Gift Kit with Bee Certificate (Bees Ship in Season),79.5,82.5,3.8
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:cabana-kit-with-bees,Cabana Bee House Starter Kit with Live Bees (Mason or Leafcutter),79.5,82.5,3.8
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:cabana-bee-house-small-hex,Cabana Bee House - Small Hex,29.95,31.95,6.7
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:villa-bee-house-large-hex,Villa Bee House - Large Hex,49.95,51.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:villa-bee-house-kits-with-bees,"Villa Bee House Kit with Live Bees, Large (Mason or Leafcutter)",123.25,128.25,4.1
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:color-enhanced-wood-trays-for-leafcutter-bees,Color-Enhanced Wood Trays for Leafcutter Bees - 6mm,49.95,51.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:chalet-kit-with-bees,Chalet Bee House Starter Kit with Live Bees (Mason or Leafcutter),123.25,127.95,3.8
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:build-a-bee-house-with-reeds-solo-pack,Build-A-Bee House with Wild Bee Pollinator Pack,31.95,34.5,8.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:wild-bee-pollinator-set,Wild Bee Refill Set for Your Bee House (No Bees Shipped),52.95,58.5,10.5
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:spring-48-cavity-wood-tray-20-mason-bees-1,Spring 48-cavity Wood Tray & 40 MB,26.0,27.05,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:spring-kit-140-lg-reeds-40mb,Spring Kit - 140 lg Reeds & 80MB,32.3,33.55,3.9
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:kit-guts-35-lg-and-35-small-reeds,"Dual Season Kit - 35 lg, 35 med reeds & 40MB, 200LC",68.25,71.0,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:kit-guts-70-lg-and-70-sm-reeds,"Dual Season Kit - 70 lg, 70 med reeds & 80MB, 400LC",81.55,84.55,3.7
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:kit-guts-25-lg-and-25-sm-reeds,"Dual Season Kit - 25 lg, 25 med reeds & 20MB, 100LC",51.45,53.45,3.9
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:spring-farm-grade-reusable-wood-trays-for-mason-bees-8mm,Spring Farm Grade Reusable Wood Trays for Mason Bees - 8mm,31.25,32.5,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:bee-observer-solitary-bee-observation-tray,Bee Observer - Solitary Bee Observation Tray,24.95,25.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:tower-bee-house-kit-with-bees-1,"Tower Bee House Kit with Live Bees, Largest Size",175.95,182.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:spring-70-ct-reeds-20-mason-bees,Spring with 70 lg Reeds & 40MB,24.7,26.0,5.3
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:spring-96-cavity-wood-tray-40-mason-bees,Spring 96-cavity Wood Tray & 80 MB,64.0,66.55,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:summer-156-cavity-wood-tray-and-400-leafcutter-bees,Summer 156-cavity Wood Tray and 400 leafcutter bees,61.0,63.45,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:harvest-set,Cocoon Harvest Set,23.95,24.95,4.2
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:small-bee-discovery,Small Wild Bee Discovery,48.75,50.5,3.6
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:am-i-even-a-bee-by-felicity-muth,"Am I Even A Bee, by Felicity Muth",17.95,16.95,5.6
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:reed-splitter,Reed Splitter - 10% Off,14.35,16.5,15.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:100-plants-to-feed-the-bees,100 Plants to Feed the Bees,16.95,12.95,23.6
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:invitabee-commercial-mason-bee-attractant,InvitaBee™ Concentrated Mason Bee Attractant,37.5,38.95,3.9
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:our-native-bees,Our Native Bees,19.95,20.95,5.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:humidibee-cocoon-humidifier-for-mason-bees,HumidiBee™ Cocoon Humidifier for Mason Bees - 10% Off,10.35,11.95,15.5
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:clean-bee-solution,Clean Bee™ Solution - 10% Off,12.15,13.95,14.8
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:cocoon-comb,Cocoon Harvesting Comb - 10% Off,11.25,12.95,15.1
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:ant-cant-solution,AntCant Solution,25.95,26.95,3.9
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:spring-total-accessories-package-for-mason-bees,Spring Total Accessories Package for Mason Bees,29.95,30.95,3.3
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:tower-bee-house,Tower Cedar Bee House,55.95,57.95,3.6
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:farm-grade-reusable-wood-trays-for-leafcutter-bees,Farm Grade Reusable Wood Trays for Leafcutter Bees - 6mm,31.25,32.5,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:summer-reusable-wood-trays-for-leafcutter-bees,Reusable Wood Trays for Leafcutter Bees,43.5,45.25,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:chalet-bee-house,Chalet Cedar Bee House,49.95,51.95,4.0
+2026-10-28T12:20:28.759789+00:00,Crown Bees,crown-bees:reusable-wood-trays-for-mason-bees-8mm,Spring Reusable Wood Trays for Mason Bees - 8mm,43.5,45.25,4.0
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:apalachicola-regal-jumping-spider-mint,"(Apalachicola Locale) Regal Jumping Spider ""Mint""",75.0,95.0,26.7
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:regal-jumping-spider-glacier,"Regal Jumping Spider ""Glacier”",125.0,75.0,40.0
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:regal-jumping-spider-honey-for-sale,"Regal Jumping Spider ""Honey""",75.0,95.0,26.7
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:regal-jumping-spider-purple,Regal Jumping Spider “Purple”,95.0,75.0,21.1
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:regal-jumping-spider-azalea,Regal Jumping Spider “Azalea”,75.0,95.0,26.7
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:regal-jumping-spider-forest,"Regal Jumping Spider ""Forest""",125.0,95.0,24.0
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:audax-jumping-spider-odysseus,"Audax Bryantae Jumping Spider ""Odysseus""",95.0,75.0,21.1
+2026-10-28T12:20:28.759789+00:00,Exotics Source,exotics-source:regal-jumping-spider-pomegranate,"Regal Jumping Spider ""Pomegranate""",95.0,75.0,21.1
+2026-10-28T12:20:28.759789+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-chaetopelma-olivaceum-middle-east-gold,[Vancouver Pick-up] Chaetopelma olivaceum (Middle East Gold),36.0,48.0,33.3
+2026-10-28T12:20:28.759789+00:00,Spider Shoppe,spider-shoppe:foam-inserts,Foam Inserts,18.0,28.0,55.6
+2026-10-28T12:20:28.759789+00:00,Micro Wilderness,micro-wilderness:acanthoscurria-geniculata-female-brazilian-whiteknee-tarantula,Acanthoscurria geniculata - Female - Brazilian Whiteknee Tarantula,160.0,199.99,25.0
+2026-10-28T12:20:28.759789+00:00,Micro Wilderness,micro-wilderness:chromatopelma-cyaneopubescens-male-green-bottle-blue-tarantula,Chromatopelma cyaneopubescens - unsexed- Green Bottle Blue Tarantula,49.99,59.99,20.0
+2026-10-28T12:20:28.759789+00:00,Micro Wilderness,micro-wilderness:grammostola-rosea-rcf,Grammostola rosea Red Form- female- Chilean Rose Tarantula,450.0,499.99,11.1
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:southern-keeled-box-turtle-baby-2603-cuora-mouhotii-obsti,Southern Keeled Box Turtle Baby #2603 (Cuora mouhotii obsti),799.99,999.99,25.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:southern-keeled-box-turtle-baby-2602-cuora-mouhotii-obsti,Southern Keeled Box Turtle Baby #2602 (Cuora mouhotii obsti),799.99,999.99,25.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:southern-keeled-box-turtle-baby-2601-cuora-mouhotii-obsti,Southern Keeled Box Turtle Baby #2601 (Cuora mouhotii obsti),799.99,999.99,25.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:golden-flame-florida-red-bellied-turtle-2026-15-pseudemys-nelsoni,Golden Flame Florida Red Bellied Turtle 2026 #15 (Pseudemys nelsoni),99.99,59.99,40.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:golden-flame-florida-red-bellied-turtle-2026-11-pseudemys-nelsoni,Golden Flame Florida Red Bellied Turtle 2026 #11 (Pseudemys nelsoni),99.99,59.99,40.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:golden-flame-florida-red-bellied-turtle-2026-9-pseudemys-nelsoni,Golden Flame Florida Red Bellied Turtle 2026 #9 (Pseudemys nelsoni),99.99,59.99,40.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:pastel-clown-peacock-slider-baby-2026-2-trachemys-emolii,Pastel Clown Peacock Slider Baby 2026 #2 (Trachemys emolii),99.99,59.99,40.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:albino-t-penninsula-cooter-turtle-2601-pseudemys-peninsularis,Albino T- Penninsula Cooter Turtle #2601 (Pseudemys peninsularis),799.99,599.99,25.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:pastel-clown-red-eared-slider-turtle-2601-trachemys-elegans,Pastel Clown Red Eared Slider Turtle #2601   (Trachemys elegans),99.99,59.99,40.0
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:florida-red-bellied-turtle-x-peacock-slider-5-pseudemys-nelsoni-x-trachemys-emoli-copy,Florida Red Bellied Turtle X Peacock Slider #5 (Pseudemys nelsoni X Trachemys Emoli),69.99,59.99,14.3
+2026-10-28T12:20:28.759789+00:00,American Reptile Distributors,american-reptile-distributors:pastel-clown-peacock-slider-baby-2026-1-trachemys-emolii,Pastel Clown Peacock Slider Baby 2026 #1 (Trachemys emolii),99.99,59.99,40.0
+2026-10-28T12:20:28.759789+00:00,Big Apple Herp,big-apple-herp:brazilian-rainbow-boas-1,Brazilian Rainbow Boas,339.95,349.95,2.9
+2026-10-28T12:20:28.759789+00:00,Big Apple Herp,big-apple-herp:water-monitors,Asian Water Monitors,134.95,189.95,40.8
+2026-10-28T12:20:28.759789+00:00,Big Apple Herp,big-apple-herp:bull-snakes,Bull Snakes & Gopher Snakes (Various Morphs),79.95,189.95,137.6
+2026-10-28T12:20:28.759789+00:00,Big Apple Herp,big-apple-herp:emperor-scorpions,Emperor Scorpions (True P. imperator),54.95,59.95,9.1
+2026-10-28T12:20:28.759789+00:00,The Bio Dude,the-bio-dude:skunk-lined-gecko,"Gekko vittatus (Captive Bred) | Skunk Gecko, White Lined Gecko",49.95,39.95,20.0
+2026-10-28T12:20:28.759789+00:00,Grow Organic,grow-organic:spring-reusable-wood-trays-for-mason-bees-8mm,Spring Reusable Wood Trays for Mason Bees - 8mm,43.5,45.25,4.0
+2026-10-28T12:20:28.759789+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-badius-5-10-workersants-colony,Pogonomyrmex badius (10-15 workers)(Colony And Queen ONLY),80.0,70.0,12.5
+2026-10-28T12:20:28.759789+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-5-10-workers-queenants-only-2,"Pogonomyrmex occidentalis (20-25 workers, Queen)(Ants Only)",62.0,64.0,3.2
+2026-10-28T12:20:28.759789+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-8-12-workers-queen-bifurcated-mini-hearth-formicarium,"Pogonomyrmex occidentalis (20-25 workers, Queen)w/ Bifurcated Mini Hearth Formicarium",112.0,114.0,1.8
+2026-10-28T12:20:28.759789+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-colony-1-5-workersmini-hearth-bundle,"Pogonomyrmex occidentalis (20-25 workers, Queen)w/ Mini Hearth Formicarium",100.0,104.99,5.0
