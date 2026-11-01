@@ -2802,7 +2802,7 @@
             {
               "label": "MAKE IT A PACKAGE! 🛖🛖🛖",
               "price": 120.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -3496,7 +3496,7 @@
             {
               "label": "3-4\" Female (field-collected)",
               "price": 58.0,
-              "available": true
+              "available": false
             },
             {
               "label": "3-4\" Male (field-collected)",
@@ -3637,6 +3637,36 @@
       },
       "suppliers": [
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Tliltocatl albopilosum (Nicaraguan Curly Hair)",
+          "price": 10.0,
+          "available": true,
+          "url": "https://spidershoppe.com/products/vancouver-picl-up-tliltocatl-albopilosum-nicaraguan-curly-hair",
+          "size": "0.25\"",
+          "variants": [
+            {
+              "label": "0.25\"",
+              "price": 10.0,
+              "available": false
+            },
+            {
+              "label": "0.5-0.75\"",
+              "price": 16.0,
+              "available": true
+            },
+            {
+              "label": "3-4\" Female",
+              "price": 58.0,
+              "available": false
+            },
+            {
+              "label": "4\" Male",
+              "price": 28.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "FangzTV",
           "product_name": "Tliltocatl albopilosus Honduran curlyhair tarantula .25''",
           "price": 10.0,
@@ -3710,24 +3740,6 @@
           ]
         },
         {
-          "breeder": "Exotics Unlimited",
-          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\" (Pre Molt)",
-          "price": 25.0,
-          "available": true,
-          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-albopilosus-curly-hair-tarantula-0-5-0-76",
-          "size": "0.5–0.75\"",
-          "temperament": "Docile",
-          "world": "New World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "0.5-0.75\" Spiderling",
-              "price": 25.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Imperial Reptiles",
           "product_name": "Curly Hair Tarantula (Tliltocatl albopilosus)",
           "price": 29.99,
@@ -3763,7 +3775,7 @@
             {
               "label": "0.75\"",
               "price": 30.0,
-              "available": true
+              "available": false
             },
             {
               "label": "2\"-2.5\"",
@@ -3817,31 +3829,19 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Tliltocatl albopilosum (Nicaraguan Curly Hair)",
-          "price": 10.0,
+          "breeder": "Exotics Unlimited",
+          "product_name": "Tliltocatl albopilosus (Curly Hair Tarantula) 0.5-0.75\" (Pre Molt)",
+          "price": 25.0,
           "available": false,
-          "url": "https://spidershoppe.com/products/vancouver-picl-up-tliltocatl-albopilosum-nicaraguan-curly-hair",
-          "size": "0.25\"",
+          "url": "https://exoticsunlimitedusa.com/products/tliltocatl-albopilosus-curly-hair-tarantula-0-5-0-76",
+          "size": "0.5–0.75\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial",
           "variants": [
             {
-              "label": "0.25\"",
-              "price": 10.0,
-              "available": false
-            },
-            {
-              "label": "0.5-0.75\"",
-              "price": 16.0,
-              "available": false
-            },
-            {
-              "label": "3-4\" Female",
-              "price": 58.0,
-              "available": false
-            },
-            {
-              "label": "4\" Male",
-              "price": 28.0,
+              "label": "0.5-0.75\" Spiderling",
+              "price": 25.0,
               "available": false
             }
           ]
@@ -4169,7 +4169,7 @@
             {
               "label": "1.5\"  $59.00 ea.",
               "price": 59.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -4487,6 +4487,26 @@
           "url": "https://www.fangztv.com/products/brachypelma-hamorii-2-mexican-red-knee-tarantula"
         },
         {
+          "breeder": "Big Apple Herp",
+          "product_name": "Mexican Red Knee Tarantulas",
+          "price": 52.95,
+          "available": true,
+          "url": "https://www.bigappleherp.com/products/mexican-red-knee-tarantulas",
+          "size": "5\"",
+          "variants": [
+            {
+              "label": "CB .5\"",
+              "price": 52.95,
+              "available": true
+            },
+            {
+              "label": "CB 1.5 to 2\"",
+              "price": 109.95,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Micro Wilderness",
           "product_name": "Brachypelma hamorii - Unsexed - Mexican Red knee Tarantula",
           "price": 59.99,
@@ -4508,21 +4528,6 @@
             {
               "label": "2” suspected females",
               "price": 179.99,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Big Apple Herp",
-          "product_name": "Mexican Red Knee Tarantulas",
-          "price": 79.95,
-          "available": true,
-          "url": "https://www.bigappleherp.com/products/mexican-red-knee-tarantulas",
-          "size": "2–2.5\"",
-          "variants": [
-            {
-              "label": "2 to 2.5 Inch FC",
-              "price": 79.95,
               "available": true
             }
           ]
@@ -4887,6 +4892,36 @@
       },
       "suppliers": [
         {
+          "breeder": "The Bio Dude",
+          "product_name": "Pterinochilus murinus 'Usambara' – Orange Baboon Tarantula | RCF Red Color Form | TDE",
+          "price": 19.79,
+          "available": true,
+          "url": "https://thebiodude.com/products/pterinochilus-murinus-usambara-orange-baboon-tarantula-rcf-red-color-form-live-arrival-guarantee",
+          "size": "3/4–1\"",
+          "variants": [
+            {
+              "label": "3/4-1\"",
+              "price": 19.79,
+              "available": true
+            },
+            {
+              "label": "Mature Male",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "3 to 4\" Female",
+              "price": 149.99,
+              "available": false
+            },
+            {
+              "label": "Subadult/Adult Male & Female Pair",
+              "price": 149.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "FangzTV",
           "product_name": "Pterinochilus murinus Baboon Kigoma .5\"",
           "price": 22.0,
@@ -4965,11 +5000,11 @@
         },
         {
           "breeder": "Fear Not Tarantulas",
-          "product_name": "Pterinochilus murinus (Orange Baboon Tarantula, OBT) about 3/4\" - 1\"",
+          "product_name": "Pterinochilus murinus (Orange Baboon Tarantula, OBT) about 1/2\" - 3/4\"",
           "price": 49.0,
           "available": true,
           "url": "https://fearnottarantulas.com/products/pterinochilus-murinus-orange-baboon-tarantula-obt-for-sale",
-          "size": "3/4–1\"",
+          "size": "1/2–3/4\"",
           "life_stage": "Spiderling",
           "world": "Old World",
           "habitat": "Terrestrial",
@@ -4983,36 +5018,6 @@
               "label": "MAKE IT A PACKAGE!  🛖🛖🛖",
               "price": 60.0,
               "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "The Bio Dude",
-          "product_name": "Pterinochilus murinus 'Usambara' – Orange Baboon Tarantula | RCF Red Color Form | TDE",
-          "price": 24.89,
-          "available": false,
-          "url": "https://thebiodude.com/products/pterinochilus-murinus-usambara-orange-baboon-tarantula-rcf-red-color-form-live-arrival-guarantee",
-          "size": "3/4–1\"",
-          "variants": [
-            {
-              "label": "3/4-1\"",
-              "price": 24.89,
-              "available": false
-            },
-            {
-              "label": "Mature Male",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "3 to 4\" Female",
-              "price": 149.99,
-              "available": false
-            },
-            {
-              "label": "Subadult/Adult Male & Female Pair",
-              "price": 149.99,
-              "available": false
             }
           ]
         },
@@ -5080,8 +5085,8 @@
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 6,
-      "best_price": 22.0,
+      "in_stock_count": 7,
+      "best_price": 19.79,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=orange+baboon+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Orange Baboon Tarantula",
@@ -5157,51 +5162,6 @@
         ]
       },
       "suppliers": [
-        {
-          "breeder": "Micro Wilderness",
-          "product_name": "Pink Toe Spider Hand Towel",
-          "price": 15.99,
-          "available": true,
-          "url": "https://www.microwilderness.com/products/pink-toe-spider-hand-towel",
-          "size": "28\"",
-          "variants": [
-            {
-              "label": "White base / 28\" × 16\"",
-              "price": 15.99,
-              "available": true
-            }
-          ]
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
-          "price": 28.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
-          "size": "3–4\"",
-          "variants": [
-            {
-              "label": "3-4\" (WC)",
-              "price": 44.0,
-              "available": true
-            },
-            {
-              "label": "2\" (WC)",
-              "price": 36.0,
-              "available": false
-            },
-            {
-              "label": "1-2\"",
-              "price": 28.0,
-              "available": false
-            },
-            {
-              "label": "0.5\" (CB)",
-              "price": 28.0,
-              "available": true
-            }
-          ]
-        },
         {
           "breeder": "Big Apple Herp",
           "product_name": "Pink Toe Tarantulas",
@@ -5308,6 +5268,33 @@
           ]
         },
         {
+          "breeder": "Micro Wilderness",
+          "product_name": "Avicularia avicularia - Unsexed - Pink Toe Tarantula",
+          "price": 24.99,
+          "available": false,
+          "url": "https://www.microwilderness.com/products/avicularia-avicularia",
+          "size": "0.5\"",
+          "sex": "Unsexed",
+          "habitat": "Arboreal",
+          "variants": [
+            {
+              "label": "0.5”",
+              "price": 24.99,
+              "available": false
+            },
+            {
+              "label": "2”",
+              "price": 39.99,
+              "available": false
+            },
+            {
+              "label": "3”",
+              "price": 59.99,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Imperial Reptiles",
           "product_name": "Pinktoe Tarantula (Avicularia avicularia)",
           "price": 24.99,
@@ -5323,6 +5310,36 @@
             {
               "label": "4\"+",
               "price": 49.99,
+              "available": false
+            }
+          ]
+        },
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
+          "price": 28.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
+          "size": "3–4\"",
+          "variants": [
+            {
+              "label": "3-4\" (WC)",
+              "price": 44.0,
+              "available": false
+            },
+            {
+              "label": "2\" (WC)",
+              "price": 36.0,
+              "available": false
+            },
+            {
+              "label": "1-2\"",
+              "price": 28.0,
+              "available": false
+            },
+            {
+              "label": "0.5\" (CB)",
+              "price": 28.0,
               "available": false
             }
           ]
@@ -5385,8 +5402,8 @@
         }
       ],
       "supplier_count": 14,
-      "in_stock_count": 7,
-      "best_price": 15.99,
+      "in_stock_count": 5,
+      "best_price": 29.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Pink Toe Tarantula",
@@ -5468,7 +5485,7 @@
           "product_name": "Red \"Wiggler\" Worms - Limit 6lb per customer only",
           "price": 17.85,
           "available": true,
-          "url": "https://www.naturesgoodguys.com/products/live-red-worms",
+          "url": "https://www.naturesgoodguys.com/products/red-wiggler-worms",
           "variants": [
             {
               "label": "300 Red Worms / No Worm Chow",
@@ -5635,35 +5652,9 @@
       "photo_is_base_species": true,
       "price_range": "5-15",
       "best_price": 21.99,
-      "supplier_count": 13,
-      "in_stock_count": 4,
+      "supplier_count": 12,
+      "in_stock_count": 3,
       "suppliers": [
-        {
-          "breeder": "JamJam Exotic",
-          "product_name": "Cubaris sp. 'Rubber Ducky'",
-          "price": 69.99,
-          "available": true,
-          "url": "https://jamjamexotic.com/products/cubaris-sp-rubber-ducky",
-          "quantity": 6,
-          "per_unit_price": 11.66,
-          "variants": [
-            {
-              "label": "6 CT",
-              "price": 69.99,
-              "available": true
-            },
-            {
-              "label": "12 CT",
-              "price": 99.99,
-              "available": false
-            },
-            {
-              "label": "50 CT",
-              "price": 249.99,
-              "available": true
-            }
-          ]
-        },
         {
           "breeder": "Pangea Reptile",
           "product_name": "Cubaris sp. ‘Rubber Ducky’ Isopods",
@@ -5970,10 +5961,10 @@
         },
         {
           "breeder": "JamJam Exotic",
-          "product_name": "Porcellio laevis “White”",
+          "product_name": "Porcellio laevis “Dairy Cow”",
           "price": 14.99,
           "available": true,
-          "url": "https://jamjamexotic.com/products/porcellio-laevis-white",
+          "url": "https://jamjamexotic.com/products/porcellio-laevis-dairy-cow",
           "quantity": 6,
           "per_unit_price": 2.5,
           "variants": [
@@ -6223,7 +6214,7 @@
       "price_range": "1-2",
       "best_price": 10.0,
       "supplier_count": 14,
-      "in_stock_count": 7,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6382,6 +6373,35 @@
           ]
         },
         {
+          "breeder": "I Heart Bugs",
+          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
+          "price": 12.0,
+          "available": true,
+          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
+          "variants": [
+            {
+              "label": "15 Powder Party Mix Isopods",
+              "price": 12.0,
+              "available": true
+            },
+            {
+              "label": "50 Powder Party Mix Isopods",
+              "price": 25.0,
+              "available": false
+            },
+            {
+              "label": "100 Powder Party Mix Isopods",
+              "price": 40.0,
+              "available": false
+            },
+            {
+              "label": "500 Powder Party Mix Isopods",
+              "price": 125.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Holy-Poly Isopods",
           "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
           "price": 1.0,
@@ -6486,35 +6506,6 @@
           "price": 6.99,
           "available": false,
           "url": "https://tcinsects.com/product/porcellionides-pruinosus-lemon-berry-crumble/"
-        },
-        {
-          "breeder": "I Heart Bugs",
-          "product_name": "Powder Party Mix Isopods (Porcellionides pruinosus)",
-          "price": 12.0,
-          "available": false,
-          "url": "https://iheartbugs.com/products/porcellionides-pruinosus-blue-and-orange-mix",
-          "variants": [
-            {
-              "label": "15 Powder Party Mix Isopods",
-              "price": 12.0,
-              "available": false
-            },
-            {
-              "label": "50 Powder Party Mix Isopods",
-              "price": 25.0,
-              "available": false
-            },
-            {
-              "label": "100 Powder Party Mix Isopods",
-              "price": 40.0,
-              "available": false
-            },
-            {
-              "label": "500 Powder Party Mix Isopods",
-              "price": 125.0,
-              "available": false
-            }
-          ]
         }
       ],
       "amazon": {
@@ -8783,7 +8774,7 @@
             {
               "label": "2 Orders of Bumble Bee Millipede",
               "price": 37.99,
-              "available": true
+              "available": false
             },
             {
               "label": "3 Orders of Bumble Bee Millipede",
@@ -9064,28 +9055,16 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "30-50",
-      "best_price": null,
+      "best_price": 199.99,
       "supplier_count": 4,
-      "in_stock_count": 0,
+      "in_stock_count": 1,
       "suppliers": [
         {
           "breeder": "American Reptile Distributors",
-          "product_name": "Vietnamese Giant  Centipede (Scolopendra subspinipes)",
-          "price": 29.99,
-          "available": false,
-          "url": "https://americanreptiles.com/products/vietnamese-giant-centipede-scolopendra-subsinipes",
-          "variants": [
-            {
-              "label": "Male",
-              "price": 29.99,
-              "available": false
-            },
-            {
-              "label": "Female",
-              "price": 29.99,
-              "available": false
-            }
-          ]
+          "product_name": "Piece of Lava Centipede Adults (Scolopendra subspinipes ‘piceoflava’)",
+          "price": 199.99,
+          "available": true,
+          "url": "https://americanreptiles.com/products/piece-of-lava-centipede-scolopendra-subspinipes-piceoflava"
         },
         {
           "breeder": "Gallegos Zoological",
@@ -9299,8 +9278,8 @@
       "photo_is_base_species": false,
       "price_range": "8-15",
       "best_price": 9.99,
-      "supplier_count": 10,
-      "in_stock_count": 8,
+      "supplier_count": 11,
+      "in_stock_count": 9,
       "suppliers": [
         {
           "breeder": "US Invertebrate LLC",
@@ -9491,6 +9470,13 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Micro Wilderness",
+          "product_name": "Asbolus verrucosus- Blue death feigning beetle",
+          "price": 24.99,
+          "available": true,
+          "url": "https://www.microwilderness.com/products/asbolus-verrucosus-blue-death-feigning-beetle"
         },
         {
           "breeder": "Fear Not Tarantulas",
@@ -10649,8 +10635,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 40,
-    "last_updated": "October 28, 2026",
-    "next_update": "November 01, 2026",
-    "last_updated_iso": "2026-10-28T12:26:29.581478+00:00"
+    "last_updated": "November 01, 2026",
+    "next_update": "November 04, 2026",
+    "last_updated_iso": "2026-11-01T12:57:00.447652+00:00"
   }
 }
