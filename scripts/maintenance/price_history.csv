@@ -6266,3 +6266,61 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-11-08T12:56:09.107809+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-promethea-moth-cocoons,(Single) Promethea Moth Cocoon,10.0,18.0,80.0
 2026-11-08T12:56:09.107809+00:00,AntGear,antgear:pogonomyrmex-barbatus,Red Harvester Ant (Pogonomyrmex barbatus),44.99,54.99,22.2
 2026-11-08T12:56:09.107809+00:00,AntGear,antgear:pogo-occidentalis,Western Harvester Ants (Pogonomyrmex occidentalis),44.97,49.99,11.2
+2026-11-11T13:45:31.152223+00:00,The Defiant Forest,the-defiant-forest:giant-banded-pink-foot-millipede-narceus-americanus-captive-bred,"Giant Banded Pink Foot Millipede, Narceus americanus - Captive Bred",18.0,20.0,11.1
+2026-11-11T13:45:31.152223+00:00,Exotics Unlimited,exotics-unlimited:tapinauchenius-sp-tena-tena-violet-tarantula-0-5-0-75,"Tapinauchenius sp 'Tena' (Tena Violet Tarantula) 0.5-0.75""",35.0,39.0,11.4
+2026-11-11T13:45:31.152223+00:00,Exotics Unlimited,exotics-unlimited:spinosatibiapalpus-gitan,"Spinosatibiapalpus sp. 'Gitan' (Dwarf Bronze Tarantula) 1/4""",50.0,40.0,20.0
+2026-11-11T13:45:31.152223+00:00,Exotics Unlimited,exotics-unlimited:homoeomma-chilense-chilean-flame-tarantula-0-5-well-established-spiderlings,"Homoeomma chilense (Chilean Flame Tarantula) 0.5""",150.0,125.0,16.7
+2026-11-11T13:45:31.152223+00:00,Exotics Unlimited,exotics-unlimited:grammostola-porteri-now-rosea-chilean-rose-hair-tarantula-0-75-1,"Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula) 0.75-1""",85.0,65.0,23.5
+2026-11-11T13:45:31.152223+00:00,Exotics Unlimited,exotics-unlimited:grammostola-porteri-now-rosea-chilean-rose-hair-tarantula,Grammostola porteri (now rosea) (Chilean Rose-Hair Tarantula),75.0,58.0,22.7
+2026-11-11T13:45:31.152223+00:00,Exotics Unlimited,exotics-unlimited:tapinauchenius-sp-tena-tena-violet-tarantula,Tapinauchenius sp 'Tena' (Tena Violet Tarantula),35.0,39.0,11.4
+2026-11-11T13:45:31.152223+00:00,Symton Black Soldier Fly,symton-bsf:medium-feeding-grade-grubs,Medium Black Soldier Fly Larvae,13.0,6.0,53.8
+2026-11-11T13:45:31.152223+00:00,Symton Black Soldier Fly,symton-bsf:large-feeding-grade-grubs,Large Black Soldier Fly Larvae,8.0,6.0,25.0
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-bonnie,Regal Jumping Spider “Bonnie”,75.0,95.0,26.7
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-sabrina,Regal Jumping Spider “Sabrina”,95.0,75.0,21.1
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-skye,"Regal Jumping Spider ""Skye” (High White) (Recessive)",150.0,125.0,16.7
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-calypso,"Regal Jumping Spider ""Calypso""",95.0,75.0,21.1
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:audax-jumping-spider-panda,Audax Jumping Spider “Panda”,75.0,55.0,26.7
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-mozzarella,"Regal Jumping Spider ""Mozzarella"" (High White)",95.0,125.0,31.6
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-love,"Regal Jumping Spider ""Love""",75.0,95.0,26.7
+2026-11-11T13:45:31.152223+00:00,Exotics Source,exotics-source:regal-jumping-spider-peanut,"Regal Jumping Spider ""Peanut""",75.0,95.0,26.7
+2026-11-11T13:45:31.152223+00:00,Spider Shoppe,spider-shoppe:mniarogekko-chahoua-new-caledonian-mossy-gecko-pine-island-1,Mniarogekko chahoua (New Caledonian Mossy Gecko) Pine Island,228.0,188.0,17.5
+2026-11-11T13:45:31.152223+00:00,Spider Shoppe,spider-shoppe:correlophus-ciliatus-crested-gecko-normal-juvenile,Correlophus ciliatus (Crested Gecko) Normal Juveniles,38.0,48.0,26.3
+2026-11-11T13:45:31.152223+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-lasiodora-parahybana-salmon-pink-bird-eater,[Vancouver Pick-up] Lasiodora parahybana (Salmon Pink Bird-Eater),36.0,20.0,44.4
+2026-11-11T13:45:31.152223+00:00,FangzTV,fangztv:lasiodora-parahybana-brazilian-salmon-pink-tarantula-25,Lasiodora parahybana Brazilian Salmon Pink Tarantula .5'',10.0,15.0,50.0
+2026-11-11T13:45:31.152223+00:00,FangzTV,fangztv:heterothele-villosella-tanzanian-chestnut-baboon-tarantula-1-5,"Heterothele villosella Tanzanian Chestnut Baboon tarantula .25""",10.0,5.0,50.0
+2026-11-11T13:45:31.152223+00:00,FangzTV,fangztv:hapolopus-sp-colombia-formosus-lg-pumpkin-patch-tarantula-2i-1-64,Hapolopus sp. Colombia FORMOSUS LG Pumpkin Patch Tarantula 2nd instar .125,20.0,8.0,60.0
+2026-11-11T13:45:31.152223+00:00,Buddha Bugs,buddha-bugs:heteropoda-sp-thai-cave-thai-cave-huntsman-spider-for-sale,"Heteropoda schwendingeri, formerly Heteropoda sp. 'Thai cave' (Thai cave huntsman spider) 0.75""-1""",40.0,45.0,12.5
+2026-11-11T13:45:31.152223+00:00,Buddha Bugs,buddha-bugs:phoneutria-depilata-depilated-wandering-spider-for-sale,"Phoneutria depilata (depilated wandering spider) 0.75""-1""",75.0,85.0,13.3
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:pied-genetic-stripe-bearded-dragons,Pied Genetic Stripe Bearded Dragons,89.95,79.95,11.1
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:lined-day-geckos,Lined Day Geckos,59.95,54.95,8.3
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:peacock-day-geckos,Peacock Day Geckos,74.95,79.95,6.7
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:dunner-bearded-dragons,Dunner Bearded Dragons,79.95,59.95,25.0
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:koch-s-giant-day-geckos,Koch’s Giant Day Geckos,64.95,46.95,27.7
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:chocolate-pacman-frogs,Chocolate Pacman Frogs,29.95,27.95,6.7
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:green-keeled-lizards,Green Keeled Lizards,79.95,69.95,12.5
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:baby-red-silkie-bearded-dragons,Baby Silky Bearded Dragons,39.95,34.95,12.5
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:fancy-colored-bearded-dragons-for-sale,Fancy Colored Bearded Dragons,59.0,49.95,15.3
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:green-pacman-frogs,Green Pacman Frogs,29.95,26.95,10.0
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:albino-pacman-frogs,Albino Pacman Frogs,29.95,27.95,6.7
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:camo-pacman-frogs,Camo Pacman Frogs,34.95,27.95,20.0
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:strawberry-pacman-frogs,Strawberry Pacman Frogs,39.95,34.95,12.5
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:rhino-iguanas,Rhino Iguanas,349.95,319.95,8.6
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:flying-gecko,Flying Geckos (kuhli),29.95,39.95,33.4
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:madagascar-giant-day-geckos,Giant Day Gecko Grandis,79.95,74.95,6.3
+2026-11-11T13:45:31.152223+00:00,Big Apple Herp,big-apple-herp:goliath-bird-eating,Goliath Bird Eating Tarantula,139.95,99.95,28.6
+2026-11-11T13:45:31.152223+00:00,Imperial Reptiles,imperial-reptiles:leatherback-hypo-zero-bearded-dragon-female-111224-01,Hypo Leatherback Zero Bearded Dragon Baby,279.99,299.99,7.1
+2026-11-11T13:45:31.152223+00:00,Imperial Reptiles,imperial-reptiles:zero-bearded-dragons-for-sale,Zero Bearded Dragon Baby,224.99,249.99,11.1
+2026-11-11T13:45:31.152223+00:00,Imperial Reptiles,imperial-reptiles:hypo-zero-bearded-dragon-for-sale,Hypo Zero Bearded Dragon Baby,249.99,274.99,10.0
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:captive-bred-black-gold-gigantea,Scolopendra gigantea,749.99,599.99,20.0
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:space-marine-crab-tiwaripotamon-caeruleum,Space Marine Crab (Tiwaripotamon caeruleum),119.99,59.99,50.0
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:pirate-crab-dangmon-rubra,Pirate Crab (Dangmon rubra),64.99,59.99,7.7
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:celebes-rainbow-centipede,Celebes Rainbow Centipede,149.99,99.99,33.3
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:scolopendra-piceoflava-black-angel,Scolopendra piceoflava - Black Angel,199.99,149.99,25.0
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:scolopendra-toraja-red,Scolopendra Toraja - Red,219.99,149.99,31.8
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:gecarcoidea-lalandii,Purple Land Crab (Gecarcoidea humei),79.99,59.99,25.0
+2026-11-11T13:45:31.152223+00:00,Frognose Exotics,frognose-exotics:black-java-giant-centipede,Scolopendra Sp Java Black Giant,199.99,149.99,25.0
+2026-11-11T13:45:31.152223+00:00,Grow Organic,grow-organic:organic-sandwich-booster-sprouting-seed-mix-3-oz,Organic Sandwich Booster Sprouting Seed Mix (3 oz),7.25,10.6,46.2
+2026-11-11T13:45:31.152223+00:00,Grow Organic,grow-organic:organic-broccoli-sprouting-seeds-3-oz,Organic Broccoli Sprouting Seeds (3 oz),10.6,7.25,31.6
+2026-11-11T13:45:31.152223+00:00,Grow Organic,grow-organic:organic-masquerade-seed-potatoes-lb,Organic Masquerade Seed Potato (lb),6.79,8.49,25.0
+2026-11-11T13:45:31.152223+00:00,Grow Organic,grow-organic:out-org-kennebec-white-potato-lb-15655,Organic Kennebec White Seed Potato (lb),7.99,9.99,25.0
+2026-11-11T13:45:31.152223+00:00,Grow Organic,grow-organic:organic-yukon-gold-potatoes-lb,Organic Yukon Gold Seed Potato (lb),7.99,9.99,25.0
