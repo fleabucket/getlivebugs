@@ -2785,13 +2785,6 @@
           "url": "https://tcinsects.com/product/grammostola-pulchra-brazilian-black-tarantula/"
         },
         {
-          "breeder": "FangzTV",
-          "product_name": "Grammostola quirogai (Hobby Grammostola pulchra brazilian black tarantula) 1''",
-          "price": 80.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/grammostola-pulchra-brazilian-black-tarantula-75"
-        },
-        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Grammostola pulchra hobby form *Likely Grammostola quirogai *see note in description (Brazilian Black Tarantula) about 1\" - 1 1/4\"",
           "price": 95.0,
@@ -2872,6 +2865,13 @@
           ]
         },
         {
+          "breeder": "FangzTV",
+          "product_name": "Grammostola quirogai (Hobby Grammostola pulchra brazilian black tarantula) 1''",
+          "price": 80.0,
+          "available": false,
+          "url": "https://www.fangztv.com/products/grammostola-pulchra-brazilian-black-tarantula-75"
+        },
+        {
           "breeder": "Buddha Bugs",
           "product_name": "Grammostola aff. pulchra (Brazilian black tarantula) 0.66\"",
           "price": 85.0,
@@ -2903,7 +2903,7 @@
         }
       ],
       "supplier_count": 12,
-      "in_stock_count": 8,
+      "in_stock_count": 7,
       "best_price": 49.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=brazilian+black+tarantula+tarantula&tag=getlivebugs-20",
@@ -3059,7 +3059,7 @@
             {
               "label": "1.5\" Female",
               "price": 148.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -3275,7 +3275,7 @@
             {
               "label": "4\" Female",
               "price": 98.0,
-              "available": true
+              "available": false
             },
             {
               "label": "0.5\"",
@@ -3781,21 +3781,6 @@
           ]
         },
         {
-          "breeder": "Exotics Source",
-          "product_name": "Curly Hair Tarantula",
-          "price": 35.0,
-          "available": true,
-          "url": "https://exoticssource.com/products/curly-hair-tarantula",
-          "world": "New World",
-          "variants": [
-            {
-              "label": "Med/Large",
-              "price": 35.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "Big Apple Herp",
           "product_name": "Curly Hair Tarantulas",
           "price": 39.95,
@@ -3825,6 +3810,21 @@
           ]
         },
         {
+          "breeder": "Exotics Source",
+          "product_name": "Curly Hair Tarantula",
+          "price": 35.0,
+          "available": false,
+          "url": "https://exoticssource.com/products/curly-hair-tarantula",
+          "world": "New World",
+          "variants": [
+            {
+              "label": "Med/Large",
+              "price": 35.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Micro Wilderness",
           "product_name": "Tliltocatl albopilosum 'Nicaraguan' - Male - Nicaraguan Curly Hair Tarantula",
           "price": 44.99,
@@ -3847,7 +3847,7 @@
         }
       ],
       "supplier_count": 12,
-      "in_stock_count": 11,
+      "in_stock_count": 10,
       "best_price": 10.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=curly+hair+tarantula+tarantula&tag=getlivebugs-20",
@@ -3925,13 +3925,6 @@
         ]
       },
       "suppliers": [
-        {
-          "breeder": "FangzTV",
-          "product_name": "Theraphosa stirmi Burgundy\" Goliath Bird-eater 4''+",
-          "price": 110.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/theraphosa-stirmi-burgundy-goliath-bird-eater-4"
-        },
         {
           "breeder": "Buddha Bugs",
           "product_name": "Theraphosa blondi (goliath bird-eating tarantula) 1.5\"",
@@ -4032,6 +4025,13 @@
           ]
         },
         {
+          "breeder": "FangzTV",
+          "product_name": "Theraphosa stirmi Burgundy\" Goliath Bird-eater 4''+",
+          "price": 110.0,
+          "available": false,
+          "url": "https://www.fangztv.com/products/theraphosa-stirmi-burgundy-goliath-bird-eater-4"
+        },
+        {
           "breeder": "Imperial Reptiles",
           "product_name": "Burgundy Goliath Bird-Eater Tarantula (Theraphosa stirmi)",
           "price": 129.99,
@@ -4048,7 +4048,7 @@
         }
       ],
       "supplier_count": 9,
-      "in_stock_count": 3,
+      "in_stock_count": 2,
       "best_price": 110.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=goliath+birdeater+tarantula&tag=getlivebugs-20",
@@ -4160,26 +4160,6 @@
           "url": "https://www.fangztv.com/products/chromatopelma-cyaneopubescens-1-green-bottle-blue-gbb"
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Chromatopelma cyaneopubescens (Green Bottle Blue)",
-          "price": 58.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-chromatopelma-cyaneopubescens-green-bottle-blue-copy",
-          "size": "0.75\"",
-          "variants": [
-            {
-              "label": "0.75\"",
-              "price": 58.0,
-              "available": true
-            },
-            {
-              "label": "1.5-2\"",
-              "price": 68.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Micro Wilderness",
           "product_name": "Chromatopelma cyaneopubescens - unsexed- Green Bottle Blue Tarantula",
           "price": 59.99,
@@ -4261,6 +4241,26 @@
           ]
         },
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Chromatopelma cyaneopubescens (Green Bottle Blue)",
+          "price": 58.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-chromatopelma-cyaneopubescens-green-bottle-blue-copy",
+          "size": "0.75\"",
+          "variants": [
+            {
+              "label": "0.75\"",
+              "price": 58.0,
+              "available": false
+            },
+            {
+              "label": "1.5-2\"",
+              "price": 68.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Fear Not Tarantulas",
           "product_name": "Chromatopelma cyaneopubescens (Green BottleBlue, GBB Tarantula) about 3/4\" - 1\"",
           "price": 65.0,
@@ -4329,7 +4329,7 @@
         }
       ],
       "supplier_count": 12,
-      "in_stock_count": 6,
+      "in_stock_count": 5,
       "best_price": 48.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=greenbottle+blue+tarantula+tarantula&tag=getlivebugs-20",
@@ -4978,29 +4978,6 @@
           ]
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Pterinochilus murinus (Orange Baboon Tarantula, OBT) about 1/2\" - 3/4\"",
-          "price": 49.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/pterinochilus-murinus-orange-baboon-tarantula-obt-for-sale",
-          "size": "1/2–3/4\"",
-          "life_stage": "Spiderling",
-          "world": "Old World",
-          "habitat": "Terrestrial",
-          "variants": [
-            {
-              "label": "Spiderling alone",
-              "price": 49.0,
-              "available": true
-            },
-            {
-              "label": "MAKE IT A PACKAGE!  🛖🛖🛖",
-              "price": 60.0,
-              "available": true
-            }
-          ]
-        },
-        {
           "breeder": "The Defiant Forest",
           "product_name": "Orange Starburst Baboon Tarantula, Pterinochilus murinus - Fast and Defensive Species",
           "price": 28.0,
@@ -5043,6 +5020,29 @@
           ]
         },
         {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Pterinochilus murinus (Orange Baboon Tarantula, OBT) about 1/2\" - 3/4\"",
+          "price": 49.0,
+          "available": false,
+          "url": "https://fearnottarantulas.com/products/pterinochilus-murinus-orange-baboon-tarantula-obt-for-sale",
+          "size": "1/2–3/4\"",
+          "life_stage": "Spiderling",
+          "world": "Old World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "Spiderling alone",
+              "price": 49.0,
+              "available": false
+            },
+            {
+              "label": "MAKE IT A PACKAGE!  🛖🛖🛖",
+              "price": 60.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "Imperial Reptiles",
           "product_name": "Orange Starburst Baboon Tarantula \"OBT\" (Pterinochilus murinus)",
           "price": 49.99,
@@ -5064,7 +5064,7 @@
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 7,
+      "in_stock_count": 6,
       "best_price": 19.79,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=orange+baboon+tarantula+tarantula&tag=getlivebugs-20",
@@ -5142,43 +5142,6 @@
       },
       "suppliers": [
         {
-          "breeder": "FangzTV",
-          "product_name": "Avicularia avicularia Guyana Pink Toe .5''",
-          "price": 10.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/avicularia-avicularia-guyana-pink-toe-2"
-        },
-        {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
-          "price": 28.0,
-          "available": true,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
-          "size": "3–4\"",
-          "variants": [
-            {
-              "label": "3-4\" (WC)",
-              "price": 44.0,
-              "available": true
-            },
-            {
-              "label": "2\" (WC)",
-              "price": 36.0,
-              "available": true
-            },
-            {
-              "label": "1-2\"",
-              "price": 28.0,
-              "available": false
-            },
-            {
-              "label": "0.5\" (CB)",
-              "price": 28.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Big Apple Herp",
           "product_name": "Pink Toe Tarantulas",
           "price": 29.0,
@@ -5227,16 +5190,6 @@
           ]
         },
         {
-          "breeder": "Fear Not Tarantulas",
-          "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about  1/2\" - 3/4\"",
-          "price": 42.0,
-          "available": true,
-          "url": "https://fearnottarantulas.com/products/avicularia-guyan-pinktoe-tarantula-for-sale",
-          "size": "1/2–3/4\"",
-          "world": "New World",
-          "habitat": "Arboreal"
-        },
-        {
           "breeder": "US Invertebrate LLC",
           "product_name": "Avicularia avicularia (Pink Toe Tarantula)",
           "price": 50.0,
@@ -5249,6 +5202,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "FangzTV",
+          "product_name": "Avicularia avicularia Guyana Pink Toe .5''",
+          "price": 10.0,
+          "available": false,
+          "url": "https://www.fangztv.com/products/avicularia-avicularia-guyana-pink-toe-2"
         },
         {
           "breeder": "The Defiant Forest",
@@ -5324,11 +5284,51 @@
           ]
         },
         {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
+          "price": 28.0,
+          "available": false,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
+          "size": "3–4\"",
+          "variants": [
+            {
+              "label": "3-4\" (WC)",
+              "price": 44.0,
+              "available": false
+            },
+            {
+              "label": "2\" (WC)",
+              "price": 36.0,
+              "available": false
+            },
+            {
+              "label": "1-2\"",
+              "price": 28.0,
+              "available": false
+            },
+            {
+              "label": "0.5\" (CB)",
+              "price": 28.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "TC Insects",
           "product_name": "Pink Toe Tarantula (Avicularia avicularia)",
           "price": 35.0,
           "available": false,
           "url": "https://tcinsects.com/product/pink-toe-tarantula-for-sale/"
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Avicularia avicularia (Guyan Pinktoe Tarantula) about  1/2\" - 3/4\"",
+          "price": 42.0,
+          "available": false,
+          "url": "https://fearnottarantulas.com/products/avicularia-guyan-pinktoe-tarantula-for-sale",
+          "size": "1/2–3/4\"",
+          "world": "New World",
+          "habitat": "Arboreal"
         },
         {
           "breeder": "The Bio Dude",
@@ -5381,8 +5381,8 @@
         }
       ],
       "supplier_count": 14,
-      "in_stock_count": 7,
-      "best_price": 10.0,
+      "in_stock_count": 4,
+      "best_price": 29.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Pink Toe Tarantula",
@@ -5630,9 +5630,9 @@
       "photo_caption": "Photo shows Cubaris murina, the wild-type base species. The Rubber Ducky morph is distinctively yellow-gold with a smooth, rounded body resembling a rubber duck.",
       "photo_is_base_species": true,
       "price_range": "5-15",
-      "best_price": 18.5,
+      "best_price": 21.99,
       "supplier_count": 12,
-      "in_stock_count": 4,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "Pangea Reptile",
@@ -5654,13 +5654,6 @@
               "available": true
             }
           ]
-        },
-        {
-          "breeder": "Holy-Poly Isopods",
-          "product_name": "Rubber Ducky Isopods (Cubaris sp.)",
-          "price": 18.5,
-          "available": true,
-          "url": "https://holypolyisopods.com/products/rubber-ducky-isopods-cubaris-sp"
         },
         {
           "breeder": "TC Insects",
@@ -5763,6 +5756,13 @@
           "url": "https://usmantis.com/products/rubber-ducky-isopods-on-sale-live-6-pack",
           "quantity": 6,
           "per_unit_price": 15.0
+        },
+        {
+          "breeder": "Holy-Poly Isopods",
+          "product_name": "Rubber Ducky Isopods (Cubaris sp.)",
+          "price": 18.5,
+          "available": false,
+          "url": "https://holypolyisopods.com/products/rubber-ducky-isopods-cubaris-sp"
         },
         {
           "breeder": "Reptanicals",
@@ -5870,7 +5870,7 @@
       "price_range": "1-3",
       "best_price": 6.0,
       "supplier_count": 15,
-      "in_stock_count": 9,
+      "in_stock_count": 10,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -5905,6 +5905,37 @@
               "label": "500 Count - $200.00 / $0.40 ea.",
               "price": 200.0,
               "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Pangea Reptile",
+          "product_name": "Porcellio laevis 'Dairy Cow' Isopods",
+          "price": 14.99,
+          "available": true,
+          "url": "https://pangeareptile.com/products/porcellio-laevis-dairy-cow-isopods",
+          "quantity": 10,
+          "per_unit_price": 1.5,
+          "variants": [
+            {
+              "label": "10 Count",
+              "price": 14.99,
+              "available": true
+            },
+            {
+              "label": "20 Count",
+              "price": 26.99,
+              "available": true
+            },
+            {
+              "label": "50 Count",
+              "price": 56.99,
+              "available": true
+            },
+            {
+              "label": "100 Count",
+              "price": 74.99,
+              "available": false
             }
           ]
         },
@@ -6076,37 +6107,6 @@
           "per_unit_price": 1.5
         },
         {
-          "breeder": "Pangea Reptile",
-          "product_name": "Porcellio laevis 'Dairy Cow' Isopods",
-          "price": 14.99,
-          "available": false,
-          "url": "https://pangeareptile.com/products/porcellio-laevis-dairy-cow-isopods",
-          "quantity": 10,
-          "per_unit_price": 1.5,
-          "variants": [
-            {
-              "label": "10 Count",
-              "price": 14.99,
-              "available": false
-            },
-            {
-              "label": "20 Count",
-              "price": 26.99,
-              "available": false
-            },
-            {
-              "label": "50 Count",
-              "price": 56.99,
-              "available": false
-            },
-            {
-              "label": "100 Count",
-              "price": 74.99,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "Terrarium Tribe",
           "product_name": "Dairy Cow Isopods (Porcellio laevis) 10 Count",
           "price": 17.95,
@@ -6193,7 +6193,7 @@
       "price_range": "1-2",
       "best_price": 10.0,
       "supplier_count": 14,
-      "in_stock_count": 8,
+      "in_stock_count": 9,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6249,6 +6249,37 @@
               "label": "10ct FREE SHIPPING",
               "price": 20.99,
               "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Pangea Reptile",
+          "product_name": "Porcellionides pruinosus 'Powder Blue' Isopods",
+          "price": 14.99,
+          "available": true,
+          "url": "https://pangeareptile.com/products/porcellionides-pruinosus-powder-blue-isopods",
+          "quantity": 10,
+          "per_unit_price": 1.5,
+          "variants": [
+            {
+              "label": "10 Count",
+              "price": 14.99,
+              "available": true
+            },
+            {
+              "label": "20 Count",
+              "price": 26.99,
+              "available": true
+            },
+            {
+              "label": "50 Count",
+              "price": 55.99,
+              "available": true
+            },
+            {
+              "label": "100 Count",
+              "price": 74.99,
+              "available": false
             }
           ]
         },
@@ -6435,37 +6466,6 @@
             {
               "label": "48 ct",
               "price": 30.0,
-              "available": false
-            }
-          ]
-        },
-        {
-          "breeder": "Pangea Reptile",
-          "product_name": "Porcellionides pruinosus 'Powder Blue' Isopods",
-          "price": 14.99,
-          "available": false,
-          "url": "https://pangeareptile.com/products/porcellionides-pruinosus-powder-blue-isopods",
-          "quantity": 10,
-          "per_unit_price": 1.5,
-          "variants": [
-            {
-              "label": "10 Count",
-              "price": 14.99,
-              "available": false
-            },
-            {
-              "label": "20 Count",
-              "price": 26.99,
-              "available": false
-            },
-            {
-              "label": "50 Count",
-              "price": 55.99,
-              "available": false
-            },
-            {
-              "label": "100 Count",
-              "price": 74.99,
               "available": false
             }
           ]
@@ -6777,8 +6777,8 @@
       "photo_is_base_species": false,
       "price_range": "20-50",
       "best_price": 19.99,
-      "supplier_count": 13,
-      "in_stock_count": 7,
+      "supplier_count": 14,
+      "in_stock_count": 8,
       "suppliers": [
         {
           "breeder": "Imperial Reptiles",
@@ -6926,6 +6926,18 @@
               "available": false
             }
           ]
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Phidippus regius (Regal Jumping Spider)  FEMALE about 1\" + adult WC Possibly gravid",
+          "price": 60.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/phidippus-regius-regal-jumping-spider-probable-female",
+          "size": "1\"",
+          "life_stage": "Adult",
+          "sex": "Female",
+          "world": "New World",
+          "habitat": "Arboreal"
         },
         {
           "breeder": "Heart Leaf Tropicals",
@@ -7496,11 +7508,11 @@
         },
         {
           "breeder": "Buddha Bugs",
-          "product_name": "Grammostola pulchripes (Chaco golden knee tarantula) 0.5\"-0.75\"",
+          "product_name": "Grammostola pulchripes (Chaco golden knee tarantula) 0.5\"",
           "price": 45.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/grammostola-pulchripes-chaco-golden-knee-tarantula-for-sale",
-          "size": "0.5–0.75\""
+          "size": "0.5\""
         },
         {
           "breeder": "Micro Wilderness",
@@ -7806,11 +7818,11 @@
       "suppliers": [
         {
           "breeder": "Buddha Bugs",
-          "product_name": "Monocentropus balfouri (Socotra Island blue baboon tarantula) 1\"",
+          "product_name": "Monocentropus balfouri (Socotra Island blue baboon tarantula) 0.66\"",
           "price": 45.0,
           "available": true,
           "url": "https://buddha-bugs.com/products/monocentropus-balfouri-socotra-island-blue-baboon-tarantula-for-sale",
-          "size": "1\"",
+          "size": "0.66\"",
           "quantity": 5,
           "per_unit_price": 9.0,
           "variants": [
@@ -7822,7 +7834,7 @@
             {
               "label": "5 ct communal",
               "price": 225.0,
-              "available": true
+              "available": false
             }
           ]
         },
@@ -8879,8 +8891,8 @@
       "photo_is_base_species": false,
       "price_range": "10-20",
       "best_price": 10.0,
-      "supplier_count": 5,
-      "in_stock_count": 2,
+      "supplier_count": 6,
+      "in_stock_count": 3,
       "suppliers": [
         {
           "breeder": "The World of Isopods",
@@ -8907,6 +8919,16 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Fear Not Tarantulas",
+          "product_name": "Ivory Millipede (Chicobolus spinigerus) about 2\" - 3\" THIS IS FOR THREE (3) MILLIPEDES. ‼️",
+          "price": 25.0,
+          "available": true,
+          "url": "https://fearnottarantulas.com/products/chicobolus-spinigerus-ivory-millipede-for-sale",
+          "size": "2–3\"",
+          "world": "New World",
+          "habitat": "Terrestrial"
         },
         {
           "breeder": "Spider Shoppe",
@@ -9259,7 +9281,7 @@
       "price_range": "8-15",
       "best_price": 9.99,
       "supplier_count": 11,
-      "in_stock_count": 9,
+      "in_stock_count": 10,
       "suppliers": [
         {
           "breeder": "US Invertebrate LLC",
@@ -9387,6 +9409,25 @@
           ]
         },
         {
+          "breeder": "JamJam Exotic",
+          "product_name": "Blue death feigning beetle",
+          "price": 14.99,
+          "available": true,
+          "url": "https://jamjamexotic.com/products/blue-death-feigning-beetle",
+          "variants": [
+            {
+              "label": "1 Beetle",
+              "price": 14.99,
+              "available": true
+            },
+            {
+              "label": "5 Beetle",
+              "price": 59.99,
+              "available": true
+            }
+          ]
+        },
+        {
           "breeder": "Heart Leaf Tropicals",
           "product_name": "1 Count Blue Death Feigning Beetle (Asbolus verrucosus)",
           "price": 15.0,
@@ -9484,25 +9525,6 @@
           "price": 11.99,
           "available": false,
           "url": "https://gallegoszoologicalsupply.com/products/asbolus-verrucosus-blue-death-feigning-beetle"
-        },
-        {
-          "breeder": "JamJam Exotic",
-          "product_name": "Blue death feigning beetle",
-          "price": 14.99,
-          "available": false,
-          "url": "https://jamjamexotic.com/products/blue-death-feigning-beetle",
-          "variants": [
-            {
-              "label": "1 Beetle",
-              "price": 14.99,
-              "available": false
-            },
-            {
-              "label": "5 Beetle",
-              "price": 59.99,
-              "available": false
-            }
-          ]
         }
       ],
       "amazon": {
@@ -10615,8 +10637,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "November 11, 2026",
-    "next_update": "November 15, 2026",
-    "last_updated_iso": "2026-11-11T13:50:46.769612+00:00"
+    "last_updated": "November 15, 2026",
+    "next_update": "November 18, 2026",
+    "last_updated_iso": "2026-11-15T13:43:37.038120+00:00"
   }
 }
