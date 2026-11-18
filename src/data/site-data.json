@@ -2296,7 +2296,6 @@
           "price": 59.95,
           "available": true,
           "url": "https://www.bigappleherp.com/products/emperor-scorpions",
-          "size": "3–5\"",
           "variants": [
             {
               "label": "Juvenile FC",
@@ -2304,13 +2303,8 @@
               "available": true
             },
             {
-              "label": "3 to 5 Inch Female FC",
-              "price": 69.95,
-              "available": true
-            },
-            {
-              "label": "3 to 5 Inch Male FC",
-              "price": 69.95,
+              "label": "Adult Male FC",
+              "price": 74.95,
               "available": true
             }
           ]
@@ -3469,7 +3463,7 @@
             {
               "label": "3-4\" Female (field-collected)",
               "price": 58.0,
-              "available": false
+              "available": true
             },
             {
               "label": "3-4\" Male (field-collected)",
@@ -3635,7 +3629,7 @@
             {
               "label": "3-4\" Female",
               "price": 58.0,
-              "available": false
+              "available": true
             },
             {
               "label": "4\" Male",
@@ -4130,24 +4124,20 @@
         {
           "breeder": "The Defiant Forest",
           "product_name": "Green Bottle Blue Tarantula, Chromatopelma cyaneopubescens - Heavy Webbing Species",
-          "price": 48.0,
+          "price": 85.0,
           "available": true,
           "url": "https://www.thedefiantforest.com/products/green-bottle-blue-tarantulas",
-          "size": "1.0\"",
+          "quantity": 2,
+          "per_unit_price": 42.5,
           "variants": [
             {
-              "label": ".75\"  $48.00 ea...",
-              "price": 48.0,
+              "label": ".75\"  $85.00 ea...",
+              "price": 85.0,
               "available": true
             },
             {
-              "label": "1.0\"  $52.00 ea.",
-              "price": 52.0,
-              "available": false
-            },
-            {
-              "label": "1.5\"  $59.00 ea.",
-              "price": 59.0,
+              "label": ".75\"  2 Count $140.00 / $70.00 ea...",
+              "price": 140.0,
               "available": false
             }
           ]
@@ -4304,6 +4294,24 @@
           ]
         },
         {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Chromatopelma cyaneopubescens (Green Bottle Blue Tarantula) 1.5-2\"",
+          "price": 155.0,
+          "available": false,
+          "url": "https://exoticsunlimitedusa.com/products/chromatopelma-cyaneopubescens-green-bottle-blue-tarantula-1-5-2",
+          "size": "1.5–2\"",
+          "temperament": "Docile",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "1.5-2\"  Early juvenile",
+              "price": 155.0,
+              "available": false
+            }
+          ]
+        },
+        {
           "breeder": "American Reptile Distributors",
           "product_name": "Green Bottle Blue Tarantula Female (3-4 inches) (Chromatopelma cyaneopubescens)",
           "price": 199.99,
@@ -4328,9 +4336,9 @@
           ]
         }
       ],
-      "supplier_count": 12,
+      "supplier_count": 13,
       "in_stock_count": 5,
-      "best_price": 48.0,
+      "best_price": 50.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=greenbottle+blue+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Greenbottle Blue Tarantula",
@@ -4901,14 +4909,6 @@
           ]
         },
         {
-          "breeder": "FangzTV",
-          "product_name": "Pterinochilus murinus Baboon Kigoma .5\"",
-          "price": 22.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/pterinochilus-murinus-baboon-kigoma-5",
-          "size": "5\""
-        },
-        {
           "breeder": "Spider Shoppe",
           "product_name": "[Vancouver Pick-up] Pterinochilus murinus 'TCF'",
           "price": 28.0,
@@ -4976,6 +4976,14 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "FangzTV",
+          "product_name": "Pterinochilus murinus Baboon Kigoma .5\"",
+          "price": 22.0,
+          "available": false,
+          "url": "https://www.fangztv.com/products/pterinochilus-murinus-baboon-kigoma-5",
+          "size": "5\""
         },
         {
           "breeder": "The Defiant Forest",
@@ -5064,7 +5072,7 @@
         }
       ],
       "supplier_count": 10,
-      "in_stock_count": 6,
+      "in_stock_count": 5,
       "best_price": 19.79,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=orange+baboon+tarantula+tarantula&tag=getlivebugs-20",
@@ -5141,6 +5149,36 @@
         ]
       },
       "suppliers": [
+        {
+          "breeder": "Spider Shoppe",
+          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
+          "price": 28.0,
+          "available": true,
+          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
+          "size": "3–4\"",
+          "variants": [
+            {
+              "label": "3-4\" (WC)",
+              "price": 44.0,
+              "available": true
+            },
+            {
+              "label": "2\" (WC)",
+              "price": 36.0,
+              "available": true
+            },
+            {
+              "label": "1-2\"",
+              "price": 28.0,
+              "available": false
+            },
+            {
+              "label": "0.5\" (CB)",
+              "price": 28.0,
+              "available": false
+            }
+          ]
+        },
         {
           "breeder": "Big Apple Herp",
           "product_name": "Pink Toe Tarantulas",
@@ -5284,36 +5322,6 @@
           ]
         },
         {
-          "breeder": "Spider Shoppe",
-          "product_name": "[Vancouver Pick-up] Avicularia avicularia (Guyana Pink Toe)",
-          "price": 28.0,
-          "available": false,
-          "url": "https://spidershoppe.com/products/vancouver-pick-up-avicularia-avicularia-guyana-pink-toe",
-          "size": "3–4\"",
-          "variants": [
-            {
-              "label": "3-4\" (WC)",
-              "price": 44.0,
-              "available": false
-            },
-            {
-              "label": "2\" (WC)",
-              "price": 36.0,
-              "available": false
-            },
-            {
-              "label": "1-2\"",
-              "price": 28.0,
-              "available": false
-            },
-            {
-              "label": "0.5\" (CB)",
-              "price": 28.0,
-              "available": false
-            }
-          ]
-        },
-        {
           "breeder": "TC Insects",
           "product_name": "Pink Toe Tarantula (Avicularia avicularia)",
           "price": 35.0,
@@ -5381,8 +5389,8 @@
         }
       ],
       "supplier_count": 14,
-      "in_stock_count": 4,
-      "best_price": 29.0,
+      "in_stock_count": 5,
+      "best_price": 28.0,
       "amazon": {
         "creature_url": "https://www.amazon.com/s?k=pink+toe+tarantula+tarantula&tag=getlivebugs-20",
         "creature_label": "Pink Toe Tarantula",
@@ -5930,7 +5938,7 @@
             {
               "label": "50 Count",
               "price": 56.99,
-              "available": true
+              "available": false
             },
             {
               "label": "100 Count",
@@ -6010,7 +6018,7 @@
             {
               "label": "20 Giant Gray Isopods",
               "price": 10.0,
-              "available": true
+              "available": false
             },
             {
               "label": "50 Giant Gray Isopods",
@@ -6099,12 +6107,19 @@
         },
         {
           "breeder": "Imperial Reptiles",
-          "product_name": "Porcellio laevis \"White\" Isopods (10 ct.)",
+          "product_name": "Porcellio laevis \"Dairy Cow\" Isopods (10 ct.)",
           "price": 14.99,
           "available": false,
-          "url": "https://imperialreptiles.com/products/porcellio-laevis-milkback-isopods-for-sale",
+          "url": "https://imperialreptiles.com/products/porcellio-laevis-dairy-cow-isopods-for-sale",
           "quantity": 10,
-          "per_unit_price": 1.5
+          "per_unit_price": 1.5,
+          "variants": [
+            {
+              "label": "10 ct",
+              "price": 14.99,
+              "available": false
+            }
+          ]
         },
         {
           "breeder": "Terrarium Tribe",
@@ -6191,9 +6206,9 @@
       "photo_caption": null,
       "photo_is_base_species": false,
       "price_range": "1-2",
-      "best_price": 10.0,
+      "best_price": 1.0,
       "supplier_count": 14,
-      "in_stock_count": 9,
+      "in_stock_count": 10,
       "suppliers": [
         {
           "breeder": "The Defiant Forest",
@@ -6230,6 +6245,13 @@
               "available": true
             }
           ]
+        },
+        {
+          "breeder": "Holy-Poly Isopods",
+          "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
+          "price": 1.0,
+          "available": true,
+          "url": "https://holypolyisopods.com/products/powder-orange-isopods-porcellionides-pruinosus"
         },
         {
           "breeder": "DubiaRoaches.com",
@@ -6410,13 +6432,6 @@
               "available": false
             }
           ]
-        },
-        {
-          "breeder": "Holy-Poly Isopods",
-          "product_name": "Powder Orange Isopods (Porcellionides pruinosus)",
-          "price": 1.0,
-          "available": false,
-          "url": "https://holypolyisopods.com/products/powder-orange-isopods-porcellionides-pruinosus"
         },
         {
           "breeder": "Isopod Depot",
@@ -7192,8 +7207,8 @@
       "photo_is_base_species": false,
       "price_range": "25-60",
       "best_price": 15.0,
-      "supplier_count": 10,
-      "in_stock_count": 5,
+      "supplier_count": 11,
+      "in_stock_count": 6,
       "suppliers": [
         {
           "breeder": "FangzTV",
@@ -7280,6 +7295,24 @@
             },
             {
               "label": "Make It A Package! 🛖🛖🛖",
+              "price": 45.0,
+              "available": true
+            }
+          ]
+        },
+        {
+          "breeder": "Exotics Unlimited",
+          "product_name": "Lasiodora parahybana (Salmon Pink Bird Eater Tarantula) 1-1.25\"",
+          "price": 45.0,
+          "available": true,
+          "url": "https://exoticsunlimitedusa.com/products/lasiodora-parahybana-salmon-pink-bird-eater-tarantula-1-1-25",
+          "size": "1–1.25\"",
+          "temperament": "Skittish",
+          "world": "New World",
+          "habitat": "Terrestrial",
+          "variants": [
+            {
+              "label": "1-1.25\"  Juvenile",
               "price": 45.0,
               "available": true
             }
@@ -7814,7 +7847,7 @@
       "price_range": "60-150",
       "best_price": 38.89,
       "supplier_count": 11,
-      "in_stock_count": 6,
+      "in_stock_count": 7,
       "suppliers": [
         {
           "breeder": "Buddha Bugs",
@@ -7930,17 +7963,10 @@
           ]
         },
         {
-          "breeder": "FangzTV",
-          "product_name": "Monocentropus balfouri 1.5'' Socotra Island Blue Baboon (kept communally)",
-          "price": 55.0,
-          "available": true,
-          "url": "https://www.fangztv.com/products/monocentropus-balfouri-2-socotra-island-blue-baboon-kept-communally"
-        },
-        {
           "breeder": "Exotics Unlimited",
           "product_name": "Monocentropus balfouri (Socotra Island Blue Baboon Tarantula) 0.75-1\"",
           "price": 55.0,
-          "available": false,
+          "available": true,
           "url": "https://exoticsunlimitedusa.com/products/monocentropus-balfouri-socotra-island-blue-baboon-tarantula-0-75-1",
           "size": "0.75–1\"",
           "temperament": "Skittish",
@@ -7950,9 +7976,16 @@
             {
               "label": "0.75-1\" Spiderling",
               "price": 55.0,
-              "available": false
+              "available": true
             }
           ]
+        },
+        {
+          "breeder": "FangzTV",
+          "product_name": "Monocentropus balfouri 1.5'' Socotra Island Blue Baboon (kept communally)",
+          "price": 55.0,
+          "available": true,
+          "url": "https://www.fangztv.com/products/monocentropus-balfouri-2-socotra-island-blue-baboon-kept-communally"
         },
         {
           "breeder": "US Invertebrate LLC",
@@ -10637,8 +10670,8 @@
   "meta": {
     "total_species": 58,
     "total_suppliers": 39,
-    "last_updated": "November 15, 2026",
-    "next_update": "November 18, 2026",
-    "last_updated_iso": "2026-11-15T13:43:37.038120+00:00"
+    "last_updated": "November 18, 2026",
+    "next_update": "November 22, 2026",
+    "last_updated_iso": "2026-11-18T15:23:34.839886+00:00"
   }
 }

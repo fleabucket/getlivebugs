@@ -6391,3 +6391,66 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-11-15T13:38:23.976190+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:moth-cocoon-mix,Moth Cocoon Mix,35.0,65.0,85.7
 2026-11-15T13:38:23.976190+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:luna-moth-hatching-kit,Luna Moth Hatching Kit,55.0,65.0,18.2
 2026-11-15T13:38:23.976190+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:giant-swallowtail-caterpillars-or-chrysalis,Giant Swallowtail Caterpillars or Chrysalis,58.0,75.0,29.3
+2026-11-18T15:18:08.647613+00:00,The Defiant Forest,the-defiant-forest:captive-bred-sulawesi-side-spotted-millipedes-marigold-yellow,Sulawesi Side Spotted Millipedes | Marigold Yellow - Captive Bred,49.0,56.0,14.3
+2026-11-18T15:18:08.647613+00:00,The Defiant Forest,the-defiant-forest:giant-black-armored-trap-door-spider-liphistius-sp-jarujien,"Giant Black Armored Trap Door Spider, Liphistius jarujini",41.0,36.0,12.2
+2026-11-18T15:18:08.647613+00:00,The Defiant Forest,the-defiant-forest:spotted-white-tree-millipede-anadenobolus-arboreus-gundlachi-yellow-leg-antennae-variant-captive-bred,"Spotted White Tree Millipede Yellow Leg and Antennae, Anadenobolus arboreus gundlachi - Captive Bred",34.2,36.0,5.3
+2026-11-18T15:18:08.647613+00:00,The Defiant Forest,the-defiant-forest:african-giant-black-millipede-archispirostreptus-gigas,"African Giant Black Millipede, Archispirostreptus Gigas | Wild Stock",89.0,81.0,9.0
+2026-11-18T15:18:08.647613+00:00,The Defiant Forest,the-defiant-forest:mexican-golden-red-rump-tarantulas,"Mexican Golden Red Rump Tarantula, Brachypelma albiceps - Terrestrial Species",39.0,30.0,23.1
+2026-11-18T15:18:08.647613+00:00,The Defiant Forest,the-defiant-forest:green-bottle-blue-tarantulas,"Green Bottle Blue Tarantula, Chromatopelma cyaneopubescens - Heavy Webbing Species",48.0,85.0,77.1
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:holconia-murrayensis-murray-huntsman-spider-0-25-0-5,"Holconia murrayensis (Murray Huntsman Spider) 0.25-0.5""",19.0,50.0,163.2
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:cupiennius-granadensis-wandering-spider-0-125,"Cupiennius granadensis (Banded Bromeliad Spider) 1/8"" RARE",19.0,45.0,136.8
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:peucetia-viridans-green-lynx-spider-0-25,"Peucetia viridans (Green Lynx Spider) 0.25""",19.0,45.0,136.8
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:piloctenus-haematostoma-red-fang-wandering-spider-0-125,"Piloctenus haematostoma (Red Fang Wandering Spider) 1/8""",35.0,50.0,42.9
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:heteropoda-venatoria-tropical-huntsman-spider-0-125,"Heteropoda venatoria (Tropical Huntsman Spider) 1/8""",15.0,35.0,133.3
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:heteropoda-boiei-lichen-huntsman-spider-0-25,"Heteropoda boiei (Lichen Huntsman Spider) 0.25""",35.0,50.0,42.9
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:chilobrachys-furmosus-black-satan,"Chilobrachys fumosus ""Black Satan"" 0.5-0.75"" *RARE*",99.0,75.0,24.2
+2026-11-18T15:18:08.647613+00:00,Exotics Unlimited,exotics-unlimited:piloctenus-haematostoma-red-fang-wandering-spider,Piloctenus haematostoma (Red Fang Wandering Spider),35.0,50.0,42.9
+2026-11-18T15:18:08.647613+00:00,Flow Hive,flow-hive:starter-bundle,Black Friday Starter Bundle,1039.0,1124.0,8.2
+2026-11-18T15:18:08.647613+00:00,Flow Hive,flow-hive:beek-bundle,Black Friday Beek Bundle,1617.0,1662.0,2.8
+2026-11-18T15:18:08.647613+00:00,Flow Hive,flow-hive:ultimate-bundle,Black Friday Ultimate Bundle,1778.0,1888.0,6.2
+2026-11-18T15:18:08.647613+00:00,Flow Hive,flow-hive:deluxe-bundle,Black Friday Deluxe Bundle,1279.0,1389.0,8.6
+2026-11-18T15:18:08.647613+00:00,Exotics Source,exotics-source:audax-bryantae-jumping-spider-foster,Audax Bryantae Jumping Spider “Foster”,95.0,75.0,21.1
+2026-11-18T15:18:08.647613+00:00,Exotics Source,exotics-source:audax-bryantae-jumping-spider-scarecrow,Audax Bryantae Jumping Spider “Scarecrow”,125.0,95.0,24.0
+2026-11-18T15:18:08.647613+00:00,Exotics Source,exotics-source:audax-bryantae-jumping-spider-halloween,"Audax Bryantae Jumping Spider ""Halloween""",125.0,95.0,24.0
+2026-11-18T15:18:08.647613+00:00,Exotics Source,exotics-source:audax-bryantae-jumping-spider-galaxy,"Audax Bryantae Jumping Spider ""Galaxy"" FUSED SPOT",95.0,75.0,21.1
+2026-11-18T15:18:08.647613+00:00,Spider Shoppe,spider-shoppe:cyriocosmus-elegans-trinidad-dwarf-2-female,Cyriocosmus elegans (Trinidad Dwarf),128.0,58.0,54.7
+2026-11-18T15:18:08.647613+00:00,Spider Shoppe,spider-shoppe:brachypelma-klassi-mexican-pink-3-female,Brachypelma klaasi (Mexican Pink),98.0,64.0,34.7
+2026-11-18T15:18:08.647613+00:00,Spider Shoppe,spider-shoppe:acanthophrynus-coronatus,[Vancouver Pick-up] Acanthophrynus coronatus (Giant Whip Spider),148.0,168.0,13.5
+2026-11-18T15:18:08.647613+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-pterinochilus-lugardi-dodoma-baboon,[Vancouver Pick-up] Pterinochilus lugardi (Dodoma Baboon),148.0,36.0,75.7
+2026-11-18T15:18:08.647613+00:00,Spider Shoppe,spider-shoppe:psalmopoeus-cambridgei-trinidad-chevron-copy,[Vancouver Pick-up] Psalmopoeus cambridgei (Trinidad Chevron),36.0,28.0,22.2
+2026-11-18T15:18:08.647613+00:00,Spider Shoppe,spider-shoppe:vancouver-pick-up-pterinochilus-murinus-kigoma-kigoma-baboon,[Vancouver Pick-up] Pterinochilus murinus 'Kigoma' (Kigoma Baboon),48.0,44.0,8.3
+2026-11-18T15:18:08.647613+00:00,US Invertebrate LLC,us-invertebrate:pangea-gecko-diet-8-oz,Pangea Gecko Diet 8 Oz,18.99,23.99,26.3
+2026-11-18T15:18:08.647613+00:00,US Invertebrate LLC,us-invertebrate:pangea-gecko-diet-2-oz,Pangea Gecko Diet 2 Oz,8.99,10.99,22.2
+2026-11-18T15:18:08.647613+00:00,Buddha Bugs,buddha-bugs:avicularia-metallica-metallic-pink-toe-tarantula-for-sale,"Avicularia avicularia morphotype 6 (metallic pink-toed tarantula) 1""-1.25""",45.0,55.0,22.2
+2026-11-18T15:18:08.647613+00:00,Buddha Bugs,buddha-bugs:harpactira-baviana-purcells-baboon-tarantula-for-sale,"Harpactira baviana (Purcell's baboon tarantula) 1""",35.0,30.0,14.3
+2026-11-18T15:18:08.647613+00:00,Buddha Bugs,buddha-bugs:ybyrapora-diversipes-amazon-sapphire-tarantula-for-sale,"Ybyrapora diversipes (Amazon sapphire tarantula) 0.75""-1""",90.0,100.0,11.1
+2026-11-18T15:18:08.647613+00:00,Big Apple Herp,big-apple-herp:ambilobe-panther-chameleons,Ambilobe Panther Chameleons,159.0,119.95,24.6
+2026-11-18T15:18:08.647613+00:00,Big Apple Herp,big-apple-herp:rainbow-jackson-chameleons,Rainbow Jackson Chameleons,99.95,84.95,15.0
+2026-11-18T15:18:08.647613+00:00,Big Apple Herp,big-apple-herp:blue-whites-tree-frogs,Blue White's Tree Frogs,34.95,37.95,8.6
+2026-11-18T15:18:08.647613+00:00,Big Apple Herp,big-apple-herp:jackson-chameleons,Jackson Chameleons,84.95,59.95,29.4
+2026-11-18T15:18:08.647613+00:00,Big Apple Herp,big-apple-herp:savannah-monitors,Savannah Monitors,44.95,54.95,22.2
+2026-11-18T15:18:08.647613+00:00,Big Apple Herp,big-apple-herp:red-bearded-dragons,Red Bearded Dragons,119.95,79.95,33.3
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:red-crested-gecko-adult-for-sale,Crested Gecko Adult Male (Tailless or Nip-Tail),89.99,39.99,55.6
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:pi-chahoua-gecko-111825-08,PI Chahoua Gecko #111825-08,899.99,449.99,50.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:red-monster-bearded-dragon-baby,Red Monster Bearded Dragon Baby,499.99,749.99,50.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:purple-passion-ball-python-for-sale,Purple Passion Ball Python,339.99,399.99,17.6
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:pinstripe-pied-ball-python-for-sale,Pinstripe Pied Ball Python,149.99,199.99,33.3
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:african-giant-pixie-frog-adult-male-for-sale,African Giant Pixie Frog Adult,499.99,249.99,50.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:premium-crested-gecko-juvenile-female-for-sale,Premium Crested Gecko Adult Female,149.99,74.99,50.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:banana-calico-ball-python-for-sale,Banana Calico Ball Python,189.99,199.99,5.3
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:red-translucent-bearded-dragon-for-sale,Extreme Red Translucent Bearded Dragon,174.99,299.99,71.4
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:adult-taillless-female-crested-geckos-for-sale,Crested Gecko Adult Female (Tailless or Nip-Tail),99.99,49.99,50.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:ornate-uromastyx-adult-for-sale,Ornate Uromastyx Adult,399.99,299.99,25.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:banana-mystery-box-ball-python-for-sale,Mystery Box Banana Ball Python,139.99,149.99,7.1
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:panda-king-isopods-for-sale,"Cubaris murina ""Panda King"" Isopods (10 ct.)",14.99,24.99,66.7
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:porcellio-laevis-dairy-cow-isopods-for-sale,"Porcellio laevis ""Dairy Cow"" Isopods (10 ct.)",24.99,14.99,40.0
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:banana-cinnamon-ball-python-baby-for-sale,Banana Cinnamon Ball Python,189.99,199.99,5.3
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:bearded-dragon-baby,Bearded Dragon Baby,79.99,49.99,37.5
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:red-foot-tortoise-for-sale,Red Foot Tortoise Baby,149.99,99.99,33.3
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:low-white-pied-piebald-ball-python-for-sale,Pied Ball Python (High-Pattern),149.99,189.99,26.7
+2026-11-18T15:18:08.647613+00:00,Imperial Reptiles,imperial-reptiles:cb-ambilobe-panther-chameleon-for-sale,CB Ambilobe Panther Chameleon,499.99,699.99,40.0
+2026-11-18T15:18:08.647613+00:00,Grow Organic,grow-organic:18-x-48-raised-garden-bed,18″ x 48″ Deep Root Raised Garden Bed - 30″ TALL - Select Grade,129.0,199.0,54.3
+2026-11-18T15:18:08.647613+00:00,Grow Organic,grow-organic:organic-monterey-strawberry-plants,Organic Monterey Strawberry Plants,39.99,49.99,25.0
+2026-11-18T15:18:08.647613+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:single-luna-cocoon,Single Luna Cocoon,20.0,10.0,50.0
+2026-11-18T15:18:08.647613+00:00,JMZ Butterfly Farm,jmz-butterfly-farm:12-regal-moth-eggs,(Single) Regal Moth Pupae,60.0,20.0,66.7
+2026-11-18T15:18:08.647613+00:00,AntGear,antgear:harvester-kit,"Harvester Ant Starter Kit, With or Without Live Ants",99.99,129.99,30.0
