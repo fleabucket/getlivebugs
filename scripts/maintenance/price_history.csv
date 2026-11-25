@@ -6665,3 +6665,110 @@ timestamp,supplier,product_id,product_name,old_price,new_price,change_pct
 2026-11-22T14:15:56.167641+00:00,The World of Isopods,the-world-of-isopods:spain-giant-10-ct,"Armadillo officinalis ""Spain Giant""",20.0,10.0,50.0
 2026-11-22T14:15:56.167641+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-5-10-workers-queenants-only,"Pogonomyrmex occidentalis (15-20 workers, Queen)(Ants Only)",50.0,57.0,14.0
 2026-11-22T14:15:56.167641+00:00,Tar Heel Ants,tar-heel-ants:pogonomyrmex-occidentalis-5-10-workers-queenants-only-2,"Pogonomyrmex occidentalis (25-30 workers, Queen)(Ants Only)",64.0,72.0,12.5
+2026-11-25T16:55:43.235714+00:00,The Defiant Forest,the-defiant-forest:purple-ivory-millipedes-chicobolus-spinigerus-captive-bred,"Purple Ivory Millipedes, Chicobolus spinigerus - Captive Bred",25.0,30.0,20.0
+2026-11-25T16:55:43.235714+00:00,The Defiant Forest,the-defiant-forest:giant-thai-orange-millipede-diplopoda-sp-captive-bred,"Giant Thai Orange Millipede, Thyropygus sp. Ban Chak Ngaeo - Captive Bred",53.1,59.0,11.1
+2026-11-25T16:55:43.235714+00:00,The Defiant Forest,the-defiant-forest:spotted-white-tree-millipede-anadenobolus-arboreus-gunlachi-black-leg-variant-captive-bred,Spotted White Tree Millipede Black Leg and Antennae | Anadenobolus arboreus gundlachi,23.4,30.0,28.2
+2026-11-25T16:55:43.235714+00:00,The Defiant Forest,the-defiant-forest:giant-strawberry-blonde-millipede-narceus-americanus-captive-bred,"Giant Strawberry Blonde Millipede, Narceus americanus - Captive Bred",20.0,30.0,50.0
+2026-11-25T16:55:43.235714+00:00,The Defiant Forest,the-defiant-forest:giant-mahogany-pink-foot-millipede-narceus-americanus-captive-bred,"Giant Mahogany Pink Foot Millipede, Narceus americanus - Captive Bred",20.0,30.0,50.0
+2026-11-25T16:55:43.235714+00:00,The Defiant Forest,the-defiant-forest:giant-banded-pink-foot-millipede-narceus-americanus-captive-bred,"Giant Banded Pink Foot Millipede, Narceus americanus - Captive Bred",20.0,30.0,50.0
+2026-11-25T16:55:43.235714+00:00,Exotics Unlimited,exotics-unlimited:hogna-sp-white-wolf-spider-subadult,"Hogna pseudoceratiola (White Wolf Spider) 1""",45.0,30.0,33.3
+2026-11-25T16:55:43.235714+00:00,Exotics Unlimited,exotics-unlimited:cupiennius-granadensis-wandering-spider-0-125,"Cupiennius granadensis (Banded Bromeliad Spider) 1/8"" RARE",45.0,36.0,20.0
+2026-11-25T16:55:43.235714+00:00,Exotics Unlimited,exotics-unlimited:piloctenus-haematostoma-red-fang-wandering-spider-0-125,"Piloctenus haematostoma (Red Fang Wandering Spider) 1/8""",50.0,25.0,50.0
+2026-11-25T16:55:43.235714+00:00,Exotics Unlimited,exotics-unlimited:heteropoda-boiei-lichen-huntsman-spider-0-25,"Heteropoda boiei (Lichen Huntsman Spider) 0.25""",50.0,25.0,50.0
+2026-11-25T16:55:43.235714+00:00,Exotics Unlimited,exotics-unlimited:piloctenus-haematostoma-red-fang-wandering-spider,Piloctenus haematostoma (Red Fang Wandering Spider),50.0,25.0,50.0
+2026-11-25T16:55:43.235714+00:00,Ty Dye Exotics,ty-dye-exotics:smeringurus-vachoni-vachoni-vachons-rock-scorpion,Smeringurus vachoni vachoni – Vachon's Rock Scorpion | Live Arrival Guarantee,33.79,21.99,34.9
+2026-11-25T16:55:43.235714+00:00,Crown Bees,crown-bees:dual-season-reeds-35-lg-35-sm-2,Wild Bee Discovery Chalet House & Pollinator Pack,65.5,55.67,15.0
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-pinktoe-tarantula,"Avicularia avicularia (M1 Pinktoe Tarantula) about 3/4"" - 1""",42.0,24.0,42.9
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormingochilus-arboricola-borneo-black-tarantula-juvenile,"Phormingochilus arboricola (Borneo Black) Tarantula about  3/4"" - 1""",45.0,29.0,35.6
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:avicularia-juruensis-m1-urticans-green-tarantula,"Avicularia juruensis M1 (Urticans Green Tarantula) about 3/4"" - 1""",99.0,49.0,50.5
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:aphonopelma-gabeli-chiricahua-grey-tarantula-about-1-3-1-2,"Aphonopelma gabeli  (Chiricahua Grey, Carlsbad green Tarantula) about  1/4"" - 1/3""",24.0,15.0,37.5
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:selenobrachys-orphnaecus-philippinus-philippinus,"Selenobrachys (ex Orphnaecus) philippinus (Philippine Tangerine Tarantula) about 1/2""",22.5,19.0,15.6
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:chilobrachys-vietnam-blue-tarantula-for-sale,"Chilobrachys sp Vietnam Blue Tarantula about  1"" - 1 1/4""",45.0,17.0,62.2
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:copy-of-tliltocatl-epicureanum-yucatan-rust-rump-tarantula,"Tliltocatl epicureanus (Yucatan Rust Rump Tarantula) about 1/2""",45.0,19.0,57.8
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-pulchripes-chaco-golden-knee-tarantula-beginner,"Grammostola pulchripes (Chaco Golden Knee Tarantula) about 1/2"" - 3/4""",35.0,19.0,45.7
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:haploclastus-devamatha-was-thrigmopoeus-psychedelicus-polychromatic-earth-tiger-tarantula-small,Cilantica devamatha (Psychedelic Earth Tiger Tarantula) about 1' + Very well started!,125.0,59.0,52.8
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:phormingochilus-rufus-peach-earth-tiger-tarantula-for-sale,"Aspinochilus rufus (Peach Earth Tiger Tarantula) ex Phormingochilus about 1""",45.0,24.0,46.7
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:heterothele-villosella-tanzanian-chestnut-baboon-tarantula-2,"Heterothele villosella (Tanzanian Chestnut Baboon Tarantula) a beautiful dwarf at or near 1/2""",39.0,19.0,51.3
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:pterinopelma-sazimai-iridescent-blue-tarantula-for-sale,"Lasiocyano sazimai  (Iridescent Blue Tarantula) about 1/4"" - 1/3""",35.0,17.0,51.4
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:heteroscodra-maculata-togo-starburst-tarantula-for-sale,"Heteroscodra maculata (Togo Starburst Tarantula) about 1/2"" - 3/4""",42.0,19.0,54.8
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:pumpkin-picking-sale-hapalopus-colombia-pumpkin-patch-tarantula-for-sale,"Hapalopus formosus ""Large"" (Pumpkin Patch) about 1/4""",43.0,21.0,51.2
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:omothymus-violaceopes-singapore-blue-tarantula-for-sale,"Omothymus violaceopes (Singapore Blue Tarantula) about 1"" - 1 1/4""",49.0,24.0,51.0
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:grammostola-rosea-chilean-rose-tarantula-for-sale,"Grammostola rosea RCF (Chilean Rose Tarantula) Red Color Form about  3/4"" - 1""",65.0,39.0,40.0
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-reduncus-costa-rican-orange-mouth-tarantula-1,"Psalmopoeus reduncus (Costa Rican Orange Mouth Tarantula) about 3/4"" - 1""",39.0,15.0,61.5
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:lasiodora-parahybana-brazilian-salmon-pink-birdeater-tarantula,"Lasiodora parahybana - (Brazilian Salmon Pink Birdeater Tarantula) about 1/3"" - 1/2""",35.0,15.0,57.1
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:psalmopoeus-cambridgei-trinidad-chevron-tarantula-for-sale,"Psalmopoeus cambridgei  (Trinidad Chevron Tarantula) about 3/4"" - 1""",42.0,15.0,64.3
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:hapalopus-guerilla-tarantula-for-sale,"Hapalopus guerreroi (Speckle Patch Guerilla Tarantula) about 1/2"" - 3/4""",59.0,25.0,57.6
+2026-11-25T16:55:43.235714+00:00,Fear Not Tarantulas,fear-not-tarantulas:cilantica-sp-kali,"Cilantica sp Kali (Kali Earth Tiger) about 1"" - 1 1/2"" Very similar to psychedelicus *RARE",115.0,49.0,57.4
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-lucky,Regal Jumping Spider “Lucky”,75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-apricot,Regal Jumping Spider “Apricot”,75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-celaena,"Regal Jumping Spider ""Celaena""",95.0,75.0,21.1
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-tart,"Regal Jumping Spider ""Tart""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-jupiter,"Regal Jumping Spider ""Jupiter""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-starlight,"Regal Jumping Spider ""Starlight""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-grace,"Regal Jumping Spider ""Grace""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-ember,"Regal Jumping Spider ""Ember""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-champagne-for-sale,"Regal Jumping Spider ""Champagne""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-fruit,"Regal Jumping Spider ""Fruit""",75.0,95.0,26.7
+2026-11-25T16:55:43.235714+00:00,Exotics Source,exotics-source:regal-jumping-spider-north,"Regal Jumping Spider ""North""",95.0,75.0,21.1
+2026-11-25T16:55:43.235714+00:00,Spider Shoppe,spider-shoppe:eublepharis-macularius-leopard-gecko-mack-snow-sub-adult-male,Eublepharis macularius (Leopard Gecko) Senior Citizen Walte,98.0,25.0,74.5
+2026-11-25T16:55:43.235714+00:00,Micro Wilderness,micro-wilderness:pterinochilus-sazimai,Lasiocyano sazimai- Female- Brazilian Blue,149.99,349.99,133.3
+2026-11-25T16:55:43.235714+00:00,Micro Wilderness,micro-wilderness:grammostola-rosea-rcf,Grammostola rosea Red Form- female- Chilean Rose Tarantula,499.99,349.99,30.0
+2026-11-25T16:55:43.235714+00:00,Micro Wilderness,micro-wilderness:caribena-versicolor,Caribena versicolor - Unsexed - Antilles Pinktoe Tarantula,49.99,229.99,360.1
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:omothymus-sp-sumatran-tiger-sumatran-earth-tiger-tarantula-for-sale,"Omothymus sp. 'Sumatran tiger' (Sumatran earth tiger tarantula) 0.75""",65.0,85.0,30.8
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:poecilotheria-metallica-gooty-sapphire-ornamental-tarantula-for-sale,"Poecilotheria metallica (Gooty sapphire ornamental tarantula) 0.75""-1""",150.0,135.0,10.0
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:cyriocosmus-leetzi-colombian-dwarf-tiger-tarantula-for-sale,"Cyriocosmus leetzi (Colombian dwarf tiger tarantula) 0.25""",35.0,40.0,14.3
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:phormictopus-sp-green-gold-carapace-green-and-gold-carapace-bird-eating-tarantula-for-sale,"Phormictopus sp. 'green gold carapace' (green and gold carapace bird-eating tarantula) 0.75""",95.0,85.0,10.5
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:pamphobeteus-sp-platyomma-ecuadorian-pink-bloom-tarantula-for-sale,"Pamphobeteus sp. ‘platyomma’ (Ecuadorian pink bloom tarantula) 0.75""-1""",80.0,95.0,18.8
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:cristarmadillidium-muricatum-spanish-spiny-pineapple-isopod-for-sale,Cristarmadillidium muricatum (Spanish spiny pill woodlouse),40.0,35.0,12.5
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:hapalopus-vangoghi-hapalopus-sp-guerilla-speckle-patch-tarantula-for-sale,"Hapalopus guerreroi, formerly Hapalopus sp. 'guerilla' (speckle patch tarantula) 0.33""",60.0,40.0,33.3
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:phormictopus-sp-dominican-purple-dominican-purple-tarantula-for-sale,"Phormictopus sp. 'Dominican purple' (Dominican purple tarantula) 0.75""-1""",70.0,80.0,14.3
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:cubaris-sp-white-shark-for-sale,Cubaris sp. 'white shark',30.0,25.0,16.7
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:ornithoctonus-aureotibialis-thailand-gold-fringe-tarantula-for-sale,"Ornithoctonus aureotibialis (Thai golden fringe tarantula) 1""",25.0,40.0,60.0
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:psalmopoeus-pulcher-panama-blonde-tarantula-for-sale,"Psalmopoeus pulcher (Panama blonde tarantula) 0.75""",35.0,40.0,14.3
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:dolichothele-diamantinensis-brazilian-blue-dwarf-beauty-tarantula-for-sale,"Dolichothele diamantinensis (Brazilian blue dwarf beauty tarantula) 0.5""",65.0,55.0,15.4
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:ornithoctoninae-sp-vietnam-silver-vietnam-silver-earth-tiger-tarantula-for-sale,"Ornithoctoninae sp. 'Vietnam silver' (Vietnam silver tarantula) 0.75""",60.0,65.0,8.3
+2026-11-25T16:55:43.235714+00:00,Buddha Bugs,buddha-bugs:grammostola-pulchripes-chaco-golden-knee-tarantula-for-sale,"Grammostola pulchripes (Chaco golden knee tarantula) 0.75""",45.0,30.0,33.3
+2026-11-25T16:55:43.235714+00:00,American Reptile Distributors,american-reptile-distributors:hi-orange-vietnamese-black-breasted-leaf-turtle-baby-2026-2-geoemyda-spengleri,Hi Orange Vietnamese Black Breasted Leaf Turtle Baby 2026 #2  (Geoemyda spengleri),1899.99,1999.99,5.3
+2026-11-25T16:55:43.235714+00:00,American Reptile Distributors,american-reptile-distributors:hi-orange-vietnamese-black-breasted-leaf-turtle-baby-2026-1-geoemyda-spengleri-1,Hi Orange Vietnamese Black Breasted Leaf Turtle Baby 2026 #1  (Geoemyda spengleri),1899.99,1999.99,5.3
+2026-11-25T16:55:43.235714+00:00,American Reptile Distributors,american-reptile-distributors:hi-orange-vietnamese-black-breasted-leaf-turtle-baby-2601-geoemyda-spengleri,Hi Orange Vietnamese Black Breasted Leaf Turtle Baby #2501 (Geoemyda spengleri),1899.99,1999.99,5.3
+2026-11-25T16:55:43.235714+00:00,American Reptile Distributors,american-reptile-distributors:hi-orange-vietnamese-black-breasted-leaf-turtle-baby-2502-geoemyda-spengleri,Hi Orange Vietnamese Black Breasted Leaf Turtle Baby #2502 (Geoemyda spengleri),1899.99,1999.99,5.3
+2026-11-25T16:55:43.235714+00:00,American Reptile Distributors,american-reptile-distributors:hi-orange-vietnamese-black-breasted-leaf-turtle-baby-2026-1-geoemyda-spengleri,Hi Orange Vietnamese Black Breasted Leaf Turtle Baby #202601 (Geoemyda spengleri),1899.99,1999.99,5.3
+2026-11-25T16:55:43.235714+00:00,Big Apple Herp,big-apple-herp:zero-bearded-dragon-for-sale,Zero Bearded Dragons,299.0,209.95,29.8
+2026-11-25T16:55:43.235714+00:00,Big Apple Herp,big-apple-herp:egyptian-uromastyx,Egyptian Uromastyx,159.95,84.95,46.9
+2026-11-25T16:55:43.235714+00:00,Big Apple Herp,big-apple-herp:albino-black-rat-snakes,Albino Black Rat Snakes,84.95,74.95,11.8
+2026-11-25T16:55:43.235714+00:00,Big Apple Herp,big-apple-herp:peach-throat-monitors,Peach Throat Monitors,329.95,429.95,30.3
+2026-11-25T16:55:43.235714+00:00,Big Apple Herp,big-apple-herp:emperor-scorpions,Emperor Scorpions (True P. imperator),59.95,54.95,8.3
+2026-11-25T16:55:43.235714+00:00,The Bio Dude,the-bio-dude:upgraded-overnight-shipping,Upgraded Overnight Shipping for Clean Up Crew,19.95,22.95,15.0
+2026-11-25T16:55:43.235714+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:microarid-arid-bioactive-substrate,"MicroArid | Bioactive Arid Substrate for Bearded Dragons, Leopard Geckos & Arid Reptiles",21.49,24.49,14.0
+2026-11-25T16:55:43.235714+00:00,Rubber Ducky Isopods,rubber-ducky-isopods:microforest-lite-bioactive-soil-substrate,MicroForest Lite Bioactive Soil | Reptile & Isopod Substrate,22.49,24.49,8.9
+2026-11-25T16:55:43.235714+00:00,Imperial Reptiles,imperial-reptiles:mystery-box-ball-python,Mystery Box Ball Python,149.99,134.99,10.0
+2026-11-25T16:55:43.235714+00:00,Imperial Reptiles,imperial-reptiles:chinese-cave-gecko-baby-for-sale,Chinese Cave Gecko,45.0,39.99,11.1
+2026-11-25T16:55:43.235714+00:00,Imperial Reptiles,imperial-reptiles:mack-snow-jungle-leopard-gecko-for-sale,Mack Snow Jungle Leopard Gecko Baby,54.99,69.99,27.3
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:scolopendra-galapagoensis-tricolor,Scolopendra galapagoensis tricolor,299.99,249.99,16.7
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:captive-bred-black-gold-gigantea,Scolopendra gigantea,749.99,599.99,20.0
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:space-marine-crab-tiwaripotamon-caeruleum,Space Marine Crab (Tiwaripotamon caeruleum),119.99,59.99,50.0
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:pirate-crab-dangmon-rubra,Pirate Crab (Dangmon rubra),64.99,59.99,7.7
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:celebes-rainbow-centipede,Celebes Rainbow Centipede,149.99,99.99,33.3
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:scolopendra-piceoflava-black-angel,Scolopendra piceoflava - Black Angel,199.99,149.99,25.0
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:scolopendra-hardwickei,Indian Tiger Centipede (Scolopendra hardwickei),449.0,399.0,11.1
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:scolopendra-toraja-red,Scolopendra Toraja - Red,219.99,149.99,31.8
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:gecarcoidea-lalandii,Purple Land Crab (Gecarcoidea humei),79.99,59.99,25.0
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:theraphosa-blondi,Goliath Birdeater (Theraphosa blondi),85.0,119.99,41.2
+2026-11-25T16:55:43.235714+00:00,Frognose Exotics,frognose-exotics:black-java-giant-centipede,Scolopendra Sp Java Black Giant,199.99,149.99,25.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:garlic-combo-pack-store,Garlic Combo Pack (Store),39.99,29.99,25.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:bonide-rot-stop-16oz-concentrate,Bonide Rot-Stop Concentrate (16 fl oz),10.99,14.99,36.4
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:bonide-rot-stop-32oz-rtu,Bonide Rot-Stop Ready-to-Use (32 fl oz),11.99,15.99,33.4
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:organic-masquerade-seed-potatoes-lb,Organic Masquerade Seed Potato (lb),8.49,6.99,17.7
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:polish-softneck-garlic,Organic Polish Softneck Garlic (lb),34.99,24.99,28.6
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:bonide-weed-feed-rts-32oz,Bonide Weed & Feed RTS (32oz),16.99,22.99,35.3
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:true-organic-liquid-lawn-food-rtu-32oz,True Organic Liquid Lawn Food RTU (32oz),12.99,17.99,38.5
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:true-organic-chicken-manure-3-3-2-15lbs,True Organic - Chicken Manure 3-3-2 15lbs,15.99,19.99,25.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:org-bintje-potato-lb-15267,Organic Bintje Seed Potato (lb),9.99,6.99,30.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:out-org-kennebec-white-potato-lb-15655,Organic Kennebec White Seed Potato (lb),9.99,6.99,30.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:org-all-blue-potato-lb-15247,Organic All Blue Seed Potato (lb),9.99,6.99,30.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:organic-black-berry-seed-potatoes-lb,Organic Black Berry Seed Potato (lb),7.99,5.99,25.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:collections-organic-seed-potatoes,Organic Norland Red Seed Potato (lb),9.99,6.99,30.0
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:dark-purple-opal-basil-seeds-organic,Dark Purple Opal Basil Seeds (Organic),3.99,2.79,30.1
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:early-wonder-tall-beet-seeds-organic,Early Wonder Tall Beet Seeds (Organic),3.99,2.79,30.1
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:tall-utah-celery-seeds-organic,Tall Utah Celery Seeds (Organic),3.99,2.79,30.1
+2026-11-25T16:55:43.235714+00:00,Grow Organic,grow-organic:malabar-spinach-seeds-organic,Malabar Spinach Seeds (Organic),5.2,4.16,20.0
